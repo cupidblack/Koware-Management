@@ -1,0 +1,1901 @@
+B USER MANUAL
+
+HYBRID INVERTER
+3.6KW/4.2KW/6.2KW
+
+VERSION: 1.0
+
+
+Table Of Contents
+
+1 ABOUT THIS MANUAL 3
+1.1 PURPOSE.......cscsscsssssssscstcssescssssssssesscssestsscesnssssoessssausenscesessnessesneseserssssansucsseanssuesceaseaeegrsassaesecsessnsneneseeaeeerssseaes 3
+1.2 SCOPE
+
+2 SAFETY INSTRUCTIONS 3
+
+3. INTRODUCTION A
+3.1 FEATURES........cscsssssssscsscssesseseessescsacssssensecscessenessessceoeasssssansecsseauesesesesceoeeassatsenseeseeateseseneaesoesstsatsecssesnsatsessensoeeA
+3.2 BASIC SYSTEM ARCHITECTURE..........scssssssssesseccsscsssseeseesccseestesesonsncassassesseeaacaasstsaesecenceasseesessecaeeatsersasseeeaseased A
+3.3 PRODUCT OVERVIEW......ccsccsscssssescsssesseessessecssesssessessecssessscsuesnsessesssesesessccseanssenseeusessesssensesusesssesseseeeaeeaeeseeensens 5
+
+4 INSTALLATION &
+4.1 UNPACKING AND INSPECTION..
+
+4.2 —_ PREPARATION. ........sssessessssssseenessestestessensonecsssneseesseauensestsseensenessesuusnesseasenseatsnseneasssesuesnesseatenssssenssnesssanesnesseasead
+
+4.3, MOUNTING THE UNIT.)........ccccsssssssencesssssnessessconestssscnesnessesnesuessenseseestsseenesacsnesuescesssacsaessssneenseaeonesuestseseansatsneeed 6
+4,4 BATTERY CONNECTION ........:sccsssssssessssseseessesessrestesseoesessssseusuessesesssssrsneeeesassnssuesueseeorssssarsneseessssutsuessesesanssteanses 6
+45 AC INPUT/OUTPUT CONNECTION......cccsssscesssssscsstsssssesocssesseseesssscscessssanseeseeseaatssesscsoesaesassassecsnesusaesensoneoeearsassen 8
+4.6 > PV CONNECTION.........cccsssssssesccscessessscesecsseseesesseesaesesseeseseesesaaeaeesesseeaccasssseaeseesacaaesessseseeaseassseseeseesacaassesseeseeas 9
+
+4.7 FINAL ASSEMBLY.......c:ccsccssccssssscesesseessesssseseseecssessseesesssecssesssensesuecssesssessesuecssesseesuesssccseaseeensenssessasssesseeusesaeses 11
+4.8 COMMUNICATION CONNECTION.......ccsssssssessessestsscensenessessesnessenseseesssoesnessssnesueenssceatenssssensenssssaeessesseosensesesseens 11
+
+5 OPERATION 11
+5.1 POWER ON/OFF. .......:ccsseccssssssereesensessestessenssacsnssusonesseacensesssscenscsessesusonesseacensestesseneensssesnesnesneaeeseeenessenseassntenes 11
+5.2 OPERATION AND DISPLAY PANEL........csscsssssscsssessssecesseorscsnccacessessessasessesseeonssasesceeeenssnsesaceaesssesenesaqesarsnnseneesees 11
+5.3 LCD DISPLAY ICONS. we
+5.4 —-_ LCD SETTING... cessssscsscssessssccetsscsccsassansecsncceatesesssssesoessssatsecsccssaasusessneseenesassansecenesuaasesessneseeaesateatseeseesasaes
+5.5 DISPLAY SETTING..........csssssssccssessesssesnccscsatseeseesecscestesseesencsassaeseesseaaeaeseeeseseesacsassaeseesceaceatsseeaseueacsatseeseesaeaes
+5.6 OPERATING MODE DESCRIPTION .
+5.7 BATTERY EQUALIZATION DESCRIPTION.......sscessessssstestsesteeneestesstcensensesssestennsentcentestseteensentesteeeneenessncenseentenes 26
+5.8 FAULT REFERENCE CODE......ccsssssssscssssssstessenssasssssnsenessessetestessenesacsnssaeenesseaneasseseresenssesaseneessaenestssseneenesasenss 27
+5.9 "WARNING INDICATOR......cccscsscsssssessessesessrsstenssceseesnessesuesseneserssssonseesessnesueoueseserssssausecsaesnssueseeseeaeearsatsneseessesneen 28
+
+6 CLEARANCE AND MAINTENANCE FOR ANTI-DUST KIT 29
+6.1 OVERVIEW......cssssssssescsstsstsccsccssesststeesessscesstssesecsnssesstsssesseoesassausecsnesueassatsecensencssssutsacecescensssteaceaeseesatseneaesnesees 29
+6.2 | CLEARANCE AND MAINTENANCE .......cscsssssssscssescesteessocsocssssatseeseeseuscestssssoesacsssasseeseeaeeaessessesoesasenssansenseeanenes 29
+
+7 SPECIFICATIONS 30
+TABLE 1 LINE MODE SPECIFICATIONG.........s:s:scccsssssssssssssesssesesesessssssssssesesescsssessserecsssessstseseeeseseesesssestessesesaususesrenecesses 31
+TABLE 2 INVERTER MODE SPECIFICATIONS... 32
+
+TABLE 3 CHARGE MODE SPECIFICATIONS.........cccsssssssescocssnssscesessecestsssscseesesensssesacseeceassasstsesseseasssessesssceseeassteasseeeeeeas 33
+TABLE 4 Grid-Tie Operation ......-.ssecsssessesssssssssssssssessesenssssscesessessusssscesssntssnssessecassuseeseseesessisssscesseatsateassens 33
+TABLE 5 GENERAL SPECIFICATIONS........ccccsssscscscsssssssserccsssesssessessessecssessesesesacssessessecsacaesesssseacsssesaeseeecacsaesteesaeseeesense 33,
+8 TROUBLE SHOOTING. 33
+9 APPENDIX: APPROXIMATE BACK-UP TIME TABLE 34
+
+2
+
+
+1 ABOUT THIS MANUAL
+
+1.1 Purpose
+This manual describes the assembly, installation, operation and troubleshooting of this unit. Please read
+this manual carefully before installations and operations. Keep this manual for future reference.
+
+1.2 Scope
+This manual provides safety and installation guidelines as well as information on tools and wiring.
+
+2 SAFETY INSTRUCTIONS
+
+WARNING: This chapter contains important safety and operating instructions. Read and
+keep this manual for future reference.
+
+1. Before using the unit, read all instructions and cautionary markings on the unit, the batteries and all
+appropriate sections of this manual.
+
+2. CAUTION --To reduce risk of injury, charge only deep-cycle lead acid type rechargeable batteries.
+Other types of batteries may burst, causing personal injury and damage.
+
+3. Do not disassemble the unit. Take it to a qualified service center when service or repair is required.
+Incorrect re-assembly may result in a risk of electric shock or fire.
+
+4. Toreduce risk of electric shock, disconnect all wirings before attempting any maintenance or cleaning.
+Turning off the unit will not reduce this risk.
+
+5. CAUTION -— Only qualified personnel can install this device with battery.
+NEVER charge a frozen battery.
+
+7. For optimum operation of this inverter/charger, please follow required spec to select appropriate cable
+size. It’s very important to correctly operate this inverter/charger.
+
+8. Be very cautious when working with metal tools on or around batteries. A potential risk exists to drop a
+tool to spark or short circuit batteries or other electrical parts and could cause an explosion.
+
+9. Please strictly follow installation procedure when you want to disconnect AC or DC terminals. Please
+refer to INSTALLATION section of this manual for the details.
+
+10. One piece of 150A fuse is provided as over-current protection for the battery supply.
+
+11. GROUNDING INSTRUCTIONS -This inverter/charger should be connected to a permanent grounded
+wiring system. Be sure to comply with local requirements and regulation to install this inverter.
+
+12. NEVER cause AC output and DC input short circuited. Do NOT connect to the mains when DC input
+short circuits.
+
+13. Warning! Only qualified service persons are able to service this device. If errors still persist after
+following troubleshooting table, please send this inverter/charger back to local dealer or service center
+for maintenance.
+
+
+3 INTRODUCTION
+
+This is a multi-function inverter/charger, combining functions of inverter, solar charger and battery charger to
+offer uninterruptible power support with portable size. Its comprehensive LCD display offers user-configurable
+and easy-accessible button operation such as battery charging current, AC/solar charger priority, and
+acceptable input voltage based on different applications.
+
+3.1 Features
+
+Pure sine wave inverter
+
+Configurable input voltage range for home appliances and personal computers via LCD setting
+Configurable battery charging current based on applications via LCD setting
+
+Configurable AC/Solar Charger priority via LCD setting
+
+Compatible to mains voltage or generator power
+
+Auto restart while AC is recovering
+
+Overload/ Over temperature/ short circuit protection
+
+Smart battery charger design for optimized battery performance
+
+Cold start function
+
+DHORAARARADA
+
+3.2 Basic System Architecture
+The following illustration shows basic application for this inverter/charger. It also includes following devices to
+have a complete running system:
+Generator or Utility.
+PV modules
+
+Consult with your system integrator for other possible system architectures depending on your requirements.
+This inverter can power all kinds of appliances in home or office environment, including motor-type appliances
+
+such as tube light, fan, refrigerator and air conditioner.
+
+Ll
+x x
+e ~
+|
+
+Solar power
+
+= aD
+
+OR
+
+External Home Appliances
+Battery packs
+
+
+Figure 1 Hybrid Power System
+
+3.3 Product Overview
+
+ee
+
+LCD display
+
+Status indicator
+Charging indicator
+Fault indicator
+Function buttons
+Power on/off switch
+AC input
+
+Main output
+Second output
+10. Battery input
+
+11. PV input
+
+12. Anti dust kit
+
+13. RS-232 communication port /WiFi-port
+
+CMAN OAunAWN PE
+
+
+4 INSTALLATION
+
+4.1 Unpacking and Inspection
+Before installation, please inspect the unit. Be sure that nothing inside the package is damaged. You should
+have received the following items inside of package:
+W The unit x 1
+
+User manual x 1
+
+4.2 Preparation
+Before connecting all wirings, please take off bottom cover by removing two screws as shown below.
+
+4.3 Mounting the Unit
+
+Consider the following points before selecting where to install:
+
+3 Do not mount the inverter on flammable construction materials.
+
+3 Mount on a solid surface
+
+36 —_ Install this inverter at eye level in order to allow the LCD display to be
+read at all times.
+
+38 For proper air circulation to dissipate heat, allow a clearance of approx.
+20 cm to the side and approx. 50 cm above and below the unit.
+
+38 The ambient temperature should be between 0°C and 55°C to ensure
+optimal operation.
+
+$8 The recommended installation position is to be adhered to the wall
+vertically.
+
+#6 Be sure to keep other objects and surfaces as shown in the diagram to
+
+guarantee sufficient heat dissipation and to have enough space for
+removing wires.
+
+sy SUITABLE FOR MOUNTING ON CONCRETE OR OTHER NON-COMBUSTIBLE SURFACE ONLY.
+
+Install the unit by screwing two screws. It’s recommended to use M6 screws.
+
+4.4 Battery Connection
+CAUTION: For safety operation and regulation compliance, it’s requested to install a separate DC over-current
+protector or disconnect device between battery and inverter. It may not be requested to have a disconnect
+device in some applications, however, it’s still requested to have over-current protection installed. Please refer
+to typical amperage in below table as required fuse or breaker size.
+
+WARNING! All wiring must be performed by a qualified personnel.
+WARNING! It's very important for system safety and efficient operation to use appropriate cable for battery
+connection. To reduce risk of injury, please use the proper recommended cable as below.
+
+Recommended battery cable size:
+Model Wire Size Cable (mm’) Torque value (max)
+3.6KW/4.2KW/6.2KW| 1x 2AWG 25 2Nm
+
+
+
+Please follow below steps to implement battery connection:
+
+1. Remove insulation sleeve 18 mm for positive and negative conductors.
+
+2. Suggest to put bootlace ferrules on the end of positive and negative wires
+with a proper crimping tool.
+
+to
+
+= Ca
+
+3. Connect all battery packs as below chart.
+
+Inverter 3.6 KW/4.2KW
+@©
+ps __—____
+
+© wy - A ©
+
+Inverter 6. 2KW
+
+Ov LP aw PULP mw PLY ww °
+
+4. Insert the battery wires flatly into battery connectors of inverter and make sure the bolts are tightened with
+torque of 2 Nm in clockwise direction. Make sure polarity at both the battery and the inverter/charge is
+correctly connected and conductors are tightly screwed into the battery terminals.
+
+Recommended tool: #2 Pozi Screwdriver
+
+\
+\
+
+OS 7B -GaSaSo
+
+Say
+
+ie!
+
+.
+el
+a
+oy
+i}
+ON
+]
+
+Sis
+
+i
+Sel
+
+\e.
+fan
+
+vi
+ORO EO
+os
+
+&
+
+WARNING: Shock Hazard
+Installation must be performed with care due to high battery voltage in series.
+
+CAUTION!!! Before making the final DC connection or closing DC breaker/disconnector, be sure
+positive (+) must be connected to positive (+) and negative (-) must be connected to negative
+
+©).
+
+E> || >
+
+
+
+4.5 AC Input/Output Connection
+CAUTION!!! Before connecting to AC input power source, please install a separate AC breaker between
+inverter and AC input power source. This will ensure the inverter can be securely disconnected during
+maintenance and fully protected from over current of AC input. The recommended spec of AC breaker is 32A for
+3.6KW/4.2KW and 50A for 6.2KW.
+CAUTION!!! There are two terminal blocks with “IN” and “OUT” markings. Please do NOT mis-connect input
+and output connectors.
+
+WARNING! All wiring must be performed by a qualified personnel.
+
+WARNING! It's very important for system safety and efficient operation to use appropriate cable for AC input
+connection. To reduce risk of injury, please use the proper recommended cable size as below.
+
+Suggested cable requirement for AC wires
+
+Model Gauge Cable (mm?) Torque Value
+3.6KW/4.2KW 12 AWG 4 1.2 Nm
+6.2KW 10 AWG 6 1.2 Nm
+
+Please follow below steps to implement AC input/output connection:
+
+1. Before making AC input/output connection, be sure to open DC protector or disconnector first.
+
+2. Remove insulation sleeve 10mm for six conductors. And shorten phase L and neutral conductor N 3 mm.
+3. Insert AC input wires according to polarities indicated on terminal block and tighten the terminal screws.
+
+L—LINE (brown or black)
+N—Neutral (blue)
+
+( WARNING:
+Be sure that AC power source is disconnected before attempting to hardwire it to the unit.
+
+4. Then, insert AC output wires according to polarities indicated on terminal block and tighten terminal screws.
+L—LINE (brown or black)
+N—Neutral (blue)
+
+
+
+5. Then, insert AC output wires according to polarities indicated on terminal block and tighten terminal screws.
+
+L-LINE (brown or black)
+N—Neutral (blue)
+
+6. Make sure the wires are securely connected.
+
+CAUTION: Appliances such as air conditioner are required at least 2~3 minutes to restart because it’s required
+to have enough time to balance refrigerant gas inside of circuits. If a power shortage occurs and recovers in a
+short time, it will cause damage to your connected appliances. To prevent this kind of damage, please check
+manufacturer of air conditioner if it’s equipped with time-delay function before installation. Otherwise, this
+
+inverter/charger will trig overload fault and cut off output to protect your appliance but sometimes it still causes
+internal damage to the air conditioner.
+
+4.6 PV Connection
+
+CAUTION: Before connecting to PV modules, please install separately a DC circuit breaker between inverter
+and PV modules.
+
+WARNING! It's very important for system safety and efficient operation to use appropriate cable for PV
+module connection. To reduce risk of injury, please use the proper recommended cable size as below.
+
+Model Wire Size Cable (mm?) Torque value (max)
+3.6KW/4.2KW/6.2KW 1 x 12AWG 4 1.2 Nm
+PV Module Selection:
+
+When selecting proper PV modules, please be sure to consider below parameters:
+1. Open circuit Voltage (Voc) of PV modules not exceeds max. PV array open circuit voltage of inverter.
+2. Open circuit Voltage (Voc) of PV modules should be higher than min. battery voltage.
+
+INVERTER MODEL 3.6KW/4.2KW 6.2KW
+Max. PV Array Open Circuit Voltage 500Vdc
+PV Array MPPT Voltage Range 60Vdc~450Vdc
+
+
+
+Take 250Wp PV module as an example. After considering above two parameters, the recommended module
+configurations are listed as below table.
+
+Solar Panel Spec. SOLAR INPUT tty of panels} Ot! input
+Site (Min in serial: 6 pcs, max. in serial: 13 pcs) Q'ty of panels power
+- Vmp:  o.iVvde 6 pcs in serial 6 pcs 1500W
+- Imp: 8.3A 8 pcs in serial 8 pcs 2000W
+- Voc: 37.Wdc 12 pcs in serial 12 pcs 3000W
+- Isc: 8.4A 13 pcs in serial 13 pes 3250W
+- Cells: 60 8 pieces in serial and 2 sets in parallel 16 pcs 4000W
+10 pieces in serial and 2 sets in parallel 20 pcs 5000W
+10 pieces in serial and 2 sets in parallel 20 pcs 6200W
+12 pieces in serial and 2 sets in parallel 24 pcs 6500W
+10 pieces in serial and 3 sets in parallel 30 pcs 7500W
+PV Module Wire Connection
+Please follow below steps to implement PV module connection: _—— +
+1. Remove insulation sleeve 10 mm for positive and negative conductors.
+
+2. Suggest to put bootlace ferrules on the end of positive and negative wires with a _
+proper crimping tool.
+
+3. Check correct polarity of wire connection from PV modules and PV input connectors. Then, connect positive
+pole (+) of connection wire to positive pole (+) of PV input connector. Connect negative pole (-) of
+connection wire to negative pole (-) of PV input connector.
+
+Recommended tool: 4mm blade screwdriver
+
+e
+
+®
+oc]
+=)
+ag
+ay
+ORO
+Sp
+oy
+ORD
+AD
+O@
+
+15)
+c=
+e,
+<C>
+so)
+Si
+‘e)
+a
+‘e)
+@
+
+les)
+eRe
+
+ORR
+ecen
+one
+Sena
+ERO
+ERG
+eet
+ene te
+Seo
+
+a
+oe)
+ERO)
+Sey
+a
+ie
+
+OSE
+
+va!
+Ge
+Se
+SO
+
+4.7 Final Assembly
+After connecting all wirings, please put bottom cover back by screwing two screws as shown below.
+
+4.8 Communication Connection
+
+1. Wi-Fi cloud communication (option):
+
+Please use supplied communication cable to connect to inverter and Wi-Fi module. Download APP and installed
+from APP store, and Refer to “Wi-Fi Plug Quick Installation Guideline” to set up network and registering. The
+inverter status would be shown by mobile phone APP or webpage of computer.
+
+10
+
+
+2. GPRS cloud communication (option):
+
+Please use supplied communication cable to connect to inverter and GPRS module, and then applied external
+power to GPRS module. Download APP and installed from APP store, and Refer to “GPRS RTU Quick Installation
+Guideline” to set up network and registering. The inverter status would be shown by mobile phone APP or
+webpage of computer.
+
+WIFI
+
+RGB Light (option )
+@) Battery Mode:red Light
+@) Utility Mode:blue Light
+@) PV Mode:purple Light
+
+5 OPERATION
+
+5.1 Power ON/OFF
+Side view of unit
+al
+
+ea
+
+Once the unit has been properly installed and the batteries are connected well, simply press On/Off switch
+(located on the button of the case) to turn on the unit.
+
+5.2 Operation and Display Panel
+
+The operation and display panel, shown in below chart, is on the front panel of the inverter. It includes three
+indicators, four function keys and a LCD display, indicating the operating status and input/output power
+information.
+
+11
+
+
+0000
+
+Function keys
+
+LCD display
+LED Indicator
+LED Indicator Messages
+Solid On | Output is powered by utility in Line mode.
+INV/AC & Green ; ; :
+Flashing | Output is powered by battery or PV in battery mode.
+Solid On /Battery is fully charged.
+CHG & Green - ry - y : g
+Flashing /|Battery is charging.
+Solid On | Fault occurs in the inverter.
+FAULT & Red - - ; ;
+Flashing | Warning condition occurs in the inverter.
+Function Keys
+Function Key | Description
+ESC To exit setting mode
+UP To go to previous selection
+DOWN To go to next selection
+ENTER To confirm the selection in setting mode or enter setting mode
+
+5.3. LCD Display Icons
+
+Icon
+
+Function description
+
+Input Source Information
+
+Indicates the AC input.
+
+Indicates the PV input
+
+Indicate input voltage, input frequency, PV voltage, charger current (if PV in
+
+charging for 3.6KW models), charger power, battery voltage.
+
+12
+
+
+
+Configuration Program and Fault Information
+
+A
+088
+
+Indicates the setting programs.
+
+gag2
+
+Indicates the warning and fault codes.
+
+Warning: 888 2 flashing with warning code.
+
+Fault: 888 & lighting with fault code
+
+Output Information
+
+boo*
+
+Indicate output voltage, output frequency, load percent, load in VA, load in
+Watt and discharging current.
+
+Battery Information
+
+sh,
+
+Load Information
+
+OVER LOAD
+
+Bs
+
+Indicates overload.
+
+Mode Operation Information
+
+Indicates unit connects to the mains.
+
+bey
+
+Indicates unit connects to the PV panel.
+
+AC BYPASS
+
+Indicates load is supplied by utility power.
+
+Indicates the utility charger circuit is working.
+
+Indicates the DC/AC inverter circuit is working.
+
+Mute Operation
+
+che
+
+Indicates unit alarm is disabled.
+
+13
+
+
+
+5.4 LCD Setting
+
+After pressing and holding ENTER button for 3 seconds, the unit will enter setting mode. Press “UP” or “DOWN”
+button to select setting programs. And then, press “ENTER” button to confirm the selection or ESC button to
+
+exit.
+Setting Programs:
+
+Program Description
+
+Selectable option
+
+00 Exit setting mode
+
+Escape (default)
+
+on
+uu GOE
+
+One-button restore setting options
+
+nn
+uu GUA
+
+Output source priority:
+
+01 Toconfigure load power
+
+source priority
+
+Utility first
+
+nt -
+ui! Uo
+
+Utility will provide power to the
+loads as first priority.
+
+Solar and battery energy will
+provide power to the loads only
+when utility power is not available.
+
+Solar first (default)
+
+Gi Su
+
+Solar energy provides power to
+the loads as first priority.
+
+If solar energy is not sufficient to
+power all connected loads, utility
+will supply power to the loads at
+the same time.
+
+Battery provides power to the
+loads only when any one condition
+happens:
+
+- Solar energy and utility is not
+available.
+
+- Solar energy is not sufficient and
+utility is not available.
+
+SBU priority
+
+Ut Shu
+
+Solar energy provides power to
+the loads as first priority.
+
+If solar energy is not sufficient to
+power all connected loads, battery
+energy will supply power to the
+loads at the same time.
+
+Utility provides power to the loads
+only when battery voltage drops
+to either low-level warning voltage
+or the setting point in program 12.
+
+02 chargers.
+
+solar charging current)
+
+Maximum charging current:
+To configure total charging
+current for solar and utility
+
+(Max. charging current =
+utility charging current +
+
+10A 20A 30A
+
+Uc 0: Ge 20:0e 30:
+40A 50A 60A (default)
+Uc 4p: Ge so-Ge 60:
+
+14
+
+
+70A 80A 90A
+m = mn nm Bini
+Uc Ie Uc ane an
+100A 110A 120A
+Imma, m bimalA ! a
+Uc Muu Uc ane Uc ICU
+Q@ ———— @ @
+Appliances (default) If selected, acceptable AC input
+{| 5 O 0 1 voltage range will be within
+AC input voltage range 20°280VAC.
+P 9 9 UPS If selected, acceptable AC input
+m2 voltage range will be within
+Wo
+i IP3 170-280VAC.
+AGM (default) Flooded
+Mm rm mM '
+i) G O unm | 5 Cr L ra
+| User-Defined If “User-Defined” is selected,
+Battery type n C ‘I battery charge voltage and low DC
+W Ul 5 E cut-off voltage can be set up in
+— program 26, 27 and 29.
+User-Defined When the solar energy exists, Set this
+HS oe item to LIB, and the lithiumbattery
+LIO will be activated for 3 second.
+User-Defined If selected, Lithium battery communicotion
+Qj tar connection for PACE BMS.
+7) Lik
+Aut tart wh load Restart disable (default) Restart enable
+uto restart when overloa =
+mM mM
+occurs U b WJ o L F E
+Auto restart when over Restart disable (default) Restart enable
+temperature occurs | a4
+I
+OT kd G7 EEE
+50Hz (default) 60Hz
+Output frequency n ri
+US 50. US 60.
+a roll (default)
+! 357 My
+WJ 1
+Output voltage ecu cu" IU
+240V
+m4
+WwW c UY iy
+Maximum utility charging | 2A 10A
+1 | — =
+current i | 2 | ' | ! n O
+Note: If setting value in
+program 02 is smaller than | 20A 30A (default)
+that in program in 11, the oe ies | | mo
+inverter will apply charging At cu H 1 SUA wr
+
+
+
+current from program 02 for | 404 50A
+utility charger. tt 4
+11 4A 11 SUA
+60A 70A 80A
+1d 1} It
+'t BUA i OR |. BUR
+a (2) 2)
+90A ae
+1 1 !
+11 SOA 114007
+Available options in 3.6KW/4.2KW model:
+21.0V 21.5V 22.0V
+\ BATT | BATT \ 35 ci
+1 21 le 21s ais: 1 Phy
+22.5V 23.0V (default) 23.5V
+Cc —_ BATT BATT
+| | 7754 ! 7
+Ie ees jie 230' fie 235:
+24.0V 24.5V
+| uA ac
+ic eu . ic cus :
+25.0V 25.5V
+
+Setting voltage point back
+to utility source when
+
+BATT
+
+2250
+
+BATT
+
+Ie 25S"
+
+12 a Ww H 7 a
+selecting SBU priority” or | Available options in 6.2KW model:
+Solar first” in program 01. 42V 43V 44V
+\ > BATT - \ > BATT | > BATT
+ic Uy ic Uy IC Lily
+45V 46V (default) 47V
+BATT BATT _ BATT
+| IT — 1)
+ie 4S ic Brie
+48V 49vV
+BATT -_ BATT
+I 1
+ic 4B ic 4
+50V 51V
+BATT -_, BATT
+17) [~ !
+2 So | te Sh
+13 Setting voltage point back | Available options in 3.6KW/4.2KW model:
+
+16
+
+
+
+to battery mode when
+selecting “SBU priority” or
+“Solar first” in program 01.
+
+Battery fully charged 24V
+I 7 _ BATT \ 7 BATT
+IJ FUL | 2up
+24.5V 25V
+
+i 7 BATT ! -, BATT nm
+3 P4S jis 250
+25.5V 26V
+\ BATT ' | BATT
+3 26S [13 eb
+26.5V 27V (default)
+' 7 Cc _ | | BATT an
+Oo cbs to oe Ww
+27.5V 28V
+| 7 BATT , t 7 a4 ;
+I PS to CBU
+28.5V 29V
+7 BATT 4 BATT
+3 CAS js 29th
+Available options in 6.2KW model:
+Battery fully charged 48V
+
+- BATT — BATT
+IS FUL id YD
+49V 50V
+"i BATT 7 BATT
+in YON IF ont
+51V 52V
+\ a BATT \ | BATT
+3 Sib fia Se
+53V 54V (default)
+
+-, BATT -, BATT
+! Lo mM v | _ m Vv
+is S3u is S44
+
+17
+
+
+
+55V 56V
+
+| 7 BATT \ 7 __ BATT
+
+I oof . Ia U ”
+
+57V 58V
+
+| - a \ - BATT 7
+- [_ v _ CaM,
+
+io SU i 30
+
+Charger source priority:
+
+If this inverter/charger is working in Line, Standby or Fault mode,
+charger source can be programmed as below:
+
+Solar first
+!
+1D to ie CSU
+
+Solar energy will charge battery as
+first priority.
+
+Utility will charge battery only
+when solar energy is not available.
+
+Solar and Utility (default)
+
+Solar energy and utility will charge
+
+16 To configure charger ! tC crit battery at the same time.
+source priority I tu
+Only Solar Solar energy will be the only
+tm acon charger source no matter utility is
+UU available or not.
+If this inverter/charger is working in Battery mode or Power saving
+mode, only solar energy can charge battery. Solar energy will
+charge battery if it's available and sufficient.
+Alarm on (default) Alarm off
+18 Alarm control ! om I rm
+18 bon id bOF_
+Return to default display If selected, no matter how users
+screen (default) switch display screen, it will
+1C LCEeEa automatically return to default
+Cor display screen (Input voltage
+19 Auto return to default /output voltage) after no button is
+display screen ‘
+pressed for 1 minute.
+Stay at latest screen If selected, the display screen will
+iC) _tloa stay at latest screen user finally
+tt switches.
+Backlight on (default) ane off
+20 Backlight control monn !
+9 cu Lon PU LUFF
+
+18
+
+
+
+Beeps while primary source
+
+Alarm on (default) Alarm off
+
+|
+22 is interrupted 2 2 a AUT M - Cc O f} Cr
+Overload bypass: Bypass disable (default) Bypass enable
+When enabled, the unit will
+23 transfer to line mode if 2 = _—
+P | _I_l
+overload occurs in battery a L, U Oo cu Ly L, | | t
+Record enable (default) Record disable
+25 Record Fault code ecm C coc
+co FEA fed FAS
+3.6KW/4.2KW default setting: 28.2V
+_ 25 an
+6.2KW default setting: 56.4V
+6 Bulk charging voltage _
+(C.V voltage) | -
+[ LI oe Aaa = —Sbu" he Iv
+If self-defined is selected in program 5, this program can be set
+up. Setting range is from 25.0V to 29.0V for 3.6KW/4.2KW model
+and 48.0V to 58.0V for 6.2KW model. Increment of each click is 0.1V.
+3.6KW/4.2KW default setting: 27.0V
+c - - =" |
+iu - Wy
+re & !o cw
+6.2KW default setting: 54.0V
+27 Floating charging voltage FLY 23 sda: ‘on
+a i) al ly
+If self-defined is selected in program 5, this program can be set
+up. Setting range is from 25.0V to 29.0V for 3.6KW/4.2KW model
+and 48.0V to 58.0V for 6.2KW model. Increment of each click is 0.1V.
+3.6KW/4.2KW default setting: 20.0V
+> rm BATT 7
+Cow ef eu Woy
+LuU- © cuu
+29 Low DC cut-off voltage
+
+6.2KW default setting: 40.0V
+
+BATT
+
+rau e3 400" ur rity
+
+19
+
+
+
+If self-defined is selected in program 5, this program can be set
+up. Setting range is from 20.0V to 24.0V for 3.6KW/4.2KW model
+and 40.0V to 48.0V for 6.2KwW model. Increment of each click
+
+is 0.1V. Low DC cut-off voltage will be fixed to setting value no
+matter what percentage of load is connected.
+
+Battery equalization Battery equalization disable (default)
+
+JQ con 44 cac
+St Ju
+30 Battery equalization Ctl _to3_
+If “Flooded” or “User-Defined” is selected in program 05, this
+program can be set up.
+3.6KW/4.2KW default setting: 29.2V
+cu J! 300
+Cu - |
+Cc (a Cc IC "
+a 6.2KW default setting: 58.4V
+31 Battery equalization voltage 7 BATT
+Tu - I
+EY at SAY
+Setting range is from 25.0V to 31.5V for 3.6KW/4.2KW model and
+48.0V to 61.0V for 6.2Kw model. Increment of each click is 0.1V.
+60min (default) Setting range is from 5min to 900min.
+33 Battery equalized time 4 _ C mn Increment of each click is 5min.
+ae UW
+120min (default) Setting range is from Smin to 900 min.
+34 Battery equalized timeout 44 mn Increment of each click is 5 min.
+IL
+30days (default) Setting range is from 0 to 90 days.
+35 Equalization interval 4 G 4 rm Increment of each click is 1 day
+= Ju
+Enable Disable (default)
+ocn IC
+4 b | Mcit Lil 5 6 H d I
+— ; If equalization function is enabled in program 30, this program can
+36 Equalization activated be set up. If “Enable” is selected in this program, it’s to activate
+immediately battery equalization immediately and LCD main page will shows
+“C1”, If “Disable” is selected, it will cancel equalization function
+until next activated equalization time arrives based on program 35
+-
+setting. At this time, “EG. will not be shown in LCD main page.
+Off grid (default) Inverter operates only in off-grid
+5 7 mode. Solar energy provides power to
+tl F i. the loadsas first priority and charging
+; ; second
+37 GRID-tie operation
+
+Hybrid Inverter operates hybrid mode. Solar
+energy provides power to the loads as
+first’ priorityand charging second
+
+Excess energy feed to grid.
+
+37 Yd
+
+20
+
+
+
+38 GRID-tie current 35 | 0 A Increment of each click is 2A.
+Led pattern off Led pattern on(default)
+39 Led pattern light 49 | OF 39 (on
+disable (default) use
+41 Dual output al | OF al { 20
+
+3.6KW/4.2KW default setting: 22.0V
+
+42 220
+42 Enter the dual output 6.2KW default setting: 44.0V
+
+functional voltage point
+42 440
+
+Setting range is from 20.0V to 23.0V for 24VDC model and 40.0V
+to 46.0V for 48VDC model. Increment of each click is 0.1V.
+
+5.5 Display Setting
+The LCD display information will be switched in turns by pressing “UP” or “DOWN” key. The selectable
+information is switched as below order: input voltage, input frequency, PV voltage, charging current, charging
+power, battery voltage, output voltage, output frequency, load percentage, load in Watt, load in VA, load in Watt,
+DC discharging current, main CPU Version.
+
+Selectable information | LCD display
+Charged state, and the power is less than 1kw
+
+Input voltage=222V , cece” cece’ 198 .
+
+PV voltage=168V, xy : Lene
+
+Battery voltage=25V, ———— a
+
+Output voltage=222V, 1 5
+
+Load in Watt=188W, —l =. nme a
+
+Chg(Flashing), Inv/ac(bright) 68 eS
+
+ia ore ees" ech (99«
+current=2.3A, a
+
+Battery current=20A, 4 come - | &
+
+Output voltage=224V, | ; =
+
+Load in VA=188VA, tA— mo. oot
+
+Chg(Flashing), Inv/ac(bright) es: ei.
+
+Input voltage=223V , ecs' 450. 12.
+
+Pv ntc temperture=71.0°C, at
+
+Battery voltage=25V, RE mn ~ i - » og
+
+Inv ntc temperture=35.0°C, } + =
+
+Load percentage=12%, {4  . -
+
+Chg(Flashing), Inv/ac(bright) q 1H. Pa .
+
+21
+
+
+Input frequency=50.0Hz ,
+PV power=0.434KWh,
+Battery current=20A,
+Output frequency=50.0Hz,
+Load in watt=188W,
+
+Chg(Flashing), Inv/ac(bright)
+
+4.
+GH3u"
+
+om ..
+eu.
+
+Charged state, and the power is greater than 1kw
+
+Input voltage=222V ,
+
+PV voltage=168V,
+
+Battery voltage=25V,
+
+Output voltage=222V,
+
+Load in Watt=1.18KW,
+Chg(Flashing), Inv/ac(bright)
+
+Input voltage=224V ,
+
+PV current=8.6A,
+
+Battery current=12.5A,
+Output voltage=222V,
+Load in VA=1.88KVA,
+Chg(Flashing), Inv/ac(bright)
+
+Input voltage=223V ,
+
+Pv ntc temperture=71.0°C,
+Battery voltage=25V,
+
+Inv ntc temperture=35.0°C,
+Load percentage=82%,
+Chg(Flashing), Inv/ac(bright)
+
+Input frequency=50.0Hz,
+PV power=1.434KWh,
+Battery current=20A,
+Output frequency=50.0Hz,
+Load in watt=1.88KW,
+
+Chg(Flashing), Inv/ac(bright)
+
+eum
+cue IS [oy
+
+meet co un
+
+22
+
+
+
+Discharged state, and the power is less than 1kw
+
+¥ Ww
+Input voltage=0V , th cece Hate
+PV voltage=0V,
+Battery voltage=25V, | - |
+Output voltage=222V, i =
+Load in Watt=188W, im .. wa a
+Chg(turn off), Inv/ac(Flashing) ny 2s"
+
+¥
+Input voltage=OV , ty eee 198"
+PV current=0A, a
+Battery current=12.5A, | - I
+Output voltage=222V, }
+Load in VA=188VA, fH. wt
+Chg(turn off), Inv/ac(Flashing) Oj. H ce A
+Input voltage=0V , Hie 468. 13.
+Pv ntc temperture=60.0°C,
+Battery voltage=24V, =| _— bore &
+Inv ntc temperture=36.0°C, i =
+Load percentage=13%, = comme &
+Chg(turn off), Inv/ac(Flashing) 600. c4
+Input frequency=0Hz, He S0G.- 190"
+PV power=OKWh,
+Battery current=12A, a |
+Output frequency=50.0Hz, =
+Load in watt=188W, = on 8
+Chg(turn off), Inv/ac(Flashing) ang a i>
+
+h ic*
+
+23
+
+
+
+Discharged state, and the power is greater than 1kw
+
+Input voltage=OV ,
+
+PV voltage=0V,
+
+Battery voltage=25V,
+Output voltage=222V,
+Load in Watt=1.88KW,
+Chg(turn off), Inv/ac(Flashing)
+
+Oy eee’
+
+H
+i .. INvAc &
+
+oo”
+LI
+
+Input voltage=OV ,
+
+PV current=0A,
+Battery current=111A,
+Output voltage=222V,
+
+Load in VA=1.88KVA, es
+Chg(turn off), Inv/ac(Flashing) m it
+Lj* be
+
+= Mv nn '
+Input voltage=OV , Ht 308. 6 te
+Pv ntc temperture=68.0°C,
+Battery voltage=24V, =| eeneeees oe Rs)
+Inv ntc temperture=30.0°C, ; =
+Load percentage=81%, = wc h
+
+Chg(turn off), Inv/ac(Flashing)
+
+rs
+680. cy
+
+Input frequency=0Hz ,
+PV power=0KWh,
+
+Battery current=111A,
+Output frequency=50.0Hz,
+Load in watt=1.21KW,
+Chg(turn off), Inv/ac(Flashing)
+
+O- SU0-
+
+Gogo” th
+
+Main CPU version checking
+
+Main CPU version 24 00
+
+24
+
+
+
+5.6 Operating Mode Description
+
+Operation mode
+
+Selectable information
+
+LCD display
+
+Stanby mode
+
+Input voltage=222V ,
+
+PV voltage=210V,
+Battery voltage=25V,
+Output voltage=0V,
+
+Load in Watt=0W,
+Chg(Flashing), Inv/ac(bright)
+
+Input voltage=223V ,
+
+PV voltage=0V,
+
+Battery voltage=25V,
+Output voltage=0V,
+
+Load in Watt=0W,
+Chg(Flashing), Inv/ac(bright)
+
+Input voltage=0V ,
+PV voltage=210V,
+Battery voltage=25V,
+Output voltage=0V,
+Load in Watt=0W,
+Chg(Flashing)
+
+Line mode
+
+Input voltage=224V ,
+
+PV current=8.6A,
+
+Battery current=12.5A,
+Output voltage=222V,
+Load in VA=1.88KVA,
+Chg(Flashing), Inv/ac(bright)
+
+Input voltage=224V ,
+
+PV voltage=0V,
+
+Battery voltage=25V,
+Output voltage=222V,
+Load in Watt=188W,
+Chg(Flashing), Inv/ac(bright)
+
+2a eee 108"
+3" meapeenne
+
+Grid-Tie Operation
+
+Input voltage=224V ,
+
+PV current=8.6A,
+
+Battery current=12.5A,
+Output voltage=222V,
+Load in VA=1.88KVA,
+Chg(Flashing), Inv/ac(bright)
+
+When working in Grid-Tie mode, the #2
+will be flash 3S/times.
+
+25
+
+
+
+Operation mode
+
+Selectable information
+
+LCD display
+
+Input voltage=OV ,
+PV voltage=180V,
+Battery voltage=25V,
+Output voltage=230V,
+Load in Watt=388W,
+Inv/ac(Flashing)
+
+Battery mode
+
+388 *
+
+Gy 230"
+_—<
+
+i B-
+
+Input voltage=0V ,
+PV voltage=180V,
+Battery voltage=25V,
+Output voltage=230V,
+
+G’ 230° 388°
+
+4 n rs
+Load in Watt=388wW, : tT ou
+Chg(Flashing), Inv/ac(Flashing) id! Mk
+80° 2S
+Selectable information LCD display
+LIC(Lithium battery commun
+
+ication connection)
+
+Total battery voltage=52.4V
+Battery residual capacity=23%
+
+Sc" oJ:
+
+Total battery capacity=100AH
+
+= mveac &
+Mm fa
+Battery charging current=0A al
+Battery discharge current=1A B eee Prvereens a
+Yon. mn
+Ly ee
+Nominal battery voltage=48V
+
+Battery remaining capacity=23%
+Battery charger/discharge Times =8
+
+26
+
+
+sattervambiemttemperetureeprc] TOD esg
+attery ambient temperature=28.2°
+Battery MOS temperature=28.9°C = sete Dreneonn a
+
+3c c85
+
+Single battery voltage=3.27V
+Single battery temperature=28.5°C =| — =n &
+
+5.7 Battery Equalization Description
+Equalization function is added into charge controller. It reverses the buildup of negative chemical effects like
+stratification, a condition where acid concentration is greater at the bottom of the battery than at the top.
+Equalization also helps to remove sulfate crystals that might have built up on the plates. If left unchecked, this
+
+condition, called sulfation, will reduce the overall capacity of the battery. Therefore, it’s recommended to
+equalize battery periodically.
+
+38 How to Apply Equalization Function
+
+You must enable battery equalization function in monitoring LCD setting program 30 first. Then, you may apply
+this function in device by either one of following methods:
+
+1. Setting equalization interval in program 35.
+
+2. Active equalization immediately in program 36.
+
+36 When to Equalize
+
+In float stage, when the setting equalization interval (battery equalization cycle) is arrived, or equalization is
+active immediately, the controller will start to enter Equalize stage.
+
+A
+
+Equalize Voltage
+
+Float Voltage
+
+ULK ABSORPTION FLOAT EQUALIZE FLOAT
+
+27
+
+
+3 Equalize charging time and timeout
+In Equalize stage, the controller will supply power to charge battery as much as possible until battery voltage
+raises to battery equalization voltage. Then, constant-voltage regulation is applied to maintain battery voltage
+at the battery equalization voltage. The battery will remain in the Equalize stage until setting battery equalized
+time is arrived.
+
+A
+
+Equalize
+Charging Time
+Equalize Voltage |—- — — Lees
+Absorption Voltage |-—
+Float Voltage F- LK ABSORPT. FLOAT 4]
+~ EQUALIZE —
+
+=
+
+However, in Equalize stage, when battery equalized time is expired and battery voltage doesn’t rise to battery
+equalization voltage point, the charge controller will extend the battery equalized time until battery voltage
+achieves battery equalization voltage. If battery voltage is still lower than battery equalization voltage when
+battery equalized timeout setting is over, the charge controller will stop equalization and return to float stage.
+
+A
+
+Equalize Charging
+Timeout
+
+Equalize Voltage EE
+
+a — — — — eat
+Absorption Voltage |-—— 7 |
+Float Voltage [-——~— ABSORPT, l__ =
+a EQUALIZE
+
+—
+5.8 Fault Reference Code
+Fault Code Fault Event Icon on
+
+01 Fan is locked when inverter is off. Hh ERROR
+02 Over temperature U C ERROR
+03 Battery voltage is too high U =| ERROR
+04 Battery voltage is too low u ee
+05 Output short circuited or over temperature is detected by | m S
+
+internal converter components. US error
+06 Output voltage is too high. Hi I ERROR
+07 Overload time out 07 ERROR
+08 Bus voltage is too high 08 ERROR
+09 Bus soft start failed U Gg ERROR
+51 Over current or surge G | ERROR
+
+28
+
+
+52 Bus voltage is too low Se ERROR
+53 Inverter soft start failed G = ERROR
+55 Over DC voltage in AC output 55 ERROR
+57 Current sensor failed | ERROR
+58 Output voltage is too low SA ERROR
+59 PV voltage is over limitation OG on
+
+5.9 Warning Indicator
+
+wee Warning Event Audible Alarm Icon flashing
+
+01 Fan is locked when inverter | Beep three times every nN le
+
+is on. second ul
+' _ A @
+
+03 Battery is over-charged Beep once every second u 4
+04 Low battery Beep once every second Ye
+07 Overload Beep once every 0.5 second 0 7 @
+10 Output power derating Beep twice every 3 seconds Ht @
+15 PV energy is low. Beep twice every 3 seconds 1G @
+é4 Battery equalization None Eq ©
+()
+
+b p Battery is not connected None b p
+
+29
+
+
+
+6 CLEARANCE AND MAINTENANCE FOR ANTI-DUST KIT
+
+6.1 Overview
+Every inverter is already installed with anti-dusk kit from factory. Inverter will automatically detect this kit and
+activate internal thermal sensor to adjust internal temperature. This kit also keeps dusk from your inverter and
+
+increases product reliability in harsh environment.
+
+6.2 Clearance and Maintenance
+Step 1: Please loosen the screw in counterclockwise direction on the top of the inverter.
+
+®
+
+fo oe)
+
+0)
+
+|
+
+eeece
+
+—
+
+Step 2: Then, dustproof case can be removed and take out air filter foam as shown in below chart.
+
+a=) So
+
+|
+
+OOOO
+
+—
+
+Step 3: Clean air filter foam and dustproof case. After clearance, re-assemble the dust-kit back to the inverter.
+NOTICE: The anti-dust kit should be cleaned from dust every one month.
+
+30
+
+
+7 SPECIFICATIONS
+Table 1 Line Mode Specifications
+
+INVERTER MODEL 3.6KW 4.2KW 6.2KW
+Input Voltage Waveform Sinusoidal (utility or generator)
+Nominal Input Voltage 230Vac
+170Vac+7V (UPS);
+Low Loss Voltage
+9 90Vac+7V (Appliances)
+180Vac+7V (UPS);
+
+Low Loss Return Voltage
+
+100Vac+7V (Appliances)
+
+High Loss Voltage 280Vac+7V
+High Loss Return Voltage 270Vact7V
+Max AC Input Voltage 300Vac
+
+Nominal Input Frequency
+
+50Hz / 60Hz (Auto detection)
+
+Low Loss Frequency 40+1Hz
+Low Loss Return Frequency 42+1Hz
+High Loss Frequency 65+1Hz
+High Loss Return Frequency 63+1Hz
+
+Output Short Circuit Protection
+
+Circuit Breaker
+
+Efficiency (Line Mode)
+
+>95% ( Rated R load, battery full charged )
+
+Transfer Time
+
+10ms typical (UPS);
+20ms typical (Appliances)
+
+Output power derating:
+When AC input voltage drops to 170V,
+the output power will be derated.
+
+Output Power
+A
+
+Rated Power
+
+50% Power
+
+>»
+>
+
+90V 170V 280V Input Voltage
+
+31
+
+
+
+Table 2 Inverter Mode Specifications
+
+INVERTER MODEL
+
+3.6KW
+
+4.2KW
+
+6.2KW
+
+Rated Output Power
+
+3.6KW
+
+4.2KW
+
+6.2KW
+
+Output Voltage Waveform Pure Sine Wave
+Output Voltage Regulation 230Vact5%
+Output Frequency 50Hz
+Peak Efficiency 93%
+
+Overload Protection
+
+3s@2>150% load; 5s@101%~150% load
+
+Surge Capacity 2* rated power for 5 seconds
+Nominal DC Input Voltage 24Vdc 48Vdc
+Cold Start Voltage 23.0Vdc 46.0Vdc
+Low DC Warning Voltage
+@ load < 50% 22.0Vdc 44.0Vdc
+@ load = 50% 21.0Vdc 42.0Vdc
+Low DC Warning Return Voltage
+@ load < 50% 22.5Vdc 45.0Vdc
+@ load = 50% 22.0Vdc 44.0Vdc
+Low DC Cut-off Voltage
+@ load < 50% 20.5Vdc 41.0Vdc
+@ load = 50% 20.0Vdc 40.0Vdc
+High DC Recovery Voltage 32Vdc 62Vdc
+High DC Cut-off Voltage 33Vdc 63Vdc
+No Load Power Consumption 30W 35W 50W
+Table 3 Two Load Output Power
+
+INVERTER MODEL 3.6KW 4.2KW 6.2KW
+Full Load 3600W 4200W 6200W
+Maximum Main Load 3600W 4200W 6200W
+Maximum Second Load(battery model) 1200W 1400W 2066W
+Main Load Cut Off Voltage 22VDC 44VDC
+Main Load Return Voltage 26VDC 52VDC
+
+32
+
+
+
+Table 4 Charge Mode Specifications
+
+Utility Charging Mode
+
+INVERTER MODEL 3.6KW 4.2KW 6.2KW
+
+Charging Algorithm 3-Step
+
+AC Charging Current (Max) 100Amp (@Vye=230Vac)
+
+Bulk Charging| Flooded Battery 29.2 58.4
+
+Voltage AGM / Gel Battery 28.2 56.4
+
+Floating Charging Voltage 27Vdc 54Vdc
+Battery Voltage, per cell Charging Current, %
+“ +p 100%.
+
+Charging Curve som
+
+Time
+Bulk Absorption
+(Constant Current) (Constant Voltage)
+
+MPPT Solar Charging Mode
+
+INVERTER MODEL 3.6KW 4.2KW 6.2KW
+Max. PV Array Power 6200W 6500W
+Nominal PV Voltage 240Vdc 360Vdc
+PV Array MPPT Voltage Range 60Vdc~450Vdc
+Max. PV Array Open Circuit Voltage 500Vdc
+Max Charging Current
+(AC charger plus solar charger) 120Amp 120Amp 120Amp
+Table 5 Grid-Tie Operation
+INVERTER MODEL 3.6KW 4.2KW 6.2KW
+Nominal Output Voltage 220/230/240 VAC
+Feed-in Grid Voltage Range 195 ~253VAC
+Feed-in Grid Frequency Range 49~51+ 1Hz/59~6141Hz
+Nominal Output Current 15.7A | 182A | 26.9A
+Power Factor Range >0.99
+Maximum Conversion Efficien
+(DC/AC) 97%
+Table 6 General Specifications
+INVERTER MODEL 3.6KW 4.2KW 6.2KW
+Safety Certification CE
+Operating Temperature Range -10°C to 50°C
+Storage temperature -15°C~ 60°C
+Humidity 5% to 95% Relative Humidity (Non-condensing)
+Dimension (D*W*H), mm 110X334X423
+Net Weight, kg 9 9.5 | 10
+
+33
+
+
+
+8 TROUBLE SHOOTING
+
+Problem LCD/LED/ Buzzer Explanation / Possible cause What to do
+Unit shuts down LCD/LEDs and buzzer
+automatically will be active for 3 The battery voltage is too low 1. Re-charge battery.
+during startup seconds and then (<1.91V/Cell) 2. Replace battery.
+process. complete off.
+No response after 1, The battery voltage is far too ro Necng the fuse ‘or
+p No indication. low. (<1.4V/Cell) P g .
+
+power on.
+
+2. Internal fuse tripped.
+
+2. Re-charge battery.
+3. Replace battery.
+
+Mains exist but the
+unit works in
+battery mode.
+
+Input voltage is
+displayed as 0 on the
+LCD and green LED is
+flashing.
+
+Input protector is tripped
+
+Check if AC breaker is tripped
+and AC wiring is connected
+well.
+
+Green LED is flashing.
+
+Insufficient quality of AC power.
+(Shore or Generator)
+
+1. Check if AC wires are too
+thin and/or too long.
+
+2. Check if generator (if
+applied) is working well or if
+input voltage range setting is
+correct. (UPS@ Appliance)
+
+Green LED is flashing.
+
+Set “Solar First” as the priority of
+output source.
+
+Change output source priority
+to Utility first.
+
+When the unit is
+turned on, internal
+
+LCD display and LEDs
+
+Battery is disconnected.
+
+Check if battery wires are
+
+relay is switched on | are flashing connected well.
+and off repeatedly.
+. . Reduce the connected load by
+Overload error. The inverter is ee
+Fault code 07 5 a switching off some
+overload 110% and time is up. equipment.
+Check if wiring is connected
+Output short circuited. well and remove abnormal
+Fault code 05 load.
+Temperature of internal converter | Check whether the air flow of
+component is over 120°C. the unit is blocked or whether
+Internal temperature of inverter the ambient temperature is
+Fault code 02 component is over 100°C. too high.
+Battery is over-charged. Return to repair center.
+Buzzer beeps Fault code 03 Check if spec and quantity of
+continuously and The battery voltage is too high. batteries are meet
+red LED is on. requirements.
+Fault code 01 Fan fault Replace the fan.
+Output abnormal (Inverter voltage | 1. Reduce the connected
+Fault code 06/58 below than 190Vac or is higher load.
+than 260Vac) 2. Return to repair center
+Fault code . .
+08/09/53/57 Internal components failed. Return to repair center.
+
+Fault code 51
+
+Over current or surge.
+
+Fault code 52
+
+Bus voltage is too low.
+
+Fault code 55
+
+Output voltage is unbalanced.
+
+Restart the unit, if the error
+happens again, please return
+to repair center.
+
+34
+
+
+
+9 Appendix: Approximate Back-up Time Table
+
+Model Load (W) Backup Time @ 24Vdc 100Ah (min) Backup Time @ 24Vdc 200Ah (min)
+300 449 1100
+600 222 525
+900 124 303
+1200 95 227
+1500 68 164
+3.6KW 1800 56 126
+4.2KW 2100 48 108
+2400 35 94
+2700 31 74
+3200 28 67
+3600 25 60
+4200 22 53
+Model Load (W) Backup Time @ 48Vdc 100Ah (min) Backup Time @ 48Vdc 200Ah (min)
+500 613 1288
+1000 268 613
+1500 158 402
+2000 111 271
+6.2KW 2500 90 215
+3200 76 182
+3500 65 141
+4000 50 112
+4500 44 100
+5000 40 90
+6200 36 80
+
+Note:1 .Backup time depends on the quality of the battery, age of battery and type of battery.
+Specifications of batteries may vary depending on different manufacturers.
+2.The final interpretation right of this product belongs to the company.
+
+35
+
+
+
+DZ0-9ZLOOL-2ZE
+
+OY 5 RY Se 2K BET; OE
+
+\ “Bf Ay Ua Ae SY LF tsk
+‘WS ds0si M “MAA MES COTIB FE + Hy hy
+‘UWOTC#CP TA A Me tT Ke
