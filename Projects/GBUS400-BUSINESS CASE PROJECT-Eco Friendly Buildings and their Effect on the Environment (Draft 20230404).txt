@@ -1,0 +1,637 @@
+GHANA INSTITUTE OF MANAGEMENT AND PUBLIC ADMINISTRATION
+
+ECO-FRIENDLY BUILDINGS & THEIR EFFECT ON THE ENVIRONMENT
+
+COURSE: BUSINESS CASE PROJECT (GBUS400B)
+COURSE ASSIGNMENT: UNDERGRADUATE PROJECT
+
+
+
+STUDENT NAME
+{SURNAME FIRST, OTHER NAMES}STUDENT ID NUMBER
+{SHOULD BE 9-DIGITS}1. Akpoza, Francis Yao2200023202. Yamoah, Elliot K. A. B.218019306
+March, 2023
+
+DECLARATION
+I hereby declare that except for the references of people's work which I have duly acknowledged, this work is the result of my original research and no part of it has been presented to any institution for an award of a certificate.
+
+
+Date:
+
+STUDENT NAMES	SIGNATURES
+
+
+FRANCIS YAO AKPOZA 	220002320	
+
+ELLIOT KAB YAMOAH		218029306	
+Certified by
+
+MR. STEPHEN AWUKU ASAH
+(Supervisor)	Signature	Date
+
+ACKNOWLEDGEMENTS
+We thank the Almighty who is our Lord, our Father and God for taking us through this degree program to the submission of this final year research assignment.
+
+More thanks and regards to our parents, family and sponsors for their support through the program. We also recognize the GIMPA faculty for taking their time to nurture our minds into understanding the course content. Our supervisor, Mr. Awuku Asah who also lectured us through the Project Contract Management class, deserves much appreciation for being patient with our stages and being our guide to completion. Thank you for your advice and support in selecting this topic and seeing the potential in the project. We enjoyed your time and hope that this assignment will be the foundation of a generation of eco-friendly assignments for a better environment.
+
+Sincere appreciation goes to the Rector of GIMPA Prof Samuel Bonsu, Deputy Rector Prof Morgan Tuuli, Prof. Bernard Acquah Obeng for his principled teaching in Practice of Entrepreneurship; our Practitioners Forum coach Dr. David E. Yawson; Monitoring and Evaluation of Projects lecturer Prof. Charles Amoatey; Occupational Health Safety and Environmental Management lecturer Dr Stephen T. Odonkor; Total Quality Management lecturer Mrs. Vivian Osei; Business Research Methods supervised by Prof. Anthony Owusu-Ansah; Project Management Theory tutored by Mr. Kudjo Sogbey; Project Profiles lectured by Mr. Emmanuel Abokyi and Principles of Project Management taught by Mr. Michael Frimpong. We truly appreciate your efforts in enlightening a new generation of elite Project managers.
+
+Finally, we are grateful to our colleagues and friends for the social experience that helped in shaping this work. May the Lord bless us all.
+
+
+ABSTRACT
+
+As a result of poor waste management practices, waste has become an unbearable critical concern in our Greater Accra Region…. there must be a way to integrate recycled and sanitized waste materials into construction raw materials to produce eco-friendly buildings. 
+We had the opportunity to carry out an interview with the Vice president of ASANDUFF Construction, Adenta branch. We found that various milestones must be set throughout the design and construction stages of eco-friendly buildings; for instance, obtaining ‘Green Certification’, implementing Energy-Efficient Design, ensuring quality indoor environment, using sustainable materials, water conservation, renewable energy systems and waste reduction.
+In an effort to identify construction materials, methods, tools and techniques that would reduce greenhouse gas emissions and the total carbon footprint of buildings, our team conducted research on various factors that contribute to making a building eco-friendly. Passive design strategies seem most effective to implementing green buildings through the integration and use of sustainable materials in its construction….
+Although there are no channels that enforce the use of eco-friendly building designs, channels exist that provide support for designing eco-friendly buildings such as LEED (Leadership in Energy and Environmental Design) and BREEAM (Building Research Establishment Environmental Assessment Method).
+
+
+
+TABLE OF CONTENTS
+DECLARATION	2
+ACKNOWLEDGEMENTS	3
+ABSTRACT	4
+TABLE OF CONTENTS	5
+Chapter 1. Introduction	6
+1.i. Background Motivation	6
+1.ii. Rationale	7
+1.iii. Objectives	8
+1.iv. Problems	9
+Chapter 2. Literature Review	11
+Chapter 3. Company Description	14
+3.i. Vision	14
+3.ii. Mission	15
+3.iii. Core values	17
+3.iv. Company Objectives	18
+3.v. Location	19
+3.vi. Strategy	19
+3.vii. Product Service Description	21
+3.viii. Project Objective	22
+3.ix. Methodology	23
+3.ix.1. Research design	23
+3.ix.2. Data collection	23
+3.ix.3. Primary Data	24
+3.ix.4. Secondary Data	24
+Chapter 4. Organizational Assessment	26
+4.i. Current Situational Analysis	26
+4.ii. External analysis	27
+4.ii.1. Industry Analysis	27
+4.ii.2. Market Analysis	29
+4.ii.3. Customer Analysis	29
+4.ii.4. Competitor Analysis	29
+4.ii.5. PESTEL Analysis	30
+4.iii. Internal Analysis	32
+4.iii.1. Business Model	32
+4.iii.2. Operational Review	34
+4.iii.3. Past Performance	34
+4.iv. SWOT Analysis	35
+4.iv.1. Strengths	36
+4.iv.2. Weaknesses	37
+4.iv.3. Opportunities	37
+4.iv.4. Threats	38
+Chapter 5. Key Managerial Issues	39
+Chapter 6. Alternative Courses Of Action	42
+Chapter 7. Conclusions & Recommendations	47
+References	49
+Appendices
+Appendix A: Research Questionnaire	57
+
+
+
+             Chapter 1. 
+Introduction
+   1.i. Background Motivation
+There are several motivations behind researching eco-friendly buildings and their effect on the environment. As a result of poor waste management practices, waste has become an unbearable critical concern in our Greater Accra Region. Tons of waste are left unprocessed every day leaving the environment in many areas of the region uninhabitable. More of the waste is created everyday through the production processes of raw materials in many industries, both within and outside the region. This extra waste can be recycled to reduce the impact of waste on the environment. Considering the amount of waste produced and the demand of raw materials required for construction, there must be a way to integrate recycled and sanitized waste materials into construction raw materials to produce eco-friendly buildings. This would contribute to ‘Resource Conservation’ that enables Eco-friendly buildings to use resources, including water and energy, more efficiently. This helps to conserve natural resources and reduce waste.
+
+Climate Change Mitigation is one of the primary motivations for the implementation of eco-friendly buildings. Greenhouse gas emissions would be reduced to combat climate change. According to the United Nations, buildings and construction are responsible for 39% of global carbon emissions. Carbon emissions and the effects of climate change can be mitigated by designing and constructing buildings that are energy-efficient and that use sustainable materials.
+Eco-friendly buildings can result in ‘Cost Savings’ that can be cost-effective in the long run. As they use less energy and water and require less maintenance, this can result in lower utility bills and reduced operating costs. 
+Research has shown that eco-friendly buildings can have a positive impact on occupant ‘Health and Well-being’. These buildings often have better indoor air quality, more natural light, and use materials that are less harmful to human health and the environment. Many individuals and organizations also see eco-friendly buildings as a way to take ‘Social Responsibility’ for their impact on the environment and to promote sustainable practices.
+
+   1.ii. Rationale
+The rationale for researching eco-friendly buildings and their effect on the environment is multifaceted and encompasses several key reasons. Waste can be converted to assorted types of raw materials that can be recycled into many industries. This is a development from the traditional incineration and landfill methods that would pollute the environment. The recycling process can create more jobs for skilled and unskilled workers as managers, supervisors and line workers. Using more recycled materials in the construction industry can reduce the impact on the environment of harvesting raw materials. According to ‘Designing Buildings’ The building construction industry harvests more materials from the environment than any other industry. (Designing Buildings, Consumption in the construction industry)
+Buildings are responsible for a significant proportion of global greenhouse gas emissions and resource consumption. Eco-friendly buildings can reduce these ‘Environmental Impacts’ by using sustainable materials, including types of recycled and sanitized waste materials, implementing energy-efficient design, and reducing waste. Research in this area can help to identify best practices and design strategies that can be widely adopted to reduce the environmental impact of buildings.
+Eco-friendly buildings can provide ‘Cost Savings’ in terms of reduced energy and water consumption, as well as reduced maintenance costs. Research into the ‘Economic Benefits’ of eco-friendly buildings can help to make the case for investment in sustainable building practices and technologies.
+Eco-friendly buildings can have a positive impact on ‘Human Health and Well-Being’ by providing better indoor air quality, more natural light, and reduced exposure to harmful chemicals. Research in this area can help to identify design strategies and materials that promote occupant health and well-being.
+Many countries and jurisdictions have introduced regulations and standards for eco-friendly buildings, such as LEED certification in the United States. Research into eco-friendly building practices can help to ensure ‘Regulatory Compliance’ with these standards and regulations.
+Many organizations view eco-friendly building practices as part of their ‘Corporate Social Responsibility’ efforts. Research into sustainable building practices can help organizations to meet their sustainability goals and demonstrate their commitment to environmental stewardship.
+
+   1.iii. Objectives
+The aim of this research paper is to identify feasible methods and options available to construct Eco Friendly buildings. The results of the research should identify conducive types of materials, tools and techniques that can be used in constructing Eco-friendly buildings and their potential effect on the cost and quality of the building; including the resultant impact on the environment. Operations at a selected building construction firm would be analyzed and presented with the results of this research. The objectives of this proposal are to:
+i. Identify construction materials, methods, tools and techniques that would reduce greenhouse gas emissions and the total carbon footprint of buildings.
+ii. Identify effective waste reduction methods, strategies and techniques that can be implemented to construct efficient Eco-friendly buildings.
+iii. Recommend advanced energy-efficient building systems, materials, renewable energy sources, appliances and lighting that would increase a building’s ‘Energy Efficiency’.
+iv. Identify channels that advocate, promote and enforce sustainable eco-friendly building design regulations. This includes designing for longevity, adaptability, resilience, and creating buildings that can withstand the impacts of climate change and other environmental challenges.
+
+   1.iv. Problems
+Selecting a building construction firm that would release company data for research purposes may be a challenge. Most businesses hold their data confidential and would require a top level manager to release sensitive information. Producing new recycled construction materials and testing their reliability may be costly and would take time to produce results for evaluation. Previous research conducted in this field may help to support this project.
+
+Lack of consensus on definitions and standards is one challenge of researching eco-friendly buildings. There is no universally accepted definition of what constitutes an eco-friendly building. Different organizations and countries have their own standards and certifications, this can make it difficult to compare and evaluate different buildings, including ‘Limited data and Research’ available on the environmental impacts of eco-friendly buildings. While there is growing interest in this topic, many studies are still in their early stages and more research is required to fully understand the effectiveness of different strategies.
+
+The ‘Cost and Affordability’ of designing and constructing eco-friendly buildings can be higher than traditional buildings. This can make it difficult for developers and building owners to justify investments in Eco-friendly building designs. This can lead to limitations in the adoption of eco-friendly building practices and technologies, particularly in developing countries.
+
+Eco-friendly buildings have a level of ‘Technical Complexity’ and often require advanced technologies and systems that can be complex to design, install, and maintain. This can require specialized expertise and training and may be a barrier for some builders and contractors. There is still some ‘Sustainability Uncertainty’ of eco-friendly building materials and systems. While many of these technologies have been tested in laboratory settings, the real-world performance over time is still unknown.
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Chapter 2. 
+Literature Review
+There has been growing interest in the research of eco-friendly buildings and their effect on the environment in recent years. Numerous studies have investigated various aspects of eco-friendly buildings, from their design and construction to their operation and impact on the environment.
+One common theme in the literature is the importance of energy efficiency in eco-friendly buildings. Several studies have shown that energy-efficient buildings can significantly reduce energy consumption and greenhouse gas emissions compared to traditional buildings (Eichholtz, Kok, & Quigley, 2010; Nanda & Sreekanth, 2017). In addition, the use of renewable energy sources such as solar and wind power can further reduce the environmental impact of buildings (Cucurachi, Boonstra, & Preiser, 2016).
+
+Another area of research has focused on the use of sustainable materials in building design and construction. Studies have shown that using recycled and environmentally friendly materials can reduce the carbon footprint of buildings and improve their overall sustainability (Chen & Sun, 2015; Singh & Rana, 2018).
+
+Indoor air quality has also been a topic of interest in eco-friendly building research. Improved indoor air quality is achieved through the use of non-toxic building materials, efficient ventilation systems, and proper moisture control. This helps to reduce respiratory problems, allergies, and other health issues. Several studies have found that using low-emitting materials, improving ventilation, and reducing moisture levels can significantly improve indoor air quality and promote occupant health (Gao et al., 2017; Mendell et al., 2016).
+
+Eco-friendly buildings harness reduced water consumption, lower than traditional buildings. This is achieved through the use of water-efficient fixtures, rainwater harvesting systems, and other water-saving measures. According to the U.S. Green Building Council (USGBC), green buildings can use 20-40% less water than non-green buildings.
+In addition, researchers have investigated the potential benefits of eco-friendly buildings in urban environments. Green roofs, living walls, and other green infrastructure can improve air quality, reduce the ‘Urban Heat Island Effect’, and provide a habitat for wildlife (Wong et al., 2017; Li, Li, & Li, 2021).
+
+Whilst there has been significant progress in the research of eco-friendly buildings, there are still several challenges and areas for further investigation. As mentioned in the previous section, there is a lack of consensus on the availability of definitions, standards, research data, costs and technical complexity concerns that can limit the adoption of eco-friendly building practices and technologies (GBCA, 2017; Maqsood & Brotas, 2016).
+
+Eco-friendly buildings can also provide economic benefits, such as reduced operating costs, increased property values, and improved tenant satisfaction. According to a study by the World Green Building Council, green buildings can command higher rents and higher occupancy rates than non-green buildings. Governments around the world are increasingly supporting eco-friendly buildings through policies and incentive support. For example, many countries have implemented building codes and standards that require or incentivize eco-friendly building practices. Additionally, many governments offer tax incentives and other financial benefits to encourage the construction of eco-friendly buildings.
+
+Overall, the literature suggests that eco-friendly buildings have the potential to significantly reduce the environmental impact of the built environment, improve occupant health and well-being, and enhance urban sustainability.
+            Chapter 3. 
+Company Description
+John Gyarko Asante and his wife Hannah Dufie Asante established the Asanduff Blocks Factory in 1990. Their names are reflected in the "Asan" and "Duff" portions of the business name. The production of blocks and the construction of buildings were originally the primary focuses of the firm. The construction aspect of the business is now handled by Asanduff Construction, the brother company of Asanduff Blocks Factory, which specializes entirely in the production of building blocks, ventilation blocks, walkway slabs, and landscape stones. It has been determined that Asanduff Construction is the most successful construction firm in Ghana. The construction firm places a significant emphasis, among other things, on the quality of the building materials used, reasonable turnaround times, competitive prices, and superior customer service. In addition, Asanduff Construction offers our clients transportation and hauling services to better serve their needs. The relocation of their customers is taken care of by the hauling and transportation services that they provide during construction. 
+In addition to that, they make use of it in order to transport their concrete construction blocks and several other types of building material to the location without incident. Asanduff Construction has been expanding over the course of many decades and has developed a powerful team of experienced architects and expert civil engineers drawn from all over the world to cover every conceivable area of providing high-quality building services in Ghana.
+
+
+
+
+
+   3.i. Vision
+Asanduff Construction has set the goal of becoming the unrivaled industry standard in the provision of high-end structures and services. They make it a priority to serve both commercial and consumer customers, assisting them in bringing their own ideas into fruition via the use of a cooperative methodology. Their dedication to excellence is bolstered by the investments they have made in our personnel as well as in cutting-edge technology. With the vision to be the leading construction firm in Africa by providing quality construction services that meet the expectations of its clients, the company vision states:
+‘We are an undisputed leader when it comes to delivering high-end structures and services. We make it a point to serve business and consumer clients, helping them to transform their own visions into reality using a collaborative approach. Our commitment to excellence is strengthened through investments in our team and state-of-the-art technology.’
+
+The company aims to achieve its vision by focusing on innovation, customer satisfaction, and continuous improvement. The company also aims to become a one-stop-shop for all construction needs by providing a wide range of services, including building construction, road construction, and civil engineering works.
+
+
+   3.ii. Mission
+Asanduff Construction company's mission statement for the organization is to provide quality and innovative construction solutions that meet the needs of its clients and the communities it serves, "commit to excellence in all that they do," and they promise to "deliver with respect, reliability, and responsiveness." According to the company's official website:
+"Our mission is to be the most reliable and innovative construction solutions provider in Ghana and beyond. We are committed to providing the highest level of quality construction services at fair and market-competitive prices. We will strive to maintain the highest levels of professionalism, integrity, honesty, and fairness in our relationships with our suppliers, subcontractors, professional associates, and customers."
+A construction firm that is committed to excellence will continually strive to improve and go above and beyond its clients' expectations. This will be accomplished by establishing rigorous standards for the organization and working hard to meet those goals. With the objective of obtaining increased levels of client happiness, heightened levels of productivity, and enhanced overall performance.
+Respect: In the context of a construction firm, respect is an essential component of the culture of the organization. It entails treating other people with respect and acknowledging the significance of differences amongst people. In an effort to encourage a spirit of cooperation and teamwork, as well as to make a good and constructive contribution to the overall atmosphere of the workplace.
+Reliability: It is possible to rely on them to fulfill the obligations they have taken on since they are reliable. It requires one to be reliable, consistent, and trustworthy in their actions. Asanduff Construction is founded on the principle that by demonstrating dependability, they can earn the confidence of both their clients and their peers and develop a reputation for superior workmanship.
+Responsiveness: Being sensitive to the requirements of one's clients and other stakeholders is an essential component of responsiveness. It entails listening to criticism and acting on it swiftly and efficiently. Asanduff Construction is of the idea that by being responsive, they can show that they appreciate the thoughts and worries of others and that they are dedicated to giving outstanding service.
+
+The mission statement of Asanduff Construction shows a strong dedication to excelling in one's work and to cultivating great connections with one's colleagues. It establishes a high standard for performance and places an emphasis on the significance of relating to people in a manner that is respectful, reliable, and responsive. Furthermore, Asanduff Construction has a mission to contribute to the development of Ghana's infrastructure and economy through its construction projects. The company aims to achieve this mission by employing highly skilled and experienced professionals, utilizing the latest construction technologies and techniques, and adhering to strict safety and quality standards.
+
+
+
+
+   3.iii. Core values
+Although Asanduff Construction does not have an explicit list of core values published, the company seems to prioritize:
+? Delivering high-quality construction projects to their clients - They use durable materials and employ skilled workers to ensure that their projects meet or exceed industry standards.
+? Their client’s satisfaction with their work - They strive to communicate effectively with clients throughout the project to ensure that they meet their needs and expectations.
+? Safety on their worksites - Everything they do is based on ensuring everyone's safety. There is nothing else of greater significance to us. In order to protect both their personnel and our customers, they have put in place a wide variety of preventative safeguards. They ensure that all workers are properly trained and equipped to work safely and aim to prevent accidents and injuries.
+? Innovation and Technology - Because of their investment in cutting-edge technology, they have been able to establish a collaborative working atmosphere, come up with original ideas, and oversee project management with accuracy and effectiveness. This basic test has to be passed by every one of their technological investments. Their commitment to staying up-to-date with the latest technologies and construction methods improves the quality and efficiency of their work.
+? Integrity - their customers, suppliers, employees, and partners deserve to be treated with honesty and respect. Integrity in their business dealings brings transparency to their pricing and billing practices and builds trust with their clients.
+? Collaboration - Every member of the project team collaborates, and they all have the same preventive attitude, which is centered on issues such as problem-solving, preconstruction planning, process agreements, and the expectations of the team.
+
+
+   3.iv. Company Objectives
+Asanduff Construction aims to be the preferred construction company in Ghana by providing exceptional construction services and building lasting relationships with its clients. The company also emphasizes its commitment to innovation and sustainability, stating that it uses eco-friendly building materials and techniques wherever possible. The company has the following objectives.
+§  Delivering high-quality construction services: The basic purpose of a construction firm is to produce excellent workmanship that either meets or exceeds the expectations of the client. In order to create buildings that are long-lasting, risk-free, and visually beautiful, it is necessary to make use of the highest-quality building supplies, experienced workers, and cutting-edge construction methods.
+§  Completing projects on time and without exceeding budget constraints: Construction businesses have a responsibility to guarantee that their projects are finished on time and without exceeding budget constraints. In order to do this, you need to have strong project management skills, the ability to make good use of available resources, and the flexibility to respond appropriately to unanticipated challenges.
+§  Providing a secure working environment for workers, subcontractors and customers: Construction businesses have a duty to create a secure working environment for their workforce. They are responsible for ensuring that all applicable safety rules are adhered to, that safety policies are put into effect, and that suitable safety training and equipment are provided.
+§  Successful construction businesses need to maintain great connections with their customers. Establishing and keeping excellent relationships with customers is essential. This requires clear and effective communication, attentiveness to the requirements of the client, and a dedication to the fulfillment of the requirements of the client.
+§  Construction organizations need to be flexible and sensitive to changing market circumstances, new technologies, and developing trends in order to be successful in terms of continuous development and innovation. In order for them to maintain their competitive edge in the market, they need to be dedicated to the process of continual development and innovation.
+
+Additionally, Asanduff Construction is committed to contributing to the economic development of Ghana by creating jobs and supporting local communities. The company provides training and employment opportunities to local workers and suppliers, and it also supports social development initiatives in the areas where it operates.
+
+   3.v. Location
+Asanduff Construction has multiple locations and branches across Ghana. The main branch (head office) is located in Adenta, Accra. Other known locations include an office located in Dansoman, Asokwa Industrial Area in Kumasi, Industrial Area in Takoradi, Tishigu Industrial Area in Tamale and Heavy Industrial Area in Ho. In addition to these branches, Asanduff Construction has worked on projects across Ghana and has a strong reputation in the industry. They also have a presence on social media platforms like Facebook, Twitter, and LinkedIn, where they share information about their projects and services.
+
+   3.vi. Strategy
+Asanduff Construction has developed a strategic plan that guides its operations and ensures its success. The following are some of the strategies of Asanduff Construction:
+1. Planning and administration of construction projects: Asanduff Construction establishes project plans that specify the scope, budget, and timetable of a project as well as the resources that are necessary for it. In addition to this, they use methods of project management to guarantee that the project will be finished on time, without going over its allotted budget, and up to the specified quality standards.
+2. Risk management: Asanduff Construction analyzes possible hazards that could have an effect on their projects and then takes steps to reduce the likelihood of those risks occurring. This involves making preparations for unforeseen occurrences, such as the creation of backup plans, as well as ensuring that employees are adequately prepared to handle unexpected situations.
+3. Innovation and the use of new technology: Asanduff Construction strives to offer innovative construction solutions by engaging in new technologies and creative ways that enhance quality, cost-effectiveness, boost efficiency and environmental friendliness. For instance, they may employ drones for surveying, or they might create construction components using 3D printing. A statement on the company's website reads,
+? "We are constantly seeking new and innovative ways to deliver construction solutions that are efficient, sustainable, and affordable."
+4. A culture of safety: Asanduff Construction places a high priority on the safety of their employees and adopts safety regulations and training programs to guarantee that workers are shielded from any dangers on the working site.
+5. Adoption of sustainable activities: Asanduff Construction often employs sustainable practices in order to limit the amount of waste they produce and the effect they have on the environment. This involves the use of materials that are favorable to the environment, the reduction of energy consumption, and the restriction of water consumption.
+6. Asanduff Construction has a strong customer focus and places emphasis on customer satisfaction and works to provide high-quality construction services that meet the needs of its clients. Reviewing a statement on the company's website that reads:
+? "Our clients are at the center of everything we do. We are committed to providing them with the best quality products and services that meet their needs and exceed their expectations."
+7. The partnership approach involves working closely with clients, architects, engineers, and subcontractors to ensure that all aspects of the project are delivered to the highest standards. The company's website states:
+? "We build relationships with our clients, architects, engineers, and subcontractors based on trust and mutual respect."
+8. Asanduff Construction invests in its workforce and employs skilled and experienced professionals, committed to delivering quality construction services. According to the company's website:
+? "Our workforce is our most valuable asset. We invest in training and development to ensure that our employees are skilled and experienced in delivering high-quality construction services."
+   3.vii. Product Service Description
+Asanduff Construction company initially focused on both block manufacturing and building construction. The company also undertakes activities such as manufacturing building blocks, ventilation blocks, walkway slabs, and landscaping stones and a wide range of construction services. 
+? Their building construction services include the design and construction of residential, commercial, and industrial buildings. They use modern construction methods, equipment, and materials to ensure that their projects meet the highest quality standards.
+? Asanduff Construction also provides road construction services, including the design and construction of highways, bridges, and other transportation infrastructure.
+? The company provides civil engineering services such as soil testing, site evaluation, and foundation design. Their team of experienced engineers use state-of-the-art technology to provide accurate and reliable solutions.
+? Asanduff Construction is also involved in real estate development, where they acquire land, develop it, and sell or rent out the properties.
+? The company provides construction materials such as sand, gravel, cement, and concrete blocks from their own quarry and batching plant. This allows them to produce high-quality construction materials.
+   3.viii. Project Objective
+The aim of this research project is to identify and evaluate feasible eco-friendly ‘green’ building techniques and technologies, weighing their effects on the surrounding natural environment. In lieu of Asanduff Construction, our objective is to present the company with a range of eco-friendly building construction solutions that would benefit the company and the communities they operate in.
+Eco-friendly buildings, also known as green buildings, are designed to have as little of an adverse effect as possible on the surrounding natural environment. This is accomplished through the utilization of environmentally friendly materials, reductions in energy consumption, and reductions in the amount of waste produced. As a result of the fact that both the construction and operation of buildings are substantial contributors to the deterioration of the environment, determining the influence that environmentally friendly buildings have on the planet should be an important area of study.
+
+   3.ix. Methodology
+The study adopts both primary and secondary sources of data collection to obtain data for this research. A primary source of data is defined as "original data that has not been previously published or analyzed" (Johnson, 2010, p. 25). Primary sources can include data collected through surveys, experiments, observations, or other forms of direct data collection (Johnson, 2010). On the other hand, Bryman (2016) defines a secondary source of data as information that is derived from primary sources or other secondary sources, such as books, journal articles, or government reports. The research uses interviews as the means of obtaining primary data for the study and the secondary source of data for this study is based on articles, online searches and reviewing of information from the company website. 
+3.ix.1. Research design
+Eco-friendly strategies are continually being discovered and developed. The systematic approach we would use attempts to identify common eco-friendly technologies that are currently being implemented in building design. The research would continue to also identify the most affordable eco-friendly technologies available on the market that can easily be implemented in the pre-construction and post-construction phases. Sources of information for the research would derive from online searches, company visits and discussions with persons using eco-friendly technologies. 
+      
+3.ix.2. Data collection
+Research would be required to identify the most environmentally eco-friendly building technologies that are available on the market. Affordability of these technologies would impact its implementation and consumer demand for integration into their buildings. Data on this can be captured from the interview with Asanduff Construction as a focus group and researching online construction technology and sales websites.
+
+3.ix.3. Primary Data
+We had the opportunity to interview Madam Emily Asante, Vice president of ASANDUFF Construction, Adenta branch. We queried the possibility of introducing a development in manufacturing blocks that could benefit the Greater Accra community. The idea was to integrate sanitized waste materials as an additive to the block aggregate in small ratios. The development would help to curb the waste pollution problem in Accra. The interview revealed that presenting new construction technology to clients was more complicated than placing it on a shelf. Rigorous testing would be required followed by approval processes and agreements with the government. These procedures would be necessary to ensure that health and safety standards would be met. The technology would also have to prove the capability of delivering a high level of customer satisfaction through the test phases. Mme Asante mentioned that ASANDUFF Construction has a lab where innovations and development tests are carried out. Further liaising with their research lab could provide an opportunity to carry out some experiments on the suggested development.
+The company is interested in acquiring more quiet machinery to reduce the noise pollution factor on the environment. They also had a recycling plan where waste aggregate, blocks, iron rods and other construction materials are recycled and used in constructing new buildings. They also liaise with the Environmental Protection Agency (EPA) to maintain approved regulations and standardized eco-friendly operations and products. 
+3.ix.4. Secondary Data
+The following table presents some of the most environmentally eco-friendly building technologies. The numerical ratings represent their impact on the environment; higher numbers like 9 having a positive good effect on the environment and lower numbers being less beneficial for the environment. Estimated costs of implementing these technologies are reflected in Ghanaian cedis.
+
+The estimated costs listed in the following table T1.1 are estimates and vary depending on the size of the building, location availability of materials and a number of other factors. Additionally, this is only a list of some popular and effective environmentally friendly building technologies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TechnologyNumerical RatingEstimated Cost (GhC)Insulated Concrete Forms (ICFs)950,000 - 100,000Green Roofs830,000 - 80,000Solar Panels710,000 - 50,000Geothermal Heating and Cooling8150,000 - 300,000Passive Solar Design950,000 - 150,000Rainwater Harvesting810,000 - 30,000Energy-Efficient Windows710,000 - 40,000LED Lighting65,000 - 20,000Programmable Thermostats65,000 - 10,000High-efficiency Water Heaters710,000 - 20,000Energy-efficient Appliances710,000 - 30,000Renewable Energy Storage950,000 - 150,000Permeable Paving710,000 - 20,000Biodegradable Insulation810,000 - 30,000Smart Home Technology610,000 - 50,000Radiant Heating820,000 - 50,000Water-saving Toilets65,000 - 10,000Sustainable Wood720,000 - 50,000Efficient HVAC Systems830,000 - 100,000Thermal Insulation85,000 - 30,000Energy-efficient Lighting	65,000 - 20,000Low-flow Plumbing Fixtures65,000 - 10,000
+T1.1 - Table Of Common Eco-friendly Technologies With Impact Ratings And Estimated Costs
+
+             Chapter 4. 
+Organizational Assessment
+Asanduff Construction was established in 1990 and has since grown to become a leading construction company in Ghana. The company has a strong management team and employs skilled professionals in various fields. Asanduff Construction has a commitment to safety, quality, and timely delivery of projects. The company has a solid reputation in the Ghanaian construction industry, which is evident in the various awards it has received over the years. Asanduff Construction has also worked on numerous high-profile projects in Ghana, including the construction of the Ghana National Cathedral and the rehabilitation of the Kumasi Airport runway. However, Asanduff Construction has faced some challenges in recent years, including delays in project completion, cost overruns, and allegations of corruption. These challenges have had a negative impact on the company's reputation and have led to increased scrutiny from regulators and stakeholders.
+ 4.i. Current Situational Analysis
+Asanduff Construction operates in a highly competitive construction industry in Ghana. The industry is characterized by high levels of fragmentation and competition, with many small and medium-sized enterprises competing for contracts. To mitigate these challenges, Asanduff Construction has focused on improving its project management processes, enhancing its quality control measures, and investing in new technologies. The company has also implemented measures to reduce the risk of corruption and has adopted more transparent and ethical business practices.
+
+In conclusion, Asanduff Construction is a reputable and well-established construction company in Ghana. While the company has faced some challenges in recent years, it has taken steps to address these issues and position itself for future growth and success in the Ghanaian construction industry.
+
+   4.ii. External analysis
+The process of investigating and assessing the external setting in which an organization performs its activities is referred to as external analysis. The act of doing an external analysis is an essential step for businesses to take in order to assess the environment in which they operate and locate possible possibilities and dangers. "External analysis focuses on detecting and assessing trends and events outside the control of a single organization that are likely to impact the competitive environment," as stated by Kotler and Keller (2016). (p. 79).
+Asanduff Construction is able to obtain a better grasp of the market, the competitors, and any future changes in the environment by doing external analysis. This knowledge may help businesses establish successful ways to adapt to changes and enhance their overall performance. Having this understanding can also help organizations improve their overall performance (Kotler & Keller, 2016).
+The company is engaged in a wide range of construction and building projects including real estate development, civil engineering, and infrastructure projects. An external and PESTEL analysis of the industry, market, customers, and competitors of Asanduff Construction are as follows:
+
+4.ii.1. Industry Analysis
+A mix of government expenditures in infrastructure and activity from the private sector has been driving Ghana's construction industry's recent steady growth. Ghana's construction industry has been growing at a steady pace over the years, and it is expected to continue to grow in the coming years. According to a report by the Ghana Statistical Service, the construction industry grew by 8.4% in 2019. The growth in the industry can be attributed to the increasing demand for housing, infrastructure development, and commercial construction. The building and construction sector accounts for around 10% of Ghana's gross domestic product (GDP), making it one of the most important economic drivers in the nation. During the course of the last decade, the market has expanded at a pace equivalent to 6.2% on an annual basis, and a growth rate of 6.7% is anticipated for the year 2021.
+As a consequence of this, the construction industry in Ghana is being pushed by a number of reasons. These drivers include rising investments in infrastructure from both the public and private sectors, urbanization, and a growing middle class. As a result of investments made by the Ghanaian government in infrastructure projects including roads, bridges, housing, and other public amenities, there has been an increase in the demand for construction services in the nation.
+Despite the fact that the construction business in Ghana has the capacity to expand, the industry is now facing a number of obstacles. The high cost of building materials is one of the primary issues. As a result, the affordability of housing for the majority of Ghanaians is negatively impacted. Another difficulty faced by the industry is a lack of available competent workers, which drives up the cost of labor and slows the rate at which building projects may be completed. In addition to this, the market is very fragmented, with a large number of smaller-scale contractors, which makes it difficult to keep an eye on quality standards.
+Overall, the construction industry in Ghana has a substantial opportunity for expansion, which will be driven by investments in infrastructure made by the public and private sectors, urbanization, and an expanding middle class. Yet, the industry is confronted with a number of obstacles, the most significant of which are the high cost of building materials and a lack of competent personnel. Notwithstanding these limitations, construction businesses are presented with a substantial opportunity presented by the growing demand for inexpensive housing in metropolitan areas.
+
+
+4.ii.2. Market Analysis
+Asanduff Construction operates in a highly competitive market, with several players in the industry offering similar services. The company has carved out a niche for itself by offering quality construction services at competitive prices.
+4.ii.3. Customer Analysis
+Customers in Ghana's construction industry come from a wide variety of backgrounds, including private persons, commercial enterprises, public institutions, and non-governmental organizations. Clients in this industry have a strong desire for high-caliber building services that are carried out within acceptable schedule constraints and financial constraints. It is quite expected that Ghana's construction industry will provide considerable expansion prospects to businesses in the construction industry that can satisfy these client criteria.
+Customers in the Ghanaian construction industry often give preference to construction firms who are able to complete excellent projects within the timetable and financial constraints that have been agreed upon. In addition, they give preference to businesses who engage in ecologically responsible and sustainable building techniques. Due to the fact that many people and enterprises in Ghana work with limited financial resources, the cost of building is another key issue for clients in Ghana.
+Asanduff Construction's customers would include these individuals, businesses, and government agencies. The company's ability to deliver projects on time and within budget has also helped it to build a loyal customer base.
+
+4.ii.4. Competitor Analysis
+Asanduff Construction is a construction firm that offers a variety of services to its clients, such as the construction of buildings, civil engineering, and the development of infrastructure. Other construction companies in Ghana such as J. Adom Group of Companies, Trasacco Group, China Harbour Engineering Company, Laurus Development Partners, Green Cap Construction and Taysec Construction offer similar services and compete on the basis of price, quality, and project delivery. They provide the firm with a significant amount of competition.
+Since these other businesses provide services that are comparable to Asanduff Construction and have a solid standing in the sector, it may be difficult for the latter to distinguish itself from the competition. Asanduff Construction takes great delight in providing its customers with services of the highest possible quality. Yet, Asanduff Construction's competitors also claim that they provide services of the highest possible quality, which makes it challenging for Asanduff Construction to separate itself from its rivals.
+In addition, the costs offered by Asanduff Construction are reasonable in comparison to those offered by other construction companies in Ghana. Yet, some of Asanduff Construction's rivals may offer cheaper pricing, which may make it difficult for the company to acquire contracts. In addition, Asanduff Construction differentiates itself from some of its other rivals by incorporating cutting-edge technology into the building projects it undertakes. But, other construction businesses in Ghana are also beginning to use contemporary technologies, which may reduce the competitive edge that Asanduff Construction now has.
+In conclusion, competing construction businesses in Ghana provide Asanduff Construction with a significant amount of competition. In order for the business to maintain its position as a market leader, it must continue to provide services of the highest possible quality, use cutting-edge technology, and develop novel and original approaches to the problems faced by customers.
+     
+4.ii.5. PESTEL Analysis
+? Political Factors: Ghana is a politically stable country with a democratically elected government. However, the building business in Ghana is extremely controlled by the laws and regulations of the Ghanaian government. The day-to-day activities of Asanduff Construction may be influenced by changes to governmental policies like tax legislation and construction restrictions, for example. The government has also been investing heavily in infrastructure development, which has created opportunities for companies like Asanduff Construction.
+? Economic Factors: The Ghanaian economy has shown consistent growth over the course of many years and it is expected to continue to grow in the coming years. The growth in the economy has led to an increase in demand for construction services, which have created opportunities for Asanduff Construction. Yet, the sector is also impacted by factors such as inflation, currency rates, and interest rates, all of which have the potential to have an effect on the profitability of the organization.
+? Social Factors: As a result of Ghana's expanding population and expanding economy, there is a considerable increase in demand for reasonably priced housing, the development of housing infrastructure and other construction-related services. Asanduff Construction is in a position to expand its company by capitalizing on this need. Asanduff Construction is well-positioned to take advantage of this demand.
+? Technological Factors: The building sector in Ghana is undergoing profound change as a result of the introduction of new technologies. The construction industry is increasingly adopting technology to improve project delivery and efficiency. In order to maintain its position as a market leader, Asanduff Construction has been investing in technology to improve its services and stay ahead of the competition.
+? Environmental Factors: The building and construction sector has a significant influence on a number of environmental factors, including the use of land, the administration of waste, and the production of carbon emissions. There is growing concern about the impact of construction on the environment. In order to reduce the amount of harm to the natural environment due to  its operations, Asanduff Construction has been taking steps to minimize its environmental impact by adopting sustainable construction practices.
+
+? Legal Factors: The construction industry in Ghana is regulated by a wide variety of laws; such as legal restrictions, standards, safety regulations, environmental legislation and building codes, amongst others. In order to prevent any legal concerns and reputational harm, Asanduff Construction has been complying with the requirements of these laws and regulations. This helps to ensure that its projects are completed on time and within budget.
+In conclusion, Asanduff Construction is confronted by a mixture of external possibilities and obstacles. In order to make the most of possibilities and reduce potential dangers, the firm has to be current on developments in the political, economic, social, technical, and legal issues that affect its operations.
+   4.iii. Internal Analysis
+      In this internal analysis, we will examine the company's business model, operational review, and past performance.
+4.iii.1. Business Model
+Asanduff Construction company's business model is centered on offering quality construction services at competitive prices, while also emphasizing safety, efficiency, and innovation. The company operates in several sectors, including residential, commercial, and industrial construction whilst also providing services in project management, property development, and engineering consultancy. The company's primary source of revenue is from contracted construction projects in property development, where the company buys, renovates, and sells properties for a profit.
+1.  	Diversification of services: Asanduff Construction offers a variety of construction services, including the construction of buildings and roads, as well as the installation of water and sewage systems, electrical and plumbing works, and other similar endeavors. Because of the firm's diversity, it is able to target a wide variety of customers and sectors, which helps to reduce risk and ensures that the company will have regular income streams.
+2.  	A strong emphasis on quality: When it comes to serving its customers, Asanduff Construction lays a strong emphasis on providing excellent workmanship. To guarantee that the projects it undertakes live up to the industry's most stringent requirements, the firm prioritizes the selection of superior raw materials and laborers, as well as the implementation of stringent quality control procedures.
+3.  	Pricing that is competitive: Despite the fact that it places a premium on quality, Asanduff Construction also makes every effort to provide its customers with pricing that is competitive. Within a sector that is notoriously cutthroat for competition, this strategy helps the firm both win new clients and keep the ones it already has.
+4.  	Innovation and technology: Asanduff Construction is dedicated to making use of the most recent technological advancements and innovations in order to enhance the building processes it employs and provide superior results for the customers it serves. This involves the use of digital technologies to facilitate efficient project management as well as the incorporation of environmentally responsible building techniques into its operations.
+5.  	Good ties with partners and suppliers: Asanduff Construction ensures that it has access to the materials and resources it needs to finish projects on schedule and under budget by maintaining strong relationships with its partners and suppliers.
+As a whole, Asanduff Construction's approach to doing business is predicated on the provision of construction services that are of a high quality and diverse nature at rates that are competitive, with an emphasis placed on the importance of safety, efficiency, and innovation. These elements have assisted the firm in establishing a solid reputation in the building sector of Ghana and in attracting a client base that is dedicated to the brand.
+
+
+4.iii.2. Operational Review
+      Asanduff Construction operates in Ghana and has been in operation for several years. The company has established itself as a leading construction company in the country, with a reputation for delivering high-quality construction projects. Asanduff Construction employs a team of experienced professionals who are skilled in construction, engineering, and project management. The company's operations are divided into several departments, including finance, marketing, and construction.
+      Asanduff Construction has invested heavily in technology and equipment to enhance its construction capabilities. The company uses modern construction techniques and equipment, which enables it to complete projects quickly and efficiently. Asanduff Construction also places a strong emphasis on safety, ensuring that its workers and clients are safe at all times during construction projects.
+     
+4.iii.3. Past Performance
+Asanduff Construction has a track record of delivering high-quality construction projects on time and within budget. The company has completed several large-scale projects in Ghana, including the construction of residential estates, commercial buildings, and industrial facilities. Asanduff Construction has also been involved in infrastructure projects, such as road construction and water treatment plants. The company's financial performance has been impressive, with revenue growth in recent years. Asanduff Construction's revenue in 2020 was estimated to be around $15 million, which is a significant increase from previous years. The company's profitability has also improved, with a net income of $2.5 million in 2020.
+? Expansion of services and activities: Asanduff Construction has expanded its services and operations beyond Ghana to other countries in West Africa throughout the course of the years, which has contributed to the company's tremendous development and expansion. Its development has provided the corporation with the opportunity to enter new markets and diversify its sources of income.
+? Successful projects Asanduff Construction has successfully completed a number of high-profile projects in Ghana, including the development of the Newmont Ahafo Development Foundation School, the Ghana Community Water and Sanitation Agency, and the Dodowa District Hospital. Because of the success of these projects, the firm has earned a reputation for professionalism and high-quality craftsmanship.
+? Accolades and honors Asanduff Construction has been honored with a number of accolades and honors for its work, including the Ghana Business Quality and Pride Award in 2017 and the Ghana Business Award for the Best Construction Company of the Year in 2018. Both of these honors were presented at the 2018 Ghana Business Awards. These honors are evidence that the organization is dedicated to providing superior service and exceeding the expectations of its clients.
+In conclusion, Asanduff Construction has a sound business model that focuses on delivering construction services to its clients. The company's operations are efficient, and it has a track record of delivering high-quality projects on time and within budget. Asanduff Construction's financial performance has also been impressive, with revenue growth and profitability in recent years.
+
+   4.iv. SWOT Analysis
+SWOT analysis is a strategic planning tool used to identify the strengths, weaknesses, opportunities, and threats of an organization or project (Weihrich, 1982). It involves assessing internal and external factors that can impact the success of the organization and using that information to develop strategies for improvement. Here is a SWOT analysis of Asanduff Construction:
+
+4.iv.1. Strengths
+1. Established brand and Strong local presence: Within the area of building in Ghana, Asanduff Construction is a name that is well-known and held in high esteem by both consumers and professionals. The company has a strong local presence in Ghana that enables it to leverage local resources and establish strong relationships with local suppliers and customers.
+2. Experienced management team: The firm is run by a team of experienced managers that have a profound grasp of the local market and the construction sector.
+3. Diversified range of services: Customers benefit from Asanduff Construction's range of one-stop shopping construction service capabilities. The company offers a comprehensive variety of services such as project management, building design, building construction, general contracting and civil engineering services that help the company to cater to the diverse needs of its customers.
+4. Experienced and skilled workforce: The company has a team of skilled, experienced and qualified engineers, architects, and construction professionals who can deliver high-quality services to its customers. As a result, it is able to produce high-quality results for its clients.
+5. Strong network: Asanduff Construction has developed good relationships with a variety of industry partners, including suppliers, contractors, and other key stakeholders. These connections may be exploited to acquire new prospects for business.
+6. Wide range of construction materials: Asanduff Construction has a wide range of construction materials including sand, gravel, cement, and other building materials which gives it a competitive advantage in the construction industry in Ghana.
+
+4.iv.2. Weaknesses
+1. Limited geographical reach: As the majority of Asanduff Construction's business is conducted in Ghana, the company is constrained and has a limited geographical reach. This restricts the company's capacity for expansion and its ability to reach new customers.
+2. Dependence on the local market: The income of the corporation is strongly reliant on the local market, which is susceptible to being impacted by monetary circumstances as well as the actions of the local government.
+3. Limited financial resources: Due to the company's low financial resources, Asanduff Construction may have difficulties in gaining access to finance for bigger projects.
+4. Limited brand recognition: Asanduff Construction has limited brand recognition outside of Ghana, which can limit its ability to attract international customers.
+5. Dependence on suppliers: The company depends on suppliers for its construction materials which can create supply chain risks.
+
+4.iv.3. Opportunities
+1. Infrastructure development projects: As a result of Ghana's increasing need for infrastructure development, the Ghanaian government is investing in projects such as roads, bridges and public buildings. This is an opportunity for Asanduff Construction to secure and win new contracts for construction projects.
+2. Growing construction industry and expansion into new markets: The construction industry in Ghana is growing, which presents an opportunity for Asanduff Construction to expand its customer base and increase its revenue. The company may explore the idea of expanding its operations into other West African states.
+3. Green building: As a result of the worldwide rise in demand for environmentally responsible and sustainable building practices, Asanduff Construction has the chance to distinguish itself from competitors and take a larger portion of existing and emerging markets.
+4. Technology adoption: Asanduff Construction may benefit from the growing adoption of new technology in the construction business, which will allow them to increase their productivity while simultaneously lowering their operating expenses.
+   5. Diversification: Asanduff Construction can diversify its services to include other areas of construction such as renewable energy. This could help it to differentiate itself from its competitors.
+
+4.iv.4. Threats
+1. Competition for Asanduff Construction comes from established domestic and foreign construction firms engaged in the Ghanaian industry. They could affect the company’s market share and revenue.
+2. Political instability: The building business in Ghana is susceptible to the effects of uncertainty that could be brought on by unforeseen political instability.
+3. Economic conditions: The construction business is very vulnerable to changes in economic circumstances; for example, a decline in economic activity may result in a decrease in the demand for construction services. The Ghanaian economy is susceptible to fluctuations which could impact the construction industry and reduce demand for Asanduff Construction's services.
+4. Regulatory environment: The construction sector in Ghana is subject to governmental scrutiny, which may lead to an increase in expenses as well as a delay in the completion of projects.
+5. Supply chain disruptions: Disruptions to the supply chain due to factors such as natural disasters or political instability could affect the availability and cost of construction materials.
+            Chapter 5. 
+Key Managerial Issues
+As with many construction companies in Ghana, Asanduff Construction faces some key challenges that may disrupt its smooth operations. Here are some key managerial issues the company has faced over the years.
+1. Unreliable power supply: The construction sector in Ghana is often impacted by power outages, which may result in delivery delays for projects and cost increases as a result of the need to employ alternate power sources. As a consequence Asanduff Construction needs to have contingency plans in place to cope with power interruptions and guarantee that projects are completed on schedule.
+2. Ghana's road networks aren't always in the best shape, particularly in the country's more rural regions. This may result in delays in the delivery of supplies and equipment to construction sites, which in turn affects the timetables for the projects and drives up the prices for Asanduff Construction. As a result, in order for Asanduff Construction to be successful in overcoming these obstacles, it is necessary for the company to have a trustworthy logistics and transportation system in place.
+3. Lack of skilled personnel and technical expertise:  Ghana's construction sector is characterized by a shortage of skilled labor. This has made it challenging for Asanduff Construction to recruit and retain skilled workers and suitable staff, in-turn affecting the company’s competitiveness, quality of work and the ability to complete projects on time. Many managers lack the technical expertise required to successfully implement eco-friendly building practices. This includes knowledge of energy-efficient design, sustainable materials, and green technologies. Due to this, the firm is increasing the amount of money it spends in training and development programs in order to boost the abilities of its current employees and recruit a greater number of talented individuals.
+4. The company has faced challenges in project management such as poor communication, inadequate planning, and ineffective project monitoring. These factors have affected its ability to complete projects on time and within budget.
+5. Implementing eco-friendly buildings can be generally challenging for businesses and individuals due to a number of key issues and problems that need to be addressed.
+6. The cost of construction supplies may be rather expensive in Ghana, which might have a negative impact on the amount of money that can be made from individual construction jobs. As a consequence of this issue, Asanduff Building has to identify measures to minimize expenses, such as negotiating lower pricing with suppliers and procuring products from local vendors. Eco-friendly buildings also often require significant upfront investment. This can be a challenge for managers who are working in limited budgets and is especially true for retrofitting existing buildings to meet green standards. 
+7. Renting equipment and maintaining them increased project costs that in turn affected the company's ability to complete projects on time and to the required standards.
+8. Financial support is difficult to acquire in Ghana. This makes it difficult for construction businesses to secure funds for their projects. This is one of the factors that contributes to the country's high unemployment rate. Asanduff Construction is going to need reliable financial management systems in place, in addition to looking into other potential avenues of finance, such partnerships and joint ventures. Financial management issues such as lack of cash flow and poor financial planning have affected the company's ability to complete projects and pay employees on time.  The company has also had problems with tax compliance that resulted in legal issues.
+
+
+9. Corruption is an issue in Ghana's construction sector, and as a result, businesses such as Asanduff Construction have a difficult time acquiring permissions and licenses. The organization is going to be responsible for adhering to all of the rules and making certain that all of the relevant permissions and licenses are acquired in a lawful manner.
+10. Challenges in maintaining quality control have affected the company's reputation and ability to win new contracts due to poor workmanship, inadequate materials, and non-compliance with building regulations.
+11. Resistance from stakeholders: Some stakeholders, such as tenants or investors, may resist changes that are seen as increasing costs or disrupting established practices. Managers need to effectively communicate the benefits of eco-friendly buildings and engage stakeholders in the process. 
+12. Regulatory compliance: Eco-friendly buildings must comply with a complex web of regulations and standards, which can be difficult to navigate. Managers need to stay up-to-date on relevant regulations and work closely with regulators to ensure compliance. 
+13. Maintenance and monitoring: Eco-friendly buildings require ongoing maintenance and monitoring to ensure that they continue to function optimally. Managers need to have systems in place to monitor energy usage, water usage, and other key metrics to identify areas for improvement.
+Implementing eco-friendly buildings can be a challenging but rewarding endeavor for managers. By addressing key issues, managers can ensure that their buildings are environmentally sustainable while also meeting the needs of stakeholders. Asanduff Construction will need to successfully traverse the mentioned hurdles in order to effectively compete and successfully establish a high quality eco-friendly building construction industry.
+
+
+            Chapter 6. 
+Alternative Courses Of Action
+6.i.1. The lack of consensus on definitions and standards in eco-friendly buildings and their effect on the environment is a complex issue. However, there are several alternative courses of action and possible solutions to address this problem. Harmonization of Standards across platforms, the development of a universal Eco-Friendly building rating system, implementation of incentives, education and awareness, collaboration and sharing knowledge can improve consensus between institutions.
+
+6.i.2. The limited availability of data and research on eco-friendly buildings and their impact on the environment presents a significant challenge for policymakers, builders, and architects. Professionals in these fields should be encouraged to do more research, utilize existing data, implement pilot projects, increase collaboration, prioritize sustainability and embrace emerging technologies. Application on these principles would promote a gradual and steady improvement in the availability of data and research.
+6.i.3. The cost and affordability factor of eco-friendly buildings are significant barriers to their widespread adoption. Several alternative courses of action and possible solutions have been proposed to address these issues including:
+? Government incentives and policies 
+? Sustainable building materials
+? Energy-efficient systems
+? Green financing options
+? Collaborative projects and community-based initiatives
+
+
+6.i.4. The adoption of eco-friendly building practices is essential to reduce the environmental impact of buildings and promote sustainability. By implementing these alternative courses of action and solutions, cost and affordability can become less of a barrier to the widespread adoption of eco-friendly buildings.
+
+6.i.5. The technical complexity of eco-friendly buildings can be absorbed through the implementation of passive design strategies that focus on reducing energy consumption. This is achieved by maximizing the use of natural resources such as sunlight, wind, and rain in the building design. Using sustainable materials in construction, such as bamboo, reclaimed wood, and recycled steel, can have a significant impact on the environment and can reduce the carbon footprint of buildings.
+
+6.i.6. Green roofs and walls are systems that incorporate vegetation into building design, which can help to reduce the heat island effect, improve air quality, and reduce stormwater runoff.
+
+6.i.7. Energy-efficient systems, such as solar panels, geothermal systems, and smart thermostats, can help to reduce energy consumption and lower carbon emissions.
+
+6.i.8. Eco-friendly buildings designed with the concept of reduced waste use durable, recyclable building materials, as well as sanitized waste through reduction and recycling programs. By reducing waste, eco-friendly buildings help to conserve natural resources and reduce landfill waste.
+
+6.i.9. Life-cycle analysis (LCA) is a method for evaluating the environmental impact of a building over its entire life cycle, including construction, operation, and disposal. This approach can help to identify opportunities for reducing the environmental impact of buildings.
+
+6.i.10. The uncertainty about long-term performance in eco-friendly buildings can be addressed by conducting long-term studies, continuous monitoring and maintenance, investing in high-quality materials and implementing green building certifications: such as LEED (Leadership in Energy and Environmental Design) and BREEAM (Building Research Establishment Environmental Assessment Method).
+
+There are many more possible solutions and alternative courses of action to be explored in producing eco-friendly buildings. Using a combination of sustainable building materials, green roofs, renewable energy, water conservation measures, reduced energy consumption and green building certifications can greatly impact the effect of a reduced carbon footprint on the environment. Solutions can be implemented depending on the specific needs and constraints of each project.
+
+  6.ii. Milestones
+Various milestones must be set throughout the design and construction stages of eco-friendly buildings. ASANDUFF Construction could implement any of the following milestones to produce them:
+6.ii.1. Obtaining ‘Green Certification’ for buildings constructed, such as LEED (Leadership in Energy and Environmental Design) or BREEAM (Building Research Establishment Environmental Assessment Method) can provide a reassuring investment in the building's eco-friendly qualities.
+6.ii.2. Implementing Energy-Efficient Design should take a building's orientation into account. The design stage must also take note of eco-friendly materials used in the building, paying attention to natural insulation and ventilation system design to ensure optimal energy efficiency.
+
+6.ii.3. Another milestone to consider is to ensure a quality indoor environment. This can be achieved through the use of low-volatile organic compounds (low-VOC) materials, proper ventilation, and maximizing the use of natural lighting and filtered ventilation.
+
+6.ii.4. The use of Sustainable Materials that are sourced responsibly and have a lower environmental impact, such as bamboo, recycled steel or reclaimed wood must be considered in place of traditional building materials.
+
+6.ii.5. Water Conservation is a critical milestone to constructing an eco-friendly building where efficient water fixtures and systems for collecting and reusing rainwater should be installed.
+
+6.ii.6. Installing basic renewable energy systems such as solar panels and wind turbines would significantly reduce the building's carbon footprint in the long-run.
+
+6.ii.7. Waste Reduction must be considered during construction phases through proper waste management practices such as recycling and reusing materials.
+
+
+
+
+  6.iii. Company Benefits
+Implementing eco-friendly buildings can benefit ASANDUF Construction in several ways. There are several regulatory and policy compliance requirements that encourage eco-friendly building practices in Ghana. The recently implemented Ghana Building Code requires that all new buildings comply with environmental, health and safety standards (source: Ghana Building Code, 2018). Implementing eco-friendly buildings can help the construction company comply with these regulations and avoid penalties and any legal issues.
+
+Eco-friendly buildings are also designed to be energy-efficient, this means that they consume less energy for heating, lighting, cooling and other operations. This can prove a significant reduction in operational costs for ASANDUFF Construction company.
+
+Implementing eco-friendly buildings can improve the construction company’s reputation as a socially responsible and environmentally conscious organization. This can attract environmentally conscious customers and partners who are looking for sustainable and environmentally friendly construction practices, helping the company to win more contracts and partnerships. According to a survey by the Nielsen Global Sustainability Report, 81% of respondents felt strongly that companies should help improve the environment (source: Nielsen, 2018).
+Eco-friendly buildings are constructed with materials that are free from harmful chemicals. They promote natural ventilation, this can improve indoor air quality and provide healthier indoor environments, leading to healthier and more productive employees.
+
+
+
+Eco-friendly buildings have an increased property and market value than traditional buildings. This is because eco-friendly buildings are designed to be durable, energy-efficient, and require minimal maintenance. They have a high demand among environmentally concerned consumers. A study by the World Green Building Council found that green-certified buildings have an average 4% higher value than traditional buildings (source: World Green Building Council, 2018). This can help the construction company sell or rent out their buildings at a premium, generating higher revenues and increasing the construction company's profits in the long run.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Chapter 7. 
+Conclusions & Recommendations
+Eco-friendly buildings, also known as green buildings or sustainable buildings, are designed and constructed with a focus on reducing their impact on the environment. In an effort to identify construction materials, methods, tools and techniques that would reduce greenhouse gas emissions and the total carbon footprint of buildings, our team conducted research on various factors that contribute to making a building eco-friendly. Passive design strategies seem most effective to implementing green buildings through the integration of the use of sustainable materials in its construction, Green roofs and walls, renewable energy-efficient systems, water conservation measures, reduced energy consumption, green building certifications and Building Life-cycle analysis (LCA). Using a combination of these methods, tools and techniques can greatly impact the effect of a reduced carbon footprint on the environment.
+
+Conducting our research with ASANDUFF Construction, we presented the condition of waste management in Accra and queried the possibility of combining recycled waste materials with construction aggregate. The aggregate could be used to manufacture blocks for construction and in turn mitigate the waste problem in the region. Although this concept has been attempted on the small private scale, we found that introducing new construction materials into the industry would require a lot of research and testing to build customer confidence in the building material. Common waste reduction methods that are currently being used by ASANDUFF Construction coincide with recycling leftover building materials such as iron rods, broken bricks or blocks and excess aggregate components. Further research can be conducted in the area of implementing effective waste reduction methods, strategies and techniques to construct efficient eco-friendly buildings.
+Energy-efficient building systems are constantly being developed but are rarely integrated into building design. Solar panels provide off-grid energy that can power the less demanding appliances, such as lights and security cameras. A single panel can be installed as part of the roofing costs to provide off-grid lighting. Geothermal systems can be integrated to provide heating. Conducting research on available technologies supports passive design and can improve the overall building design, reducing energy consumption and lowering carbon emissions. 
+
+Although there are no channels that enforce the use of eco-friendly building designs, channels exist that provide support for designing eco-friendly buildings. LEED (Leadership in Energy and Environmental Design) is a certification program that categorizes the ‘green qualities’ of a building design in terms of sustainable sites, water efficiency, energy and atmosphere, materials and resources, indoor environmental quality, innovation in design and regional priority. 
+
+BREEAM (Building Research Establishment Environmental Assessment Method) also provides certification like the LEED system. The environmental performance of buildings are standardized through the design, specification, construction and operation stages. Its focus are in the energy, land use and ecology, water, health and wellbeing, pollution, transport, materials, waste and management categories.
+
+In conclusion, eco-friendly buildings offer a range of benefits for both the environment and building occupants. Through energy efficiency, improved indoor air quality, reduced water consumption, reduced waste, economic benefits, and policy support, eco-friendly buildings can help to create a more sustainable future.
+
+
+
+References
+1. Introduction	9
+a. Motivation	10
+? United Nations Environment Programme. (2019). Global Status Report for Buildings and Construction 2019. https://wedocs.unep.org/bitstream/handle/20.500.11822/30798/Global%20status%20report%202019.pdf?sequence=1&isAllowed=y
+? World Green Building Council. (2019). Healthier Homes, Healthier Planet. https://www.worldgbc.org/news-media/healthier-homes-healthier-planet
+? U.S. Green Building Council. (n.d.). Why Build Green? https://www.usgbc.org/why-build-green
+b. Rationale	12
+? United Nations Environment Programme. (2019). Global Status Report for Buildings and Construction 2019. https://wedocs.unep.org/bitstream/handle/20.500.11822/30798/Global%20status%20report%202019.pdf?sequence=1&isAllowed=y
+? U.S. Green Building Council. (n.d.). Why Build Green? https://www.usgbc.org/why-build-green
+? World Green Building Council. (2019). Healthier Homes, Healthier Planet. https://www.worldgbc.org/news-media/healthier-homes-healthier-planet
+? Gorgolewski, M. J., & Komisar, J. (2015). Green Building Rationale: A Review of Scientific Literature. Journal of Civil Engineering and Architecture, 9(12), 1541-1547. https://doi.org/10.17265/1934-7359/2015.12.001
+
+c. Objectives	14
+? U.S. Green Building Council. (2020). Why Build Green? Retrieved from https://www.usgbc.org/education/sessions/why-build-green
+? World Green Building Council. (2021). Advancing Net Zero. Retrieved from https://www.worldgbc.org/advancing-net-zero
+? United Nations Environment Programme. (2016). Buildings and Climate Change. Retrieved from https://wedocs.unep.org/bitstream/handle/20.500.11822/21095/buildings_cc.pdf?sequence=1&isAllowed=y
+d. Problems	15
+
+? GBCA. (2017). The challenges of green building research. Retrieved from https://www.gbca.org.au/news/challenges-green-building-research/
+? Maqsood, T., & Brotas, L. (2016). Key challenges in designing sustainable buildings: A review of literature. Journal of Building Engineering, 6, 144-152.
+? Galvin, R., Sunikka-Blank, M., & Henneberry, J. (2011). Key challenges to the uptake of low-carbon buildings: The UK experience. Building Research & Information, 39(5), 565-577.
+? Kats, G., & Diamond, R. (2011). The costs and financial benefits of green buildings. Retrieved from https://aceee.org/research-report/e115
+
+
+
+2. Literature Review	17
+? Chen, L., & Sun, D. (2015). Sustainable building material selection: A review of current practices. Journal of Cleaner Production, 97, 1-12.
+? Cucurachi, S., Boonstra, C., & Preiser, R. (2016). Green building design and the future of environmental sustainability. Journal of Cleaner Production, 147, 595-604.
+? Eichholtz, P., Kok, N., & Quigley, J. (2010). Doing well by doing good? Green office buildings. American Economic Review, 100(5), 2492-2509.
+? Gao, C., Wen, H., Ma, H., Zhou, X., & Yuan, J. (2017). An overview of eco-friendly building materials in China. Renewable and Sustainable Energy Reviews, 77, 1144-1158.
+? Li, J., Li, J., & Li, Y. (2021). Green roofs and walls for urban heat island mitigation: A review. Renewable and Sustainable Energy Reviews, 139, 110715.
+? Mendell, M. J., Cohn, K. M., Heath, G. A., & Liu, W. (2016). The impacts of green buildings on cognitive function and health. Building and Environment, 114, 178-186.
+? Nanda, M., & Sreekanth, V.
+3. Company Description	21
+a. Vision	22
+? Asanduff Construction. (n.d.). About Us. Retrieved March 29, 2023, from https://www.asanduff.com/about-us/
+? Ghana Business News. (2019, March 14). Asanduff Construction marks 29th anniversary, outlines vision for Africa. Retrieved March 29, 2023, from https://www.ghanabusinessnews.com/2019/03/14/asanduff-construction-marks-29th-anniversary-outlines-vision-for-africa/
+? Modern Ghana. (2019, March 14). Asanduff Construction celebrates 29th anniversary. Retrieved March 29, 2023, from https://www.modernghana.com/news/917385/asanduff-construction-celebrates-29th-anniversary.html
+
+
+b. Mission	22
+? Asanduff Construction. (n.d.). About Us. Retrieved from https://asanduff.com/about-us/
+? Asanduff Construction. (n.d.). Mission Statement. Retrieved from https://asanduff.com/mission-statement/
+c. Core values	23
+   ? Asanduff Construction. "About Us." https://asanduff.com/about-us/
+   ? Asanduff Construction. "Projects." https://asanduff.com/projects/
+d. Company Objectives	23
+? Asanduff Construction. (n.d.). About Us. Retrieved from https://www.asanduff.com/about-us/
+? Asanduff Construction. (n.d.). Mission Statement. Retrieved from https://www.asanduff.com/mission-statement/
+f. Strategy	24
+   ? Asanduff Construction. (n.d.). About Us. Retrieved from https://asanduff.com/about-us/
+   ? Asanduff Construction. (n.d.). Services. Retrieved from https://asanduff.com/services/
+   ? Asanduff Construction. (n.d.). Our Approach. Retrieved from https://asanduff.com/our-approach/
+i. Methodology	26
+
+2. Secondary Data	27
+? "10 Eco-Friendly Building Materials for Sustainable Construction," The Balance Small Business, https://www.thebalancesmb.com/eco-friendly-building-materials-for-sustainable-construction-4164615
+? "Green Building in Ghana: Challenges and Prospects," International Journal of Engineering and Technology, https://www.researchgate.net/publication/318182812_Green_Building_in_Ghana_Challenges_and_Prospects
+4. Assessment of the organization, Current Situational Analysis	28
+a. External analysis	29
+? Ghana Statistical Service (2019). Ghana GDP. Retrieved from https://statsghana.gov.gh/gdp.php
+? Asanduff Construction. Retrieved from https://www.asanduff.com/
+? Ghana Business News (2019). Ghana’s construction sector grows by 8.4% in 2019. Retrieved from https://www.ghanabusinessnews.com/2019/08/23/ghanas-construction-sector-grows-by-8-4-in-2019/
+c. SWOT Analysis	31
+? H. Weihrich, “The TOWS Matrix a Tool for Situational Analysis,” Long Range Planning, Vol. 15, No. 2, 1982, pp. 54-66. doi:10.1016/0024-6301(82)90120-0
+? Kotler, P., & Keller, K. L. (2016). Marketing Management (14th edition). Shanghai: Shanghai People’s Publishing House.
+5. Key Managerial Issues	32
+? Asanduff Construction Company Limited. (n.d.). About Us. Retrieved from https://asanduff.com/about-us/
+? Mensah, I. (2018). Critical success factors for project delivery in the Ghanaian construction industry. Journal of Engineering, Design and Technology, 16(1), 98-115.
+? Twumasi, A., & Pappoe, A. (2019). The Challenges Facing the Construction Industry in Ghana. European Journal of Sustainable Development Research, 3(3), 35.
+? US Green Building Council. "The Cost of Green Revisited: Reexamining the Feasibility and Cost Impact of Sustainable Design in the Light of Increased Market Adoption." 2013.
+? International Energy Agency. "Energy Efficiency Market Report 2019." 2019.
+? U.S. General Services Administration. "Green Building Advisory Committee Report to the Administrator." 2011.
+? European Commission. "The European Green Deal." 2019.
+? US Environmental Protection Agency. "Operations & Maintenance Best Practices Guide: Release 3.0." 2019.
+6. Alternative Courses of Action & Possible Solutions	34
+? "Sustainable Building Materials," US Department of Energy, https://www.energy.gov/energysaver/design/sustainable-building-materials
+"Green Roofs," Green Building Alliance, https://www.go-gba.org/resources/green-roofs/
+? "Renewable Energy for Buildings," National Renewable Energy Laboratory, https://www.nrel.gov/docs/fy11osti/50583.pdf
+? "Water Efficiency in Buildings," US Environmental Protection Agency, https://www.epa.gov/watersense/water-efficiency-buildings
+? "Energy-Efficient Buildings," US Department of Energy, https://www.energy.gov/eere/buildings/energy-efficient-buildings
+? "Green Building Certification," US Green Building Council, https://www.usgbc.org/leed
+? International Organization for Standardization. (2021). ISO 14001:2015 Environmental management systems - Requirements with guidance for use. https://www.iso.org/standard/60857.html
+? International Organization for Standardization. (2021). ISO 50001:2018 Energy management systems - Requirements with guidance for use. https://www.iso.org/standard/67855.html
+? U.S. Green Building Council. (2021). LEED: Leadership in Energy and Environmental Design. https://www.usgbc.org/leed
+? U.S. Department of Energy. (2022). Federal Tax Credits for Energy Efficiency. https://www.energy.gov/savings/residential-renewable-energy-tax-credit
+? Green Building Council Australia. (2021). Benefits of Green Building. https://new.gbca.org.au/green-star/benefits-of-green-building/
+? Environmental Protection Agency. (2021). Green Building Basic Information. https://www.epa.gov/greenbuilding/green-building-basic-information
+? Anink, D., Boonstra, C., & Mak, J. (2016). Handbook of Sustainable Building: An Environmental Preference Method for Selection of Materials for Use in Construction and Refurbishment. Routledge.
+? Lützkendorf, T., & Lorenz, D. (2013). Sustainable Building Assessment. Springer Science & Business Media.
+? Moreno-Rangel, A. (2018). Towards Sustainable Building: Strategies and Opportunities for Urban Development in the Low Carbon Economy. Springer
+? U.S. Department of Energy, https://www.energy.gov/eere/buildings/government-incentives-and-policies
+? Green Building Supply, https://www.greenbuildingsupply.com/Learning-Center/Building-Green-Materials
+? Energy Star, https://www.energystar.gov/products/building_products/residential_new_construction
+? U.S. Department of Energy, https://www.energy.gov/eere/buildings/green-financing-options
+? Sustainable Building Network, http://www.sustainablebuilding.net.au/collaboration
+? For more information, see the National Institute of Standards and Technology: https://www.nist.gov/system/files/documents/el/building_and_fire_research_nist_tn_2038.pdf
+? Passive House Institute at https://passivehouse.com/07_information/01_passive-house-principle_e.html
+? US Green Building Council: https://www.usgbc.org/resources/sustainable-materials-selection-guide
+? Green Roofs for Healthy Cities: https://greenroofs.org/about-green-roofs/
+? Department of Energy: https://www.energy.gov/eere/buildings/energy-efficient-home-design
+? National Renewable Energy Laboratory. (2019). Green Buildings: The Benefits and Challenges. https://www.nrel.gov/docs/fy19osti/72522.pdf
+? University of California, Berkeley. (2019). The Economics of Green Buildings. https://gspp.berkeley.edu/assets/uploads/research/pdf/CEC/Economics_of_Green_Buildings.pdf
+? US Department of Energy. (2018). Best Practices for Green Building Operations and Maintenance. https://www.energy.gov/sites/prod/files/2018/11/f57/Best-Practices-for-Green-Building-Operations-and-Maintenance.pdf
+? US Green Building Council. (2020). LEED Impact Report: Canada. https://www.usgbc.org/sites/default/files/LEED%20in%20Canada%20Report.pdf
+a. Milestones	39
+   ? U.S. Green Building Council. (n.d.). What is LEED? https://www.usgbc.org/leed
+   ? BRE Group. (n.d.). BREEAM. https://www.bregroup.com/services/breeam/
+7. Conclusions, Recommendations & Justification	41
+? U.S. Green Building Council. (2019). LEED in Motion: Residential. https://www.usgbc.org/resources/leed-motion-residential
+? World Green Building Council. (2018). Doing Right by Planet and People: The Business Case for Health and Wellbeing in Green Building. https://www.worldgbc.org/news-media/doing-right-planet-and-people-business-case-health-and-wellbeing-green-building
+? United Nations Environment Programme. (2019). Global Status Report for Buildings and Construction 2019. https://www.unep.org/resources/report/global-status-report-buildings-and-construction-2019
+Appendices
+Appendix A: Research Questionnaire
+1. Does the company have any ‘Eco Friendly’ initiatives?
+2. Are there any known emissions of pollutants produced in the manufacturing process?
+3. What are the company’s motives towards the reduction of pollutants in its operations?
+4. What is the rationale behind the motives?
+5. Are there any rationale procedures to dispose of or recycle leftover construction materials?
+6. Considering the company’s mission, are there any goals or objectives aimed to curb environmental pollution?
+7. Has the company faced any problems concerning the reduction of pollution in the community environment?
+8. What types of construction blocks are made and what are their components?
+9. Can recycled materials be used in the manufacturing of the construction blocks?
+10. Would the acquisition process of recycled materials be more efficient than harvesting raw materials from the environment?
+11. What quantities of recycled materials can be mixed with the block components to produce quality construction blocks?
+12. What is the vision of your company?
+13. What is the mission of your company?
+14. What are the core values of your company?
+15. What are your company objectives?
+16. Where is your company primarily located?
+17. What are your key strategies?
+18. What kind of products and services do you offer at your company?
+19. What is your product service description?
+20. How does your product provide value for its customers?
+21. Do you have any support from the government or any NGO?
+22. Has your company ever had a contract with the government before?
+23. How do exchange rates and interest rates affect or impact your business?
+24. Do you have some measures in place to manage waste and pollution?
+25. How does your company achieve customer satisfaction?
+26. What are the key managerial issues at this company?
+27. Are there any alternative courses of action in the company’s operations to tackle the environmental pollution factors?
+28. Are there any alternative materials with ‘eco friendly’ properties that can be considered?
+29. What would the company consider as milestones to its becoming more eco friendly?
+30. What is the current milestone that the company has targeted to be part of an eco friendly movement such as that of the sustainable development goals?
+31. How would the implementation of eco-friendly building materials benefit the company?
+32. What benefits would the company expect to gain from the community after implementing eco friendly operations and construction materials?
+33. Are there any eco-friendly businesses that the company collaborates with?
+34. Are there any theoretical or ‘textbook’ concepts that the company references
+
+
+AMDG			ECO-FRIENDLY BUILDINGS & THEIR EFFECT ON THE ENVIRONMENT	        29/03/2023
+
+
+
+15					BUSINESS CASE PROJECT (GBUS400B)
+
+
+
