@@ -1,0 +1,177 @@
+Perfect — I’ve thoroughly reviewed the uploaded **Quintile 1 Action Plan** along with the previous integrated proposals from GitHub, ChatGPT, Gemini, and Copilot. I’ve now created a **detailed daily action plan for the first fortnight of Q1 (19–30 January 2026)** using your requested work rhythm:
+
+* **Mon–Thu:** full days (09:00–17:30)
+* **Fri:** half-day (09:00–14:00)
+* **Fortnight structure:** two full work weeks, starting Monday, skipping one Friday for adjustment, ending on the second Friday.
+
+This fortnight aligns with Q1 priorities: banking, service-card pilot, Health & Safety Part 1 lessons, crowdfunding, QR landing MVP, and distributor recruitment.
+
+---
+
+# 📅 **Daily Action Plan — First Fortnight (19–30 Jan 2026)**
+
+---
+
+## **Week 1 — Foundation & Setup**
+
+### **Mon 19 Jan — Day 1**
+
+**Theme:** Kickoff & Roles
+**Owners:** Founder (F), Ops (O), Content (C), Outreach (R), Finance (Fin)
+**Tasks:**
+
+* 09:00–10:00: Kickoff meeting: confirm fortnight objectives, assign owners, setup Trello/Asana dashboard.
+* 10:00–12:00: GCB follow-up: call bank, submit missing docs, log expected opening timeline. Contingency: interim manual banking plan.
+* 13:00–15:00: Approve print run (100-card test 185 GHS vs 500-card 925 GHS); finalize code CSV template.
+* 15:00–17:30: Produce Lesson #11 + upload draft to shared folder; assign reviewer.
+  **Deliverables:** Bank follow-up note; print PO/test confirmation; code CSV template; Lesson #11 draft.
+  **Budget Approval:** Print option (Founder).
+
+---
+
+### **Tue 20 Jan — Day 2**
+
+**Theme:** Dev & Crowdfunding Prep
+**Tasks:**
+
+* 09:00–10:00: Quick bank check; confirm outstanding ID/docs.
+* 10:00–12:30: Post/hire dev contractor for QR landing MVP (Paystack/Flutterwave ± MTN/Vodafone fallback), milestone schedule, 30% upfront. Budget 1,500–2,000 GHS.
+* 13:30–15:30: Draft Give crowdfunding pages: Founder Relief & Oxford House, rewards, budgets.
+* 15:30–17:30: Produce Lesson #12.
+  **Deliverables:** Dev posting & shortlist; crowdfunding draft; Lesson #12 draft.
+  **Budget Approval:** Dev milestone (Founder).
+
+---
+
+### **Wed 21 Jan — Day 3**
+
+**Theme:** Print & Affiliate Prep
+**Tasks:**
+
+* 09:00–11:00: Print vendor follow-up; confirm production schedule/payment; upload codes to reconciliation template.
+* 11:00–13:00: Draft affiliate batch offer (100 cards for 500 GHS + incentives); email list; prepare mini-contract.
+* 14:00–16:00: Dev staging check; confirm milestone/start date.
+* 16:00–17:30: Produce Lesson #13 + quiz prompt.
+  **Deliverables:** Codes uploaded; affiliate template; dev shortlist/start date; Lesson #13.
+
+---
+
+### **Thu 22 Jan — Day 4**
+
+**Theme:** Distributor Training & Payment Testing
+**Tasks:**
+
+* 09:00–11:30: Prepare distributor training materials: script + handout (pitch, code redemption, refund, reconciliation).
+* 11:30–13:00: Test payment flows (Paystack/Flutterwave + manual MTN fallback). Document failures.
+* 14:00–16:00: Finalize reconciliation SOP + daily/nightly logging process.
+* 16:00–17:30: Produce Lesson #14.
+  **Deliverables:** Distributor materials; payment test log; reconciliation SOP; Lesson #14.
+
+---
+
+### **Fri 23 Jan — Half-Day**
+
+**Theme:** Pilot Distribution Run
+**Tasks (09:00–14:00):**
+
+* Conduct short pilot field run (founder + 1 distributor), target 30–60 cards.
+* Reconcile morning receipts into nightly sheet.
+* Quick check-in; list Monday priorities.
+  **Deliverables:** Pilot distribution log; reconciliation entries; immediate fixes list.
+
+---
+
+## **Week 2 — Test Distribution & Crowdfunding Launch**
+
+### **Mon 26 Jan — Day 6**
+
+**Theme:** Metrics & Crowdfund Launch
+**Tasks:**
+
+* 09:00–10:30: Fortnight metrics review: cash, cards, dev progress, lessons completed.
+* 10:30–13:00: Launch Give crowdfunding pages publicly; announcement via social, WhatsApp, podcast.
+* 14:00–16:30: Inventory & code verification (sample check, QR mapping).
+* 16:30–17:30: Produce Lesson #15 + finalize Part 1 module structure.
+  **Deliverables:** Crowdfunding live; inventory QC; Lesson #15.
+
+---
+
+### **Tue 27 Jan — Day 7**
+
+**Theme:** Affiliate Outreach & Dev Finalization
+**Tasks:**
+
+* 09:00–11:30: Send 10 affiliate batch offer emails; log responses.
+* 11:30–13:30: Dev: confirm QR landing live; test transactions; map to reconciliation sheet. Interim Paystack link if dev delayed.
+* 14:30–16:30: Produce Lesson #16 + attach short quiz.
+* 16:30–17:30: Finance: update 4-week cashflow forecast; allocate funds toward hosting reserve/insurance.
+  **Deliverables:** Affiliate log; landing page test report; Lesson #16; cashflow snapshot.
+
+---
+
+### **Wed 28 Jan — Day 8**
+
+**Theme:** Distributor Training & Workshop Planning
+**Tasks:**
+
+* 09:00–11:00: Distributor training (2 distributors): pitch role-play, code scan, nightly reconciliation.
+* 11:00–13:00: Affiliate batch sale processing; issue digital codes if sold.
+* 14:00–16:00: Community workshop planning: finalize date (target last week Feb), venue outreach, draft agenda/ticketing.
+* 16:00–17:30: Produce Lesson #17.
+  **Deliverables:** Trained distributor list; batch sale receipts; workshop venue & draft agenda; Lesson #17.
+
+---
+
+### **Thu 29 Jan — Day 9**
+
+**Theme:** Scale & Payment Audit
+**Tasks:**
+
+* 09:00–11:30: Schedule next 4-week distributions: days, locations, targets, stipend rules.
+* 11:30–13:30: Audit payment/reconciliation entries; flag discrepancies.
+* 14:00–16:00: Map subscription conversion funnel (service-card → QR landing → subscription). Document gaps.
+* 16:00–17:30: Produce Lesson #18.
+  **Deliverables:** Distribution calendar; reconciliation audit note; subscription mapping; Lesson #18.
+
+---
+
+### **Fri 30 Jan — Half-Day**
+
+**Theme:** Fortnight Close & Report
+**Tasks (09:00–14:00):**
+
+* 09:00–11:30: Compile full fortnight reconciliation: cards printed/distributed, gross/net, subscriptions, crowdfund, cash on hand.
+* 11:30–12:30: Short review meeting: KPIs vs targets; list approvals/decisions for next fortnight (print, dev, founder draw).
+* 12:30–14:00: Prepare & email **Fortnight Report** + schedule social/podcast teaser.
+  **Deliverables:** Fortnight Reconciliation & Decision Pack; stakeholder email; social/podcast update scheduled.
+
+---
+
+### **Fortnight KPIs**
+
+* GCB banking: application submitted + next-step timeline logged.
+* Print run: 100-card test OR 500-card order placed + code CSV uploaded.
+* Distribution: 1 pilot run completed; 2 distributors trained.
+* Dev: QR landing MVP live OR interim Paystack link operational.
+* Crowdfunding: at least 1 page live + first promotion.
+* Content: 8–10 lessons produced.
+* Finance: 4-week cashflow forecast; initial reconciliation completed.
+* Affiliate: ≥5 contacts reached; 1 batch inquiry/commitment.
+
+---
+
+### **Immediate Founder Decisions Needed**
+
+1. Approve **print run**: 100-card test (185 GHS) or full 500-card run (925 GHS).
+2. Approve **dev milestone**: up to 2,000 GHS (30% upfront).
+3. Confirm whether to pay **January founder draw** this cycle or defer.
+
+---
+
+I can now produce **ready-to-execute materials** for this fortnight:
+
+* **Service-Card Pack:** print-ready PDF + unique codes CSV + distributor script + nightly reconciliation sheet + SOP.
+* **Trello/Asana CSV:** daily tasks with assignees, due dates, KPIs.
+* **Fortnight KPI Dashboard:** cashflow + subscriptions + crowdfunding + card pilot tracking.
+
+Do you want me to generate **Service-Card Pack**, **Trello/Asana CSV**, or both? Also confirm **print run decision** (100-card test vs 500-card full run).
