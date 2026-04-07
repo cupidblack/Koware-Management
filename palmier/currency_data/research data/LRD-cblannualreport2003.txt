@@ -1,0 +1,10423 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CENTRAL BANK OF LIBERIA 
+
+
+ 
+
+ANNUAL REPORT 
+
+
+ 
+
+2003 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ JANUARY 1, 2003 
+
+ 
+
+ TO 
+
+ 
+
+DECEMBER 31, 2003 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Enquiries relating to this Report should be addressed to: 
+
+ 
+
+The Executive Director 
+
+Research, Policy and Planning Department 
+
+Central Bank of Liberia 
+
+Warren and Carey Streets 
+
+P.O. Box 2048 
+
+Monrovia, Liberia 
+
+ 
+
+Telephone: 00 (231) 227685/227928/227920/226457/226002 
+
+ 
+
+Fax: 00 (231) 227024/226144/227685 
+
+ 
+
+ 
+
+Telex: 99744215 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Printed by: 
+
+ 
+
+Imago Printing Press 
+
+Bushrod Island 
+
+Monrovia, Liberia 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+( i ) 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+BOARD OF GOVERNORS 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chairman : Mr. Elie E. Saleeby 
+
+ Executive Governor 
+
+ 
+
+Members of the Board 
+
+of Governors : 
+
+ 
+
+- Mr. Charles A. Greene 
+
+ Governor 
+
+ 
+
+- Mr. Willie Belleh, Jr. 
+
+ Governor 
+
+ 
+
+ - Dr. Charles A. Clarke 
+
+ Governor 
+
+ 
+
+ - Mr. Nathaniel Barnes 
+
+ Governor 
+
+ 
+
+ 
+
+Secretary to the Board : Cllr. Sie-A-Nyene Yuoh 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ (iii) 
+
+
+MANAGEMENT 
+
+ 
+
+- Executive Governor 
+
+ Elie E. Saleeby 
+
+ 
+
+- Deputy Governor 
+
+ Sandei A. Cooper 
+
+ 
+
+The Executive Governor and Deputy Governor are appointed by the President of the 
+Republic of Liberia for a term of five (5) years each, subject to confirmation by the Liberian 
+Senate. 
+
+ 
+
+Executive Director, Administration Department : Nathaniel R. Patray, III 
+
+Executive Director, Comptroller Department : James B.A. Dennis 
+
+Executive Director, Banking Department : Joseph K. Acqui, I 
+
+Executive Director, Supervision Department : T. Negbalee Warner, Esq 
+
+Executive Director, Research, Policy 
+
+ & Planning Department : A. Richard Dorley 
+
+Manager, Administration Division : Marie Leigh-Parker 
+
+Manager, Human Resource Management Division : Ethel Davies 
+
+Manager, Management Information Systems Division : Alex Nyaley 
+
+Manager, Accounts Division : (Vacant) 
+
+Manager, Domestic Banking Division : Melisa Emeh 
+
+Manager, Supervision Division : Kolli S. Tamba 
+
+Manager, Research, Policy & Planning Division 
+
+ Responsible for: - National Economy and Fiscal Affairs 
+
+ - Library & Publications : (Vacant) 
+
+Manager, Research, Policy & Planning Division 
+
+ Responsible for: - Money and Financial Markets 
+
+ - Balance of Payments : Lawrence M. Yates 
+
+ 
+
+Manager, Audit Division : Moses Yarsiah 
+
+Manager, Legal Division : Cllr. Isaac Wonasue 
+
+Manager, Corporate Secretary Division 
+
+ and Secretary to the Board of Governors : Cllr. Sie-A-Nyene Yuoh 
+
+Manager, Support Services/Offices of the Executive 
+
+ Governor and Deputy Governor : Christine Hoff-Williams 
+
+Manager, System Administrator & Superintendent 
+
+ Clearing house : D. Sheba Brown 
+
+ 
+
+- Number of Staff : 193 
+
+ 
+
+- Ownership of Bank : 100% State ownership 
+
+ 
+
+- Exchange Rate Regime : Floating/market-based 
+
+ exchange rate regime 
+
+ 
+
+ 
+
+(iv) 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+CENTRAL BANK OF LIBERIA ORGANIZATIONAL CHART 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(v) 
+
+
+ 
+
+ 
+
+LETTER OF TRANSMITAL 
+
+ 
+
+ 
+
+CBL/E-GOV/031/2004 
+
+ 
+
+ 
+
+January 31, 2004 
+
+ 
+
+ 
+
+ 
+
+His Excellency Charles Gyude Bryant 
+
+Chairman 
+
+National Transitional Government of Liberia (NTGL) 
+
+Republic of Liberia 
+
+Executive Mansion 
+
+Monrovia, Liberia 
+
+ 
+
+Dear Chairman Bryant: 
+
+ 
+
+In accordance with the Central Bank of Liberia Act of 1999 Part XI Section 49 (1) (a) and 
+(b), I have the honor most respectfully, on behalf of the Board of Governors, to submit 
+herewith, the Annual Report of the Bank’s activities for the period January 1, 2003 to 
+December 31, 2003. 
+
+ 
+
+The Annual Report also contains a review of national economic developments under which 
+the Bank operated during the period. This period was characterized by the intensification of 
+the civil war throughout the country. This made the collection and interpretation of data on 
+economic activities difficult. 
+
+ 
+
+Respectfully yours, 
+
+ 
+
+ 
+
+ 
+
+Elie E. Saleeby 
+
+Executive Governor and Chairman 
+
+Board of Governors 
+
+Central Bank of Liberia 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(vi) 
+
+
+TABLE OF CONTENTS Page 
+
+ 
+
+ National Economic Developments ……………….……………….. 1-15 
+
+
+ 
+
+1.0 Overview of the Liberian Economy 
+
+
+1.1 Performance of the National Economy 
+
+ 
+
+(A) Domestic Production 
+
+(a) Agriculture 
+
+(i) Rubber 
+
+(ii) Cocoa and Coffee 
+
+(iii) Fish 
+
+(iv) Round Logs 
+
+(v) Sawn Timber 
+
+
+
+
+
+(b) Mining (Gold and Diamond) 
+
+(c) Manufacturing 
+
+(i) Cement 
+(ii) Beverages 
+(iii) Paint (Oil and Water) 
+(iv) Nail 
+(v) Candle 
+(vi) Chlorox 
+(vii) Rubbing Alcohol 
+(viii) Mattresses 
+(ix) Water Supply 
+
+
+(B) Consumption of Petroleum Products 
+
+(C) Seaport Developments 
+
+(D) Employment 
+(E) Consumer Prices Developments 
+
+
+
+
+
+I. Foreign Trade …………………………………….…………….. 16-23 
+
+
+2.0 Merchandise Trade 
+
+2.1 Merchandise Exports 
+
+2.2 Exports by Country of Destination 
+
+2.3 Merchandise Imports 
+
+ 
+
+
+II. Money, Banking, and Exchange Rate Developments ………… 24-31 
+
+
+3.0 Monetary Policy 
+
+
+3.1 Banking Developments 
+3.2 Monetary Developments 
+(A) Currency in Circulation 
+(B) Money Supply (M1) 
+(C) Broad Money (M2) 
+
+
+3.3 Commercial Banks’ Loans and Advances 
+3.4 Interest Rates 
+3.5 Exchange Rates 
+
+
+
+
+(vii) 
+
+
+IV. Fiscal Developments …………………………..…………………. 32-38 
+
+ 
+
+4.0 Fiscal Policy 
+
+4.1 Government Finances 
+
+ 
+
+(A) Revenue 
+(B) Expenditure 
+(C) Budget Performance 
+
+
+
+(i) National Budget: 2002/2003 
+(ii) National Budget: 2003/2004 
+
+
+
+
+
+
+
+V. Public Debt Management …………………….…………………. 39-43 
+
+ 
+
+5.0 Public Debt 
+
+5.1 External Debt 
+
+5.2 Domestic Debt 
+
+5.3 The Debt Burden 
+
+ 
+
+VI. Central Bank of Liberia Activity Report …………...………….. 44-64 
+
+ 
+
+6.0 Administration 
+
+(A) Board of Governors 
+(B) Management 
+(C) Human Resource Development and Organizational Matters 
+a. Local Training 
+b. Foreign Training 
+
+
+(D) Computerization Program 
+(E) Information Technology in the Central Bank of Liberia 
+(F) Publications 
+(G) Library 
+(H) Information Services 
+(I) Bankers’ Forum 
+a. Exchange of Mutilated Liberian Dollar Banknotes 
+b. Bank Charges 
+c. Exchange Rate Volatility 
+d. Inter-Bank Trading 
+
+
+
+
+
+
+
+6.1 Comptroller Department 
+
+
+
+(A) Income Statement 
+(i) Income 
+
+(ii) Expenditure 
+
+(iii) Net Profit 
+
+ 
+
+
+(B) Balance Sheets 
+(i) Assets 
+
+(ii) Liabilities 
+
+(iii) Shareholders’ Equity 
+
+ 
+
+ 
+
+
+
+
+
+
+(viii) 
+
+ 
+
+
+ 
+
+6.4 Research, Policy, and Planning Department 
+(A) Publications 
+
+(B) Surveys 
+
+
+(C) Compilation and Analysis of Monthly Remittances 
+(D) Ad-Hoc Assignments 
+
+
+ 
+
+
+
+
+6.5 Management Information Systems Division 
+(A) BankMaster 
+
+
+(B) SWIFT 
+(C) Mail Server 
+(D) Hardware 
+(E) Training 
+
+
+
+
+
+6.6 Corporate Division 
+
+
+
+6.7 Legal Division 
+
+
+
+6.8 Internal Audit Division 
+
+
+
+
+
+VII. Relationships with International Financial Institutions ……… 65-66 
+
+ 
+
+ 7.0 International Monetary Fund 
+
+7.1 World Bank 
+7.2 Regional and Sub-regional Organizations 
+(MRU, ECOWAS, WAMA, WAIFEM, AACB, WAMI, ACDB, and JAI) 
+
+ 
+
+
+
+
+VIII. Prospects ……………………………...………………………………. 67 
+
+ 
+
+Statistical Annex …………………………….…………………….68-81 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x 
+
+ 
+
+
+LIST OF TABLES 
+
+ 
+
+Table 1: Gross Domestic Product at Constant 2000 Prices (2001-2003) 
+
+Table 2: Key Agriculture Production (2001-2003) 
+
+Table 3: Key Mining Output (2001-2003) 
+
+Table 4: Key Manufacturing Output (2001-2003) 
+
+Table 5: Consumption of Petroleum Products (2001-2003) 
+
+Table 6: Vessel Traffic and Cargo Movements (2001-2003) 
+
+Table 7: Monrovia Consumer Price Index (2001-2003) 
+
+Table 8: Year-On-Year Rate of Inflation (2001-2003) 
+
+Table 9: Foreign Trade (2001-2003) 
+
+Table 10: Commodity Composition of Exports (2001-2003) 
+
+Table 11: Exports by Country of Destination (2001 - 2003) 
+
+Table 12: Commodity Composition of Imports (2001-2003) 
+
+Table 13: Currency in Circulation (2001-2003) 
+
+Table 14: Money Supply and Broad Money (2001-2003) 
+
+Table 15: Commercial Banks’ Loans by Economic Sector (2001-2003) 
+
+Table 16: Interest Rates (2001-2003) 
+
+Table 17: Exchange Rates L$/US$ (2001-2003) 
+
+Table 18: Government of Liberia Revenue by Sources (2001-2003) 
+
+Table 19: Government of Liberia Expenditure by Category (2001-2003) 
+
+Table 20: Government of Liberia Revenue and Expenditure (2001 – 2003) 
+
+Table 21: Sectoral Distribution of the National Budget (2001/2002 and 2002/2003) 
+
+ Table 22: Summary of Liberia’s Public Debt by Creditor (As at December, 2003) 
+
+ 
+
+(xi) 
+
+
+LIST OF CHARTS 
+
+Chart 1: Production of Rubber, Cocoa and Coffee (2001-2003) 
+
+Chart 2: Production of Round Logs and Sawn Timber: 2001-2003 
+
+Chart 3: Year-On-Year Rate of Inflation (January, 2001-December, 2003) 
+
+Chart 4: Exports, Imports and Total Merchandise Trade (2001-2003) 
+
+Chart5: Exports, Imports and Trade Balance (2001-2003) 
+
+Chart 6: Commodity Composition of Exports (2001-2003) 
+
+Chart 7: Percentage Distribution of Exports by Country of Destination (2003) 
+
+Chart 8: Commodity Composition of Imports (2001 - 2003) 
+
+Chart 9: Currency in Circulation (2001 - 2003) 
+
+Chart 10: Money Supply (2001 - 2003)) 
+
+Chart 11: Broad Money (2001 - 2003) 
+
+Chart 12: Government of Liberia Revenue by Sources (2001 - 2003) 
+
+Chart 13: Government of Liberia Expenditure by Category (2001 - 2003) 
+
+Chart 14: Government of Liberia Revenue and Expenditure (2001 - 2003) 
+
+Chart 15: Sectoral Distribution of the National Budget (2002/2003) 
+
+Chart 16: Percentage Distribution of the National Debt (As at December, 2003) 
+
+Chart 17: Percentage Distribution of National Debt by Principal and Interest (As at 
+December, 2003) 
+
+Chart 18: Percentage Distribution of Total Debt Stock by Creditor (As at December, 
+2003) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(xii) 
+
+ 
+
+
+STATISTICAL ANNEX 
+
+ 
+
+ANNEX 1: Gross Domestic Product at Current Prices (2001-2003) 
+
+ANNEX 2: Key Agricultural Production (2001-2003) 
+
+ANNEX 3: Key Manufacturing Output (2001 – 2003) 
+
+ANNEX 4: Consumption of Petroleum Products (2001-2003) 
+
+ANNEX 5: Yearly Averages: All-Items Index and Indices of Sub-groups (2001-2003) 
+
+ANNEX 6: Commodity Composition of Exports (2001-2003) 
+
+ANNEX 7: Commodity Composition of Imports (2001 – 2003) 
+
+ANNEX 8: Central Bank of Liberia Income Statement (2001 - 2003)...... 
+
+ANNEX 9: Central Bank of Liberia Balance Sheet (2002 - 2003)...... 
+
+ANNEX 10: Consolidated Balance Sheet of Commercial Banks (2001-2003) 
+
+ANNEX 11 Commercial Banks’ Loans by Economic Sector (2001 - 2003) 
+
+ANNEX 12: Money Supply & Broad Money (December 2001 – December 2003) 
+
+ANNEX 13: Monetary Survey (December 2001 – December 2003) 
+
+ANNEX 14: Liberian Dollar Exchange Rate – Period Averages (January-December, 2001) 
+
+ANNEX 15: Liberian Dollar Exchange Rate – Period Averages (January – December, 
+
+2002) 
+
+ANNEX 16: Liberian Dollar Exchange Rate – Period Averages (January – December, 
+
+2003) 
+
+ANNEX 17: Government of Liberia Revenue by Sources (2001 - 2003) 
+
+ANNEX 18: Government of Liberia Expenditure by Category (2001 - 2003) 
+
+ 
+
+ 
+
+(xiii) 
+
+
+- 1 - 
+
+I. National Economic Developments 
+
+Overview of the Liberian Economy 
+
+T 
+1.0 
+he Liberian economy declined noticeably during the year under review. Based on 
+the National Accounts Survey conducted in 2002 by the Ministry of Planning & 
+Economic Affairs, it was estimated that the Gross Domestic Product (GDP) would 
+contract by 2.0 percent in real terms during 2003. However, the spread of the civil war 
+throughout the country, including the capital city, coupled with the United Nations ban on 
+Liberia’s timber and diamond exports, decelerated the GDP by 30.0 percent1. 
+
+ 
+
+Performance of the productive sector, which includes agriculture, manufacturing, mining, etc, 
+was dismal. Massive displacement of farmers, closure of some agriculture–related 
+establishments, United Nations ban on major export, commodities, poor infrastructure, 
+inadequate public electric-generating system, high cost of raw materials, limited external 
+support to critical social and economic programs, amongst others, significantly influenced the 
+performance of the sector. In order to mitigate the negative impact of the economic decline 
+on the population, the National Transitional Government intervened directly in the market by 
+reducing the prices of essential commodities (rice and petroleum products) in November of 
+the year under review. This intervention had a debilitating effect on the general price level, 
+thereby reducing the rate of inflation by 4.2 percentage-points, from 14.6 percent during the 
+preceding year to 10.4 percent during the year under review. Shrinking public and private 
+sector investments largely contributed to the high level of unemployment in the economy. 
+
+ 
+
+Foreign trade activities diminished during the reporting year due to the general economic 
+malaise and the ban imposed by the United Nations. Merchandise trade recorded its lowest 
+level in three years, declining by 21.4 percent, from US$354.3 million in 2002 to US$278.6 
+million. Merchandise exports made a stark downturn to US$108.9 million during the year, 
+from US$176.1 million in 2002. Likewise, imports registered a decline of US$8.5 million to 
+US$169.7 million. Consequently, the external trade deficit expanded substantially to US$60.8 
+million compared to US$2.1 million in 2002. 
+
+ 
+
+1 Estimate by the International Monetary Fund Mission (IMF) to Liberia in December, 2003 
+
+
+- 2 - 
+
+ 
+
+In the face of severe economic constraints occasioned by the devastating war and the United 
+Nations sanctions imposed on key export commodities, the Central Bank of Liberia (CBL) 
+was not able to effectively carry out its mandate of maintaining a sound financial system. 
+Although it did not formulate any new monetary policy during the year, the lag effect of the 
+contractionary monetary policy pursued during the previous year contributed largely to the 
+moderate levels of the exchange and inflation rates. 
+
+ 
+
+The banking system operated with only four (4) banks together with a cluster of forex 
+bureaux, during the year under review. The banks were closed to the public for about two 
+months (mid June to mid August) due to the fighting in Monrovia. One of the four 
+commercial banks requested voluntary liquidation at the close of the year. The liquidation of 
+the Liberia United Bank, Incorporated (LUBI) continued with L$22.4 million paid out to 
+some claimants. 
+
+ 
+
+Aggregate bank deposits for the three (3) operating commercial banks amounted to L$1,637.1 
+million as at December 2003. This indicates a decline of 11.7 percent in aggregate deposits of 
+the operating banks when compared to L$1,853.6 million for the preceding year. 
+
+ 
+
+Currency in circulation increased by L$284.9 million during the year to L$1,408.7 million, 
+reflecting a rise of 25.4 percent when matched against the preceding year. The desire of the 
+public to hold cash rather than bank accounts contributed largely to the increase. Also, money 
+supply (M1) rose to L$2,506.8 million during the year, from L$2,363.1 million as at 
+December, 2002. The 6.1 percent rise in money supply was indeed influenced by the issuance 
+of new banknotes to finance government security-related payments. The rise in money supply 
+contributed to the increase of 1.5 percent in overall liquidity or broad money (M2), from 
+L$2,898.5 million in December, 2002, to L$2,940.6 million in December, 2003. 
+
+ 
+
+Total credit to the economic sectors amounted to L$2,008.9 million, declining by 16.1 
+percent when matched against the preceding year. The contraction in loans and advances 
+affected all the sectors of the economy except construction. The general economic downturn 
+resulting from the armed conflict and the volatility in exchange rate are some of the 
+explanatory factors for the slump in commercial banks’ credits. 
+
+
+- 3 - 
+
+ 
+
+The movements in the exchange rate exhibited considerable volatility during the year. The 
+rate rose to L$73.00 per US dollar in June, from L$65.50 per US dollar in January, 2003. 
+However, the end-of-period average rate declined to L$50.50 per US dollar in December, 
+indicating a 22.3 percent appreciation in the value of the domestic currency for the review 
+period relative to 2002. The improved security environment induced by the deployment of the 
+United Nations peacekeepers account for the level of stability in the exchange rate. 
+
+ 
+
+During the year, the average lending rate for commercial banks registered a rise of 0.55 
+percentage point, from 16.64 percent in 2002 to 17.49 percent in 2003. The slight increase in 
+the rate is largely a result of the insecurity that prevailed during the period. Unlike the 
+average lending rate, all other rates, including deposit rate and personal loan rate declined. 
+
+ 
+
+A decision centralizing all revenues of government at the Central Bank was taken during the 
+year. The Fiscal Authority continues the execution of the New Tax Code to ensure 
+transparency, efficiency, and accountability in economic management. 
+
+ 
+
+At the end of 2002/2003 fiscal year, no new budget was approved by government due to the 
+civil war. However, the care-taker government approved a mini-budget of US$10.0 million 
+for the period July-September to facilitate its activities and prepare for the installation of the 
+new transitional administration. Following the inauguration of the National Transitional 
+Government of Liberia (NTGL) in October, a mini-budget of US$21.1 million was also 
+approved to finance its operations. 
+
+ 
+
+Total revenue generated during the year amounted to L$2,499.9 million compared to 
+L$3,959.7 million for 2002, indicating a decrease of 36.9 percent. There were no grants in 
+revenues generated for the reporting year. A substantial proportion of the revenue was 
+generated from direct taxes and maritime. Overall government outlay for the year under 
+review stood at L$2,606.3 million, representing an increase of 38.8 percent when compared 
+to total expenditure for 2002. All of the expenditures were recurrent. 
+
+ 
+
+ 
+
+ 
+
+
+- 4 - 
+
+ 
+
+The total debt stock of the country rose to US$3,301.8 million, representing a 9.6 percent 
+increase over the debt stock of 2002. The external debt component stands at US$2,893.9 
+million, representing 87.6 percent, while the domestic component amounts to US$407.9 
+million, accounting for 12.4 percent. The debt burden of the country has created serious 
+impediment to the efforts of government to undertake concrete reconstruction programs and 
+sustainable socio-economic development. 
+
+ 
+
+1.1 Performance of the National Economy 
+
+ (A) Domestic Production 
+
+ 
+
+As noted, the Liberian economy decelerated during 2003. The civil war induced a massive 
+displacement of the rural population, which disrupted agricultural activities, particularly 
+subsistence production and substantially affected the performance of the manufacturing 
+sector. Besides the civil war, the United Nations ban on exports, lack of external assistance, 
+and low technical, institutional and administrative capacities have also contributed 
+enormously to the economic situation, characterized by exchange rate volatility, rising 
+inflation, high unemployment, negative trade balance, and depressed domestic demand. 
+
+ 
+
+(a) Agriculture 
+
+
+
+
+
+Output of the agriculture sector, which constitutes 57.2 percent of estimated real GDP of 
+US$396.15 million for 2003, declined during the year. The poor performance of the sector 
+was influenced by massive displacement of the farming population, closure of agriculture – 
+related enterprises, the ban on timber exports by the United Nations; poor state of roads and 
+other infrastructure, general lack of basic farm inputs and implements, etc. 
+
+ 
+
+(i) Rubber 
+
+
+
+
+
+Because of the difficulty in obtaining actual production data for rubber, export data are 
+used to represent production since there exists no known domestic use for rubber latex. 
+Total rubber production for the year declined by 40.7 percent to 54,845 metric tons when 
+compared to the preceding year (Table 2). This reduction in production during the year 
+under review is largely attributed to the intensification of the civil war, which led to the 
+disruption of operation of many rubber farms. Matched against the production of 2001, 
+production of the year declined by 50.3 percent. 
+
+
+- 5 - 
+
+ 
+
+Table 1: Gross Domestic Product at Constant 2000 Prices 
+
+(2001-2003) 
+
+(In Millions US$) 
+
+Sector 
+
+2001* 
+
+2002** 
+
+2003** 
+
+AGRICULTURE 
+
+235.55 
+
+231.18 
+
+226.47 
+
+ Fishing 
+
+0.15 
+
+0.15 
+
+0.14 
+
+ Rubber 
+
+49.30 
+
+48.39 
+
+47.40 
+
+ Coffee 
+
+0.09 
+
+0.09 
+
+0.09 
+
+ Cocoa 
+
+0.31 
+
+0.30 
+
+0.30 
+
+ Rice 
+
+58.03 
+
+56.95 
+
+55.79 
+
+ Cassava 
+
+47.34 
+
+46.47 
+
+45.52 
+
+ Others 
+
+80.33 
+
+78.83 
+
+77.23 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FORESTRY 
+
+100.90 
+
+99.02 
+
+97.00 
+
+ Logs & Timber 
+
+66.23 
+
+65.00 
+
+63.67 
+
+ Charcoal & Wood 
+
+34.67 
+
+34.02 
+
+33.33 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MINING 
+
+0.35 
+
+0.33 
+
+0.33 
+
+ Iron Ore 
+
+- 
+
+- 
+
+- 
+
+ Gold 
+
+0.24 
+
+0.23 
+
+0.23 
+
+ Diamond 
+
+0.11 
+
+0.10 
+
+0.10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MANUFACTURING 
+
+18.69 
+
+18.34 
+
+17.97 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tertiary Sector 
+
+71.83 
+
+70.49 
+
+69.05 
+
+Trade, Hotels, etc. 
+
+17.87 
+
+17.53 
+
+17.18 
+
+Electricity 
+
+1.33 
+
+1.31 
+
+1.28 
+
+Water 
+
+8.16 
+
+8.01 
+
+7.84 
+
+Construction 
+
+11.39 
+
+11.18 
+
+10.95 
+
+Communication & Transportation 
+
+0.40 
+
+0.39 
+
+0.38 
+
+Insurance & Other Financial Institutions
+
+10.28 
+
+10.09 
+
+9.89 
+
+Shipping 
+
+0.34 
+
+0.33 
+
+0.33 
+
+Government Services 
+
+17.51 
+
+17.19 
+
+16.83 
+
+Other Services 
+
+4.43 
+
+4.35 
+
+4.26 
+
+NGOs 
+
+0.12 
+
+0.11 
+
+0.11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total 
+
+427.32 
+
+419.36 
+
+410.83 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Less 
+
+15.27 
+
+14.99 
+
+14.67 
+
+ Depreciation 
+
+11.63 
+
+11.42 
+
+11.18 
+
+ Bank Charges 
+
+3.64 
+
+3.57 
+
+3.49 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Net (Value Added) GDP 
+
+412.05 
+
+404.37 
+
+396.15 
+
+
+
+* Results are based on a National Accounts Survey conducted in 2002 
+
+** Estimates are based on the results of the National Accounts Survey conducted in 2002 
+
+Source: Ministry of Planning & Economic Affairs, Monrovia, Liberia 
+
+ 
+
+
+- 6 - 
+
+ 
+
+Table 2: Key Agricultural Production 
+
+(2001-2003) 
+
+Commodity 
+
+Unit 
+
+2001
+
+2002 
+
+2003
+
+Rubber 
+
+Mt. 
+
+110,235
+
+92,442 
+
+54,845
+
+Cocoa 
+
+Mt. 
+
+966
+
+1,540 
+
+1,120
+
+Coffee 
+
+Mt. 
+
+507
+
+405 
+
+-
+
+Fish 
+
+Kg. 
+
+409,940
+
+403,380 
+
+266,000
+
+Round Logs 
+
+M3
+
+980,361
+
+1,363,861 
+
+548,446*
+
+Sawn Timber 
+
+M3
+
+19,945
+
+15,372 
+
+1,979*
+
+
+
+* Estimates 
+
+Sources: Ministry of Planning & Economic Affairs, Forestry Development Authority (FDA); Ministry of 
+Commerce & Industry, and Liberia Produce Marketing Corporation (LPMC), Monrovia, Liberia 
+
+ 
+
+ 
+
+(ii) Cocoa and Coffee 
+
+ 
+
+Cocoa production during the year totaled 1,120 metric tons compared to 1,540 metric 
+tons produced during the preceding year. The 27.3 percent reduction in production is 
+attributed to the war. Compared to the production of 2001, current production 
+increased by 15.9 percent. No coffee production data for the year were available. 
+
+ 
+
+Chart 1: Production of Rubber, Cocoa and Coffee 
+
+(2001-2003) 
+
+(In Metric Tons) 
+
+020,00040,00060,00080,000100,000120,000200120022003YearVolumeRubber 
+Cocoa 
+Coffee 
+
+
+(iii) Fish 
+
+ 
+
+Total quantity of fish caught during the year stood at 266,000 kilograms. This level of 
+catch declined by 34.1 percent when matched against the level for 2002 and 35.1 
+percent when compared to 2001. In addition to the war that affected the whole 
+country, the high cost of fishing gear and petroleum products was to a great extent 
+responsible for the downturn in fish output during the year. Output for the year 
+declined by 35.1 percent when compared to that of 2001. 
+
+
+- 7 - 
+
+ 
+
+(iv) Round Logs 
+
+ 
+
+An estimated total of 548,446 cubic meters of logs was produced during the review 
+year compared to 1,363,861 cubic meters in the previous year. The 59.8 percent 
+reduction in log production is a direct result of the devastating war that brought about 
+the closure of all logging enterprises in the country coupled with the United Nations 
+sanction on log exports. When compared to the production for 2001, production of the 
+year under review declined by 44.1 percent. 
+
+ 
+
+(v) Sawn Timber 
+
+ 
+
+Sawn timber output during the year is estimated to be 1,979 cubic meters, which 
+reflects a decline of 87.1 percent when matched against the production level of the 
+preceding year. The contraction in sawn timber output was due to the war that brought 
+logging operations to a halt throughout the country. Output of the year also declined 
+by 90.1 percent when viewed against the output of 2001. 
+
+ 
+
+Chart 2: Production of Round Logs and Sawn Timber (2001-2003) 
+
+(In Cubic Meters) 
+
+0500,0001,000,0001,500,000200120022003YearVolumeRound Logs 
+Sawn Timber 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 8 - 
+
+ 
+
+(b) Mining (Diamond and Gold) 
+
+ 
+
+Diamond mining came to a halt since May 2001 following the imposition of a ban by 
+the United Nations on Liberia’s diamond exports. With the ban, gold production, 
+therefore, remains the only mineral mining activity in the country. Gold production 
+rose during the year to 2,115 ounces compared to 1,350 ounces mined during the 
+previous year. The 56.7 percent increase in production over the preceding year is an 
+outcome of international price rise and the shift of resources from diamond to gold 
+mining. Current production grew by 36.7 percent when compared to the production of 
+2001. 
+
+ 
+
+Table 3: Key Mining Output 
+
+(2001-2003) 
+
+Commodity 
+
+Unit 
+
+2001 
+
+2002 
+
+2003 
+
+Diamond 
+
+Carat 
+
+3,885 
+
+0 
+
+0 
+
+Gold 
+
+Ounce 
+
+1,547 
+
+1,350 
+
+2,115 
+
+
+
+Source: Ministry of Lands, Mines & Energy, Monrovia, Liberia 
+
+ 
+
+(c) Manufacturing 
+
+ 
+
+The manufacturing sector, whose contribution to the economy is estimated at 
+US$17.97 million (or 4.5 percent) of estimated real GDP for 2003, is engaged in the 
+production of consumer goods for domestic consumption, with few for export. The 
+sector manufactures mainly chemical products, cement, wood-based materials, 
+beverages as well as processes foodstuffs. Inadequate public electric-generating 
+system, high cost of raw materials, and depressed domestic demand for products of 
+the sectors were leading factors that impede the growth of the sector. 
+
+ 
+
+(i) Cement 
+
+ 
+
+Output of cement declined by 22.1 percent to 41,827 metric tons during the year, from 
+53,662 metric tons produced in 2002. The decline was a result of the series of attacks 
+during the war on the facilities of CEMENCO, the firm producing cement in the 
+country. When matched against the production of 2001, output of the year under 
+review reduced by 33.5 percent. 
+
+ 
+
+
+- 9 - 
+
+ 
+
+(ii) Beverages 
+
+ 
+
+An estimated total of 7.7 million liters of beverages was produced during the year 
+compared to 8.9 million liters produced during 2002. This reflects a 13.5 percent 
+reduction in current output. The series of attacks on the firms producing beverages 
+during the war contributed to the contraction in output. When compared to the output 
+of 2001, current production declined by 38.4 percent. Of the estimated output of 
+beverages for the year, alcoholic beverage represents 39.0 percent, while non-
+alcoholic beverage accounts for 61.0 percent. Estimated total output of 88,649 liters 
+of spirit; 2.0 million liters of beer; 880,717 liters of stout; 264,884 liters of malta, and 
+4.5 million liters of soft drinks was produced during the year. 
+
+ 
+
+Table 4: Key Manufacturing Output 
+
+(2001-2003) 
+
+Commodity 
+
+Unit 
+
+2001 
+
+2002 
+
+2003 
+
+Cement 
+
+Mt. 
+
+62,897
+
+53,662 
+
+41,827
+
+Beverages 
+
+Liter 
+
+12,546,007
+
+8,864,951 
+
+7,724,154*
+
+Paint 
+
+Gal. 
+
+36,983
+
+12,980 
+
+5,934*
+
+Nail 
+
+Kg. 
+
+117,950
+
+52,450 
+
+47,186*
+
+Candle 
+
+Kg. 
+
+674,563
+
+708,899 
+
+282,787*
+
+Chlorox 
+
+Liter 
+
+117,925
+
+154,992 
+
+73,656
+
+Rubbing Alcohol 
+
+Liter 
+
+62,668
+
+87,178 
+
+21,635
+
+Mattresses 
+
+Pcs. 
+
+15,135
+
+4,660 
+
+2,340*
+
+Deep Water1
+
+Gal. 
+
+43,091,594
+
+25,813,127 
+
+32,890,137
+
+Finished Water2
+
+Gal. 
+
+337,483,970
+
+315,592,930 
+
+283,898,370
+
+
+
+* Estimates 
+
+Sources: Ministry of Planning & Economic Affairs and Liberia Water & Sewer Corporation, 
+Monrovia, Liberia 
+
+Note: 1Water from drilled wells 
+
+ 2 Water from the treatment plant in White Plains 
+
+ 
+
+(iii) Paint (oil and water) 
+
+ 
+
+When compared to the output of the previous year, output of paint, estimated at 5,934 
+gallons, declined by 54.3 percent. The partial destruction of the factory in the attacks 
+on the capital city during the war led to the cessation of production since the second 
+quarter of the year. Matched against the production of 2001, output of the year under 
+review fell by almost 84.0 percent. 
+
+
+- 10 - 
+
+ 
+
+(iv) Nail 
+
+ 
+
+Nail output recorded a decline of 10.0 percent to an estimated total of 47,186 
+kilograms during the year, from 52,400 kilograms produced in the last year. Reports 
+indicated that the series of dissidents’ attacks on the capital city resulted to the 
+destruction of machinery and the subsequent closure of operations at the nail-
+producing firms. Current output of nails declined by about 60.0 percent when 
+compared to the output of 2001. 
+
+ 
+
+(v) Candle 
+
+ 
+
+An estimated total of 282,787 kilograms of candle was produced in the year compared 
+to 708,899 kilograms produced in 2002. This reflects a 60.1 percent reduction in 
+output during the year and was a direct result of the destruction of the firm’s facilities 
+during the war. Compared to the output of 2001, output of the year declined by 60.5 
+percent. 
+
+ 
+
+(vi) Chlorox 
+
+ 
+
+Chlorox production registered a reduction of 52.5 percent during the year, from 
+154,992 liters during 2002. The damage done to the facilities of the company during 
+the war was responsible for the decline in output. Matched against 117,925 liters 
+produced in 2001, output of the year declined by 37.5 percent. 
+
+ 
+
+(vii) Rubbing Alcohol 
+
+ 
+
+The production of rubbing alcohol plummeted during the year to 21,635 liters from 
+87,178 liters produced in the preceding year, a decline of 75.2 percent. Because of the 
+destruction done to the facilities of the company due to the fighting in Monrovia, 
+production of alcohol ceased. Production declined by 65.5 percent when compared to 
+the production level of 2001. 
+
+ 
+
+
+- 11 - 
+
+ 
+
+(viii) Mattresses 
+
+ 
+
+Output of mattresses during the year declined to 2,340 pieces compared to 4,660 
+pieces produced in 2002. The 49.1 percent reduction in output is a result of the 
+damage done to the facilities of the mattress-producing enterprises during the conflict. 
+When compared to the output of 2001, output of the year reduced by 12,795 pieces. 
+
+ 
+
+(ix) Water Supply 
+
+
+
+
+
+The quantity of water supplied during the review year reduced to 316.8 million 
+gallons, from 341.4 million gallons during the preceding year. The series of dissident 
+attacks on Monrovia in the year contributed to the decline of 7.2 percent in water 
+supply. When compared to the production level of 2001, the present production level 
+declined by 16.8 percent. 
+
+ 
+
+(B) Consumption of Petroleum Products 
+
+ 
+
+A total of 19.3 million gallons of petroleum products was consumed during the year. 
+Matched against the previous year, consumption of petroleum products in the review 
+year contracted by 34.6 percent. The decline in the volume of petroleum products 
+resulted from the volatility in the exchange rates between the domestic currency and 
+the United States currency as well as the devastating war. The present consumption 
+level is 45.2 percent less than the consumption level for 2001 (Table 5). 
+
+ 
+
+Table 5: Consumption of Petroleum Products 
+
+(2001-2003) 
+
+Commodity 
+
+Unit 
+
+2001 
+
+2002 
+
+2003 
+
+PMS (Gasoline) 
+
+Gal. 
+
+12,022,172
+
+10,067,157 
+
+6,259,801
+
+AGO (Diesel) 
+
+Gal. 
+
+21,772,572
+
+18,334,626 
+
+11,746,353
+
+ATK (Kerosene) 
+
+Gal. 
+
+1,132,588
+
+201,201 
+
+406,868
+
+Jet – A1 
+
+Gal. 
+
+1,132,588
+
+902,048 
+
+884,679
+
+Total 
+
+ 
+
+35,191,417
+
+29,505,032 
+
+19,297,701
+
+
+
+Source: Ministry of Finance, Monrovia, Liberia 
+
+ 
+
+
+- 12 - 
+
+ 
+
+(C) Seaport Developments 
+
+ 
+
+A significant level of external (merchandise) trade is directed through the seaports of 
+the country. Available data on seaport operations indicate a downward trend since 
+2001. A total of 194 vessels with Summer Dead Weight Tons (actual carrying 
+capacity of a vessel) of 1,904,531 berthed at the Free Port of Monrovia, freighting a 
+total cargo volume of 544,237 metric tons during the year under review. The number 
+of vessels that anchored at the Free Port declined by 9.8 percent to 194 vessels, from 
+215 vessels in 2002. Of the aggregate volume of cargoes transported during the year, 
+exports account for 25.7 percent, while imports represent 74.3 percent. 
+
+ 
+
+Total exports through the seaports declined by 17.2 percent to 139,962 metric tons, 
+from 169,099 metric tons in 2002. Unlike exports, import volume rose to 404,275 
+metric tons during the year under review, from 355,578 metric tons in 2002 – an 
+increase of 13.7 percent. Volume of aggregate merchandise trade rose by 3.7 percent 
+to 544,237 metric tons during the year under review. Increased relief imports to 
+address the needs of people displaced by the war largely contributed to the rise in 
+merchandise trade during the year (Table 6). Compared to 2001, the volume of 
+cargoes for the year declined by 29.2 percent. 
+
+ 
+
+Table 6: Vessel Traffic and Cargo Movements 
+
+(2001-2003) 
+
+Year 
+
+No. of 
+Vessels 
+
+Vessel 
+Weight 
+(SDWT)* 
+
+Cargo Tonnage (In Metric Tons) 
+
+ 
+
+ 
+
+ 
+
+Exports 
+
+Imports 
+
+Total 
+
+2001 
+
+219 
+
+2,732,122
+
+267,122
+
+500,996 
+
+768,118
+
+2002 
+
+215 
+
+2,845,785
+
+169,099
+
+355,578 
+
+524,677
+
+2003 
+
+194 
+
+1,904,531
+
+139,962
+
+404,275 
+
+544,237
+
+
+
+Source: National Port Authority (NPA), Monrovia, Liberia 
+
+ *SDWT=Summer Deadweight Tons – actual carrying capacity of a vessel 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 13 - 
+
+ 
+
+(D) Employment 
+
+ 
+
+Since 1997, one of the principal socio-economic problems that face the government is 
+unemployment. As the labor market grows with the graduation of men and women 
+from academic and vocational institutions, enterprises that should have absorbed the 
+rising labor force were closed due to insecurity and shrinking private domestic 
+investment. A significant proportion of the unemployed are engaged in informal 
+economic activities, including shoe-repair, food kiosk, furniture-making, street-side 
+vehicle repair, street-hawking, street-side typing, watch repair, mat-weaving, etc. 
+With the unavailability of official employment statistics due to the damage done to 
+public institutions, one can draw a logical conclusion from mere causal observation 
+that the rate of unemployment rose above 75.0 percent during the year under review. 
+In 2002, public sector employment stood at 57.5 percent, while private sector 
+represented 42.5 percent with more than 420,000 persons engaged in informal 
+activities. Basically, the partial inactivity of the productive sector of the economy 
+coupled with shrinking public sector investment heightened the level of 
+unemployment in the formal sector during the reporting period. 
+
+ 
+
+(E) Consumer Price Developments 
+
+ 
+
+Inflationary pressure in the economy moderated with the average All-Items Index of 
+the Monrovia Consumer Price Index (MCPI) rising to 157.0 during the year, from 
+142.3 in 2002 (May 1998=100). This indicates that the average rate of inflation for the 
+year stood at 10.4 percent compared to 14.6 percent in 2002 and 12.2 percent in 2001 
+(Table 8), reflecting declines of 4.2 and 1.7 percentage points for 2002 and 2001, 
+respectively. During the first half of the year, the inflationary pressure intensified with 
+the rate of inflation for the period (January-June) averaging 11.2 percent. The upward 
+spiral in the general price level was, to some extent, a result of monetary expansion, 
+exchange rate depreciation, the perilous security condition that prevailed as the war 
+spread throughout the country. The relatively high dependence of the Liberian 
+economy on imported goods, and the use of the US dollar as a legal tender alongside 
+the Liberian dollar also resulted in the increase in domestic prices. 
+
+ 
+
+
+- 14 - 
+
+ 
+
+During the last six months of the year under review, the general price level declined 
+following the cessation of hostilities and the formation of the transitional government. 
+The relatively peaceful environment that prevailed throughout the country as a result 
+of the ceasefire agreement largely influenced the appreciation of the domestic 
+currency and the fall in prices of goods and services. 
+
+ 
+
+In the last quarter of the year, the National Transitional Government effected a 
+reduction in the prices of some essential commodities, mainly rice and petroleum 
+products. The action of Government also helped to subdue the rising price level, with 
+the average rate of inflation declining to 9.6 percent, from 11.2 percent in the first half 
+of the year. 
+
+ 
+
+The Food sub-group, which has the highest group weight in the MCPI, recorded a rate 
+of increase of 13.3 percentage points, from 13.7 in 2002 to 27.0 percent during the 
+year under review. The disruption in economic activities, including subsistence 
+agriculture partly contributed to the increase in the food index. This increase in food 
+prices exacerbated the misery of the people in the country. Unlike the food sub-group, 
+all other sub-groups of the MCPI registered declines during the year when compared 
+to the preceding year (Table 7). 
+
+ 
+
+Table 7: Monrovia Consumer Price Index 
+
+(2001-2003) 
+
+(May 1998=100) 
+
+ 
+
+Components 
+
+Year 
+
+Rate of Change 
+
+Weights 
+
+2001 
+
+2002 
+
+2003 
+
+2002 
+
+2003 
+
+All Items 
+
+100
+
+124.7
+
+142.2
+
+157.0
+
+14.6 
+
+10.4
+
+Food 
+
+34.4
+
+97.7
+
+111.0
+
+140.9
+
+13.7 
+
+27.0
+
+Drinks & Tobacco 
+
+5.7
+
+121.9
+
+140.1
+
+160.0
+
+15.4 
+
+14.5
+
+Fuel & Light 
+
+5.0
+
+135.3
+
+155.5
+
+154.4
+
+15.1 
+
+-0.7
+
+Clothing 
+
+13.8
+
+112.2
+
+119.1
+
+121.2
+
+6.3 
+
+1.8
+
+Household Goods 
+
+6.1
+
+136.6
+
+158.8
+
+161.9
+
+17.7 
+
+2.0
+
+Personal Care 
+
+11.4
+
+209.5
+
+258.9
+
+266.8
+
+28.5 
+
+3.3
+
+Rent 
+
+14.9
+
+130.2
+
+131.2
+
+131.5
+
+0.8 
+
+0.2
+
+Miscellaneous 
+
+8.7
+
+117.7
+
+152.2
+
+173.3
+
+30.0 
+
+14.5
+
+
+
+Source: Central Bank of Liberia, Monrovia, Liberia 
+
+ 
+
+
+- 15 - 
+
+ 
+
+Table 8: Year-On-Year Rate of Inflation 
+
+(2001 –2003) 
+
+(May 1998=100) 
+
+Month 
+
+2001 
+
+2002 
+
+2003 
+
+January 
+
+3.1 
+
+19.5 
+
+12.8 
+
+February 
+
+2.4 
+
+22.4 
+
+11.0 
+
+March 
+
+2.3 
+
+23.8 
+
+10.2 
+
+April 
+
+8.3 
+
+17.9 
+
+9.7 
+
+May 
+
+3.8 
+
+18.7 
+
+8.9 
+
+June 
+
+8.8 
+
+14.0 
+
+14.4 
+
+July 
+
+18.1 
+
+9.3 
+
+12.8 
+
+August 
+
+20.1 
+
+8.8 
+
+14.3 
+
+September 
+
+19.2 
+
+8.8 
+
+10.0 
+
+October 
+
+20.9 
+
+8.5 
+
+8.3 
+
+November 
+
+18.8 
+
+12.0 
+
+7.2 
+
+December 
+
+19.4 
+
+11.1 
+
+5.0 
+
+Average Rate of Inflation 
+
+12.1 
+
+14.6 
+
+10.4 
+
+
+
+Source: Central Bank of Liberia, Monrovia, Liberia 
+
+ 
+
+ 
+
+Chart 3: Year-On-Year Rate of Inflation 
+
+(January, 2001 – December, 2003) 
+
+(May 1998=100) 
+
+0.05.010.015.020.025.0Jan.
+Feb.
+MarAprMayJunJulAugSepOctNovDecJan.
+Feb.
+MarAprMayJunJulAugSepOctNovDecJan.
+Feb.
+MarAprMayJunJulAugSepOctNovDec200120022003YearPercent 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 16 - 
+
+ 
+
+II. FOREIGN TRADE 
+
+ 
+
+2.0 Merchandise Trade 
+
+
+L 
+iberia’s external trade sector was in a very fragile state during the reporting period. 
+Foreign trade activities diminished during the year. The low level of merchandise 
+trading activities can be ascribed to the general economic malaise characterized by 
+dampened economic activities. The problem was further exacerbated by such factors as 
+United Nations ban on some key export commodities and the intensification of the hostilities, 
+which resulted to the disruption of the general economy. 
+
+ 
+
+Table 9: Foreign Trade 
+
+(2001-2003) 
+
+(In Millions US$) 
+
+Year 
+
+Exports 
+
+Imports 
+
+Trade Balance 
+
+Total 
+Merchandise 
+Trade 
+
+2001 
+
+127.9 
+
+228.7
+
+-100.8 
+
+356.6
+
+2002 
+
+176.1 
+
+178.2
+
+-2.1 
+
+354.3
+
+2003 
+
+108.9 
+
+169.7
+
+-60.8 
+
+278.6
+
+
+
+Sources: Ministries of Commerce & Industry, Finance, and the Forestry Development Authority, (FDA) 
+
+ 
+
+ 
+
+External trade statistics are supportive of the low level of foreign trade activities that occurred 
+during the year 2003. The value of total trade amounted to US$278.6 million compared to 
+US$354.3 million recorded in 2002; this reflects a decline of 21.4 percent (Table 9 & Chart 
+4). This level of total merchandise trade registered for the year 2003 is its lowest level 
+recorded in the past three years. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 17 - 
+
+ 
+
+Chart 4: Exports, Imports, and Total Merchandise Trade 
+
+(2001-2003) 
+
+(In Millions US$) 
+
+050100150200250200120022003Year(In Millions US$)
+Exports 
+Imports 
+
+
+ 
+
+ 
+
+Consequently, the country’s net external trade position has been characterized by substantial 
+deficits. The improvement in the trade deficit recorded during 2002 was reversed during the 
+period under review. The deficit deteriorated substantially, expanding from US$2.1 million in 
+2002 to US$60.8 million in 2003. The expansion in the deficit can be explained by the large 
+contraction in export proceeds, which surpassed a marginal decline in import payments 
+(Table 9 and Chart 5). 
+
+ 
+
+Chart 5: Exports, Imports, and Trade Balance 
+
+(2001-2003) 
+
+(In Millions US$) 
+
+-200-1000100200300200120022003Year(In Millions US$)
+Exports 
+Imports 
+Trade Balance 
+
+
+
+- 18 - 
+
+ 
+
+2.1 Merchandise Exports 
+
+ 
+
+Developments in the export sector during the preceding year contrasted sharply with those of 
+the year under review. While export proceeds were on the increase in 2002, they took a 
+downturn in the period under consideration, recording their lowest level in three years. 
+
+ 
+
+During the year, export proceeds amounted to US$108.9 million, compared to US$176.1 
+million recorded in 2002 (Table 10 & Chart 6). This 38.2 percent reduction in export earnings 
+was on account of a combination of factors. These include narrow export base, poor state of 
+infrastructure, imposition of sanctions on certain commodities (diamonds and logs) 
+emanating from Liberia, among others. The virtual cessation of economic activities due to the 
+war, particularly during the third quarter of the year, is a noticeable contributing factor to the 
+contraction in export receipts as all major ports of entry were inaccessible. 
+
+ 
+
+Table 10:Commodity Composition of Exports 
+
+(2001-2003) 
+
+(In Millions US$) 
+
+Commodity 
+
+2001
+
+2002 
+
+2003
+
+Rubber 
+
+54.3
+
+59.1 
+
+43.9
+
+Logs 
+
+69.2
+
+109.9 
+
+54.6
+
+Cocoa Beans & Coffee 
+
+0.5
+
+0.6 
+
+0.9
+
+Others 
+
+3.9
+
+6.5 
+
+9.5
+
+Total 
+
+127.9
+
+176.1 
+
+108.9
+
+
+
+Source: Ministries of Commerce & Industry and the Forestry Development Authority, (FDA), Monrovia, 
+
+Liberia 
+
+ 
+
+ 
+
+The decline in total export receipts was shared by the primary export commodities (rubber 
+and logs) as other exportables recorded some increases. Export proceeds from rubber fell, 
+from US$59.1 million in 2002 to US$43.9 million in 2003, representing a decline of 25.7 
+percent or US$15.2 million (Table 10). The disruption of rubber export activities, occasioned 
+by the intensification of hostilities in the country, contributed immensely to the contraction in 
+receipts from rubber. Even processed rubber could not be exported as the various ports of 
+entry were under siege. 
+
+
+- 19 - 
+
+Chart 6: Commodity Composition of Exports 
+
+(2001-2003) 
+
+(In Millions US$) 
+
+050100150200200120022003Year(In Millions US$)
+Rubber 
+Logs 
+Cocoa Beans & CoffeeOthers 
+Total 
+
+
+ 
+
+Log exports, the dominant source of foreign exchange also did not fare well. Export earnings 
+from logs amounted to US$54.6 million at year-end 2003, representing about half of the 
+earnings recorded in 2002. The dismal performance of revenue from logs can be generally 
+attributed to the sluggish performance of the economy occasioned by heightened insecurity, 
+which led to the cessation of logging operations and the imposition of sanctions on log 
+exports. 
+
+ 
+
+The exportation of other traditional commodities such as cocoa beans and coffee has 
+dwindled in recent years. The production of these commodities suffered from the disruption 
+of economic activities as a result of the intensification of hostilities in parts of the country 
+where coffee and cocoa are grown. As in the previous two years, their joint earnings were 
+recorded at less then US$1.0 million. Conjectural evidence also suggests that these 
+commodities are involved in cross border trading, a situation which has also resulted to the 
+reduction in their receipts. This is plausible considering that the coffee and cocoa producing 
+zones are closer to the borders of neighboring countries. 
+
+ 
+
+Export proceeds from the “other” category recorded the only significant increase during the 
+review period. They registered an increase of 46.2 percent, from US$6.5 million in 2002 to 
+US$9.5 million at year end 2003. This category of exports basically comprises scrap metals, 
+charcoal, sawn timber and other miscellaneous goods. However, for the period under review, 
+the influence of sawn timber was very minimal as logging activities were reduced as a result 
+of the current international embargo on logs. The structure of export doesn’t allow for 
+meaningful diversification of the export base. This is so because the two primary exports 
+(logs & rubber) account for over 90.0 percent of total exports. 
+
+
+- 20 - 
+
+ 
+
+2.2 Exports by Country of Destination 
+
+ 
+
+The direction of Liberia’s export has not shifted significantly in recent years. For the year 
+under review, the principal markets for the country’s exports were dominated by Hong Kong, 
+the United States of America (USA) and France, accounting for 37.8 percent, 31.3 percent 
+and 15.0 percent, respectively (Table 11 & Chart 7). Exports to other European countries 
+represented 10.5 percent of total export earnings while other countries accounted for 5.4 
+percent. 
+
+ 
+
+Table 11: Exports by Country Destination 
+
+(2001 – 2003) 
+
+(In Millions of US$) 
+
+Country 
+
+2001 
+
+2002 
+
+2003 
+
+% distribution of exports 
+by country of destination 
+2003 
+
+Hong Kong 
+
+- 
+
+- 
+
+41.2 
+
+37.8 
+
+USA 
+
+48.5 
+
+52.7 
+
+34.1 
+
+31.3 
+
+France 
+
+55.9 
+
+90.0 
+
+16.3 
+
+15.0 
+
+Other European Countries 
+
+18.4 
+
+26.7 
+
+11.4 
+
+10.5 
+
+Other Countries 
+
+5.1 
+
+6.7 
+
+5.9 
+
+5.4 
+
+Total 
+
+127.9 
+
+176.1 
+
+108.9 
+
+100.0 
+
+
+
+Source: Ministry of Commerce and Industry, Monrovia, Liberia 
+
+ 
+
+Export proceeds from the USA, which represented predominantly rubber exports amounted to 
+US$34.1 million in 2003; indicating a decline of 39.1 percent, from US$52.7 million 
+recorded in 2002. Export earnings from France also recorded a decline during the period 
+under review. These earnings fell by 81.9 percent, from US$90.0 million in 2002 to US$16.3 
+million. It must be noted that exports to France were largely logs. Earnings from exports to 
+all other countries also fell during the period. 
+
+ 
+
+Exports receipts from Hong Kong recorded the only increase during the year. With no export 
+proceeds registered in 2002, receipts from Hong Kong were recorded at US$41.2 million in 
+2003. These proceeds, which represented only earnings from logs, made Hong Kong the 
+largest importer of logs from Liberia, accounting for 75.5 percent of total log exports in 2003. 
+
+ 
+
+ 
+
+
+- 21 - 
+
+ 
+
+Chart 7: Percentage Distribution of Exports by Country of Destination 
+
+(2003) 
+
+USA31.3%
+Hong Kong37.8%
+Other Countries5.4%
+Other European 
+Countries10.5%
+France 
+15.0% 
+
+
+ 
+
+Intra-regional trade (Mano River Union, ECOWAS Countries) has been negligible during the 
+period under consideration. However, substantial cross-border transactions are said to be 
+occurring at the borders with neighboring countries, including Guinea, Ivory Coast and Sierra 
+Leone. The growth in these illicit activities can be ascribed to the war, the poor state of 
+infrastructure, insecurity in transporting goods to urban markets, higher price incentives in 
+the neighboring countries, among others. 
+
+ 
+
+2.3 Merchandise Imports 
+
+ 
+
+Payments for imports for the review year also recorded a decline. Accordingly, total 
+expenditure on imports shrank from US$178.2 million in 2002 to US$169.7 million in 2003 
+(Table 12 &Chart 8). This 4.8 percent reduction was largely on account of inadequate supply 
+of foreign exchange, volatility in the exchange rate, unfavorable security and investment 
+environment, partial dormancy of the ports of entry, among others. With the exception of 
+payments to Manufactured Products, Miscellaneous Articles, Crude Materials and Machinery 
+& Transport Equipment expenditures on all other categories of imports contracted during the 
+review period. 
+
+
+- 22 - 
+
+ 
+
+Table 12: Commodity Composition of Imports 
+
+(2001 – 2003) 
+
+(In Millions of US$) 
+
+Category 
+
+2001 
+
+2002 
+
+2003 
+
+Food & Live Animals 
+
+61.3 
+
+51.1 
+
+50.7 
+
+Beverages & Tobacco 
+
+6.1 
+
+5.6 
+
+5.5 
+
+Crude Materials 
+
+4.1 
+
+2.0 
+
+3.6 
+
+Minerals, Fuel & Lubricants 
+
+2.2 
+
+1.6 
+
+1.3 
+
+Animals & Vegetable Oil 
+
+2.6 
+
+2.8 
+
+2.5 
+
+Chemical & Related Products 
+
+8.7 
+
+7.5 
+
+6.8 
+
+Manufactured Products 
+
+18.5 
+
+12.1 
+
+14.9 
+
+Machinery & Transport Equipment 
+
+35.4 
+
+14.4 
+
+14.8 
+
+Petroleum Products 
+
+72.1 
+
+60.5 
+
+37.1 
+
+Miscellaneous Articles 
+
+17.6 
+
+20.6 
+
+32.6 
+
+Total 
+
+228.6 
+
+178.2 
+
+169.7 
+
+
+
+Source: Ministries of Commerce & Industry and the Forestry Development Authority, (FDA), Monrovia, 
+
+Liberia 
+
+ 
+
+ 
+
+Chart 8: Commodity Composition of Imports 
+
+(2001 – 2003) 
+
+(In Millions of US$) 
+
+050100150200250200120022003Year(In Millions US$)
+Food & Live AnimalsBeverages & TobaccoCrude MaterialsMinerals, Fuel & LubricantsAnimals & Vegetable OilChemical & Related ProductsManufactured ProductsMachinery & Transport EquipmentPetroleum ProductsMiscellaneous ArticlesTotal 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 23 - 
+
+ 
+
+Expenditures on Food and Live Animals fell by 7.8 percent, from US$51.1 million recorded 
+in 2002 to US$50.7 million registered in 2003. This slight decline was due in part, to the 
+partial closure of sea and air ports during the period of intensified fighting. Notwithstanding 
+the contraction in payments to this category, they represent the dominant share in total import 
+payments, constituting 29.9 percent. 
+
+ 
+
+Expenditures on other categories including, Beverages & Tobacco, Minerals, Fuel & 
+Lubricants, Animals & Vegetable Oil and Chemical & Related Products also declined. This 
+development was largely on account of the generally limited economic activities that 
+occurred in the country during the period. 
+
+ 
+
+The declining movement in payments to Petroleum Products recorded during 2002 continued 
+during 2003. Accordingly, expenditures on Petroleum Products contracted by 38.7 percent, 
+from US$60.5 million in 2002 to US$37.1 million in 2003. 
+
+ 
+
+The declining trend in import of Manufactured Products during the past year was reversed 
+during the reporting period. Accordingly, there was an upsurge in payments to the category 
+by 23.1 percent, from US$12.1 million in 2002 to US$14.9 million in 2003 (Table 12). 
+
+ 
+
+Comprising basically personal effects and relief items, payments to the Miscellaneous 
+Articles category recorded a significant increase in recent years as a result of the war. During 
+the period under review, import payments to this category recorded their highest level in 
+three years, amounting to US$32.6 million, reflecting on increase of 58.3 percent over its 
+level recorded in 2002. This increase can be explained by the heightened humanitarian and 
+philanthropic activities that followed the cessation of hostilities in the country during the 
+year. 
+
+
+- 24 - 
+
+ 
+
+III. MONEY, BANKING, AND EXCHANGE RATE DEVELOPMENTS 
+
+
+
+3.0 Monetary Policy 
+
+
+
+
+D 
+uring the year 2003, the Central Bank was unable to effectively carry out its 
+mandate of maintaining a sound financial system, which is a prerequisite for 
+economic growth and development. This was due to severe economic constraints 
+brought about by the war and United Nations sanction imposed on major export commodities. 
+The primary objective of the Bank’s monetary policy is the achievement of exchange rate and 
+price stability thereby preserving the value of the national currency. The Bank seeks to 
+achieve lower growth in key monetary aggregates as and when necessary. However, there 
+was no new policy measure pursued during the reporting period. With relative peace and 
+stability returning to the country, it is expected that increased economic activities will ensue. 
+
+ 
+
+3.1 Banking Developments 
+
+ 
+
+The Liberian banking system now has four (4) operating banks, including the Central Bank. 
+The severity of the war impacted negatively on the banking system. The entire system was 
+shut down or closed for about three months (June – August). This situation prompted one of 
+the commercial banks to submit application to undergo voluntary liquidation. After a careful 
+review of the application, the Bank took the necessary steps to safe guard the depositors. The 
+banking system is complemented by a cluster of foreign exchange bureaux in and around 
+Monrovia that are actively involved in the foreign exchange market. As at the end of the 
+reporting period, there were 22 licensed forex bureaux, while 35 had provisional licenses. 
+Efforts were made to weed out operators of illegal forex bureaux from the market. 
+
+ 
+
+The liquidation of the Liberia United Bank Incorporated (LUBI) continued during the year 
+under review. As at December 31, 2003, a total of 3,019 claimants had submitted claims and 
+a total of L$22.4 million had been paid. 
+
+ 
+
+ 
+
+
+- 25 - 
+
+ 
+
+The aggregate capital of the operating commercial banks reduced to L$1,242.4 million as at 
+December 31, 2003, from L$1,342.1 million as at December 31, 2002. This reduction was 
+due to the request of one of the banks to undergo voluntary liquidation. 
+
+ 
+
+Aggregate bank deposits for the three (3) operating commercial banks stood at L$1,864.8 
+million as at December 2003, compared to L$1,873.6 million for the preceding year. The fall 
+in aggregate deposits was due to the voluntary closure of one of the commercial banks and 
+the general decline in economic activities as a result of the war. 
+
+ 
+
+Except for a brief period of banking impossibility (June – August), the clearinghouse was 
+fully operational for the period under review. A total of 4,248 Liberian dollar checks with a 
+value of L$292.5 million was cleared, while a total of 13,392 US dollar checks with a value 
+of US$54.6 million was also cleared. 
+
+ 
+
+3.2 Monetary Developments 
+
+(A) Currency in Circulation 
+
+ 
+
+During the period under review, currency in circulation rose by L$284.9 million or 25.4 
+percent, from L$1,123.8 million as at December 2002 to L$1,408.7 million as at December 
+ending, 2003. When compared to the level recorded in 2001, currency in circulation rose 
+substantially by L$465.6 million or 49.4 percent (Table 13 & Chart 9). 
+
+ 
+
+The rise in currency in circulation during the review period was influenced by the public’s 
+desire to hold onto cash as against keeping same in the banks. Currency outside banks rose by 
+L$258.6 million, while vault cash or currency in banks rose by L$26.3 million. The behavior 
+of the public was seemingly precautionary due to the war, which rendered the entire banking 
+system partially inactive during some part of the review period. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 26 - 
+
+ 
+
+Table 13: Currency in Circulation 
+
+(2001 – 2003) 
+
+ (In Millions L$) 
+
+End of 
+
+Period 
+
+ 
+
+Currency 
+
+in banks 
+
+Currency 
+
+outside banks
+
+Currency 
+
+in circulation 
+
+(1) 
+
+(2) 
+
+(1+2=3) 
+
+Dec.01 
+
+98.0 
+
+845.1 
+
+943.1 
+
+Dec.02 
+
+78.8 
+
+1,045.0 
+
+1,123.8 
+
+Dec.03 
+
+105.1 
+
+1,303.6 
+
+1,408.7 
+
+
+
+ Source: Central Bank of Liberia, Monrovia, Liberia 
+
+ 
+
+Chart 9: Currency in Circulation 
+
+(2001 – 2003) 
+
+ (In Millions L$) 
+
+0.0300.0600.0900.01,200.01,500.0Dec.01Dec.02Dec.03YearMillion of L$
+Cu.in banksCu.outside banksCu.in Circulation 
+
+
+ 
+
+(B) Money Supply (M1) 
+
+ 
+
+Money supply (M1) or narrow money, comprising currency outside banks and demand 
+deposits, rose from L$2,363.1 million as at December 2002 to L$2,506.8 million as at 
+December ending, 2003, reflecting an increase of 6.1 percent. When compared to 2001, M1 
+rose by 47.7 percent (Table 14 &Chart 10). The 6.1 percent increase in the money supply 
+during the review period was influenced by the issuance of new banknotes to accommodate 
+government security-related payments. 
+
+ 
+
+
+- 27 - 
+
+ 
+
+Table 14: Money Supply and Broad Money 
+
+(2001 – 2003) 
+
+(In Millions L$) 
+
+End of 
+
+Currency 
+
+Demand 
+
+Money supply 
+
+Savings 
+
+Time 
+
+Quasi-money 
+
+Broad 
+
+Period 
+
+outside banks 
+
+Deposits 
+
+M1 (1+2) 
+
+Deposits 
+
+Deposits 
+
+(4+5) 
+
+Money-M2 
+
+ 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+(3+6) 
+
+Dec.01 
+
+845.1 
+
+851.6 
+
+1,696.7 
+
+391.2 
+
+31.2 
+
+422.4 
+
+2,119.2 
+
+Dec.02 
+
+1,045.0 
+
+1,318.2 
+
+2,363.1 
+
+470.6 
+
+64.8 
+
+535.4 
+
+2,898.5 
+
+Dec.03 
+
+1,303.6 
+
+1,203.2 
+
+2,506.8 
+
+433.6 
+
+0.3 
+
+433.9 
+
+2,940.6 
+
+
+
+ Source: Central Bank of Liberia, Monrovia, Liberia 
+
+ 
+
+Chart 10: Money Supply 
+
+(2001 – 2003) 
+
+(In Millions L$) 
+
+0.0500.01,000.01,500.02,000.02,500.03,000.0Dec.01Dec.02Dec.03YearMillions of L$
+Cu.outside banksDemand depositsMoney Supply (M1) 
+
+
+(C) Broad Money (M2) 
+
+ 
+
+During the year under review, broad money (M2) or overall liquidity rose marginally by 1.5 
+percent, from L$2,898.5 million at December ending, 2002 to L$2,940.6 million at December 
+ending, 2003. When compared to the level recorded in 2001, broad money recorded a 
+significant increase of 38.8 percent (Table 14 &Chart 10). The expansion in broad money for 
+the review period was influenced mainly by money supply (M1) as quasi-money recorded a 
+decline. Government-related payments influenced the issuance of new banknotes as its 
+revenue-generating capacity was largely curtailed by heightened rebel activities during the 
+review period. 
+
+ 
+
+ 
+
+
+- 28 - 
+
+ 
+
+Chart 11: Broad Money 
+
+(2001 – 2003) 
+
+(In Millions L$) 
+
+0.0500.01,000.01,500.02,000.02,500.03,000.03,500.0Dec.01Dec.02Dec.03YearMillions of L$
+Money Supply (M1)Quasi-moneyBroad money 
+
+
+ 
+
+3.3 Commercial Banks’ Loans and Advances 
+
+ 
+
+The commercial banks’ total outstanding loans and advances to all economic sectors stood at 
+L$2,008.9 million as at December ending, 2003. When viewed against the previous year, the 
+result is an absolute decline of L$385.6 million or 16.1 percent. Similarly, when the level of 
+outstanding loans and advances is compared to that of the corresponding period of 2001, 
+there is an absolute decrease of L$849.0 million or 73.2 percent (Table 15). 
+
+ 
+
+The decline in total commercial banks’ loans and advances for the review period affected all 
+sectors of the economy except construction. The construction sector which accounted for 
+only 2.6 percent of total loans and advances increased its portfolio by L$23.3 million or 83.2 
+percent. The general decline in economic activities as a result of the armed conflict and the 
+volatility in the exchange rate were the main explanatory factors for the slump in commercial 
+banks’ credits during the review period. The loans, which were mainly extended in US 
+dollars would normally show a decline when there is an appreciation in the exchange rate. 
+The rate appreciated to L$50.50 per US dollar or by 22.3 percent at December ending, 2003, 
+from L$65.00 per US dollar at December ending, 2002. 
+
+ 
+
+ 
+
+
+- 29 - 
+
+ 
+
+The sectoral distribution of loans shows that the “others” sector, which comprises the 
+Government of Liberia, the Central Bank of Liberia, among others, accounted for 77.7 
+percent of total loans and advances as at December ending, 2003. In addition to the exchange 
+rate factor, repayments were carried out in this sector by the government, the Bank as well as 
+Public Corporations. 
+
+ 
+
+The agriculture sector, which accounted for 9.2 percent of total loans and advances, recorded 
+a 4.8 percent decline in its portfolio. This was due mainly to loan retirement in the forestry 
+sub-sector. However, slight increases in loan acquisition were recorded for the remaining 
+sub-sectors. 
+
+ 
+
+In the manufacturing sector, loan retirement and the exchange rate factor (appreciation) 
+contributed to the fall in total loans and advances during the review year. Total loans and 
+advances in the manufacturing sector declined by 53.5 percent, from L$15.8 million at 
+December ending, 2002 to L$7.4 million at December ending, 2003. 
+
+ 
+
+The transportation, storage and communication sector’s total loans and advances also 
+declined by 46.4 percent, from L$8.9 million at December ending, 2002 to L$4.8 million at 
+December ending, 2003. In addition to the repayment, the appreciation of the domestic 
+currency also contributed to the decline. 
+
+ 
+
+The trade, hotel and restaurant sector, which accounted for 10.0 percent of total loans and 
+advances for the review period, also recorded a slight decline of 4.3 percent, from L$210.1 
+million at December ending, 2002 to L$201.0 million at December ending, 2003. However, a 
+moderate increase in loans and advances was recorded for the sub-sector of “other trade”. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 30 - 
+
+ 
+
+Table 15: Commercial Banks’ Loans by Economic Sector 
+
+(2001-2003) 
+
+(In ‘000 L$) 
+
+SECTORS 
+
+ 
+
+Dec-01 
+
+Dec-02 
+
+Dec-03 
+
+ 
+
+ 
+
+% Share
+
+ 
+
+% Share
+
+ 
+
+% Share
+
+1. Agriculture 
+
+161,741
+
+13.9
+
+193,463
+
+8.1
+
+184,170
+
+9.2
+
+2. Mining & Quarrying 
+
+50
+
+0.0
+
+0
+
+0.0
+
+0
+
+0.0
+
+ 3. Manufacturing 
+
+93
+
+0.0
+
+15,810
+
+0.7
+
+7,355
+
+0.4
+
+4. Construction 
+
+10,544
+
+0.9
+
+28,005
+
+1.2
+
+51,306
+
+2.6
+
+5. Trans., Storage & Comm. 
+
+4,887
+
+0.4
+
+8,947
+
+0.4
+
+4,795
+
+0.2
+
+6. Trade, Hotel &Rest. 
+
+159,912
+
+13.8
+
+210,061
+
+8.8
+
+201,000
+
+10.0
+
+7. Other 
+
+822,687
+
+70.9
+
+1,938,161
+
+80.9
+
+1,560,259
+
+77.7
+
+Total 
+
+1,159,912
+
+100.0
+
+2,394,447
+
+100.0
+
+2,008,886
+
+100.0
+
+
+
+Source: Central Bank of Liberia, Monrovia, Liberia 
+
+ 
+
+3.4 Interest Rates 
+
+ 
+
+The average lending rate for commercial banks recorded at December ending, 2003, showed 
+a slight increase of 0.55 percentage point over the level recorded for the previous year. From 
+16.94 percent recorded at December ending, 2002, the average lending rate rose to 17.49 
+percent at December ending, 2003. The situation is however reversed when average lending 
+rate recorded for the reporting period is viewed against the lending rate recorded at the end of 
+2001. There is a significant decline of 4.98 percentage points, from 22.47 percent recorded at 
+December ending, 2001 to 17.49 percent as at December, 2003. The period under review was 
+characterized by insecurity due to the series of rebel incursions in certain parts of the country, 
+including Monrovia. 
+
+ 
+
+Unlike the average lending rates, the remaining rates including deposit rates recorded 
+declines during the period under review. The personal loan rate and the mortgage rate fell to 
+12.99 percent and 10.95 percent at December ending, 2003, from 14.34 percent and 12.00 
+percent at December ending, 2002, respectively. The declines in the deposit rates recorded for 
+the reporting period are as follows: average time deposit rate, 1.44 percentage points; average 
+savings deposit rate, 0.78 percentage point; and average rate on certificate of deposits, 0.08 
+percentage point (Table 16). 
+
+ 
+
+ 
+
+
+- 31 - 
+
+ 
+
+Table 16: Interest Rates 
+
+(2001-2003) 
+
+ 
+
+Dec-01 
+
+Dec-02 
+
+Dec-03 
+
+Avg. Lending Rate 
+
+22.47
+
+16.94
+
+17.49
+
+Avg. Personal Loan Rate 
+
+13.68
+
+14.34
+
+12.99
+
+Avg. Mortgage Rate 
+
+16.00
+
+12.00
+
+10.95
+
+Avg. Time Deposit Rate 
+
+6.00
+
+6.00
+
+4.56
+
+Avg. Savings Rate 
+
+5.41
+
+6.00
+
+5.22
+
+Avg. Rate On CDs 
+
+5.00
+
+5.00
+
+4.92
+
+
+
+Source: Central Bank of Liberia, Monrovia, Liberia 
+
+ 
+
+3.5 Exchange Rates 
+
+ 
+
+The movements in the exchange rate during the year 2003 exhibited a declining trend and 
+considerable volatility. For the first half of the year, the exchange rate rose from L$65.50 per 
+US dollar in January to L$73.00 per US dollar in June. The lowest rate recorded during this 
+period, (January to June) was L$61.50 US dollar in February. 
+
+ 
+
+However, the end-of-period average rate recorded as at December ending, 2003, was L$50.50 
+per US dollar, reflecting a 22.30 percent appreciation in the value of the domestic currency 
+for the review period relative to the end-of-period rate of 2002 (Table 17). When viewed 
+against the corresponding period of 2001, the end-of-period rate for 2003 however, declined 
+by 2.0 percent. This shows a marked appreciation as against the end of period rate of the 
+previous year which was L$65.00 per US dollar. The rate recorded for the current period, 
+therefore, appreciated by 22.30 percent, but depreciated by 2.02 percent when viewed against 
+the corresponding period of 2001. 
+
+ 
+
+The improvement in the security situation of the country, brought about largely by the 
+international community, helped to bring some level of stability in the exchange rate. 
+
+ 
+
+Table 17: Exchange Rates: L$/US$ 
+
+(2001-2003) 
+
+ 
+
+Dec-01 
+
+Dec-02 
+
+Dec-03 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Market Rate: End of Period Average 
+
+49.50
+
+65.00 
+
+50.50
+
+Market Rate: Period Average 
+
+46.04
+
+56.76 
+
+46.64
+
+
+
+ Source: Central Bank of Liberia, Monrovia, Liberia 
+
+ 
+
+
+- 32 - 
+
+ 
+
+IV. Fiscal Developments 
+
+4.0 Fiscal Policy 
+
+D
+uring the year under review, there was no enactment of new tax laws, but the Fiscal 
+Authority was generally focused on the implementation of provisions of the New 
+Tax Code of Liberia passed into law by the National Legislature in 2000. The Code 
+provided for, among other things, the complete removal of inconsistencies and discretional 
+authority from the tax system, strengthening and expanding the tax base to increase resource 
+mobilization, adjusting the structure of direct taxes on income and profits in order to increase 
+the level of disposable income of gainfully employed Liberians and non-Liberians, and the 
+Goods and Services Tax (GST) which replaced the nuisance and miscellaneous taxes. 
+
+ 
+
+All government’s revenues were centralized at the Central Bank during the year under 
+consideration. Implementation of the various provisions of the Code has brought about 
+improved transparency, efficiency, and accountability in the nation’s tax system. 
+
+ 
+
+4.1 Government Finances 
+
+(A) Revenue 
+
+ 
+
+For the year under review, total revenue generated amounted to L$2,499.9 million (about 
+US$44.2 million) as at December 31, 2003, reflecting a decline of L$1,459.8 million or 36.9 
+percent when matched against revenue recorded for 2002 (Table 18 and Chart 12). Like the 
+year 2002, there were no grants recorded for the reporting year. Among the explanatory 
+factors for the fall in revenue for the reporting period are the dissident war against the 
+government (which intensified in 2003 and caused many business establishments in the 
+country to close down) and the UN sanctions imposed in May of 2001 and in July of 2003. 
+
+ 
+
+The war in Liberia and the UN sanctions against the country created a general situation of 
+economic dysfunctionality, thereby exacerbating existing problems of low level of 
+production, increased capital flight, depreciation of the domestic currency during the fist half 
+of the year, increase in the general price level, and diminished purchasing capacity of the 
+consuming public. 
+
+ 
+
+
+- 33 - 
+
+ 
+
+Table 18: Government of Liberia Revenue by Sources 
+
+(2001-2003) 
+
+(In Millions L$) 
+
+Revenue Sources 
+
+2001
+
+2002
+
+2003
+
+Custom & Excise 
+
+957.7
+
+1,124.7
+
+918.5
+
+Direct Taxes 
+
+498.1
+
+752.0
+
+364.0
+
+Indirect Taxes 
+
+324.0
+
+342.8
+
+261.4
+
+FDA1 Levy 
+
+399.0
+
+707.0
+
+156.5
+
+Petroleum Sales Levies 
+
+230.1
+
+347.9
+
+170.5
+
+Maritime 
+
+387.3
+
+685.3
+
+629.0
+
+Grants 
+
+185.0
+
+-
+
+-
+
+Total 
+
+2,981.2
+
+3,959.7
+
+2,499.9
+
+
+
+1 Forestry Development Authority (FDA) 
+
+Source: Ministry of Finance, Monrovia, Liberia 
+
+ 
+
+ 
+
+Chart 12: Government of Liberia Revenue by Sources 
+
+(2001-2003) 
+
+(In Millions L$) 
+
+050010001500200025003000350040004500200120022003Year(In Millions L$)
+Custom & ExciseDirect TaxesIndirect TaxesFDA1 LevyPetroleum Sales LeviesMaritimeGrantsTotal 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 34 - 
+
+ 
+
+Recorded aggregate revenue for the year under consideration is about 11.2 percent of the 
+2003 estimated GDP of US$396.2 million. Of the aggregate revenue, tax revenue amounted 
+to L$1,870.9 or 74.8 percent, while the non-tax revenue (revenue generated from the 
+country’s Maritime program) totaled L$629.0 million or 25.2 percent. A disaggregation of 
+the aggregate revenue of L$2,499.9 million by sources shows that the Customs and Excise 
+Taxes contributed 36.7 percent; Direct Taxes, 14.6 percent; Indirect Taxes, 10.5 percent; 
+Forestry Development Authority (FDA) Levies, 6.3 percent; Petroleum Sales Levies, 6.8 
+percent, and Maritime revenue, 25.2 percent (Table 18 & Chart 12). 
+
+ 
+
+When compared to 2002, revenue generated from all sources during the review year declined 
+principally as a result of the intensification of the war throughout the country during the year, 
+which caused a number of businesses including logging companies to close down their 
+operations. During the year, Customs and Excise Tax revenue fell by 18.3 percent; Direct 
+Taxes, 51.6 percent; Indirect Taxes, 23.7 percent; FDA Levies, 77.9 percent; Petroleum Sales 
+Levies, 51.0 percent, and Maritime revenue, 8.2 percent (Table 18). 
+
+ 
+
+(B) Expenditure 
+
+ 
+
+Total government spending for the year 2003 was recorded at L$2,606.3 million (US$45.5 
+million). This is L$1,654.0 million or 38.8 percent lower then aggregate expenditure for 2002 
+(Table 19 & Chart 13). Total expenditure for the year represents 11.5 percent of the estimated 
+GDP for 2003. 
+
+ 
+
+For the year under review, there was no development component of total expenditure as 
+government was generally preoccupied with the prosecution of the civil war in the midst of 
+extreme financial difficulties. Government’s total expenditure was, therefore, exclusively 
+recurrent, with the General Administration category of expenditure accounting for 31.4 
+percent; Social & Community Services, 6.6 percent; Economic Services, 4.2 percent, and 
+GOL Special Commitment, 57.8 percent (Table 19 & Chart 13). 
+
+ 
+
+ 
+
+
+- 35 - 
+
+ 
+
+Table 19: Government of Liberia Expenditure by Category 
+
+(2001-2003) 
+
+(In Millions L$) 
+
+Expenditure Category 
+
+2001 
+
+2002 
+
+2003 
+
+General Administration 
+
+1,068.5
+
+811.2 
+
+819.6
+
+Social & Community Services 
+
+695.1
+
+217.7 
+
+172.0
+
+Economic Services 
+
+150.5
+
+23.2 
+
+108.7
+
+GOL Special Commitment 
+
+796.3
+
+725.2 
+
+1,506.0
+
+Development 
+
+432.3
+
+2,483.0 
+
+-
+
+Total 
+
+3,142.7
+
+4,260.3 
+
+2,606.3
+
+
+
+Source: Ministry of Finance, Monrovia, Liberia 
+
+ 
+
+ 
+
+ 
+
+Chart 13: Government of Liberia Expenditure by Category 
+
+(2001-2003) 
+
+(In Millions L$) 
+
+0.01,000.02,000.03,000.04,000.05,000.0200120022003Year(In Millions L$)
+General AdministrationSocial & CommunityServicesEconomic ServicesGOL Special CommitmentDevelopmentTotal 
+
+
+ 
+
+With the exception of the Social & Community Services category, all other categories of 
+expenditure registered increases at the end of the year when compared to 2002. Accordingly, 
+government spending on General Administration for the year under review slightly increased 
+by 1.0 percent; Economic Services, 368.5 percent, and GOL Special Commitment, 107.7 
+percent. Expenditure on Social and Community Services declined by 21.0 percent. 
+
+ 
+
+A comparison of total revenue and expenditure for the review period indicates that 
+expenditure surpassed revenue by L$106.4 million or 4.3 percent and this was generally due 
+to increased government spending to maintain security in the country (Table 20 & Chart 14). 
+
+ 
+
+
+- 36 - 
+
+ 
+
+Table 20: Government of Liberia Revenue and Expenditure 
+
+(2001 – 2003) 
+
+(In Millions L$) 
+
+ 
+
+2001 
+
+2002 
+
+2003 
+
+Revenue 
+
+2,981.2 
+
+3,959.7 
+
+2,499.9 
+
+Expenditure 
+
+3,142.7 
+
+4,260.3 
+
+2,606.3 
+
+
+
+Source: Ministry of Finance, Monrovia, Liberia 
+
+ 
+
+ 
+
+Chart 14: Government of Liberia Revenue and Expenditure 
+
+(2001 – 2003) 
+
+(In Millions L$) 
+
+01,0002,0003,0004,0005,000200120022003Year(In Millions L$)
+RevenueExpenditure 
+
+
+ 
+
+(C) Budget Performance 
+
+ 
+
+(i) National Budget: 2002/2003 
+
+
+
+
+
+For the 2002/2003 fiscal year, a budget of L$4,900 million (US$70.0 million) was approved 
+by the National Legislature and it was expected to be cash-based. Sectorally, the distribution 
+of the budget focused on development projects of the Government, which were allotted 49.0 
+percent of the total budget. However, there was no development expenditure during 2003. 
+This was followed by General Administrative Services, 25.1 percent; General Government 
+(formerly GOL Special Commitment), 14.4 percent; Social & Community Services, 10.3 
+percent, and the Economic Services Sector, 1.2 percent (Table 21 & Chart 15). 
+
+ 
+
+ 
+
+ 
+
+
+- 37 - 
+
+ 
+
+ 
+
+Table 21: Sectoral Distribution of the National Budgets 
+
+(2001/2002 and 2002/2003) 
+
+(In Millions L$) 
+
+Sector 
+
+2001/2002 
+Projected 
+Expenditure 
+
+% Of 
+
+Budget 
+
+2002/2003 
+Projected 
+Expenditure 
+
+% Of 
+
+Budget 
+
+General Adm. Services 
+
+1,329.0
+
+32.1
+
+1,230.3 
+
+25.1
+
+Social and Comm. Sector 
+
+732.0
+
+17.7
+
+503.7 
+
+10.3
+
+Econ. Services Sector 
+
+101.0
+
+2.4
+
+60.7 
+
+1.2
+
+ General Government 
+
+539.0
+
+13.0
+
+706.7 
+
+14.4
+
+Public Cap. Expenditure 
+
+1,450.0
+
+35.0
+
+2,398.6 
+
+49.0
+
+Total 
+
+4,142.0
+
+100.0
+
+4,900.0 
+
+100.0
+
+
+
+Source: Ministry of Finance, Monrovia, Liberia 
+
+ 
+
+ 
+
+Chart 15: Sectoral Distribution of the National Budget 
+
+(2002/2003) 
+
+(In Millions L$) 
+
+Social and 
+Comm. Sector10.3%
+Econ. Services 
+Sector1.2% General 
+Government14.4%
+Public Cap. 
+Expenditure49.0%
+General Adm. 
+Services25.1% 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 38 - 
+
+ 
+
+(ii) National Budget: 2003/2004 
+
+
+
+
+
+At the end of the 2002/2003 fiscal year in June of 2003, no new budget was approved by 
+the National Legislature for the fiscal year 2003/2004, generally as a result of the war 
+which escalated throughout the country during 2003. Between June and July of the year, 
+the seat of government, Monrovia and its environs, were constantly under attacks by 
+dissident forces, thus leading to a virtual collapse of government functionaries throughout 
+the nation. 
+
+ 
+
+However, when the care-taker government was installed after the departure of the former 
+President, a mini-operational budget of US$10.0 million (L$600.0 million) was approved 
+by the former Legislature to facilitate activities of the government for the period July-
+September before the seating of the Liberian National Transitional Government (LNTG) 
+in October, of the year under review. After the seating of the LNTG in October, another 
+mini-budget of US$21.1 million (or L$1,033.9 million) was approved by the new 
+National Transitional Legislative Assembly (NTLA) for the period October 2003 – 
+January 2004, with the amounts of US$11.8 million and US$13.6 million included as 
+projected revenue and expenditure, respectively, for the period October – December, 
+2003. 
+
+ 
+
+Of the aggregate revenue of L$2,499.9 million generated during 2003, L$1,496.8 million 
+or 59.9 percent was mobilized during the first half of the year, January - June (the last six 
+months of the 2002/2003 fiscal year); while, the remaining L$1,003.0 million or 40.1 
+percent was generated during the second half of the year, July – December (the first six 
+months of the fiscal year 2003/2004). On the other hand, the amount of L$1,970.2 million 
+or 75.6 percent of the total expenditure of L$2,606.3 million for 2003 was spent during 
+the first half of the year while L$636.1 million or 24.4 percent represented total spending 
+of the government for the second half of the year under review. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 39 - 
+
+ 
+
+ 
+
+V. PUBLIC DEBT MANAGEMENT 
+
+ 
+
+ 
+
+ 5.0 Public Debt 
+
+L 
+iberia’s aggregate debt stock for the year ending December 31, 2003, is 
+approximately US$3,301.8 million. This represents a 9.6 percent increase over the 
+US$3,011.8 million for the year ending 2002. It also accounts for 833.4 percent of 
+estimated real GDP for 2003 (US$396.2 million). 
+
+ 
+
+The debt stock comprises two major categories: external and domestic. The external creditors 
+include multilateral, bilateral, external banks and suppliers. Domestic creditors of 
+government include commercial banks, public corporations and suppliers. The domestic debt 
+also include Government of Liberia commitments. The external debt represents 87.6 percent 
+of the total debt stock while the domestic component accounts for 12.4 percent (Table 22 & 
+Chart 16). Total accrued interest is US$1,466.0 million or 44.4 percent of total debt, while 
+total principal amounts to US$1,835.8 million representing 55.6 percent of the debt stock 
+(Table 22 & Chart 17). 
+
+ 
+
+Table 22: Summary of Liberia’s Public Debt by Creditor 
+
+(As at December, 2003) 
+
+(In Millions US$) 
+
+EXTERNAL DEBT 
+
+2002 
+
+2003 
+
+% Dist. Of 
+Total Debt 
+Stock by 
+Creditor 
+
+Principal 
+
+Accrued 
+Interest 
+
+Total 
+
+Multilateral 
+
+1,366.1
+
+723.1
+
+746.9
+
+1,470.0
+
+44.5
+
+Bilateral 
+
+784.7
+
+496.3
+
+327.9
+
+824.2
+
+25.0
+
+External Banks' Credit 
+
+490.7
+
+234.9
+
+324.1
+
+559.0
+
+16.9
+
+Suppliers' Credit 
+
+40.3
+
+40.7
+
+-
+
+40.7
+
+1.2
+
+Sub-Total 
+
+2,681.8
+
+1,495.0
+
+1,398.9
+
+2,893.9
+
+-
+
+Domestic Debt 
+
+330.3
+
+340.8
+
+67.1
+
+407.9
+
+12.4
+
+Sub-Total 
+
+330.3
+
+340.8
+
+67.1
+
+407.9
+
+Total Stock of Debt 
+
+3,011.8
+
+1,835.8
+
+1,466.0
+
+3,301.8
+
+100.0
+
+
+
+Source: Financial Institutions, Public Corporations, Government Ministries, Central Bank of Liberia (CBL) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 40 - 
+
+ 
+
+ 
+
+ 
+
+ Chart 16: Percentage Distribution of National Debt 
+
+(As at December, 2003) 
+
+12.4%
+87.6%
+External DebtDomestic Debt 
+
+
+ 
+
+ 
+
+ 
+
+Chart 17: Percentage Distribution of National Debt by Principal and Interest 
+
+(As at December, 2003) 
+
+44.4%
+55.6%
+PrincipalInterest 
+
+
+ 
+
+ 
+
+ 
+
+
+- 41 - 
+
+ 
+
+ 5.1 External Debt 
+
+ 
+
+The external debt component amounts to US$2,893.9 million and represents 87.6 percent of 
+the total debt stock. This reflects a 7.9 percent increase over the level recorded for the 
+previous year (US$2,294.2 million). The major external creditors are multilateral and 
+bilateral, accounting for US$2,298.2 million or 79.3 percent of the external debt, and 69.5 
+percent of the total debt stock. External banks and suppliers’ credits total US$ 599.7 million 
+or 26.1 percent of the external debt and 18.2 percent of the debt stock. 
+
+ 
+
+The GOL, through the CBL, has made some strides towards servicing Liberia’s external debt. 
+Even though a few payments lapsed to the International Monetary Fund (IMF), as a result of 
+the 2003 war, the authorities have resumed the token monthly payments of US$50,000.00 to 
+the IMF, despite Liberia’s fragile balance of payments and fiscal positions, in order to re-
+affirm Liberia’s strong commitment to implementing sound macroeconomic policies and re-
+establishing a good track record with the Fund and the internationality community. Liberia 
+has paid approximately a total of US$1,425,000 to the Fund for the period December 2000 to 
+December 2003. The government understands that this amount is insignificant in impacting 
+the huge arrears owed the IMF and other creditors. However, all efforts are being exerted to 
+effectively address this issue based on anticipated increased revenue collection. 
+
+ 
+
+Chart 18: Percentage Distribution of Total Debt Stock by Creditor 
+
+(As at December, 2003) 
+
+44.512.41.216.925.0MultilateralBilateralExternal Banks' CreditSuppliers' CreditDomestic Debt 
+
+
+ 
+
+ 
+
+
+ 
+
+- 42 - 
+
+ 
+
+ 5.2 Domestic Debt 
+
+ 
+
+Domestic debt is approximately US$407.9 million. It increased by 23.5 percent or US$77.6 
+million over the US$330.0 reported for the year ending 2002. It also represents 12.4 percent 
+of the aggregate public debt stock. 
+
+ 
+
+The GOL continues to exert all efforts to address the domestic debt problem by making 
+minimum debt service payments to domestic creditors including payments totaling an 
+estimated US$5.4 million on interest. It is envisaged that payments of government’s domestic 
+debt and arrears will be regularized which would rebuild public confidence, enhance 
+economic recovery, and contribute towards sustainable growth and development. A 
+systematic program is being developed that would entail the establishment of a verifiable and 
+comprehensive database for equitable settlement. 
+
+ 
+
+ 5.3 The Debt Burden 
+
+ 
+
+The GOL, over the years, has not had the financial capacity to significantly service its debt. 
+The situation was compounded by the war, which was primarily responsible for the low level 
+of economic activity, and resulted in a stagnant and inflation-driven economic environment. 
+
+ 
+
+The formidable and unsustainable debt burden of Liberia, exasperated by the prolonged war, 
+has continued to undermine efforts at economic recovery. All socio-economic variables 
+indicate a deteriorating condition: an unstable financial environment, the unpredictability of 
+market conditions, political uncertainty and interference and rising unabated unemployment. 
+All of these and other factors contributed to the inability of the government to be efficient and 
+functional, and therefore incapacitated to aptly service its debt. 
+
+ 
+
+The government is quite cognizant of the fact that major reforms will have to be implemented 
+to facilitate the resuscitation of the productive sector with the objective of economic recovery 
+and development. Once these reforms are in place and functional, it is anticipated that the 
+international community, and particularly the IMF and World Bank, will consider debt relief 
+measures and other assistance that would alleviate some of this burdens; and allow for a 
+restructured, refined, and stable economy capable of sustainable growth. 
+
+
+- 43 - 
+
+ 
+
+The GOL for the year ending December 31, 2003, operated in the midst of endogenous and 
+exogenous factors that made it incapable of harnessing a productive economic environment to 
+meet the needs of its people, and therefore making it unable to generally address itself to the 
+problems of a debt-laden economy. Constructive dialogue both at home and abroad is taking 
+place, which will lead to a donor conference on Liberia in New York in February, 2004. 
+
+ 
+
+ 
+
+
+- 44 - 
+
+ 
+
+VI. CENTRAL BANK OF LIBERIA ACTIVITY REPORT 
+
+
+ 6.0 Administration 
+
+ (A) Board Of Governors 
+
+D 
+uring the period 2003, the Board of Governors of the Central Bank of Liberia 
+consisted of Mr. Elie E. Saleeby, Executive Governor and Chairman of the 
+Board, Mr. Charles A. Greene and Mr. Nathaniel Barnes. Mr. Barnes replaced 
+Mr. Hilary A. Dennis who requested to be relieved of his post. Mr. Willie Belleh, Jr., former 
+member of the Board, was seconded to the Liberia National Transitional Government 
+(LNTG) upon the request of its Chairman, His Excellency C. Gyude Bryant. Dr. Charles A. 
+Clarke, also a former member of the Board, was inducted into office as a Legislator in the 
+House of Representatives, Republic of Liberia. 
+
+ 
+
+The Board of Governors held its first and second quarterly meetings during the period under 
+review. It also convened a Special Meeting on October 18, 2003 in which the Board 
+discussed events associated with the war, the resumption of banking operations, the audit of 
+the Bank, exchange rate developments, etc. Resolutions passed by the Board included 
+amongst others, the adoption of the 2003 Budget and the establishment of correspondent 
+banking relationships with banks in the United States of America. 
+
+ 
+
+ (B) Management 
+
+ 
+
+During the review period, the war intensified in Monrovia and its environs, leading to the 
+closure of the Bank to the public between July 20 and August 18, 2003. Despite the closure 
+of the Bank, fourteen (14) key staff including the Executive Governor and the Deputy 
+Governor were transferred to Accra, Ghana, where the Bank’s operations continued. Upon 
+the resumption of normal activities at the Bank in Monrovia, it was realized that the Bank’s 
+administrative and technical capacities had been weakened by the departure of some 
+professional staff from the country. 
+
+ 
+
+ 
+
+
+- 45 - 
+
+ 
+
+Apart from human capacity lost, there were major destructions done to the properties of the 
+Bank including the burning of twelve (12) CBL’s vehicles among which were two (2) staff 
+buses and three (3) armor cars. 
+
+ 
+
+In order to motivate employees and enhance productivity, certain changes were effected in 
+the Bank’s administrative set up. The Bank promoted a number of employees: Mr. A. 
+Richard Dorley was promoted from the position of Interim Officer – In – Charge of the 
+Research, Policy and Planning Department to Executive Director of that Department; Mr. T. 
+Nagbalee Warner, Esq. was promoted from Assistant Legal Counsel/Special Project Officer 
+to Executive Director, Supervision Department, and Mr. Elijah Jolo was promoted from 
+Assistant Manager/Cash Officer to Officer–In-Charge, Vault and Cash Management. 
+
+ 
+
+ (C) Human Resource Development and Organizational Matters 
+
+ 
+
+The response of the CBL to the challenges posed by the changing economic and business 
+environment has been reflected in its approach to human resource management, 
+notwithstanding the difficulties confronting it. The transitional institutional structure and 
+culture have sometimes operated as a drag on human resource development, particularly in 
+skill development, management change and career planning. This has been counteracted over 
+the past year by recruiting from the open market to a certain extent, and the redeployment of 
+existing staff in new activities after suitable training. 
+
+ 
+
+The total staff strength of the Bank as at December 2003 was 193 compared to 197 in 2002. 
+In addition to permanent Bank staff, there were nine (9) nightguards, ten (10) contractual 
+employees, five (5) internship students, and two (2) pensioners. The services of Mrs. Maima 
+P. Kollie, Secretary, and Mr. Mulbah M. Acquoi, Security Officer, were lost through death. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 46 - 
+
+ 
+
+ (i) Local Training 
+
+ 
+
+The CBL continued to provide incentives to staff members to acquire needed skills in the 
+field of computer science. In-house computer training for employees of the Bank continued in 
+the first half of the year under review. There were two sessions of eight weeks each which 
+were attended by forty (40) employees. Courses offered included Window Basics, Word, 
+Excel and Access. Due to the escalation of the war, Management was unable to continue the 
+training program. 
+
+ 
+
+ (ii) Foreign Training 
+
+ 
+
+In the Bank’s continuous effort to improve its human resource capacity, five (5) of the nine 
+(9) employees who were selected to undergo graduate studies in various disciplines were 
+admitted to graduate schools in the United States of America (USA) during the period under 
+review. Two (2) staff matriculated to the University of Rochester/New York in 2003, to 
+pursue a graduate degree in Accounting. Three (3) other staff were also admitted at the 
+University of Illinois at Urbana-Champaign (UIUC) to pursue graduate degree programs in 
+accounting and finance. 
+
+ 
+
+ (D) Computerization Program 
+
+ 
+
+The banking transaction processing software purchased from Kindle Banking System, 
+Dublin, Ireland, in 2002, called Bankmaster was fully functional in 2003. This on-line 
+transaction processing software has replaced the Accounts Management System (AMS) batch 
+processing software developed in-house. The software (Bankmaster) which is modular in 
+structure includes the following features: 
+
+1. Central Bankmaster 
+2. Financial Returns 
+3. Bankmaster LAN Batch Gateway 
+4. Back Office Retail 
+5. Bankmaster Objects (Report generating facility) 
+
+
+
+
+
+
+- 47 - 
+
+ 
+
+With the elimination of the old AMS System, there arose the need for a mechanism to 
+provide a check and balance structure on the Bankmaster system. The utility called WASTE 
+(Warning Against System Transaction Errors) was developed as a check on the Bankmaster. 
+
+ 
+
+ The management of the Bank purchased a new Internet equipment called Idirect to replace 
+the Breeze equipment. The replacement provides the means by which the Bank can use the 
+information Super Highway directly without going through the gateway of a local Internet 
+Service Provider. Since its installation, the equipment has given the Bank direct satellite 
+access. This has improved CBL’s Internet access capabilities in terms of speed and uptime, 
+and will enable the Bank to maintain its web page. 
+
+ 
+
+A payroll system has been developed in Microsoft Access, integrated with the Employees’ 
+Loan Management Module. This program enables the Human Resource Management 
+Division to process the granting and repayment of loans, payroll register, production of 
+statements of accounts for each staff in loan, deduction of loans from payroll and update loan 
+register, payment of salaries to staff, and printing of pay slips as desired. 
+
+ 
+
+ (E) Information Technology in the Central Bank of Liberia 
+
+ 
+
+All activities of the CBL are getting to be increasingly automated. The use of Information 
+Technology (IT) in the Bank is based on the need for computer efficiency for all senior and 
+junior staff which may eventually lead to overall efficiency on the job. This will also enable 
+the CBL to provide efficient customer service to the Government, commercial banks, non-
+financial institutions, and the general public. The Local Area Network (LAN) continued to be 
+operational. Communication across functional units and various offices takes place through 
+the Bank e-mail system enabling all functionaries at various levels of the Bank to log on to 
+the Internet. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 48 - 
+
+ 
+
+ (F) Publications 
+
+ 
+
+The publications of the CBL’s independent assessment of social, economic and financial 
+developments continued during 2003 through its Financial and Economic Bulletin, Liberia 
+Financial Statistics, and Annual Report. 
+
+ 
+
+During the first quarter of the year, the Bank printed its Annual Report for 2002 which 
+reviewed policies implemented by the Bank, its operations and activities for the year ending 
+December 31, 2002. The Annual Report also included a review of national economic 
+developments under which the Bank operated during the year. 
+
+ 
+
+Data on monetary aggregates, international trade, domestic production and fiscal operations 
+are published in the bi-monthly Liberia Financial Statistics. On a quarterly basis, the Bank 
+also publishes its Financial and Economic Bulletin. This publication analyzes the data on 
+currency in circulation, money supply, domestic credits, domestic production, consumer 
+prices, foreign trade, external debt and fiscal operations of the Government. 
+
+ 
+
+ (G) Library 
+
+ 
+
+The Library of the CBL, attached to the Research, Policy and Planning Department, plays an 
+important role in the collection, storage and dissemination of information within the Bank. 
+The Library reserved a collection of books, journals, CD ROMs, reports, working papers, and 
+other documents during the year. It also provides information sources for researchers of the 
+various offices/ divisions/departments of the Bank as well as universities, training colleges, 
+and high schools in the country. 
+
+ 
+
+ (H) Information Services 
+
+ 
+
+During 2003, a number of issues were brought to the general public by the Bank through the 
+print and electronic media. The Bank published and /or aired a number of announcements, 
+including notices to commercial banks and the general public on the liquidation of the Liberia 
+United Bank Incorporated (LUBI), the status of Tradevco Bank, warnings to illegal foreign 
+exchange bureau operators, guidelines for receiving mutilated banknotes, and guidelines on 
+the declaration of currency at ports of entry. 
+
+
+- 49 - 
+
+ 
+
+The publications of the In-House Information Bulletin continued during the year under 
+review. 
+
+ 
+
+(I) Bankers’ Forum 
+
+
+
+
+
+Since the establishment of the Liberia Banker’s Consultative Forum about three (3) years ago 
+for the purpose of exchanging ideas and experiences on ways and means of improving the 
+banking system and insuring its adherence to the provisions of the Financial Institution Act of 
+1999, the Forum has been meeting on various issues. Among issues discussed and decisions 
+taken during the year were the following: 
+
+ 
+
+(i) Exchange of Mutilated Liberian Dollar Banknotes 
+
+
+
+
+
+The Forum reviewed the public concern over the rejection of perceived mutilated Liberian 
+dollar banknotes in the market place by several groups of business people, including petty 
+traders, storeowners, taxi drivers, marketers, and most especially, wholesalers. The standard 
+operating guidelines governing what constitutes mutes for exchange were re-enforced and the 
+CBL agreed to exchange Liberian dollar mutes from the commercial banks. Commercial 
+banks were required to exchange mutes for usable banknotes not only for those maintaining 
+bank accounts with them but also the general public. 
+
+ 
+
+(ii) Bank Charges 
+
+
+
+
+
+The Forum agreed that the commercial banks published their various charges in the local 
+dailies, a decision to which they had adhered. The decision stated that if the full range of 
+charges was conspicuously displayed, the publication in the daily newspapers would be 
+required only once every six (6) months. 
+
+ 
+
+In collaboration with the Office of the Executive Director/Administration, two separate 
+meetings were held with representatives of print media institutions. The meetings centered 
+around the Bank-Press relationship and the cost associated with the Bank’s publications in 
+daily newspapers. Based on the outcomes of the meetings, the media institutions agreed to 
+fully cooperate with the Bank in disseminating its information to the general public during 
+the reporting period. 
+
+
+- 50 - 
+
+ 
+
+(iii) Exchange Rate Volatility 
+
+
+
+
+
+The sharp decline in the value of the United States dollars vis-à-vis the Liberian dollar was a 
+cause for concern. The exchange rate declined from L$70:US$1 to L$50.50:US$1. The 
+Forum noted that there was no economic justification to explain the dramatic change, which 
+was believed to have economic, social and political implications. Investigations attributed 
+the decline to manipulation of the exchange rate by unscrupulous traders, especially 
+importers. 
+
+ 
+
+(iv) Inter-Bank Trading 
+
+
+
+
+
+Commercial banks remained restricted from engaging in inter-bank trading. The Forum 
+agreed during the year under review that the CBL should continue to import all United States 
+dollar banknotes into the country. 
+
+ 
+
+6.1 Comptroller’s Office 
+
+ (A) Income Statement 
+
+ 
+
+ (i) Income 
+
+ 
+
+The Central Bank of Liberia un-audited Consolidated gross income for year 2003 was L$232 
+million. Interest Income constitutes 89 percent of total consolidated income, Fees & 
+commission, 7 percent, while other income accounts for the remaining 4 percent. 
+
+ 
+
+ (ii) Expenditure 
+
+ 
+
+The Bank’s total consolidated expense for the year under review was L$231 million. The 
+break down of the total consolidated expense is as follows: personnel cost, 39 percent; Board 
+fees and related expenses, 5 percent; Occupancy, 7 percent; Currency expense; 17 percent; 
+Office expenses, 4 percent; Professional services, 3 percent; Security, 2 percent; Vehicle 
+running cost, 2 percent; Travel, 3 percent; and Other expenses, 4 percent. 
+
+
+- 51 - 
+
+ 
+
+(iii) Net Profit 
+
+
+
+
+
+The Bank incurred a consolidated net loss of L$15.0 million for the year. When compared to 
+2002, the net consolidated income of the review year decreased by L$46.6 million or 147 
+percent. 
+
+ 
+
+ (B) Balance Sheet 
+
+ (i) Assets 
+
+ 
+
+The un-audited consolidated total assets of the Bank for the year 2003 was put at L$45.0 
+billion. Current Assets constituted 73 percent of total assets broken down as follows: Cash 
+and Short-term Funds, 1 percent of total assets; Due from the Government of Liberia, 1.7 
+percent; Advances and overdraft to local banks, 0.1 percent; Accounts receivable, 0.14 
+percent; Prepaid expenses; 0.03 percent; IMF Accounts, 70 percent; and other current assets, 
+0.03. Non-current Assets represented 27 percent of total assets, also broken down as follows: 
+Non-Current Assets Due from the Government, 24 percent of total assets; Deferred and 
+Currency cost, 1.8 percent; investment in real estate, 0.05 percent; Banking software and 
+training, 0.15 percent and Net Fixed Assets, 1 percent. 
+
+ 
+
+(ii) Liabilities 
+
+
+
+
+
+The Bank’s un-audited consolidated total liabilities for the year under review was L$35.3 
+billion. Total liabilities constituted 78 percent of total equities broken down as follows: 
+Liberian monies in circulation (stock), 4 percent of total equities; Due to Local commercial 
+banks, 2 percent; due to foreign banks, 1 percent; non-bank deposits, 1 percent; account 
+payable, 0.3 percent; due to autonomous state agencies/enterprise, 0.03 percent; due to 
+Government of Liberia, 1 percent; IMF Accounts, 66 percent; other liabilities, 0.67 percent 
+and long term commercial bank loan, 2 percent. 
+
+ 
+
+(iii) Shareholders’ Equity 
+
+
+
+
+
+The net residual interest in the un-audited consolidated equities was L$9.8 billion which is 22 
+percent of total equities. The shareholders’ equity is sub-divided into Capital, representing 
+17 percent, and General Reserves, 5 percent. 
+
+ 
+
+
+- 52 - 
+
+ 
+
+6.2 Banking Department 
+
+
+ (A) Domestic Banking 
+
+ 
+
+Four (4) domestic banks conducted banking business during the year under review. All of the 
+four banks were required to maintain United States and Liberian dollars current accounts, and 
+Required Reserves Accounts. The Required Reserves Accounts provide security for their 
+deposit base, while their current accounts are maintained essentially to clear or settle their 
+positions arising from clearinghouse operations. 
+
+ 
+
+During the year 2003, the CBL continued the exercise of importing United States dollar 
+banknotes on behalf of commercial banks. A total of US$44,708,168.0 was imported by the 
+CBL on behalf of the banks. 
+
+ 
+
+(a) Government of Liberia (GOL) 
+
+ 
+
+Banking services provided the government in 2003 included revenue collection, opening of 
+both United States and Liberian dollar accounts, exchange of United States dollars to 
+Liberian dollars to meet government’s payroll obligations, maintaining general disbursements 
+and payroll accounts, and the servicing of government’s payment to the International 
+Monetary Fund. In an effort to consolidate the GOL revenue collection, the NTGL passed a 
+bill into law on October 24, 2003 (Executive Order #002) to have all GOL revenues 
+deposited at the CBL for better fiscal management, transparency, and accountability. 
+
+ 
+
+ (i) Revenue Collection 
+
+ 
+
+Revenue collection for the GOL registered a considerable increase in United States dollars 
+and sharp decrease in Liberian dollars during the review period when compared to 2002. The 
+total of 6,853 flag receipts were issued, amounting to a collection of US$14,779,944.28 in 
+2002. Comparatively, 7,007 flag receipts were issued, amounting to a collection of 
+US$17,327,403.64 in 2003. A total of 7,513 flag receipts were issued with a value of 
+L$182,166,254.27 in 2002 compared to 3,773 flag receipts with a value of L$84,191,141.47 
+in 2003. Of the collection in United States dollars, Maritime revenue inflows accounted for 
+36.0 percent or US$6,307,092.00. 
+
+ 
+
+
+- 53 - 
+
+ (ii) GOL Payroll Account 
+
+ 
+
+The CBL continued the practice of exchanging United States dollars from the government 
+with Liberian dollars for the payment of government’s payroll. These transactions were 
+basically due to insufficient Liberian dollar revenue collection. Under the scheme, the 
+Ministry of Finance periodically requested the CBL to exchange a specified amount and 
+deposit the proceeds into the Government’s Payroll Account at the CBL, which was used for 
+the payment of civil servants’ salaries. 
+
+ 
+
+ (iii) Maritime Funds 
+
+ 
+
+During the year 2003, the CBL continued as custodian of the Maritime Funds, transferred by 
+Riggs National Bank, Washington, D.C. to the CBL offshore accounts at Branch Banking & 
+Trust Company (BB&T) and Banca Nazionale del Lavora, S.P.A. in favor of the Government 
+of Liberia. The total of US$6,307,092.75 was received during the year under review. 
+
+ 
+
+(iv) International Monetary Fund (IMF) 
+
+ 
+
+During the year under review, the amount of US$250,000.00 was transferred to the 
+International Monetary Fund (IMF) on behalf of the Government of Liberia, representing part 
+payment of arrears due the IMF. 
+
+ 
+
+ (B) Clearinghouse Operations 
+
+ 
+
+The Clearinghouse guidelines that were revised and finalized remained the guiding 
+instrument for operations of the Clearinghouse. During the year under review, the 
+clearinghouse continued to be pivotal in facilitating the payment and settlement systems. 
+
+ 
+
+During 2003, the Clearinghouse continued to use the fully automated clearing system 
+attached to the BankMaster banking package currently in use by the Bank. Additionally, the 
+Clearinghouse continued to hold clearing twice a day at 10:00 a.m. and 1:30 p.m., but as a 
+result of the fighting between June and August, 2003 in Monrovia, the CBL, upon resumption 
+of its operations in September, deemed it necessary to hold clearing once a day at 11:00 a.m. 
+Under the new system, banks experiencing shortfalls were required to settle their shortfalls 
+before the commencement of clearing the next day. Settlement of shortfalls was done by 
+debit to the current accounts of the bank(s) experiencing the shortfall or by cash settlement 
+whenever the amount was not available in the account of such bank(s). 
+
+
+- 54 - 
+
+ 
+
+Unlike the manual clearing system that took about three working days for the clearing of 
+checks, a major advantage of the automated clearing process is that it expedites the payment 
+and settlement system by shortening the length of time for the clearing of checks in the 
+Liberian banking system. 
+
+ 
+
+During the year under review, a total of 4,248 checks with a total value of L$292,495,103.90 
+were presented and cleared through the Clearinghouse as compared to 8,265 checks with a 
+value of L$517,883,726.00 in 2002. Simultaneously, a total of 13,392 checks with a total 
+value of US$54,575,939.00 were presented and cleared through the Clearinghouse in year 
+2003 as compared to 16,478 checks with a value of US$61,768,822.00 in 2002. 
+
+ 
+
+6.3 Supervision Department 
+
+ 
+
+The main objectives of banking supervision are to determine the financial condition of each 
+bank, ensure safe and sound banking practices, take corrective action where weaknesses are 
+observed, and enforce compliance with the provisions of the New Financial Institutions Act 
+of 1999 (FIA) and CBL regulations. In pursuance of these objectives, the Supervision 
+Department adopts two major techniques; On-Site Examination and Off-Site Surveillance and 
+Monitoring for supervision of banks. This process embodies the following: 
+
+(i) Examination of the books and records of banks to determine their financial 
+position. 
+(ii) Enforcement of banking laws and prudential regulations, including 
+recommendation of appropriate corrective measures for implementation by 
+affected institutions. 
+(iii) Recommendation of appropriate sanction for non-compliance with the FIA 
+and CBL’s regulations. 
+
+
+The Department uses a two-tier approach to assess the safety and soundness of financial 
+institutions. This two-tier method includes On-Site and Off-Site examinations. They 
+complement and supplement each other to ensure that banks comply with the FIA, prudential 
+regulations issued by the CBL and the banks own Standard Operating Procedures (SOP). 
+
+ 
+
+
+- 55 - 
+
+ 
+
+ (A) On-Site Examination Unit 
+
+ 
+
+The Unit uses the CAMEL parameters to appraise the safety and soundness of each financial 
+institution. The parameters are: (a) Capital Adequacy, (b) Asset Quality, (c) Management, (d) 
+Earnings, and (e) Liquidity. 
+
+ 
+
+ (i) Limited (Credit) Examination 
+
+ 
+
+During the period under review, the Unit successfully completed the Limited (Credit) 
+Examination cycle by examining all the commercial banks to appraise the Loans and 
+Advances portfolios of each bank. The objective of the credit examination is to determine the 
+adequacy of lending policies, practices, procedures, quality and control of credits and their 
+consistency with the FIA and applicable regulations. All of the operating banks had adequate 
+lending policies, procedures, and practices, but yet a high incidence of non-performing loans 
+(NPLs). The high incidence of NPLs is, therefore, found not to be attributable to inadequate 
+lending policies, but to weak institutional infrastructure, such as inadequate legal recourse 
+against delinquent borrowers. 
+
+ 
+
+ (ii) Routine Examination 
+
+ 
+
+Due to the hostilities, which engulfed the City of Monrovia during the second half of 2003, 
+no Routine Examination was conducted during the year. 
+
+ 
+
+ (iii) Target Examination 
+
+ 
+
+As a result of the massive looting during the war, the Unit conducted re-opening damage 
+assessment of ECOBANK, International Bank Liberia Limited (IBLL) and Liberia Bank for 
+Development and Investment (LBDI). This exercise involved reviewing the list of bank 
+assets before the war and taking an inventory of items found after the war to determine the 
+level of loss to the banks. The Unit also conducted damage assessment of TRADEVCO 
+Bank, although the bank remained closed to date. Additionally, periodic liquidity checks and 
+other investigations, as and when necessary, were carried out during the review period. 
+
+
+- 57 - 
+
+ 
+
+The banking industry was generally unprofitable. The profitability and asset quality of 
+commercial banks continued to be under pressure as the deteriorating economic environment, 
+during the period under review, caused some rise in non-performing loans and the 
+Government failure to pay its obligations. A breakdown of the revenues of the banks by 
+sources indicates a high concentration on fees and commissions. Fees and commissions 
+accounted for 86 percent of total earnings. The over-reliance on fee-based income by the 
+banking system was due to the high level of non-performing loans. 
+
+ 
+
+ (C) Receivership/Liquidation Section 
+
+ 
+
+Due to the war in Monrovia and its environs, the primary functions of this section which are 
+to assess and recommend appropriate failure resolution strategies for problem banks, appraise 
+turn-around plans of problem banks and verify and settle claims of banks in liquidation were 
+not fully carried out. The section kept books and records of liquidation operation, including 
+facilitating required audit of liquidation accounts. 
+
+ 
+
+(i) Failed Banks 
+
+ 
+
+During the year under review, the status of failed banks remained stagnant except for: 
+
+ 
+
+ 1. First Commercial And Investment Bank (FCIB) 
+
+ 
+
+The ‘due diligence and inventory report’ submitted by FCIB Restructuring Committee was 
+analyzed. The report included a plan for the reactivation and recapitalization of FCIB, which 
+should last for a period of twelve months. The formal response of the CBL to the 
+Committee’s request for authorization to begin the reorganization process is expected in the 
+first quarter of 2004. 
+
+ 
+
+2. ROVIA 
+
+ 
+
+The CBL petitioned the Civil Law Court on the 8th of May 2003 to grant permission to 
+liquidate ROVIA. The CBL obtained a Clerk Certificate to the effect that no objection was 
+filed with the court by anyone to contest the Liquidation request. Barring any unforeseen 
+circumstance, it was expected that the liquidation of ROVIA Bank would commence during 
+the first half of 2004. 
+
+
+- 59 - 
+
+For the review year, three (3) commercial banks, EcoBank Liberia Limited, International 
+Bank (Liberia) Limited, and Liberia Bank for Development & Investment complied with the 
+payment of annual operating levies. 
+
+ 
+
+(E) Currency Declaration Monitoring Program 
+
+ 
+
+The Department continued to administer the activities of the Currency Declaration 
+Monitoring Program at the Roberts International Airport (RIA) during the year. As a result of 
+the civil crisis, the currency declaration-monitoring program was suspended in June and 
+remained so for the rest of 2003. Up to the suspension of the program, a total of 3,951 
+passengers declared. Of the total, 1,507 or 38 percent represented incoming declarations, 
+while 2,444 or 62 percent accounted for outgoing declarations. 
+
+ 
+
+The total amount declared by incoming and outgoing passengers during the two quarters 
+amounted to US$724,283.00. Outgoing declarations amounted to US$690,758.00 or 95 
+percent, while incoming declarations totaled US$33,525.00 or 5 percent of total declarations. 
+
+ 
+
+6.4 Research, Policy and Planning Department 
+
+ 
+
+The Research, Policy and Planning Department (RPPD) is charged with the responsibility to 
+conduct research and provide the Management of the Bank with essential research 
+information relevant for the formulation and implementation of sound monetary and financial 
+policies conducive to the balanced growth of the national economy. In the execution of its 
+mandate, the Department carries out collection, verification, processing and analyses of 
+financial and economic data. 
+
+ 
+
+During the year under review, the Department carried out the following activities: 
+
+ 
+
+ (A) Publications 
+
+ 
+
+Three major periodic publications are produced by the Department – the Liberia Financial 
+Statistics (LFS), the Economic and Financial Bulletin (EFB) and the Annual Report of the 
+Bank 
+
+ 
+
+
+- 60 - 
+
+ 
+
+The LFS, published every two months, is a compilation of selected macroeconomic and 
+financial statistics intended to provide reliable and timely database for researchers, 
+academicians, bankers and other users of statistics. Thus, for the year under review, six (6) 
+editions of the LFS were published. The Financial and Economic Bulletin, on the other hand, 
+provides a comprehensive sectoral analysis of the economy. Four (4) editions of the EFB 
+were also produced covering the four quarters of the year. The Department produced also the 
+Annual Report of the Bank for the year 2003. 
+
+ 
+
+The monetary survey, a monthly collection and compilation of monetary and financial 
+statistics of the financial system was produced regularly by the Department and submitted to 
+the IMF during the review period. 
+
+ 
+
+(B) Surveys 
+
+ 
+
+In an effort to enable the Bank effectively intervene in the foreign exchange market for the 
+purpose of stabilizing the rate, the Department closely monitored movements of the exchange 
+rate of the domestic currency relative to the United States currency on a daily basis 
+throughout the reporting period. Periodic analyses of exchange rate movements were carried 
+out by the Department and copies of said analyses furnished a number of international 
+organizations including WAMA, the World Bank. IMF, Duetsche Bank, etc. 
+
+ 
+
+Over the past years, the Department collaborated with the Ministry of Planning and 
+Economic Affairs for the monthly collection and computation of the Monrovia Consumer 
+Price Index (CPI). Monthly analyses of the Index and determination of the inflation rates 
+were exclusively carried out by the Department during 2003. 
+
+ 
+
+(C) Compilation and Analysis of Monthly Remittances 
+
+ 
+
+In order to capture the level of inflows and outflows of US dollars from the country, the 
+Department collected statistics on a weekly basis from the various commercial banks 
+(including their Money Gram and Western Union branches) on in-bound and out-bound 
+transfers. Weekly analyses of these remittances were among the major areas of focus of the 
+Department during the year. 
+
+ 
+
+
+- 61 - 
+
+ 
+
+(D) Ad-Hoc Assignments 
+
+ 
+
+The Department also produced various topical papers on the exchange and inflation rates and 
+other relevant economic and financial issues. Other ad hoc assignments performed during the 
+year included papers written on the economic impact of the UN-imposed sanctions on 
+Liberia, the effects of the CBL’s intervention in the foreign exchange market on prices of 
+essential commodities, etc. 
+
+ 
+
+6.5 Management Information System Division 
+
+ 
+
+The Management Information System (MIS) Division of the CBL was restructured during 
+2002-2003 to reflect the technical responsibilities required of the staff in order to enhance 
+productivity and operational efficiency. Before the restructuring, the MIS Division’s 
+Operations Section used the Accounts Management System (AMS) software developed in-
+house including the Central Bank’s payroll package, which was also an integral part of the 
+AMS. 
+
+ 
+
+(A) BankMaster 
+
+ 
+
+The year under review marked a significant enhancement in the CBL’s overall operation of 
+the BankMaster System. A lot of utilities were incorporated into the system for timely and 
+accurate processing of transactions resulting into the production of meaningful reports for 
+decision making. Some of the reports included GOL Daily Statements, Month End 
+Statements, Daily Cash Position, and Standing Orders, etc. 
+
+ 
+
+(B) SWIFT 
+
+ 
+
+The Bank also purchased and installed the SWIFT Software for Secured money transfer 
+during the reporting period. The system is manned by three SWIFT Security Officers, three 
+Administrators and two Operators. An expatriate recommended by the SWIFT Headquarters 
+office in Belgium installed the system. However, Management is currently in the process of 
+sending some of the above personnel for training to enable them locally manage the system. 
+
+ 
+
+ 
+
+ 
+
+
+- 62 - 
+
+ 
+
+The major problem encountered during the year was the inability of the Liberia 
+Telecommunications Corporation to provide constant and uninterrupted dial-up connection. 
+Management is, therefore, looking into the possibility of adopting alternative fall back 
+measures to remedy the situation. 
+
+ 
+
+(C) Mail Server 
+
+ 
+
+The Bank installed an in-house Mail Server intended to host its website and store e-mails for 
+the Bank and its staff. A domain was registered with the name “Centralbankliberia.org.lr”. 
+Authorized members of the staff can send and receive e-mails through the Server using the 
+above domain. The installation of a local Mail Server will improve information security since 
+the technical staff of the Bank control and monitor the services on the server. It is also 
+noteworthy that the Bank is in the process of developing a website to be locally hosted. 
+
+ 
+
+(D) Hardware 
+
+ 
+
+The Management of the Bank purchased six computers and eight printers during the period 
+under review. Two of the printers purchased are Network Enterprise Printers. These printers 
+were purchased to centralize and monitor print jobs from various divisions of the Bank. A 
+print monitoring software has been purchased and installed to monitor and control print jobs. 
+This will enable Management curb the proliferation of small printers and to control paper 
+usage. 
+
+ 
+
+(E) Training 
+
+ 
+
+The Bank’s consultants conducted an In-house training program for the staff of the MIS 
+Division in the use of utility programs that enhance BankMaster operations. The Training 
+Section of the Division also conducted normal computer literacy training program for the 
+staff of the Bank. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 63 - 
+
+ 
+
+6.6 Corporate Division 
+
+ 
+
+During the year, the Division carried out the following activities: 
+
+ 
+
+1. Collaborated with the Legal Division in handling legal issues on behalf of the CBL. 
+
+ 
+
+The court proceedings during the review period included, but not limited to: (a) LUBI-In-
+Liquidation; (b) BCCI-In-Liquidation; and (c) Meridian (BIAO) Bank Liberia Limited. 
+Additionally, the Division probated, notarized and prepared agreements/contracts on behalf 
+of the Bank. 
+
+ 
+
+2. Participated in Board and Administrative meetings. 
+
+ 
+
+As Secretary to the Board of Governors, the Divisional head partly participated in a number 
+of Board meetings organized in 2003. Minutes from these Meetings and other Meetings with 
+the commercial banks were compiled and kept by Corporate Division. 
+
+ 
+
+3. Received guests on behalf of the CBL. 
+
+ 
+
+The Division received all local and international visiting dignitaries to the Bank. Prominent 
+among those visiting the Bank during the year were an IMF Mission and CBL’s external 
+consultants. 
+
+ 
+
+4. Published the In-House Information Bulletin. 
+
+ 
+
+The Division also serves as the public relations arm of the Bank. As such, it published in the 
+local dailies, documentaries and commentaries on relevant issues concerning the Bank. The 
+Division also provided rebuttals and rejoinders on certain misconceptions of operations and 
+activities at the Bank. Of specific importance during the year, was a promotional 
+advertisement regarding the acceptance of perceived mutilated Liberian dollar banknotes 
+vigorously launched by the Division. 
+
+ 
+
+ 
+
+
+- 65 - 
+
+ 
+
+VII. RELATIONSHIP WITH INTERNATIONAL FINANCIAL 
+
+INSTITUTIONS 
+
+D 
+espite the difficult state of affairs that prevailed in the country during the review 
+year, the CBL continued to maintain some relationships with leading international 
+financial and other institutions. These include the Bretton Woods Institutions and 
+other regional and sub-regional financial organizations. However, the country’s inability to 
+service its obligations with these institutions continued to undermine these relationships. 
+
+ 
+
+7.0 The International Monetary Fund 
+
+ 
+
+The CBL maintained contacts with the International Monetary Fund (IMF) on monetary 
+issues during 2003. The Bank continued to follow the standardized methodology of the IMF 
+for the compilation of economic and financial statistics. Accordingly, periodic submissions of 
+monetary data were made to the Fund. 
+
+ 
+
+As at the end of December 2003, Liberia’s arrears to the IMF stood at US$718.4 million. 
+Despite the current difficult situation facing the country, Liberia has continued to make some 
+modest payments to the IMF in adherence to an agreement reached with the Fund. For the 
+period ending December 31, 2003, an amount of US$250,000 was paid to the IMF. 
+
+ 
+
+In March 2003, the Executive Board of the IMF suspended Liberia’s voting and related rights 
+in the Fund, after a determination was made that Liberia failed to meet payment obligations 
+and to show improvement in its cooperation with the Fund in the areas of policy 
+implementation. 
+
+ 
+
+7.1 The World Bank 
+
+ 
+
+The CBL interaction with the World Bank has been very minimal in the past year. The 
+World Bank suspended all financial transactions with Liberia as a result of the lack of 
+payment on arrears. By December ending, 2003, Liberia’s obligation to the World Bank 
+stood at US$392.1 million. Liberia is obligated to make payment to the World Bank to fulfill 
+the Maintenance of Value (MOV) clause in the Bank’s Articles of Agreement. The World 
+Bank was not engaged in any significant activities in Liberia during the period under review. 
+
+
+- 66 - 
+
+ 
+
+7.2 Regional and Sub-regional Organizations 
+
+ 
+
+ (i) (MRU, ECOWAS, WAMA, WAIFEM, AACB, WAMI, ACDB, and JAI) 
+
+ 
+
+During the year under consideration, the Central Bank of Liberia affiliated with the following 
+institutions on economic and financial matters: Mano River Union (MRU), Economic 
+Community of West African States (ECOWAS), West African Monetary Agency (WAMA), 
+West African Institute for Financial & Economic Management (WAIFEM), Association of 
+African Central Banks (AACB), West African Monetary Institute (WAMI), African 
+Development Bank (ADB), and the Joint Africa Institute (JAI). The CBL’s participation in 
+the activities of ECOWAS, WAMA, WAIFEM, AACB, and WAMI is limited to observer 
+status due to the Bank’s inability to service its outstanding contributions to these institutions. 
+The CBL’s prolonged indebtedness to these institutions is due to the general financial 
+difficulties facing the nation. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 67 - 
+
+ 
+
+VIII. PROSPECTS 
+
+T 
+he mandate of the Central Bank was not satisfactorily carried out in 2003, as a result 
+of the many obstacles that worked against the achievement of its major objective – 
+the maintenance of price stability. The escalation in the armed conflict, the vast 
+movement of the inhabitants, the United Nations sanctions among others, are among major 
+factors that affected the activities in the financial sector. The impact was clearly shown in the 
+volatile movements in the exchange rate during the year. 
+
+ 
+
+Given the general condition under which the Bank operated during the review period, its 
+main focus of monetary policy was maintenance of price stability (through exchange rate 
+stability) so as to maintain a low inflationary environment conducive to economic growth and 
+development. Despite the difficulties encountered in its strive to maintain a sound banking 
+system, the Bank endeavored to maintain growth of broad money generally in line with 
+developments in the economy, ensure supportive growth of credit to the private sector and 
+facilitate efficient operation of the banking system during the year under review. 
+
+ 
+
+For the year 2004 and the years beyond, the Central Bank of Liberia, in consonance with the 
+International Monetary Fund, shall undertake a number of measures aimed at strengthening 
+the financial sector and improving the capacity of the Bank with the view to bringing about 
+greater efficiency, transparency and accountability in the system. Those measures, which are 
+to be implemented under an agreed technical assistance program with the Fund, will include, 
+among others, improvement in the examination and supervisory functions of the Central 
+Bank, the payment system, monetary operations including the foreign exchange auction, the 
+introduction of money market securities, and the restructuring of the Banks. As peace is 
+restored throughout the country, it is expected that the economy will gradually pick up in the 
+coming years with the banking system together with international assistance and good 
+governance facilitating such improvement of the economy. 
+
+ 
+
+The Bank intends to enhance the operation of a liberal financial environment through 
+appropriate policy measures that will ensure free entry and exit without undermining the 
+financial system. Accordingly, continuous policy dialogue with major economic actors and 
+other stakeholders will be encouraged with a view to achieving exchange rate and price 
+stability. 
+
+
+- 68 - 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STATISTICAL ANNEX 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 69 - 
+
+ 
+
+Annex 1: Gross Domestic Product at Constant 2000 Prices 
+
+(2001-2003) 
+
+(In Millions US$) 
+
+Sector 
+
+2001* 
+
+2002** 
+
+2003** 
+
+AGRICULTURE 
+
+235.55 
+
+231.18 
+
+226.47 
+
+ Fishing 
+
+0.15 
+
+0.15 
+
+0.14 
+
+ Rubber 
+
+49.30 
+
+48.39 
+
+47.40 
+
+ Coffee 
+
+0.09 
+
+0.09 
+
+0.09 
+
+ Cocoa 
+
+0.31 
+
+0.30 
+
+0.30 
+
+ Rice 
+
+58.03 
+
+56.95 
+
+55.79 
+
+ Cassava 
+
+47.34 
+
+46.47 
+
+45.52 
+
+ Others 
+
+80.33 
+
+78.83 
+
+77.23 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FORESTRY 
+
+100.90 
+
+99.02 
+
+97.00 
+
+ Logs & Timber 
+
+66.23 
+
+65.00 
+
+63.67 
+
+ Charcoal & Wood 
+
+34.67 
+
+34.02 
+
+33.33 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MINING 
+
+0.35 
+
+0.33 
+
+0.33 
+
+ Iron Ore 
+
+- 
+
+- 
+
+- 
+
+ Gold 
+
+0.24 
+
+0.23 
+
+0.23 
+
+ Diamond 
+
+0.11 
+
+0.10 
+
+0.10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MANUFACTURING 
+
+18.69 
+
+18.34 
+
+17.97 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tertiary Sector 
+
+71.83 
+
+70.49 
+
+69.05 
+
+Trade, Hotels, etc. 
+
+17.87 
+
+17.53 
+
+17.18 
+
+Electricity 
+
+1.33 
+
+1.31 
+
+1.28 
+
+Water 
+
+8.16 
+
+8.01 
+
+7.84 
+
+Construction 
+
+11.39 
+
+11.18 
+
+10.95 
+
+Communication & Transportation 
+
+0.40 
+
+0.39 
+
+0.38 
+
+Insurance & Other Financial Institutions
+
+10.28 
+
+10.09 
+
+9.89 
+
+Shipping 
+
+0.34 
+
+0.33 
+
+0.33 
+
+Government Services 
+
+17.51 
+
+17.19 
+
+16.83 
+
+Other Services 
+
+4.43 
+
+4.35 
+
+4.26 
+
+NGOs 
+
+0.12 
+
+0.11 
+
+0.11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total 
+
+427.32 
+
+419.36 
+
+410.83 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Less 
+
+15.27 
+
+14.99 
+
+14.67 
+
+ Depreciation 
+
+11.63 
+
+11.42 
+
+11.18 
+
+ Bank Charges 
+
+3.64 
+
+3.57 
+
+3.49 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Net (Value Added) GDP 
+
+412.05 
+
+404.37 
+
+396.15 
+
+
+
+* Results are based on a National Accounts Survey conducted in 2002 
+
+** Estimates are based on the results of the National Accounts Survey conducted in 2002 
+
+Source: Ministry of Planning & Economic Affairs, Monrovia, Liberia 
+
+ 
+
+
+- 70 - 
+
+ 
+
+Annex 2: Key Agricultural Production 
+
+(2001-2003) 
+
+Commodity 
+
+Unit 
+
+2001
+
+2002 
+
+2003
+
+Rubber 
+
+Mt. 
+
+110,235
+
+92,442 
+
+54,845
+
+Cocoa 
+
+Mt. 
+
+966
+
+1,540 
+
+-
+
+Coffee 
+
+Mt. 
+
+507
+
+405 
+
+-
+
+Fish 
+
+Kg. 
+
+409,940
+
+403,380 
+
+266,000
+
+Round Logs 
+
+M3
+
+980,361
+
+1,363,861 
+
+548,446*
+
+Sawn Timber 
+
+M3
+
+19,945
+
+15,372 
+
+1,979*
+
+
+
+* Estimates 
+
+Sources: Ministry of Planning & Economic Affairs, forestry Development Authority, (FDA); Ministry of 
+Commerce & Industry, Liberia Produce marketing Corporation (LPMC), Monrovia, Liberia 
+
+ 
+
+ 
+
+ 
+
+Annex 3: Key Manufacturing Output 
+
+(2001-2003) 
+
+Commodity 
+
+Unit 
+
+2001 
+
+2002 
+
+2003 
+
+Cement 
+
+Mt. 
+
+62,897
+
+53,662 
+
+41,827
+
+Beverages 
+
+Liter 
+
+12,546,007
+
+8,864,951 
+
+7,724,154*
+
+Paint 
+
+Gal. 
+
+36,983
+
+12,980 
+
+5,934
+
+Nail 
+
+Kg. 
+
+117,950
+
+52,450 
+
+47,186*
+
+Candle 
+
+Kg. 
+
+674,563
+
+708,899 
+
+282,787
+
+Cholorax 
+
+Liter 
+
+117,925
+
+154,992 
+
+73,656
+
+Rubbing Alcohol 
+
+Liter 
+
+62,668
+
+87,178 
+
+21,635
+
+Mattresses 
+
+Pcs. 
+
+15,135
+
+4,660 
+
+2,340*
+
+Deep Water1
+
+Gal. 
+
+43,091,594
+
+25,813,127 
+
+32,890,137
+
+Finished Water2
+
+Gal. 
+
+337,483,970
+
+315,592,930 
+
+283,898,370
+
+
+
+* Estimates 
+
+Sources: Ministry of Planning & Economic Affairs and Liberia Water & Sewer Corporation, Monrovia, 
+Liberia 
+
+Note: 1Water from drilled wells 
+
+ 2 Water from the treatment plant in White Plains 
+
+ 
+
+ 
+
+Annex 4: Consumption of Petroleum Products 
+
+(2001-2003) 
+
+Commodity 
+
+Unit 
+
+2001 
+
+2002 
+
+2003 
+
+PMS (Gasoline) 
+
+Gal. 
+
+12,022,172
+
+10,067,157 
+
+6,259,801
+
+AGO (Diesel) 
+
+Gal. 
+
+21,772,572
+
+18,334,626 
+
+11,746,353
+
+ATK (Kerosene) 
+
+Gal. 
+
+1,132,588
+
+201,201 
+
+406,868
+
+Jet – A1 
+
+Gal. 
+
+1,132,588
+
+902,048 
+
+-
+
+Total 
+
+ 
+
+35,191,417
+
+29,505,032 
+
+19,297,701
+
+
+
+Source: Ministry of Finance, Monrovia, Liberia 
+
+ 
+
+ 
+
+
+- 71 - 
+
+Annex 5: Yearly Averages: All-Items Index and Indices of Sub-groups 
+
+(2001-2003) 
+
+(May 1998=100) 
+
+ 
+
+Components 
+
+Year 
+
+Rate of Change 
+
+Weights 
+
+2001 
+
+2002 
+
+2003 
+
+2001 
+
+2002 
+
+2003 
+
+All Items 
+
+100 
+
+124.7
+
+142.2
+
+157.0
+
+12.1
+
+14.6 
+
+10.4
+
+Food 
+
+34.4 
+
+97.7
+
+111.0
+
+140.9
+
+-3.8
+
+13.7 
+
+27.0
+
+Drinks & 
+Tobacco 
+
+5.7 
+
+121.9
+
+140.1
+
+160.0
+
+18.8
+
+15.4 
+
+14.5
+
+Fuel & Light 
+
+5.0 
+
+135.3
+
+155.5
+
+154.4
+
+10.7
+
+15.1 
+
+-0.7
+
+Clothing 
+
+13.8 
+
+112.2
+
+119.1
+
+121.2
+
+7.0
+
+6.3 
+
+1.8
+
+Household Goods 
+
+6.1 
+
+136.6
+
+158.8
+
+161.9
+
+14.5
+
+17.7 
+
+2.0
+
+Personal Care 
+
+11.4 
+
+209.5
+
+258.9
+
+266.8
+
+62.1
+
+28.5 
+
+3.3
+
+Rent 
+
+14.9 
+
+130.2
+
+131.2
+
+131.5
+
+3.2
+
+0.8 
+
+0.2
+
+Miscellaneous 
+
+8.7 
+
+117.7
+
+152.2
+
+173.3
+
+14.4
+
+30.0 
+
+14.5
+
+
+
+Source: Central Bank of Liberia, Monrovia, Liberia 
+
+ 
+
+Annex 6:Commodity Composition of Exports 
+
+(2001-2003) 
+
+(In Millions US$) 
+
+Commodity 
+
+2001
+
+2002
+
+2003
+
+Rubber 
+
+54.3
+
+59.1
+
+43.9
+
+Logs 
+
+69.2
+
+109.9
+
+54.6
+
+Cocoa Beans & Coffee 
+
+0.5
+
+0.6
+
+0.9
+
+Others 
+
+3.9
+
+6.5
+
+7.9
+
+Total 
+
+127.9
+
+176.1
+
+107.3
+
+
+
+Source: Ministries of Commerce & Industry and the Forestry Development Authority, (FDA), Monrovia, 
+
+Liberia 
+
+ 
+
+ 
+
+Annex 7: Commodity Composition of Imports 
+
+(2001–2003) 
+
+(In Millions of US$) 
+
+Category 
+
+2001
+
+2002
+
+2003
+
+Food & Live Animals 
+
+61.3
+
+51.1
+
+50.7
+
+Beverages & Tobacco 
+
+6.1
+
+5.6
+
+5.5
+
+Crude Materials 
+
+4.1
+
+2.0
+
+3.6
+
+Minerals, Fuel & Lubricants 
+
+2.2
+
+1.6
+
+1.3
+
+Animals & Vegetable Oil 
+
+2.6
+
+2.8
+
+2.5
+
+Chemical & Related Products 
+
+8.7
+
+7.5
+
+6.8
+
+Manufactured Products 
+
+18.5
+
+12.1
+
+14.9
+
+Machinery & Transport Equipment 
+
+35.4
+
+14.4
+
+14.8
+
+Petroleum Products 
+
+72.1
+
+60.5
+
+37.1
+
+Miscellaneous Articles 
+
+17.6
+
+20.6
+
+32.6
+
+Total 
+
+228.6
+
+178.2
+
+169.7
+
+
+
+Source: Ministries of Commerce & Industry and the Forestry Development Authority, (FDA), Monrovia, Liberia 
+
+ 
+
+
+- 72 - 
+
+ 
+
+Annex 8: Central Bank of Liberia 
+
+Income Statement 
+
+(2002-2003) 
+
+(‘000 L$) 
+
+Income 
+
+2003 
+
+2002 
+
+ 
+
+ 
+
+Interest Income 
+
+206,773 
+
+219,380
+
+Interest expense 
+
+(516) 
+
+(1,893)
+
+Net Interest Income 
+
+206,257 
+
+217,487
+
+Fees & Commissions 
+
+15,452 
+
+20,266
+
+Foreign Currency transaction loss 
+
+- 
+
+(4,391)
+
+Other income 
+
+10,370 
+
+10,808
+
+ 
+
+ 
+
+Total net interest and other income 
+
+232,079 
+
+244,170
+
+ 
+
+ 
+
+General and administrative expenses 
+
+ 
+
+ 
+
+ 
+
+ Personnel cost 
+
+90,591 
+
+91,243
+
+ Board fees and expenses 
+
+10,338 
+
+9,383
+
+ Occupancy 
+
+14,648 
+
+15,529
+
+ Currency expense 
+
+40,112 
+
+39,787
+
+ Office expenses 
+
+8,804 
+
+10,943
+
+ Professional services 
+
+7,021 
+
+4,245
+
+ Security 
+
+5,317 
+
+1,260
+
+ Vehicle running cost 
+
+4,442 
+
+5,977
+
+ Travel 
+
+7,938 
+
+5,502
+
+ Depreciation and amortization 
+
+21,625 
+
+21,345
+
+ Doubtful debt expense 
+
+11,426 
+
+-
+
+ Other expenses 
+
+9,050 
+
+9,535
+
+ 
+
+ 
+
+Total general & administrative expenses 
+
+231,312 
+
+214,749
+
+ 
+
+ 
+
+Net operating results before other losses 
+
+767 
+
+29,421
+
+ 
+
+ 
+
+War losses and public relation expenses 
+
+(15,945) 
+
+-
+
+ 
+
+ 
+
+Net operating results for the year 
+
+ 
+
+ 
+
+ 
+
+ transferred to General Reserves 
+
+(15,178) 
+
+29,421
+
+
+
+Source: Central Bank of Liberia, Monrovia, Liberia 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 73 - 
+
+ 
+
+Annex 9: Central Bank of Liberia Balance Sheet 
+
+(2002-2003) 
+
+(‘000 L$) 
+
+Assets 
+
+2003 
+
+2002 
+
+Current Assets: 
+
+ 
+
+ Cash and short term funds 
+
+407,349 
+
+339,067
+
+ Due from the Government of Liberia 
+
+725,494 
+
+610,356
+
+ Advances & overdrafts to local banks 
+
+46,815 
+
+52,978
+
+ Accounts receivable 
+
+54,039 
+
+65,420
+
+ Prepaid expenses 
+
+7,462 
+
+3,865
+
+ Government of Liberia – IMF Accounts 
+
+31,777,705 
+
+31,621,495
+
+ Other current assets 
+
+7,108 
+
+4,869
+
+ 
+
+33,025,972 
+
+32,698,050
+
+ 
+
+ 
+
+Non Current Assets: 
+
+ 
+
+ Due from the Government of Liberia 
+
+11,307,338 
+
+14,379,054
+
+ Deferred currency cost 
+
+289,655 
+
+149,085
+
+ Investment in real estate 
+
+7,593 
+
+7,820
+
+ Banking software and training 
+
+26,295 
+
+26,250
+
+ Fixed Assets 
+
+386,579 
+
+394,381
+
+ 
+
+12,017,460 
+
+14,956,590
+
+Total Assets 
+
+45,043,432 
+
+47,654,640
+
+ 
+
+ 
+
+Liabilities and equity 
+
+ 
+
+ 
+
+ 
+
+Current Liabilities: 
+
+ 
+
+ Liberian monies in circulation 
+
+1,411,925 
+
+1,151,567
+
+ Commercial banks’ deposits and loans 
+
+579,961 
+
+681,237
+
+ Non-bank deposits 
+
+1,029 
+
+74,321
+
+ Due to foreign financial institutions 
+
+361,352 
+
+465,106
+
+ Accounts Payable 
+
+119,436 
+
+165,759
+
+ Due to autonomous state agencies/enterprises 
+
+11,280 
+
+17,487
+
+ Due to the Government of Liberia 
+
+360,322 
+
+181,337
+
+ Due to the International Monetary Fund (IMF) 
+
+31,777,705 
+
+31,621,495
+
+ Other liabilities 
+
+2,744 
+
+1,567
+
+ 
+
+34,625,754 
+
+34,359,876
+
+ Long term commercial bank loan 
+
+662,661 
+
+857,415
+
+ Total liabilities 
+
+35,288,415 
+
+35,217,291
+
+ Equity: 
+
+ 
+
+ Capital 
+
+7,416,329 
+
+7,416,329
+
+ General reserves 
+
+2,338,688 
+
+5,021,020
+
+ 
+
+9,755,017 
+
+12,437,349
+
+ Total liabilities and equity 
+
+45,043,432 
+
+47,654,640
+
+
+
+Source: Central Bank of Liberia, Monrovia, Liberia 
+
+ 
+
+ 
+
+ 
+
+
+- 74 - 
+
+ 
+
+Annex 10: Consolidated Balance Sheet of Commercial Banks 
+
+(2001-2003) 
+
+(‘000) 
+
+ ASSETS 
+
+ Dec.01 
+
+ Dec.02 
+
+ Dec.03 
+
+RESERVES 
+
+1,397,299 
+
+666,847 
+
+568,405 
+
+ Of which: Cash on Hand (Coins/L$ Notes) 
+
+97,995 
+
+78,837 
+
+105,147 
+
+FOREIGN ASSETS 
+
+546,652 
+
+669,506 
+
+895,353 
+
+CLAIMS ON GENERAL GOVERNMENT 
+
+580,894 
+
+921,259 
+
+661,207 
+
+CLAIMS ON PUBLIC CORPORATIONS 
+
+64,617 
+
+64,289 
+
+42,094 
+
+CLAIMS ON PRIVATE SECTOR 
+
+877,019 
+
+1,064,427 
+
+1,005,152 
+
+CLAIMS ON CENTRAL BANK OF LIBERIA
+
+5,495 
+
+865,475 
+
+656,752 
+
+CLAIMS ON NBFIS 
+
+181,153 
+
+14,073 
+
+164,241 
+
+UNCLASSIFIED ASSETS 
+
+517,228 
+
+316,842 
+
+344,993 
+
+TOTAL ASSETS 
+
+4,170,357 
+
+4,582,719 
+
+4,338,195 
+
+ LIABILITIES 
+
+ Dec.01 
+
+ Dec.02 
+
+ Dec.03 
+
+DEMAND DEPOSITS 
+
+851,604
+
+1,318,193 
+
+1,203,184 
+
+TIME AND SAVINGS DEPOSITS 
+
+422,415
+
+535,365 
+
+433,891 
+
+RESTRICTED DEPOSIT 
+
+152,081
+
+0 
+
+813,976 
+
+BONDS AND SECURITIES 
+
+0
+
+0 
+
+0 
+
+FOREIGN LIABILITIES 
+
+587,374
+
+627,203 
+
+55,096 
+
+GOVERNMENT DEPOSITS 
+
+122,803
+
+80,264 
+
+-31,376 
+
+LIABILITIES TO CENTRAL BANK 
+
+115,766
+
+37,030 
+
+44,339 
+
+CAPITAL ACCOUNTS 
+
+1,247,725
+
+1,342,081 
+
+1,242,400 
+
+UNCLASSIFIED LIABILITIES 
+
+670,590
+
+642,583 
+
+576,686 
+
+TOTAL LIABILITIES 
+
+4,170,357
+
+4,582,719 
+
+4,338,195 
+
+
+
+Source: Central Bank of Liberia, Monrovia, Liberia 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 75 - 
+
+ 
+
+ 
+
+Annex 11: Commercial Banks' Loans by Economic Sectors 
+
+(2001-2003) 
+
+(In Thousands of Liberian Dollars) 
+
+ 
+
+Dec-01 
+
+Dec-02 
+
+Dec-03 
+
+Percentage Change
+
+ 
+
+ 
+
+% Share
+
+ 
+
+% Share
+
+ 
+
+% 
+Share 
+
+ '02/01 
+
+03/02 
+
+1. Agriculture 
+
+161,741
+
+13.9
+
+193,463
+
+8.1
+
+184,170
+
+9.2
+
+19.6
+
+-4.8
+
+ 1.1 Rubber 
+
+4,220
+
+0.4
+
+4,708
+
+0.2
+
+4,905
+
+0.2
+
+11.6
+
+4.2
+
+ 1.2 Forestry 
+
+112,954
+
+9.7
+
+187,910
+
+7.8
+
+168,759
+
+8.4
+
+66.4
+
+-10.2
+
+ 1.3 Fishing 
+
+44,302
+
+3.8
+
+572
+
+0.0
+
+8,919
+
+0.4
+
+-98.7
+
+1459.2
+
+ 1.4 other 
+
+265
+
+0.0
+
+273
+
+0.0
+
+1,587
+
+0.1
+
+3.0
+
+481.4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Mining & Quarrying 
+
+50
+
+0.0
+
+0
+
+0.0
+
+0
+
+0.0
+
+-100.0
+
+0.0
+
+ 2.1 Iron Ore 
+
+0
+
+0.0
+
+0
+
+0.0
+
+0
+
+0.0
+
+ 
+
+ 
+
+ 2.2 Quarrying 
+
+50
+
+0.0
+
+0
+
+0.0
+
+0
+
+0.0
+
+-100.0
+
+0.0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 3. Manufacturing 
+
+93
+
+0.0
+
+15,810
+
+0.7
+
+7,355
+
+0.4
+
+16900.0
+
+-53.5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4. Construction 
+
+10,544
+
+0.9
+
+28,005
+
+1.2
+
+51,306
+
+2.6
+
+165.6
+
+83.2
+
+ 4.1 Mortgage Loans 
+
+0
+
+0.0
+
+0
+
+0.0
+
+0
+
+0.0
+
+ 
+
+ 
+
+ 4.2 Home Improvement 
+
+248
+
+0.0
+
+0
+
+0.0
+
+0
+
+0.0
+
+-100.0
+
+0.0
+
+ 4.3 Other 
+
+10,296
+
+0.9
+
+28,005
+
+1.2
+
+51,306
+
+2.6
+
+172.0
+
+83.2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. Trans., Storage & 
+Comm. 
+
+4,887
+
+0.4
+
+8,947
+
+0.4
+
+4,795
+
+0.2
+
+83.1
+
+-46.4
+
+ 5.1 Transportation 
+
+3,897
+
+0.3
+
+7,842
+
+0.3
+
+4,048
+
+0.2
+
+101.2
+
+-48.4
+
+ 5.2 Storage 
+
+990
+
+0.1
+
+1,105
+
+0.0
+
+746
+
+0.0
+
+11.6
+
+-32.5
+
+ 5.3 Communication 
+
+0
+
+0.0
+
+0
+
+0.0
+
+0
+
+0.0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6. Trade, Hotel &Rest. 
+
+159,912
+
+13.8
+
+210,061
+
+8.8
+
+201,000
+
+10.0
+
+31.4
+
+-4.3
+
+ 6.1 Diamond trade 
+
+0
+
+0.0
+
+0
+
+0.0
+
+0
+
+0.0
+
+ 
+
+ 
+
+ 6.2 Other trade 
+
+147,409
+
+12.7
+
+187,539
+
+7.8
+
+191,188
+
+9.5
+
+27.2
+
+1.9
+
+ 6.3 Hotels 
+
+8,712
+
+0.8
+
+21,705
+
+0.9
+
+9,409
+
+0.5
+
+149.1
+
+-56.7
+
+ 6.4 Restaurants 
+
+3,791
+
+0.3
+
+817
+
+0.0
+
+404
+
+0.0
+
+-78.4
+
+-50.6
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7. Other 
+
+822,687
+
+70.9
+
+1,938,161
+
+80.9
+
+1,560,259
+
+77.7
+
+135.6
+
+-19.5
+
+ 7.1 Services 
+
+46,445
+
+4.0
+
+45,773
+
+1.9
+
+20,823
+
+1.0
+
+-1.4
+
+-54.5
+
+ 7.2 Personal 
+
+65,569
+
+5.7
+
+69,539
+
+2.9
+
+86,528
+
+4.3
+
+6.1
+
+24.4
+
+ 7.3 GOL 
+
+568,099
+
+49.0
+
+863,966
+
+36.1
+
+570,473
+
+28.4
+
+52.1
+
+-34.0
+
+ 7.4 Central Bank of Liberia
+
+50
+
+0.0
+
+859,247
+
+35.9
+
+616,488
+
+30.7
+
+1735752.5
+
+-28.3
+
+ 7.5 Public Corporations 
+
+65,076
+
+5.6
+
+86,913
+
+3.6
+
+44,903
+
+2.2
+
+33.6
+
+-48.3
+
+ 7.5 Other 
+
+77,449
+
+6.7
+
+12,723
+
+0.5
+
+221,045
+
+11.0
+
+-83.6
+
+1637.4
+
+TOTAL 
+
+1,159,912
+
+100.0
+
+2,394,447
+
+100.0
+
+2,008,886
+
+100.0
+
+106.4
+
+-16.1
+
+
+
+Source: Central Bank of Liberia, Monrovia, Liberia 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+- 76 - 
+
+ 
+
+Annex 12: Money Supply and Broad Money 
+
+(December 2001 to December 2003) 
+
+Liberian and United States Dollars 
+
+(Millions of Liberian Dollars) 
+
+ 
+
+2001 
+
+2002 
+
+2003 
+
+ 
+
+Dec 
+
+Dec 
+
+Dec 
+
+MONEY 
+
+2,119.2 
+
+2,898.5 
+
+2,940.6
+
+M1 
+
+1,696.7 
+
+2,363.1 
+
+2,506.8 
+
+ CURRENCY OUTSIDE BANKS (MA) L$ 
+
+845.1 
+
+1,045.0 
+
+1,303.6 
+
+ DEMAND DEPOSITS (CoB) 
+
+851.6 
+
+1,318.2 
+
+1,203.2 
+
+ United States Dollar denominated to Liberian Dollars 
+
+734.8 
+
+1,149.7 
+
+1,066.3 
+
+ Liberian Dollars 
+
+116.8 
+
+168.4 
+
+136.9 
+
+ TIME AND SAVINGS (CoB) 
+
+422.4 
+
+535.4 
+
+433.9 
+
+ United States Dollar denominated to Liberian Dollars 
+
+285.4 
+
+442.2 
+
+273.9 
+
+ Liberian Dollars 
+
+137.0 
+
+93.2 
+
+160.0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ United States Dollar denominated to Liberian Dollars 
+
+1,020.2 
+
+1,592.0 
+
+410.8 
+
+Percentage share of United States dollars to Liberian dollars. 
+
+48.1%
+
+54.9%
+
+14.0%
+
+Exchange Rate 
+
+46.04
+
+65.00
+
+50.50
+
+
+
+ Source: Central Bank of Liberia, Monrovia, Liberia 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+- 77 - 
+
+ 
+
+Annex 13: Monetary Survey 
+
+ (December 2001-December 2003) 
+
+(In Millions of L$) 
+
+ 
+
+Dec-01
+
+Dec-02
+
+Dec-03
+
+FOREIGN ASSETS (NET) 
+
+(31,592.3)
+
+(36,815.7)
+
+(29,704.7)
+
+ FOREIGN ASSETS (MA) 
+
+23.8
+
+214.0 
+
+395.7 
+
+ (-) FOREIGN LIABILITIES (MA) 
+
+31,575.4
+
+37,072.0 
+
+30,940.7 
+
+ FOREIGN ASSETS (CoB) 
+
+546.7
+
+669.5 
+
+895.4 
+
+ (-) FOREIGN LIABILITIES (CoB) 
+
+587.4
+
+627.2 
+
+55.1 
+
+DOMESTIC CREDIT 
+
+43,912.4
+
+54,436.6 
+
+44,951.2 
+
+ CLAIMS ON GENERAL GOVERNMENT (NET) 
+
+42,767.7
+
+52,382.9 
+
+43,027.4 
+
+ CLAIMS ON GENERAL GOVERNMENT (MA)
+
+42,343.6
+
+51,588.1 
+
+42,629.2 
+
+ (-) GENERAL GOVERNMENT DEPOSITS (MA)
+
+34.0
+
+46.2 
+
+294.4 
+
+ CLAIMS ON GENERAL GOVERNMENT (CoB)
+
+580.9
+
+921.3 
+
+661.2 
+
+ (-) GENERAL GOVERNMENT DEPOSITS (CoB)
+
+122.8
+
+80.3 
+
+(31.4)
+
+ CLAIMS ON PUBLIC CORPORATIONS (MA) 
+
+0.0
+
+0.8 
+
+0.5 
+
+ CLAIMS ON PUBLIC CORPORATIONS (CoB) 
+
+64.6
+
+64.3 
+
+42.1 
+
+ CLAIMS ON PRIVATE SECTOR (MA) 
+
+16.5
+
+44.7 
+
+55.0 
+
+ CLAIMS ON PRIVATE SECTOR (CoB) 
+
+877.0
+
+1,064.4 
+
+1,005.2 
+
+ CLAIMS ON CENTRAL BANK OF LIBERIA 
+
+5.5
+
+865.5 
+
+656.8 
+
+ CLAIMS ON NBFIS (MA) 
+
+0.0
+
+0.0 
+
+0.0 
+
+ CLAIMS ON NBFIS (CoB) 
+
+181.2
+
+14.1 
+
+164.2 
+
+MONEY 
+
+2,130.8
+
+2,898.9 
+
+2,941.1 
+
+ CURRENCY OUTSIDE BANKS (MA) 
+
+845.1
+
+1,045.0 
+
+1,303.6 
+
+ LIBERIAN CURRENCY IN CIRCULATION (MA)
+
+943.1
+
+1,123.8 
+
+1,408.7 
+
+ (-) CURRENCY HOLDINGS (CoB) 
+
+98.0
+
+78.8 
+
+105.1 
+
+ DEMAND DEPOSITS 
+
+863.2
+
+1,318.5 
+
+1,203.7 
+
+ DEMAND DEPOSITS (MA) 
+
+11.6
+
+0.4 
+
+0.5 
+
+ DEMAND DEPOSITS (CoB) 
+
+851.6
+
+1,318.2 
+
+1,203.2 
+
+ OTHER DEPOSITS 
+
+422.4
+
+535.4 
+
+433.9 
+
+ OTHER DEPOSITS (MA) 
+
+0.0
+
+0.0 
+
+0.0 
+
+ TIME AND SAVINGS DEPOSITS (CoB) 
+
+422.4
+
+535.4 
+
+433.9 
+
+RESTRICTED DEPOSIT 
+
+166.1
+
+0.0 
+
+933.6 
+
+BONDS AND SECURITIES (CoB) 
+
+0.0
+
+0.0 
+
+0.0 
+
+CAPITAL ACCOUNTS 
+
+10,158.0
+
+15,299.9 
+
+12,200.7 
+
+ CAPITAL ACCOUNTS (MA) 
+
+8,910.3
+
+13,957.8 
+
+10,958.3 
+
+ CAPITAL ACCOUNTS (CoB) 
+
+1,247.7
+
+1,342.1 
+
+1,242.4 
+
+OTHER ITEMS (NET) 
+
+31.4
+
+(577.9)
+
+(829.1)
+
+ UNCLASSIFIED LIABILITIES (MA) 
+
+4,162.6
+
+1,395.0 
+
+1,022.7 
+
+ (-) UNCLASSIFIED ASSETS (MA) 
+
+3,725.6
+
+2,107.3 
+
+1,922.1 
+
+ (-) UNCLASSIFIED ASSETS (CoB) 
+
+517.2
+
+316.8 
+
+345.0 
+
+ UNCLASSIFIED LIABILITIES (CoB) 
+
+670.6
+
+642.6 
+
+576.7 
+
+ COMMERCIAL BANKS DEPOSITS (MA) 
+
+593.5
+
+521.8 
+
+323.3 
+
+ (-) RESERVES (CoB) 
+
+1,397.3
+
+666.8 
+
+568.4 
+
+ CURRENCY HOLDINGS (CoB) 
+
+98.0
+
+78.8 
+
+105.1 
+
+ LIABILITIES TO CENTRAL BANK (CoB) 
+
+115.8
+
+37.0 
+
+44.3 
+
+ (-) CLAIMS ON DOMESTIC BANKS (MA) 
+
+134.9
+
+162.1 
+
+65.9 
+
+ (-) UNBALANCED ITEMS 
+
+0.0
+
+0.0 
+
+0.2 
+
+
+
+
+VERTICAL CHECK 
+
+(0)
+
+0 
+
+(0.0)
+
+
+
+Source: Central Bank of Liberia, Monrovia, Liberia 
+
+- 78 - 
+
+ 
+
+Annex 14: Liberian Dollar Exchange Rate – Period Averages 
+
+(January – December, 2001) 
+
+(Liberian Dollars Per US Dollar) 
+
+Period 
+
+Large bills1
+
+Small bills2
+
+Average4
+
+2001 
+
+Buying 
+
+Selling 
+
+Middle3
+
+Buying
+
+Selling
+
+Middle3
+
+ 
+
+2001 
+
+ 
+
+ 
+
+January 
+
+44.55 
+
+45.69
+
+45.12
+
+38.18
+
+42.00
+
+40.09 
+
+42.61
+
+February 
+
+43.43 
+
+44.43
+
+43.93
+
+35.00
+
+40.00
+
+37.50 
+
+40.72
+
+March 
+
+44.35 
+
+45.38
+
+44.87
+
+35.00
+
+40.00
+
+37.50 
+
+41.18
+
+April 
+
+45.88 
+
+46.88
+
+46.38
+
+35.80
+
+40.80
+
+38.30 
+
+42.34
+
+May 
+
+47.96 
+
+48.96
+
+48.46
+
+40.00
+
+45.00
+
+42.50 
+
+45.48
+
+June 
+
+52.46 
+
+53.46
+
+52.96
+
+45.19
+
+49.85
+
+47.52 
+
+50.24
+
+July 
+
+56.17 
+
+57.17
+
+56.67
+
+50.00
+
+52.00
+
+51.00 
+
+53.83
+
+August 
+
+53.08 
+
+54.08
+
+53.58
+
+42.73
+
+47.08
+
+44.90 
+
+49.24
+
+September 
+
+49.43 
+
+50.35
+
+49.89
+
+40.00
+
+45.00
+
+42.50 
+
+46.20
+
+October 
+
+49.67 
+
+50.67
+
+50.17
+
+39.63
+
+44.63
+
+42.13 
+
+46.15
+
+November 
+
+44.50 
+
+45.50
+
+45.00
+
+36.35
+
+41.35
+
+38.85 
+
+41.92
+
+December 
+
+45.54 
+
+46.54
+
+46.04
+
+35.96
+
+40.96
+
+38.46 
+
+42.25
+
+Q1 
+
+44.11 
+
+45.17
+
+44.64
+
+36.06
+
+40.67
+
+38.36 
+
+41.50
+
+Q2 
+
+48.77 
+
+49.77
+
+49.27
+
+40.33
+
+45.22
+
+42.77 
+
+46.02
+
+Q3 
+
+52.89 
+
+53.86
+
+53.38
+
+44.24
+
+48.03
+
+46.13 
+
+49.76
+
+Q4 
+
+46.08 
+
+47.57
+
+47.07
+
+37.31
+
+42.31
+
+39.81 
+
+43.44
+
+Year 
+
+48.08 
+
+49.09
+
+48.59
+
+39.49
+
+44.06
+
+41.77 
+
+45.18
+
+
+
+Source: Source: Central Bank of Liberia, Monrovia, Liberia 
+
+1. US dollar bank notes of denomination 5 and higher. 
+
+2. US dollar bank notes of denominations 1 and 2. 
+
+3. Average of buying and selling rates. 
+
+4. Average of middle rates for large and small bills. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+55.00
+
+ 
+
+ 
+
+ 
+
+- 79 - 
+
+ 
+
+Annex 15: Liberian Dollar Exchange Rate – Period Averages 
+
+(January – December, 2002) 
+
+(Liberian Dollars Per US Dollar) 
+
+Period 
+
+Large bills1
+
+Small bills2
+
+Average4
+
+2002 
+
+Buying 
+
+Selling
+
+Middle3
+
+Buying
+
+Selling
+
+Middle3
+
+January 
+
+51.62 
+
+52.62
+
+52.12
+
+45.77
+
+48.46
+
+47.12 
+
+49.62
+
+February 
+
+54.00 
+
+55.00
+
+54.50
+
+50.00
+
+51.00
+
+50.50 
+
+52.50
+
+March 
+
+56.42 
+
+57.46
+
+56.94
+
+50.46
+
+51.46
+
+50.96 
+
+53.95
+
+April 
+
+59.72 
+
+60.72
+
+60.22
+
+54.04
+
+55.04
+
+54.54 
+
+57.38
+
+May 
+
+61.21 
+
+62.85
+
+62.03
+
+55.83
+
+58.15
+
+56.99 
+
+59.51
+
+June 
+
+66.68 
+
+68.08
+
+67.38
+
+58.50
+
+60.52
+
+59.51 
+
+63.45
+
+July 
+
+69.92 
+
+71.46
+
+70.73
+
+60.00
+
+65.00
+
+62.50 
+
+66.62
+
+August 
+
+70.00 
+
+71.46
+
+70.73
+
+60.00
+
+65.00
+
+62.50 
+
+66.62
+
+September 
+
+69.48 
+
+70.50
+
+69.99
+
+60.00
+
+65.00
+
+62.50 
+
+66.25
+
+October 
+
+61.26 
+
+62.52
+
+61.89
+
+54.26
+
+58.26
+
+56.26 
+
+59.07
+
+November 
+
+55.04 
+
+56.04
+
+55.54
+
+50.00
+
+52.50 
+
+54.02
+
+December 
+
+56.20 
+
+57.32
+
+56.76
+
+50.00
+
+55.00
+
+52.50 
+
+54.63
+
+Q1 
+
+54.01 
+
+55.03
+
+54.52
+
+48.74
+
+50.31
+
+49.53 
+
+52.02
+
+Q2 
+
+62.54 
+
+63.88
+
+63.21
+
+56.12
+
+57.90
+
+57.01 
+
+60.11
+
+Q3 
+
+69.80 
+
+71.10
+
+70.45
+
+59.96
+
+64.63
+
+62.29 
+
+66.37
+
+Q4 
+
+57.50 
+
+58.63
+
+58.06
+
+51.42
+
+56.09
+
+53.75 
+
+55.91
+
+Year 
+
+60.96 
+
+62.16
+
+61.56
+
+54.06
+
+57.23
+
+55.65 
+
+58.60
+
+
+
+Source: Source: Central Bank of Liberia, Monrovia, Liberia 
+
+1. US dollar bank notes of denomination 5 and higher. 
+
+2. US dollar bank notes of denominations 1 and 2. 
+
+3. Average of buying and selling rates. 
+
+4. Average of middle rates for large and small bills. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 80 - 
+
+ 
+
+Annex 16: Liberian Dollar Exchange Rate – Period Averages 
+
+(January – December, 2003) 
+
+(Liberian Dollars Per US Dollar) 
+
+Period 
+
+Large bills1
+
+Small bills2
+
+Average4
+
+2003 
+
+Buying 
+
+Selling
+
+Middle3
+
+Buying
+
+Selling
+
+Middle3
+
+Middle 
+
+January 
+
+64.96 
+
+66.35
+
+65.65
+
+50.00
+
+55.00
+
+52.50 
+
+59.08
+
+February 
+
+62.35 
+
+63.37
+
+62.86
+
+50.00
+
+55.00
+
+52.50 
+
+57.68
+
+March 
+
+60.54 
+
+61.73
+
+61.14
+
+50.25
+
+55.17
+
+52.71 
+
+56.92
+
+April 
+
+62.48 
+
+63.94
+
+63.21
+
+50.20
+
+55.06
+
+52.63 
+
+57.92
+
+May 
+
+65.70 
+
+66.91
+
+66.31
+
+55.52
+
+57.78
+
+56.65 
+
+61.48
+
+June 
+
+70.04 
+
+71.52
+
+70.78
+
+58.88
+
+63.10
+
+60.99 
+
+65.89
+
+July 
+
+72.00 
+
+73.21
+
+72.61
+
+60.00
+
+64.57
+
+62.29 
+
+67.45
+
+August 
+
+55.75 
+
+56.75
+
+56.25
+
+47.50
+
+52.50
+
+50.00 
+
+53.13
+
+September 
+
+56.55 
+
+57.55
+
+57.05
+
+49.09
+
+54.09
+
+51.59 
+
+54.32
+
+October 
+
+45.56 
+
+46.69
+
+46.13
+
+38.13
+
+43.13
+
+40.63 
+
+43.38
+
+November 
+
+43.36 
+
+44.50
+
+43.93
+
+34.60
+
+39.60
+
+37.10 
+
+40.52
+
+December 
+
+46.07 
+
+47.20
+
+46.64
+
+35.74
+
+40.74
+
+38.24 
+
+42.44
+
+Q1 
+
+62.62 
+
+63.81
+
+63.22
+
+50.08
+
+55.06
+
+52.57 
+
+57.89
+
+Q2 
+
+66.07 
+
+67.46
+
+66.77
+
+54.87
+
+58.65
+
+56.76 
+
+61.76
+
+Q3 
+
+61.43 
+
+62.50
+
+61.97
+
+52.20
+
+57.05
+
+54.63 
+
+58.30
+
+Q4 
+
+45.00 
+
+46.13
+
+45.56
+
+36.16
+
+41.16
+
+38.66 
+
+42.11
+
+Year 
+
+58.78 
+
+59.98
+
+59.38
+
+48.33
+
+52.98
+
+50.65 
+
+55.02
+
+
+
+Source: Source: Central Bank of Liberia, Monrovia, Liberia 
+
+1. US dollar bank notes of denomination 5 and higher. 
+
+2. US dollar bank notes of denominations 1 and 2. 
+
+3. Average of buying and selling rates. 
+
+4. Average of middle rates for large and small bills. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 81 - 
+
+ 
+
+Annex 17: Government of Liberia Revenue by Sources 
+
+(2001-2003) 
+
+(In Millions L$) 
+
+Revenue Sources 
+
+2001
+
+2002
+
+2003
+
+Custom & Excise 
+
+957.7
+
+1,124.7
+
+918.5
+
+Direct Taxes 
+
+498.1
+
+752.0
+
+364.0
+
+Indirect Taxes 
+
+324.0
+
+342.8
+
+261.4
+
+FDA1 Levy 
+
+399.0
+
+707.0
+
+156.5
+
+Petroleum Sales Levies 
+
+230.1
+
+347.9
+
+170.5
+
+Maritime 
+
+387.3
+
+685.3
+
+629.0
+
+Grants 
+
+185.0
+
+-
+
+-
+
+Total 
+
+2,981.2
+
+3,959.7
+
+2,499.9
+
+
+
+1 Forestry Development Authority (FDA) 
+
+Source: Ministry of Finance, Monrovia, Liberia 
+
+ 
+
+ 
+
+Annex 18: Government of Liberia Expenditure by Category 
+
+(2001-2003) 
+
+(In Millions L$) 
+
+Expenditure Category 
+
+2001 
+
+2002 
+
+2003 
+
+General Administration 
+
+1,068.5
+
+811.2
+
+819.6
+
+Social & Community Services 
+
+695.1
+
+217.7
+
+172.0
+
+Economic Services 
+
+150.5
+
+23.2
+
+108.7
+
+GOL Special Commitment 
+
+796.3
+
+725.2
+
+1,506.0
+
+Development 
+
+432.3
+
+2,483.0
+
+-
+
+Total 
+
+3,142.7
+
+4,260.3
+
+2,606.3
+
+
+
+* Figures for expenditure, 2003 are provisional 
+
+Source: Ministry of Finance, Monrovia, Liberia 
+
+ 
+
+ 
+
+
