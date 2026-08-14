@@ -1,24 +1,26 @@
-As all guest communications would be happening on the Pavilion, take me step by step through the installation and setup of Vb Cable and Voicemeeter on the Pavilion to connect WhatsApp and ChatGPT so that when on a WhatsApp call, all participants can communicate with each other without feedback issues.
+<<START PROMPT>>
 
-ChatGPT should be able to hear the person in the call and the person in the call should also be able to hear ChatGPT and the caller should be able to hear both parties as they should hear the caller; all without any party hearing themselves creating feedback.
+As all guest communications would be happening on the Pavilion, take me step by step through the installation and setup of Voicemeeter on the Pavilion to connect the calling app (Google meet, zoom, riverside, WhatsApp or others) and ChatGPT so that when on a call, all participants can communicate with each other without feedback issues.
 
-Vb Cable and Voicemeeter Potato have been installed on the Pavilion.
+Host <-> Guest, Host <-> ChatGPT, Guest <-> ChatGPT
 
-The Pavilion currently identifies the following devices:
+All without any party hearing themselves creating feedback.
+
+Voicemeeter Potato has been installed on the Pavilion. Apparently VBCable is not necessary for the setup to work.
+
+The Pavilion currently identifies the following devices with the following setup:
 
 ### Playback
 Speakers - Realtek Audio - Ready
 Headphones - Realtek Audio - Not plugged in
-Speakers - USB Advanced Audio Device (Blue Yeti Output) - Default Communications Device/Default Device
-CABLE Input (VB-Audio Virtual Cable) - Ready
-CABLE in 16ch (VB-Audio Virtual Cable) - Ready
-Voicemeeter AUX input (VB-Audio Voicemeeter VAIO) - Ready
+Speakers - USB Advanced Audio Device (Blue Yeti Output) - Ready
+Voicemeeter AUX input (VB-Audio Voicemeeter VAIO) -  Default Communications Device
 Voicemeeter in 1 (VB-Audio Voicemeeter VAIO) - Ready
 Voicemeeter in 2 (VB-Audio Voicemeeter VAIO) - Ready
 Voicemeeter in 3 (VB-Audio Voicemeeter VAIO) - Ready
 Voicemeeter in 4 (VB-Audio Voicemeeter VAIO) - Ready
 Voicemeeter in 5 (VB-Audio Voicemeeter VAIO) - Ready
-Voicemeeter in input (VB-Audio Voicemeeter VAIO) - Ready
+Voicemeeter in input (VB-Audio Voicemeeter VAIO) - Default Device
 Voicemeeter in VAIO3 (VB-Audio Voicemeeter VAIO) - Ready
 
 ### Recording
@@ -26,488 +28,652 @@ Microphone (HD Pro Webcam C920) - Ready
 Microphone Array (Intel Smart Sound Technology for Digital Microphone) - Ready
 Headset Microphone (Realtek(R) Audio) - Not Plugged in
 Stereo Mix (Realtek (R) Audio) - Disabled
-Microphone - USB Advanced Audio Device (Blue Yeti Input) - Default Communications Device/Default Device
-CABLE Output (VB-Audio Virtual Cable) - Ready
+Microphone - USB Advanced Audio Device (Blue Yeti Input) - Ready
 Voicemeeter Out A1 (VB-Audio Voicemeeter VAIO) - Ready
 Voicemeeter Out A2 (VB-Audio Voicemeeter VAIO) - Ready
 Voicemeeter Out A3 (VB-Audio Voicemeeter VAIO) - Ready
 Voicemeeter Out A4 (VB-Audio Voicemeeter VAIO) - Ready
 Voicemeeter Out A5 (VB-Audio Voicemeeter VAIO) - Ready
 Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO) - Ready
-Voicemeeter Out B2 (VB-Audio Voicemeeter VAIO) - Ready
+Voicemeeter Out B2 (VB-Audio Voicemeeter VAIO) - Default Communications Device/Default Device
 Voicemeeter Out B3 (VB-Audio Voicemeeter VAIO) - Ready
 
-When opening the Voicemeeter app, the following shows in sections:
+The following settings have been applied in the Voicemeeter app and seems to work well for a 3-way call on WhatsApp with ChatGPT and all parties hearing each other without feedback:
 
-1-> Stereo Input 1 (Select input device).... >A(on/off) | >B(on/off)....
+<<START SETTINGS>>
 
-2-> Stereo Input 2 (Select input device).... >A(on/off) | >B(on/off)....
+[
+> Stereo Input 1 (Microphone - USB Advanced Audio Device (Blue Yeti Input)).... >B2(on)....
 
-Virtual Input-> (Voicemeeter input).... >A(on/off) | >B(on/off)....
+> Stereo Input 2 (Select input device).... >A1(on), A2(off).... | >B1(on), B2(off)....
 
-A1-> | A2-> | Hardware Out-> (Internal Master CLOCK)....
+> Stereo Input 3 (Select input device).... >A1(on), A2(off).... | >B1(on), B2(off)....
 
+> Stereo Input 4 (Select input device).... >A1(on), A2(off).... | >B1(on), B2(off)....
 
+> Stereo Input 5 (Select input device).... >A1(on), A2(off).... | >B1(on), B2(off)....
+]
+
+[
+Virtual Input-> (Voicemeeter input).... >A1(on), A2(off).... | >B1(on), B2(on), B3(off)....
+
+Virtual Input-> (Voicemeeter AUX 1).... >A1(on), A2(off).... | >B1(on), B2(on), B3(off)....
+
+Virtual Input-> (Voicemeeter VAIO3).... >A1(on), A2(off).... | >B1(on), B2(off)....
+]
+
+A1->(Speakers - USB Advanced Audio Device (Blue Yeti Output)) | A2->() | A3->() | A4->() | A5->() | ....
+
+<<STOP SETTINGS>>
+
+Thoroughly review and analyze the setup then develop andupdate it as necessary.
+
+<<STOP PROMPT>>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-Here is a previous response and a response from GitHub:
+<<START Podcast Communications & AI Mix-Minus Module>>
 
-<<START PREVIOUS>>
+Yes. I reviewed the three layers together:
 
-Yes. The GitHub version contains several useful improvements, but it also introduces one **important architectural correction** to the previous plan:
+1. **Your actual Pavilion device map and known-good WhatsApp test**
+2. **The existing `Podcast Communicatios Module.txt` architecture**
+3. **The GitHub-refactored recommendations**, plus current VB-Audio and OpenAI documentation.
 
-> **Voicemeeter + VB-CABLE solve the audio routing, but they do not by themselves make ChatGPT “hear” a WhatsApp caller.**
-> For genuine three-way AI participation, we need an **STT → ChatGPT → TTS bridge** between the audio-routing layer and ChatGPT.
+There is one important correction to the previous versions: **the routing architecture is sound, but “guarantee” is too strong for ChatGPT Voice.** OpenAI currently describes Live as primarily a one-on-one voice experience and explicitly says it is **not yet optimized for conversations with multiple speakers**. That means Voicemeeter can make the signal paths correct, but ChatGPT itself can still have conversational/turn-taking limitations when simultaneously exposed to Host + Guest. ([OpenAI Help Center][1])
 
-I would therefore refactor the Pavilion system into a clean **communications architecture**, rather than simply adding more routing buttons.
+I would therefore make the following the **canonical Pavilion Communications Module**.
 
-# Updated Pavilion AI Communications Architecture
+# Studio Pavilion — Podcast Communications & AI Mix-Minus Module
 
-## 1. Target behavior
-
-The finished system must behave exactly like this:
-
-| Participant         | Hears                    | Sends       |
-| ------------------- | ------------------------ | ----------- |
-| **You**             | Caller + ChatGPT         | Your voice  |
-| **WhatsApp caller** | You + ChatGPT            | Their voice |
-| **ChatGPT**         | You + Caller             | AI response |
-| **Nobody**          | Their own returned audio | —           |
-
-The signal matrix is therefore:
-
-```text
-YOU
- ├──► WHATSAPP
- ├──► CHATGPT
- └──► YOU (local monitoring)
-
-CALLER
- ├──► YOU
- └──► CHATGPT
-
-CHATGPT
- ├──► YOU
- └──► WHATSAPP
-```
-
-And critically:
-
-```text
-YOU       ──X──► YOU through the call
-CALLER    ──X──► CALLER
-CHATGPT   ──X──► CHATGPT
-```
-
-This is the **mix-minus architecture** we should build around.
+**Document:** Podcast Communications Module
+**System:** Studio Pavilion / Guest Communications Desk
+**Host Machine:** HP Pavilion x360
+**Mixer:** VB-Audio Voicemeeter Potato
+**Primary Microphone:** Blue Yeti
+**Primary Monitor:** Blue Yeti headphone output
+**Studio Sample Rate:** 44.1 kHz
+**Architecture:** Host ↔ Guest ↔ AI
+**Status:** Refactored Master Specification
+**Version:** 3.0
+**Date:** 14 August 2026
 
 ---
 
-# 2. The architecture should actually have four layers
+# 1. Executive Architecture
 
-The previous version treated everything as one audio-routing problem.
+The Pavilion is the Studio's **Guest Communications Desk**.
 
-The refactored system should be:
+All guest-facing communication should pass through one reusable audio architecture.
+
+The calling service is therefore treated as a **replaceable communications gateway**, not as the Studio's audio architecture.
+
+Supported gateways include:
+
+* WhatsApp
+* Google Meet
+* Zoom
+* Riverside
+* Microsoft Teams
+* other compatible calling applications
+
+The permanent Studio audio architecture is:
 
 ```text
-┌──────────────────────────────────────────┐
-│             LAYER 1                      │
-│         PHYSICAL AUDIO                   │
-│                                          │
-│ Blue Yeti → Pavilion                    │
-│ Blue Yeti headphones ← Pavilion         │
-└──────────────────┬───────────────────────┘
-                   │
-                   ▼
-┌──────────────────────────────────────────┐
-│             LAYER 2                      │
-│        VOICEMEETER MIX-MINUS             │
-│                                          │
-│ A1 = YOU                                 │
-│ B1 = WHATSAPP                            │
-│ B2 = AI/STT                              │
-└───────────────┬───────────────┬──────────┘
-                │               │
-          WhatsApp          AI Bridge
-                │               │
-                ▼               ▼
-┌─────────────────────┐   ┌─────────────────┐
-│    WHATSAPP         │   │      STT        │
-│                     │   │                 │
-│ Caller audio        │──►│ Speech → text   │
-│ Your+AI audio ◄─────│   └────────┬────────┘
-└─────────────────────┘            │
-                                   ▼
-                           ┌─────────────────┐
-                           │    CHATGPT      │
-                           │                 │
-                           │ Text → response │
-                           └────────┬────────┘
-                                    │
-                                    ▼
-                           ┌─────────────────┐
-                           │      TTS        │
-                           │                 │
-                           │ Text → speech   │
-                           └────────┬────────┘
-                                    │
-                                    ▼
-                              VB-CABLE
-                                    │
-                                    ▼
-                              VOICEMEETER
-                                    │
-                              B1 + A1
-                                    │
-                         ┌──────────┴──────────┐
-                         ▼                     ▼
-                       YOU                 WHATSAPP
+                    STUDIO PAVILION
+
+                         HOST
+                          │
+                       BLUE YETI
+                          │
+                          ▼
+                  ┌───────────────┐
+                  │  VOICEMEETER  │
+                  │     POTATO    │
+                  └───────┬───────┘
+                          │
+              ┌───────────┼───────────┐
+              │           │           │
+             A1          B1          B2
+              │           │           │
+              ▼           ▼           ▼
+            HOST        CALL         AI
+          MONITOR     TRANSMIT      INPUT
+              │           │           │
+              │           ▼           ▼
+              │       CALLING      AI SYSTEM
+              │         APP           │
+              │           │            │
+              │           ▼            │
+              │         GUEST          │
+              │                        │
+              │           ▲            │
+              └───────────┴────────────┘
 ```
 
-This is considerably more robust.
+The permanent bus contract is:
+
+```text
+A1 = HOST MONITOR
+B1 = CALL TRANSMIT
+B2 = AI INPUT
+B3 = PRODUCTION
+```
+
+This is the central Studio architecture.
+
+Voicemeeter Potato officially provides five physical buses/outputs and three virtual I/O paths, with A1 determining the DSP engine sample rate. ([VB-Audio][2])
 
 ---
 
-# 3. What stays unchanged
+# 2. The Communication Requirement
 
-We should **not dismantle the working system**.
-
-Your Pavilion already has:
-
-### Hardware
-
-* Blue Yeti
-* Blue Yeti headphone output
-* Pavilion
-* external cameras
-* VB-CABLE
-* Voicemeeter Banana 2.1.2.2
-
-### Existing successful routing
+The system must provide:
 
 ```text
-Blue Yeti
-   ↓
-Voicemeeter
-   ↓
-WhatsApp
+HOST ↔ GUEST
+HOST ↔ AI
+GUEST ↔ AI
+```
+
+while preventing:
+
+```text
+HOST → HOST
+GUEST → GUEST
+AI → AI
+```
+
+There are two different classes of feedback that must be controlled:
+
+### Digital feedback
+
+Caused by incorrect Voicemeeter routing.
+
+### Acoustic feedback
+
+Caused by speakers physically feeding the microphone.
+
+Both must be addressed.
+
+---
+
+# 3. Canonical Participant Matrix
+
+| Participant     | Host | Guest |  AI |
+| --------------- | ---: | ----: | --: |
+| **Host hears**  |  YES |   YES | YES |
+| **Guest hears** |  YES |    NO | YES |
+| **AI hears**    |  YES |   YES |  NO |
+
+Therefore:
+
+```text
+HOST
+ ├──→ GUEST
+ └──→ AI
+
+GUEST
+ ├──→ HOST
+ └──→ AI
+
+AI
+ ├──→ HOST
+ └──→ GUEST
 ```
 
 and:
 
 ```text
-WhatsApp
-   ↓
-Voicemeeter
-   ↓
-Blue Yeti headphones
+HOST → HOST = BLOCKED
+GUEST → GUEST = BLOCKED
+AI → AI = BLOCKED
 ```
-
-That remains the foundation.
 
 ---
 
-# 4. The most important correction: ChatGPT itself vs the AI bridge
+# 4. Why Mix-Minus Is the Core
 
-There are actually **two different ways** to implement the AI participant.
+Each destination receives the conversation **minus itself**.
 
-### Method A — ChatGPT Voice directly
-
-```text
-Blue Yeti
-   ↓
-B2
-   ↓
-ChatGPT Voice
-```
-
-This can work for **your voice → ChatGPT**.
-
-But it doesn't automatically give us:
+For the guest:
 
 ```text
-WhatsApp caller
-      ↓
-ChatGPT
+Guest receives:
+
+HOST + AI
+
+NOT:
+
+GUEST
 ```
 
-because the caller's audio has to be captured, transcribed and presented to ChatGPT appropriately.
-
-### Method B — Dedicated AI bridge
-
-This is the architecture I recommend for the final Studio system:
+For the AI:
 
 ```text
-Caller audio
-     ↓
-B2
-     ↓
-STT
-     ↓
-ChatGPT API
-     ↓
-TTS
-     ↓
-VB-CABLE
-     ↓
-Voicemeeter
-     ↓
-WhatsApp
+AI receives:
+
+HOST + GUEST
+
+NOT:
+
+AI
 ```
 
-This is the **proper production architecture**.
+For the host:
 
-It gives us control over:
+```text
+Host receives:
 
-* transcription
-* conversation state
-* AI identity
-* response timing
-* interruption
-* TTS voice
-* logging
-* moderation
-* latency
-* future automation
+GUEST + AI
 
-And, importantly, it doesn't make the entire system dependent on ChatGPT's UI audio behavior.
+and may optionally monitor HOST
+```
+
+The crucial distinction is that the Studio buses are not merely "audio outputs."
+
+They are **semantic communication buses**.
 
 ---
 
-# 5. Recommended final signal map
+# 5. Permanent Bus Contract
 
-Let's assign permanent functions to the Voicemeeter buses.
+## A1 — HOST MONITOR
 
-## A1 — MONITOR
+Meaning:
+
+> Everything the host needs to hear.
+
+Primary destination:
 
 ```text
-A1
- ↓
 Blue Yeti headphone output
- ↓
-YOU
 ```
-
-A1 is **never** a communications transmission bus.
-
-It is your monitoring bus.
 
 ---
 
-## B1 — WHATSAPP TRANSMIT
+## B1 — CALL TRANSMIT
 
-```text
-B1
- ↓
-Voicemeeter Output
- ↓
-WhatsApp microphone
- ↓
-CALLER
-```
+Meaning:
 
-Anything routed to B1 is something the caller should hear.
+> Everything sent to the remote guest.
 
 Therefore:
 
 ```text
-YOU             → B1
-CHATGPT         → B1
-CALLER          → B1 = NO
+B1 = HOST + AI
+```
+
+but never:
+
+```text
+B1 = GUEST
 ```
 
 ---
 
 ## B2 — AI INPUT
 
-```text
-B2
- ↓
-Voicemeeter AUX Output
- ↓
-AI/STT bridge
-```
+Meaning:
 
-Anything routed to B2 is something the AI should hear.
+> Everything supplied to the AI.
 
 Therefore:
 
 ```text
-YOU             → B2
-CALLER          → B2
-CHATGPT         → B2 = NO
+B2 = HOST + GUEST
 ```
 
-This gives us an extremely clean conceptual architecture:
+but never:
 
 ```text
-             A1
-              │
-            YOU
-              ▲
-              │
-        ┌─────┴─────┐
-        │ Voicemeeter│
-        └─────┬─────┘
-          B1  │  B2
-          │       │
-      WhatsApp   AI
-       OUTPUT    INPUT
+B2 = AI
 ```
 
 ---
 
-# 6. Final Voicemeeter routing matrix
+## B3 — PRODUCTION
 
-This is the matrix I recommend we lock in.
+Meaning:
 
-| Voicemeeter source                  | A1 — You | B1 — WhatsApp | B2 — AI/STT |
-| ----------------------------------- | -------: | ------------: | ----------: |
-| **Hardware Input 1 — Blue Yeti**    |       ON |            ON |          ON |
-| **Virtual Input — WhatsApp caller** |       ON |       **OFF** |          ON |
-| **Hardware Input 2 — ChatGPT/TTS**  |       ON |            ON |     **OFF** |
+> Reserved production/recording bus.
 
-This is the central configuration.
-
-### In signal notation
+Initially:
 
 ```text
-YETI
- ├── A1
- ├── B1
- └── B2
+B3 = UNUSED
+```
 
-WHATSAPP
- ├── A1
- ├── B1 ✕
- └── B2
+Later it may feed:
 
-CHATGPT
- ├── A1
- ├── B1
- └── B2 ✕
+* OBS
+* REAPER
+* recording
+* AI logging
+* production capture
+* broadcast archive
+* multitrack workflows
+
+Do not introduce B3 into the communication path until a specific production requirement exists.
+
+---
+
+# 6. Pavilion Hardware Map
+
+The Pavilion currently exposes the following relevant devices.
+
+## Playback
+
+```text
+Speakers -
+Realtek Audio
+
+Speakers -
+USB Advanced Audio Device
+(Blue Yeti Output)
+
+Voicemeeter AUX input
+Voicemeeter in 1
+Voicemeeter in 2
+Voicemeeter in 3
+Voicemeeter in 4
+Voicemeeter in 5
+Voicemeeter in input
+Voicemeeter in VAIO3
+```
+
+## Recording
+
+```text
+Microphone -
+USB Advanced Audio Device
+(Blue Yeti Input)
+
+Voicemeeter Out A1
+Voicemeeter Out A2
+Voicemeeter Out A3
+Voicemeeter Out A4
+Voicemeeter Out A5
+
+Voicemeeter Out B1
+Voicemeeter Out B2
+Voicemeeter Out B3
+```
+
+The important semantic virtual devices are:
+
+```text
+Voicemeeter Input
+Voicemeeter AUX Input
+Voicemeeter VAIO3 Input
+
+Voicemeeter Output / B1
+Voicemeeter AUX Output / B2
+Voicemeeter VAIO3 Output / B3
 ```
 
 ---
 
-# 7. Why the caller must NOT go to B1
+# 7. Hardware Output Configuration
 
-This deserves special emphasis.
-
-Suppose:
+Set:
 
 ```text
-CALLER
- ↓
-WhatsApp
- ↓
-Voicemeeter Virtual Input
+A1 →
+Speakers -
+USB Advanced Audio Device
+(Blue Yeti Output)
 ```
 
-If B1 is enabled:
+This should feed headphones connected to the Blue Yeti.
+
+Set:
 
 ```text
-CALLER
+A2 = OFF
+A3 = OFF
+A4 = OFF
+A5 = OFF
+```
+
+unless a deliberate secondary monitoring requirement is introduced.
+
+## Important
+
+Do not use the Pavilion's built-in speakers for live communication.
+
+The preferred architecture is:
+
+```text
+A1
  ↓
-Virtual Input
+Blue Yeti headphone output
  ↓
+Headphones
+```
+
+rather than:
+
+```text
+A1
+ ↓
+Pavilion speakers
+ ↓
+Room
+ ↓
+Blue Yeti
+```
+
+---
+
+# 8. Hardware Input 1 — HOST
+
+Select:
+
+```text
+Microphone -
+USB Advanced Audio Device
+(Blue Yeti Input)
+```
+
+Start with:
+
+```text
+WDM
+```
+
+If WDM proves unstable, test MME or KS.
+
+Do not change the routing architecture simply because the driver mode needs adjustment.
+
+---
+
+# 9. HOST Routing
+
+The Blue Yeti must feed:
+
+```text
+A1
 B1
- ↓
-WhatsApp
- ↓
-CALLER
-```
-
-The caller hears themselves.
-
-So:
-
-**Virtual Input → B1 must remain OFF.**
-
-This is the primary anti-feedback rule.
-
----
-
-# 8. Why ChatGPT must NOT go to B2
-
-Likewise:
-
-```text
-ChatGPT
- ↓
 B2
- ↓
-STT
- ↓
-ChatGPT
 ```
-
-would potentially create an AI self-loop.
 
 Therefore:
 
-**ChatGPT/TTS → B2 must remain OFF.**
+```text
+A1 = ON
+A2 = OFF
+A3 = OFF
+A4 = OFF
+A5 = OFF
 
-The AI return only goes:
+B1 = ON
+B2 = ON
+B3 = OFF
+```
+
+Signal model:
 
 ```text
-ChatGPT
- ↓
-TTS
- ↓
-CABLE
- ↓
-Hardware Input 2
- ↓
-A1 + B1
+HOST
+ │
+ ▼
+BLUE YETI
+ │
+ ├────→ A1 → HOST
+ │
+ ├────→ B1 → GUEST
+ │
+ └────→ B2 → AI
+```
+
+This is the correct three-way contribution path.
+
+---
+
+# 10. Guest Return — Voicemeeter Input
+
+The calling application sends its received guest audio to:
+
+```text
+Voicemeeter Input
+```
+
+This appears in Potato as the first virtual input.
+
+Configure:
+
+```text
+A1 = ON
+A2 = OFF
+A3 = OFF
+A4 = OFF
+A5 = OFF
+
+B1 = OFF
+B2 = ON
+B3 = OFF
+```
+
+The resulting path is:
+
+```text
+GUEST
+ │
+ ▼
+CALLING APPLICATION
+ │
+ ▼
+VOICEMEETER INPUT
+ │
+ ├────→ A1 → HOST
+ │
+ ├────→ B2 → AI
+ │
+ └────X B1
+```
+
+The B1 OFF state is **mandatory**.
+
+This is the primary digital protection against the guest hearing themselves.
+
+The existing communications module identifies exactly this relationship: caller audio goes to A1 and B2 while B1 remains off. ([GitHub][3])
+
+---
+
+# 11. AI Return — Voicemeeter AUX Input
+
+During commissioning, AI output can be returned through:
+
+```text
+Voicemeeter AUX Input
+```
+
+Configure:
+
+```text
+A1 = ON
+A2 = OFF
+A3 = OFF
+A4 = OFF
+A5 = OFF
+
+B1 = ON
+B2 = OFF
+B3 = OFF
+```
+
+Therefore:
+
+```text
+AI
+ │
+ ▼
+VOICEMEETER AUX INPUT
+ │
+ ├────→ A1 → HOST
+ │
+ ├────→ B1 → GUEST
+ │
+ └────X B2 → AI
+```
+
+The B2 OFF state is mandatory.
+
+This is the primary digital protection against AI self-looping.
+
+---
+
+# 12. VAIO3 — RESERVED
+
+For now:
+
+```text
+A1 = OFF
+B1 = OFF
+B2 = OFF
+B3 = OFF
+```
+
+Do not assign VAIO3 simply because it exists.
+
+Potential future uses include:
+
+```text
+Dedicated production playback
+Additional application
+Music
+Special effects
+Secondary AI service
+Automation
+Recording
+Testing
 ```
 
 ---
 
-# 9. The VB-CABLE architecture
+# 13. Canonical Routing Matrix
 
-Your installed cable should have one very specific job:
+| Source / Strip                        | A1 Host Monitor | B1 Call Transmit | B2 AI Input | B3 Production |
+| ------------------------------------- | --------------: | ---------------: | ----------: | ------------: |
+| **Blue Yeti — Host**                  |              ON |               ON |          ON |           OFF |
+| **Voicemeeter Input — Guest Return**  |              ON |          **OFF** |          ON |           OFF |
+| **Voicemeeter AUX Input — AI Return** |              ON |               ON |     **OFF** |           OFF |
+| **VAIO3**                             |             OFF |              OFF |         OFF |           OFF |
 
-## ChatGPT/TTS RETURN
+This table is the **Pavilion master routing contract**.
 
-```text
-TTS application
-       │
-       ▼
-CABLE Input
-       │
-       ▼
-VB-CABLE
-       │
-       ▼
-CABLE Output
-       │
-       ▼
-Voicemeeter Hardware Input 2
-```
-
-Then:
-
-```text
-Hardware Input 2
-       │
-       ├──► A1 → YOU
-       │
-       └──► B1 → WHATSAPP
-```
-
-No B2.
-
-This makes VB-CABLE a **dedicated AI return channel**.
+Do not modify it for WhatsApp, Zoom, Meet or Riverside unless a specific application presents a technical incompatibility.
 
 ---
 
-# 10. WhatsApp configuration
+# 14. Calling Application Configuration
 
-WhatsApp's audio devices should conceptually be:
+Every calling application should be treated as a two-port gateway.
 
-### Microphone
+## Microphone / Input
+
+Set:
 
 ```text
 Voicemeeter Output
@@ -519,84 +685,284 @@ This is:
 B1
 ```
 
-Therefore WhatsApp receives:
+The calling application therefore receives:
 
 ```text
-YOU
-+
-CHATGPT
+HOST + AI
 ```
 
 but not:
 
 ```text
-CALLER
+GUEST
 ```
 
-### Speaker
+---
+
+## Speaker / Output
+
+Set:
 
 ```text
 Voicemeeter Input
 ```
 
-This places the caller into:
+The calling application's incoming guest audio therefore enters:
 
 ```text
-Virtual Input
+Guest Return
 ```
 
-where we can split it:
+and is split:
 
 ```text
-A1 → YOU
+A1 → HOST
 B2 → AI
-```
-
-but:
-
-```text
 B1 → OFF
 ```
 
-Perfect.
-
 ---
 
-# 11. ChatGPT's role should now be redesigned
+# 15. Calling Application Device Standard
 
-This is where I would **not** follow the earlier recommendation of making the ChatGPT web interface itself the permanent audio bridge.
+| Application          | Microphone              | Speaker           |
+| -------------------- | ----------------------- | ----------------- |
+| WhatsApp             | Voicemeeter Output / B1 | Voicemeeter Input |
+| Zoom                 | Voicemeeter Output / B1 | Voicemeeter Input |
+| Google Meet          | Voicemeeter Output / B1 | Voicemeeter Input |
+| Riverside            | Voicemeeter Output / B1 | Voicemeeter Input |
+| Microsoft Teams      | Voicemeeter Output / B1 | Voicemeeter Input |
+| Other compatible app | Voicemeeter Output / B1 | Voicemeeter Input |
 
-For commissioning, ChatGPT Voice is useful.
+The application-specific UI may use slightly different names.
 
-For the finished Studio system, however, we want:
+The semantic mapping remains:
 
 ```text
-WhatsApp
+CALL MIC
     ↓
-Audio Capture
+B1
+
+CALL SPEAKER
     ↓
-STT
-    ↓
-Conversation Controller
-    ↓
-OpenAI
-    ↓
-TTS
-    ↓
-Voicemeeter
-    ↓
-WhatsApp
+Voicemeeter Input
 ```
-
-That is a much better long-term architecture.
-
-It turns the AI from an application you're manually operating into an **AI participant service**.
 
 ---
 
-# 12. The AI bridge
+# 16. Browser-Based Calling
 
-The AI bridge should have these components:
+For Google Meet, Riverside or another browser-based service, prefer explicit application/browser routing where supported.
+
+The desired relationship remains:
+
+```text
+Browser microphone
+    ↓
+B1
+
+Browser output
+    ↓
+Voicemeeter Input
+```
+
+Avoid routing all Windows system audio through Voicemeeter Input merely to make one browser call work.
+
+Otherwise unrelated audio can enter the guest/AI communication system.
+
+---
+
+# 17. Windows Audio Principle
+
+Windows global audio defaults are not the Studio architecture.
+
+Use them only as defaults.
+
+The Studio communication architecture is:
+
+```text
+WINDOWS
+   │
+   ├── ordinary applications
+   │
+   └── Studio communication applications
+           │
+           ▼
+       VOICEMEETER
+```
+
+This prevents:
+
+* YouTube
+* system sounds
+* media players
+* notifications
+* unrelated browser tabs
+* music applications
+
+from accidentally entering the live conversation.
+
+---
+
+# 18. ChatGPT Voice — Commissioning Mode
+
+ChatGPT Voice can be used to commission the AI side of the system.
+
+OpenAI currently documents three Voice experiences:
+
+```text
+Live
+Advanced
+Standard
+```
+
+depending on account/app availability.
+
+Live supports simultaneous listening and speaking and natural interruption. ([OpenAI Help Center][1])
+
+However, OpenAI explicitly notes that Live is primarily designed for one-on-one conversation and is not yet optimized for several people speaking to it simultaneously. ([OpenAI Help Center][4])
+
+Therefore:
+
+> **Voicemeeter can provide the correct audio mix, but ChatGPT Voice itself remains a commissioning-stage AI endpoint rather than the final Studio AI participant architecture.**
+
+---
+
+# 19. ChatGPT Input
+
+The intended AI input is:
+
+```text
+B2
+```
+
+Therefore:
+
+```text
+HOST
+ ↓
+B2
+```
+
+and:
+
+```text
+GUEST
+ ↓
+B2
+```
+
+while:
+
+```text
+AI RETURN
+ ↓
+B2 = OFF
+```
+
+The AI should therefore receive:
+
+```text
+HOST + GUEST
+```
+
+without receiving its own generated audio.
+
+---
+
+# 20. ChatGPT Output
+
+During commissioning, AI output should enter:
+
+```text
+Voicemeeter AUX Input
+```
+
+so that:
+
+```text
+AI RETURN
+ │
+ ├──→ A1 → HOST
+ │
+ ├──→ B1 → GUEST
+ │
+ └──X B2 → AI
+```
+
+This is the required AI mix-minus.
+
+---
+
+# 21. Important ChatGPT Voice Constraint
+
+Do not build the Studio around an assumption that ChatGPT Voice will permanently expose exactly the Windows input/output routing controls needed for an external broadcast mixer.
+
+OpenAI's current Voice documentation describes microphone permission and Voice operation, but does not establish Voicemeeter-specific device routing as a permanent supported production interface. ([OpenAI Help Center][1])
+
+Therefore:
+
+```text
+ChatGPT Voice
+=
+COMMISSIONING / TEST ENDPOINT
+```
+
+not:
+
+```text
+ChatGPT Voice
+=
+PERMANENT STUDIO AUDIO ENGINE
+```
+
+---
+
+# 22. The Production AI Architecture
+
+The final architecture should be:
+
+```text
+                    STUDIO AI PARTICIPANT
+
+HOST ─────────┐
+              │
+GUEST ────────┼────→ B2
+              │       │
+              │       ▼
+              │      VAD
+              │       │
+              │       ▼
+              │      STT
+              │       │
+              │       ▼
+              │ Conversation Manager
+              │       │
+              │       ▼
+              │   OpenAI / AI
+              │       │
+              │       ▼
+              │      TTS
+              │       │
+              │       ▼
+              │   AI RETURN
+              │       │
+              │       ▼
+              │   A1 + B1
+              │       │
+              ▼       ▼
+             HOST   GUEST
+```
+
+This turns the AI from an application being manually operated into a **Studio AI Participant Service**.
+
+The existing communications architecture already recommends this separation of capture, VAD, STT, conversation management, AI, TTS and output. ([GitHub][3])
+
+---
+
+# 23. AI Bridge Components
+
+The production AI Bridge should contain:
 
 ```text
 AI BRIDGE
@@ -609,264 +975,1240 @@ AI BRIDGE
 │
 ├── Conversation Manager
 │
-├── OpenAI / ChatGPT
+├── OpenAI / AI Engine
 │
 ├── Text-to-Speech
 │
-└── Audio Output
+├── Audio Output
+│
+├── Interruption Controller
+│
+├── Moderation
+│
+├── Session State
+│
+└── Logging
 ```
 
-### Audio Capture
+---
 
-Input:
+# 24. Audio Capture
+
+The production AI Bridge receives:
 
 ```text
 Voicemeeter AUX Output
 ```
 
-That's B2.
+which represents:
+
+```text
+B2
+```
+
+Therefore:
+
+```text
+B2
+ ↓
+AI Audio Capture
+```
+
+The AI receives:
+
+```text
+HOST + GUEST
+```
+
+but not:
+
+```text
+AI
+```
 
 ---
 
-### STT
+# 25. Voice Activity Detection
+
+The AI Bridge should not submit every tiny audio fragment to the AI.
+
+Instead:
 
 ```text
-Caller speech
+Speech begins
+      ↓
+Capture
+      ↓
+VAD
+      ↓
+Speech ends
+      ↓
+Short silence / utterance finalization
       ↓
 STT
       ↓
-"Hello, I'd like to..."
+Conversation Manager
+      ↓
+AI
 ```
+
+This improves:
+
+* latency
+* transcription quality
+* token efficiency
+* turn-taking
+* interruption handling
+* conversation coherence
 
 ---
 
-### Conversation Manager
+# 26. Multi-Speaker Identification
 
-This is important.
-
-We don't want every tiny audio fragment to become an independent ChatGPT request.
-
-The bridge should handle:
+The production AI Bridge should eventually distinguish:
 
 ```text
-speech begins
-       ↓
-capture
-       ↓
-silence detected
-       ↓
-finalize utterance
-       ↓
-transcribe
-       ↓
-send to AI
+HOST:
+...
+
+GUEST:
+...
+
+AI:
+...
 ```
 
-This reduces unnecessary API calls and improves conversational quality.
+This is especially important because ChatGPT Live itself is not optimized for multiple simultaneous speakers. ([OpenAI Help Center][4])
+
+The Bridge should therefore maintain speaker-aware conversation state.
+
+Example:
+
+```text
+HOST
+"Let's discuss AI in education."
+
+GUEST
+"I think the biggest challenge is..."
+
+AI
+"The important distinction is..."
+```
+
+The AI receives a structured conversation rather than an undifferentiated audio stream.
 
 ---
 
-# 13. ChatGPT conversation state
+# 27. Conversation Manager
 
-The bridge should maintain a conversation object such as:
+The conversation manager should control:
 
-```text
-SYSTEM
-"You are the AI co-host of the Studio..."
-
-USER / CALLER
-"Hello..."
-
-ASSISTANT / AI
-"Hello, welcome..."
-
-USER / CALLER
-"I wanted to ask..."
-
-ASSISTANT / AI
-"Certainly..."
-```
-
-This is much better than treating every sentence independently.
-
-It also gives us a foundation for future features such as:
-
-* guest identification
-* topic tracking
-* show context
-* scripted segments
-* question queues
+* who is currently speaking
+* whether the AI should respond
+* interruption handling
+* minimum response conditions
+* response priority
+* topic context
+* guest identity
+* episode context
+* system instructions
 * moderation
-* knowledge retrieval
-* course promotion
-* Buzzjuice information
-* live fact checking
+* response length
+* AI participation mode
+
+This becomes the Studio's **AI participation layer**.
 
 ---
 
-# 14. TTS return
+# 28. AI Context Architecture
 
-Once ChatGPT generates:
+The audio system should remain independent from the Studio Knowledge System.
+
+The AI participant receives:
 
 ```text
-"Hello, welcome to the programme."
+AUDIO CONTEXT
++
+EPISODE CONTEXT
++
+STUDIO KNOWLEDGE
++
+AI SYSTEM INSTRUCTIONS
 ```
 
-the bridge sends it to TTS:
+Conceptually:
 
 ```text
-TEXT
+                    STUDIO AI DESK
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+       Episode         Guest         Knowledge
+       Context         Context         Library
+          │              │              │
+          └──────────────┼──────────────┘
+                         ▼
+                 Conversation Manager
+                         ▲
+                         │
+                       B2 AUDIO
+                         │
+                         ▼
+                       AI CORE
+                         │
+                         ▼
+                    TTS / RETURN
+                         │
+                         ▼
+                      B1 + A1
+```
+
+This is critical to the larger Studio architecture.
+
+The AI Desk remains a **singular cross-episode system**, while the live audio bridge remains **episode-agnostic**.
+
+---
+
+# 29. AI Return — Commissioning
+
+For direct ChatGPT Voice commissioning:
+
+```text
+ChatGPT output
  ↓
+Voicemeeter AUX Input
+ ↓
+A1 + B1
+```
+
+with:
+
+```text
+B2 = OFF
+```
+
+---
+
+# 30. AI Return — Production
+
+For the eventual dedicated AI Bridge, the preferred structure is:
+
+```text
 TTS
  ↓
-WAV/PCM
+AI RETURN DEVICE
  ↓
-CABLE Input
+Voicemeeter
+ ↓
+A1 + B1
 ```
 
-Then:
+with:
 
 ```text
-CABLE Output
- ↓
-Hardware Input 2
+B2 = OFF
 ```
 
-Voicemeeter:
-
-```text
-Hardware Input 2
- ├── A1 → YOU
- └── B1 → WHATSAPP
-```
-
-Therefore both you and the caller hear ChatGPT.
+The AI return is therefore always treated as a separate source.
 
 ---
 
-# 15. The final three-way conversation
+# 31. VB-CABLE Decision
 
-The complete signal flow becomes:
-
-### YOU SPEAK
+## Current stage
 
 ```text
-YOU
+VB-CABLE
+=
+NOT REQUIRED
+```
+
+Do not install additional virtual cabling merely because it is available.
+
+Potato already provides the virtual I/O architecture required for commissioning. It supports three virtual I/O paths and B1/B2/B3 buses. ([VB-Audio][2])
+
+---
+
+## Production stage
+
+VB-CABLE may be introduced when the dedicated AI Bridge requires an independent audio output endpoint.
+
+Example:
+
+```text
+AI TTS
  ↓
+VB-CABLE Input
+ ↓
+VB-CABLE Output
+ ↓
+Voicemeeter Hardware Input
+ ↓
+A1 + B1
+```
+
+with:
+
+```text
+B2 = OFF
+```
+
+VB-CABLE is therefore an **implementation component**, not a semantic Studio bus.
+
+---
+
+# 32. Why VB-CABLE Is Not the Architecture
+
+Do not define the Studio as:
+
+```text
+VB-CABLE = AI
+```
+
+Instead define it as:
+
+```text
+B2 = AI INPUT
+```
+
+and:
+
+```text
+AI RETURN = dedicated return source
+```
+
+VB-CABLE may implement that return.
+
+It does not define it.
+
+This allows the AI Bridge to change later without redesigning the Voicemeeter architecture.
+
+---
+
+# 33. Sample Rate Standard
+
+The Studio baseline is:
+
+```text
+44,100 Hz
+```
+
+Voicemeeter Potato supports multiple sample rates, and its DSP processing rate is determined by the A1 configuration. ([VB-Audio][2])
+
+Therefore the Pavilion should aim for:
+
+```text
 Blue Yeti
- ↓
-Hardware Input 1
- ├── A1 → YOU
- ├── B1 → WhatsApp → CALLER
- └── B2 → AI/STT → ChatGPT
+    ↓
+44.1 kHz
+    ↓
+Voicemeeter A1
+    ↓
+44.1 kHz engine
+    ↓
+Calling / AI / production
 ```
 
-### CALLER SPEAKS
+Avoid unnecessary mixed-rate operation.
 
-```text
-CALLER
- ↓
-WhatsApp
- ↓
-Virtual Input
- ├── A1 → YOU
- ├── B1 ✕
- └── B2 → AI/STT → ChatGPT
-```
-
-### CHATGPT SPEAKS
-
-```text
-ChatGPT
- ↓
-TTS
- ↓
-CABLE Input
- ↓
-CABLE Output
- ↓
-Hardware Input 2
- ├── A1 → YOU
- ├── B1 → WhatsApp → CALLER
- └── B2 ✕
-```
-
-That is the architecture we should commission.
+If a specific application internally operates at another rate, allow it to perform the required conversion rather than creating a complex Studio-wide sample-rate chain.
 
 ---
 
-# 16. One important improvement over the GitHub proposal
+# 34. Driver Strategy
 
-The GitHub proposal says:
-
-> "Optionally click B2 to send a copy of the caller audio to the secondary virtual bus."
-
-I would make this **mandatory in the final configuration**, not optional.
-
-Likewise:
+Initial priority:
 
 ```text
-Blue Yeti → B2
+WDM
 ```
 
-should be mandatory because ChatGPT must hear you as well.
+If instability occurs:
 
-So B2 becomes a deliberately defined:
+```text
+MME
+```
 
-> **AI INPUT BUS**
+or:
 
-rather than simply an auxiliary output.
+```text
+KS
+```
 
-That gives the system a clear semantic architecture.
+may be tested.
+
+ASIO should be reserved for applications that specifically require it, particularly DAW/production workflows.
+
+The objective is:
+
+```text
+STABILITY FIRST
+LATENCY SECOND
+```
+
+Do not chase minimum latency if it introduces:
+
+* crackling
+* dropouts
+* buffer underruns
+* device resets
+* clock instability
 
 ---
 
-# 17. Do not install a second VB-CABLE yet
+# 35. Host Processing
 
-GitHub suggests a second cable as an isolation option.
-
-I would **not install it at this stage**.
-
-You already have:
+The Blue Yeti may eventually use:
 
 ```text
-B2
-```
-
-as an independent AI input bus.
-
-And:
-
-```text
-VB-CABLE
-```
-
-as the independent AI return path.
-
-That gives us sufficient separation:
-
-```text
-B2
+Noise Reduction
  ↓
-AI INPUT
-
-
-VB-CABLE
+Gate
  ↓
-AI OUTPUT
+EQ
+ ↓
+Compression
+ ↓
+Routing
 ```
 
-Adding another cable now would increase configuration complexity without solving a demonstrated problem.
+Start conservatively.
 
-We can introduce another virtual device later only if the actual AI bridge requires it.
+The objective is:
+
+* intelligibility
+* consistent level
+* reduced room noise
+* stable AI recognition
+
+Do not use aggressive gating that cuts off words.
+
+Do not heavily compress the host before the basic routing is proven stable.
+
+Potato provides built-in gate, compressor, denoiser and EQ functionality, so additional processing software should not be introduced prematurely. ([VB-Audio][2])
 
 ---
 
-# 18. Hardware Out
+# 36. Acoustic Feedback Protection
+
+The digital routing protects against:
+
+```text
+GUEST → GUEST
+AI → AI
+```
+
+Headphones protect against:
+
+```text
+SPEAKER → ROOM → MICROPHONE
+```
+
+Therefore:
+
+```text
+A1
+ ↓
+HEADPHONES
+```
+
+is the preferred Studio configuration.
+
+This is not optional during commissioning.
+
+---
+
+# 37. Windows "Listen to This Device"
+
+Ensure:
+
+```text
+Listen to this device = OFF
+```
+
+for the Blue Yeti and any other communication source.
+
+Otherwise Windows can create an additional monitoring path outside Voicemeeter.
+
+---
+
+# 38. Calling Application Echo Cancellation
+
+Calling applications may have their own:
+
+* echo cancellation
+* noise suppression
+* automatic gain control
+
+Do not disable these automatically.
+
+First establish the clean Voicemeeter mix-minus.
+
+Then evaluate the calling application's processing.
+
+The goal is to avoid multiple competing processing systems fighting each other.
+
+---
+
+# 39. Profile Strategy
+
+Before modifying the current working system:
+
+```text
+STUDIO_PAVILION_WHATSAPP_WORKING.vmb
+```
+
+Save the new baseline as:
+
+```text
+STUDIO_PAVILION_MASTER_MIXMINUS.vmb
+```
+
+Later, platform profiles may be created:
+
+```text
+STUDIO_PAVILION_WHATSAPP.vmb
+STUDIO_PAVILION_ZOOM.vmb
+STUDIO_PAVILION_MEET.vmb
+STUDIO_PAVILION_RIVERSIDE.vmb
+STUDIO_PAVILION_AI_BRIDGE.vmb
+STUDIO_PAVILION_RECORDING.vmb
+```
+
+However, these profiles should not change the semantic bus architecture.
+
+---
+
+# 40. Recommended MacroButtons Layer
+
+Once the basic system is stable, introduce Voicemeeter MacroButtons.
+
+Useful controls:
+
+```text
+HOST MUTE
+```
+
+```text
+CALL MUTE
+```
+
+```text
+AI ENABLE
+```
+
+```text
+AI MUTE
+```
+
+```text
+B1 ENABLE
+```
+
+```text
+B2 ENABLE
+```
+
+```text
+PRODUCTION RECORD
+```
+
+```text
+EMERGENCY ALL-MUTE
+```
+
+The emergency state should be designed to immediately stop outbound communication without destroying the underlying routing configuration.
+
+---
+
+# 41. Suggested Live Controls
+
+The host should eventually have a simple control surface:
+
+```text
+┌───────────────────────────────┐
+│        STUDIO COMMUNICATION   │
+│                               │
+│ HOST MIC       [ ON / MUTE ]  │
+│ CALL           [ ON / MUTE ]  │
+│ AI             [ ON / MUTE ]  │
+│ RECORD         [ START/STOP ] │
+│                               │
+│ EMERGENCY     [ ALL MUTE ]    │
+└───────────────────────────────┘
+```
+
+The user should not have to manipulate multiple tiny Voicemeeter buttons during a live conversation.
+
+Voicemeeter Potato provides MIDI/remoting and extensive control functionality that can support a future automation/control layer. ([VB-Audio][2])
+
+---
+
+# 42. Commissioning Strategy
+
+Do not change everything simultaneously.
+
+Commission in layers.
+
+---
+
+## Phase 0 — Preserve the Working System
+
+Save:
+
+```text
+STUDIO_PAVILION_WHATSAPP_WORKING.vmb
+```
+
+Do not delete it.
+
+This is the recovery baseline.
+
+---
+
+## Phase 1 — Configure A1
 
 Set:
 
-### A1
+```text
+A1 →
+Speakers -
+USB Advanced Audio Device
+(Blue Yeti Output)
+```
+
+Connect headphones to the Blue Yeti.
+
+Speak into the microphone.
+
+Confirm:
+
+```text
+Host microphone meter moves
+A1 meter moves
+Host hears monitoring
+```
+
+---
+
+## Phase 2 — Configure Host Routing
+
+Set Blue Yeti:
+
+```text
+A1 = ON
+B1 = ON
+B2 = ON
+B3 = OFF
+```
+
+Speak.
+
+Verify:
+
+```text
+A1 = signal
+B1 = signal
+B2 = signal
+B3 = no signal
+```
+
+---
+
+## Phase 3 — Simulate Guest Return
+
+Use a test audio source.
+
+Route it to:
+
+```text
+Voicemeeter Input
+```
+
+Play speech.
+
+Verify:
+
+```text
+A1 = signal
+B2 = signal
+B1 = NO signal
+```
+
+This proves the guest mix-minus.
+
+---
+
+## Phase 4 — Simulate AI Return
+
+Route a test audio source to:
+
+```text
+Voicemeeter AUX Input
+```
+
+Play speech.
+
+Verify:
+
+```text
+A1 = signal
+B1 = signal
+B2 = NO signal
+```
+
+This proves the AI-return mix-minus.
+
+---
+
+## Phase 5 — Real Calling Application
+
+Configure:
+
+```text
+Microphone = Voicemeeter Output / B1
+Speaker = Voicemeeter Input
+```
+
+Connect a second device as the guest.
+
+---
+
+## Phase 6 — Host ↔ Guest
+
+Test:
+
+```text
+HOST → GUEST
+GUEST → HOST
+```
+
+Then deliberately test:
+
+```text
+GUEST → GUEST
+```
+
+The guest must not hear themselves.
+
+---
+
+## Phase 7 — AI Input
+
+Connect ChatGPT Voice or the test AI input.
+
+AI input:
+
+```text
+B2
+```
+
+Verify that the AI receives:
+
+```text
+HOST
++
+GUEST
+```
+
+but not:
+
+```text
+AI
+```
+
+---
+
+## Phase 8 — AI Return
+
+Route AI output through:
+
+```text
+Voicemeeter AUX Input
+```
+
+Verify:
+
+```text
+AI → HOST
+AI → GUEST
+```
+
+and:
+
+```text
+AI → AI = NO
+```
+
+---
+
+## Phase 9 — Full Three-Way Test
+
+Test individually:
+
+```text
+HOST → GUEST
+HOST → AI
+
+GUEST → HOST
+GUEST → AI
+
+AI → HOST
+AI → GUEST
+```
+
+Then verify:
+
+```text
+HOST → HOST = NO
+GUEST → GUEST = NO
+AI → AI = NO
+```
+
+---
+
+# 43. Failure-Diagnosis Matrix
+
+| Symptom                         | Likely Cause                             | Corrective Action                       |
+| ------------------------------- | ---------------------------------------- | --------------------------------------- |
+| Guest hears themselves          | Guest Return → B1                        | Set B1 OFF                              |
+| AI hears itself                 | AI Return → B2                           | Set B2 OFF                              |
+| Host hears echo                 | Acoustic or duplicate monitor path       | Headphones; remove duplicate monitoring |
+| Guest hears delayed host        | Duplicate application/Windows monitoring | Check app and Windows routing           |
+| AI repeatedly responds          | AI return entering B2                    | B2 OFF on AI return                     |
+| AI misses guest                 | Guest return not reaching B2             | B2 ON on Voicemeeter Input              |
+| Guest cannot hear host          | Host not reaching B1                     | B1 ON on Blue Yeti                      |
+| Guest cannot hear AI            | AI return not reaching B1                | B1 ON on AI return                      |
+| Host cannot hear guest          | Guest return not reaching A1             | A1 ON on Voicemeeter Input              |
+| Crackling/dropouts              | Buffer/driver/clock issue                | Increase buffer; test WDM/MME/KS        |
+| Unexpected system audio in call | Global Windows routing                   | Use explicit per-app routing            |
+
+---
+
+# 44. Digital Feedback Rules
+
+These rules should be treated as **non-negotiable**.
+
+## Rule 1
+
+```text
+GUEST RETURN → B1 = OFF
+```
+
+---
+
+## Rule 2
+
+```text
+AI RETURN → B2 = OFF
+```
+
+---
+
+## Rule 3
+
+```text
+HEADPHONES = REQUIRED
+```
+
+for live commissioning.
+
+---
+
+## Rule 4
+
+```text
+Windows Listen to This Device = OFF
+```
+
+---
+
+## Rule 5
+
+The calling application must use:
+
+```text
+INPUT  = B1
+OUTPUT = Voicemeeter Input
+```
+
+---
+
+## Rule 6
+
+The AI must use:
+
+```text
+INPUT = B2
+RETURN = dedicated AI return
+```
+
+---
+
+# 45. The Three Audio Loops We Are Preventing
+
+## Guest loop
+
+```text
+GUEST
+ ↓
+CALL
+ ↓
+Voicemeeter Input
+ ↓
+B1
+ ↓
+CALL
+ ↓
+GUEST
+```
+
+Prevented by:
+
+```text
+Guest Return → B1 OFF
+```
+
+---
+
+## AI loop
+
+```text
+AI
+ ↓
+AI RETURN
+ ↓
+B2
+ ↓
+AI
+```
+
+Prevented by:
+
+```text
+AI Return → B2 OFF
+```
+
+---
+
+## Acoustic loop
+
+```text
+AI/GUEST
+ ↓
+SPEAKERS
+ ↓
+ROOM
+ ↓
+BLUE YETI
+ ↓
+B1/B2
+```
+
+Prevented primarily by:
+
+```text
+HEADPHONES
+```
+
+---
+
+# 46. The Most Important Architectural Improvement
+
+The Studio should not be designed around:
+
+```text
+WhatsApp
+```
+
+or:
+
+```text
+ChatGPT
+```
+
+or:
+
+```text
+Zoom
+```
+
+Instead:
+
+```text
+             STUDIO COMMUNICATION BUS
+
+                    VOICEMEETER
+                         │
+             ┌───────────┼───────────┐
+             │           │           │
+            A1          B1          B2
+             │           │           │
+           HOST         CALL         AI
+          MONITOR      GATEWAY      INPUT
+```
+
+Applications become replaceable endpoints.
+
+This is what allows the Pavilion to survive future changes in communication platforms.
+
+---
+
+# 47. Application Independence
+
+The same architecture works for:
+
+```text
+WhatsApp
+Zoom
+Google Meet
+Riverside
+Teams
+future platform
+```
+
+The calling application only needs to understand:
+
+```text
+SEND:
+B1
+
+RECEIVE:
+Voicemeeter Input
+```
+
+Nothing else in the Studio architecture needs to change.
+
+---
+
+# 48. AI Independence
+
+Likewise, the audio architecture should not depend permanently on ChatGPT.
+
+The AI endpoint can eventually become:
+
+```text
+ChatGPT
+OpenAI API
+another model
+local model
+hybrid model
+AI orchestration layer
+```
+
+while the Studio audio contract remains:
+
+```text
+B2
+ ↓
+AI
+ ↓
+AI RETURN
+ ↓
+A1 + B1
+```
+
+This is the correct abstraction boundary.
+
+---
+
+# 49. Relationship to the Studio AI Desk
+
+The AI Desk and the audio bridge should be separate systems.
+
+## AI Desk
+
+Responsible for:
+
+```text
+Episode knowledge
+Guest information
+Research
+Historical episodes
+Scripts
+Show notes
+Studio knowledge
+Conversation instructions
+```
+
+## AI Audio Bridge
+
+Responsible for:
+
+```text
+Audio capture
+VAD
+STT
+Turn-taking
+AI request
+TTS
+Audio return
+```
+
+They communicate through a controlled interface.
+
+Therefore:
+
+```text
+              STUDIO AI SYSTEM
+
+        ┌──────────────────────────┐
+        │        AI DESK           │
+        │                          │
+        │ Knowledge + Context      │
+        └────────────┬─────────────┘
+                     │
+                     ▼
+        ┌──────────────────────────┐
+        │   CONVERSATION MANAGER   │
+        └────────────┬─────────────┘
+                     ▲
+                     │
+                    B2
+                     │
+        ┌────────────┴─────────────┐
+        │       AUDIO BRIDGE       │
+        │                          │
+        │ VAD / STT / TTS / I/O    │
+        └──────────────────────────┘
+```
+
+This is important because the AI Desk should remain singular across all episodes.
+
+The live audio system should not create a new AI environment for every episode.
+
+---
+
+# 50. Future AI Participant Roles
+
+Once the AI Bridge is operational, the same infrastructure can support:
+
+```text
+AI CO-HOST
+AI PRODUCER
+AI RESEARCHER
+AI FACT CHECKER
+AI MODERATOR
+AI QUESTION MANAGER
+AI SHOW NOTES ASSISTANT
+AI AUDIENCE ASSISTANT
+```
+
+The role is determined by the AI context layer, not by the audio hardware.
+
+---
+
+# 51. Production Recording Architecture
+
+B3 is reserved for production.
+
+Eventually:
+
+```text
+B3
+ ↓
+OBS / REAPER / Recording System
+```
+
+The recording architecture should be designed separately from communication routing.
+
+Potential future structure:
+
+```text
+Host isolated
+Guest isolated
+AI isolated
+Program mix
+```
+
+rather than prematurely forcing all production requirements into B3.
+
+---
+
+# 52. Future Multitrack Architecture
+
+The eventual Studio production system should ideally preserve separate sources:
+
+```text
+HOST
+GUEST
+AI
+PROGRAM
+```
+
+This gives post-production the ability to:
+
+* rebalance speakers
+* remove interruptions
+* repair individual tracks
+* reduce noise
+* edit AI responses
+* generate clips
+* create transcripts
+* create show notes
+
+The communication buses should therefore not be confused with the archival recording architecture.
+
+---
+
+# 53. VB-CABLE Future Position
+
+VB-CABLE is optional infrastructure.
+
+Current:
+
+```text
+Potato virtual I/O
++
+ChatGPT Voice
+=
+sufficient for commissioning
+```
+
+Future:
+
+```text
+AI Bridge
++
+TTS
++
+VB-CABLE or dedicated audio endpoint
+=
+production AI return
+```
+
+The architecture does not change.
+
+Only the implementation of:
+
+```text
+AI RETURN
+```
+
+changes.
+
+---
+
+# 54. What We Are NOT Doing
+
+Do not:
+
+* create a new Voicemeeter architecture for every episode
+* create a new AI Desk for every episode
+* route Guest Return to B1
+* route AI Return to B2
+* route all Windows audio through Voicemeeter Input
+* introduce VB-CABLE before it is needed
+* use Pavilion speakers during live communication
+* build production recording into the communication path prematurely
+* make ChatGPT Voice the permanent Studio transport layer
+* add unnecessary virtual devices simply because Potato exposes them
+
+---
+
+# 55. Canonical Pavilion Configuration
+
+## A1
 
 ```text
 Speakers -
@@ -874,604 +2216,363 @@ USB Advanced Audio Device
 (Blue Yeti Output)
 ```
 
-This should be your headphone monitoring output.
+---
 
-For the initial commissioning:
+## Hardware Input 1 — HOST
 
 ```text
-A2 = unused
-A3 = unused
-```
+Microphone -
+USB Advanced Audio Device
+(Blue Yeti Input)
 
-Don't introduce additional monitor paths yet.
+A1 = ON
+A2 = OFF
+A3 = OFF
+A4 = OFF
+A5 = OFF
+
+B1 = ON
+B2 = ON
+B3 = OFF
+```
 
 ---
 
-# 19. Sample-rate discipline
-
-Keep the Pavilion audio chain at your Studio baseline:
-
-```text
-44,100 Hz
-```
-
-The important thing is **consistency**.
-
-We want:
-
-```text
-Blue Yeti
-     ↓
-Voicemeeter
-     ↓
-VB-CABLE
-     ↓
-STT/TTS bridge
-```
-
-to avoid unnecessary sample-rate conversions.
-
-The GitHub recommendation of 44.1 kHz is therefore compatible with the Studio configuration you've already been establishing.
-
----
-
-# 20. Windows device architecture
-
-The Pavilion should conceptually expose:
-
-### Playback
+## Virtual Input — GUEST RETURN
 
 ```text
 Voicemeeter Input
+
+A1 = ON
+A2 = OFF
+A3 = OFF
+A4 = OFF
+A5 = OFF
+
+B1 = OFF
+B2 = ON
+B3 = OFF
 ```
-
-for audio that needs to enter Voicemeeter's Virtual Input.
-
-### Recording
-
-```text
-Voicemeeter Output
-```
-
-for applications that need B1.
-
-And:
-
-```text
-Voicemeeter AUX Output
-```
-
-for applications that need B2.
-
-But I recommend **per-application routing wherever possible**, rather than making everything system-wide.
-
-That prevents unrelated Pavilion applications from accidentally entering the studio communication bus.
 
 ---
 
-# 21. Recommended application routing
-
-| Application       | Input                       | Output               |
-| ----------------- | --------------------------- | -------------------- |
-| **WhatsApp**      | Voicemeeter Output / B1     | Voicemeeter Input    |
-| **AI/STT bridge** | Voicemeeter AUX Output / B2 | —                    |
-| **AI TTS**        | —                           | CABLE Input          |
-| **Voicemeeter**   | Physical devices            | Blue Yeti headphones |
-
-This is cleaner than making the entire Windows audio environment part of the communication system.
-
----
-
-# 22. Commissioning sequence
-
-I would now replace the previous commissioning sequence with this:
-
-## Phase 0 — Freeze
-
-Save the current known-good configuration:
+## Virtual AUX Input — AI RETURN
 
 ```text
-Studio_Pavilion_WhatsApp_WORKING.vmb
+Voicemeeter AUX Input
+
+A1 = ON
+A2 = OFF
+A3 = OFF
+A4 = OFF
+A5 = OFF
+
+B1 = ON
+B2 = OFF
+B3 = OFF
 ```
 
-**Do this before changing routing.**
-
 ---
 
-## Phase 1 — Monitor
-
-Verify:
+## VAIO3
 
 ```text
-Blue Yeti
- ↓
-A1
- ↓
-Headphones
+A1 = OFF
+B1 = OFF
+B2 = OFF
+B3 = OFF
 ```
 
-No speakers.
+---
+
+## Calling Application
+
+```text
+Microphone:
+Voicemeeter Output / B1
+
+Speaker:
+Voicemeeter Input
+```
 
 ---
 
-## Phase 2 — WhatsApp baseline
-
-Verify:
+## AI Input
 
 ```text
-YOU → CALLER
-CALLER → YOU
+Voicemeeter AUX Output / B2
+```
+
+---
+
+## AI Return
+
+Commissioning:
+
+```text
+Voicemeeter AUX Input
+```
+
+Production:
+
+```text
+Dedicated AI Return
 ```
 
 with:
 
 ```text
-Virtual Input B1 = OFF
-```
-
-No AI yet.
-
----
-
-## Phase 3 — AI input
-
-Enable:
-
-```text
-Blue Yeti B2 = ON
-Virtual Input B2 = ON
-```
-
-Now:
-
-```text
-YOU + CALLER
-      ↓
-     B2
-      ↓
- AI/STT bridge
-```
-
-First test the bridge with **you only**.
-
-Then test caller-only.
-
-Then both.
-
----
-
-## Phase 4 — AI output
-
-Configure:
-
-```text
-TTS
- ↓
-CABLE Input
- ↓
-CABLE Output
- ↓
-Hardware Input 2
-```
-
-Verify that the meter moves.
-
-Do not connect it to WhatsApp yet.
-
----
-
-## Phase 5 — AI monitoring
-
-Enable:
-
-```text
-Hardware Input 2 → A1
-```
-
-You should hear the AI.
-
-Still don't send it to WhatsApp.
-
----
-
-## Phase 6 — AI → WhatsApp
-
-Enable:
-
-```text
-Hardware Input 2 → B1
-```
-
-Now:
-
-```text
-AI → WhatsApp caller
-```
-
-Test with a simple TTS phrase.
-
----
-
-## Phase 7 — AI listening
-
-Confirm:
-
-```text
-CALLER
- ↓
-Virtual Input
- ↓
-B2
- ↓
-STT
- ↓
-ChatGPT
-```
-
-and:
-
-```text
-YOU
- ↓
-B2
- ↓
-STT
- ↓
-ChatGPT
+A1 = ON
+B1 = ON
+B2 = OFF
 ```
 
 ---
 
-## Phase 8 — Three-way test
-
-Only now connect everything:
+# 56. Master Signal Diagram
 
 ```text
-YOU ↔ CALLER ↔ CHATGPT
-```
-
-Then systematically test:
-
-### Test A
-
-You speak.
-
-Expected:
-
-```text
-Caller hears you.
-ChatGPT hears you.
-You hear yourself only through local monitoring.
-```
-
-### Test B
-
-Caller speaks.
-
-Expected:
-
-```text
-You hear caller.
-ChatGPT hears caller.
-Caller does NOT hear themselves.
-```
-
-### Test C
-
-ChatGPT speaks.
-
-Expected:
-
-```text
-You hear ChatGPT.
-Caller hears ChatGPT.
-ChatGPT does NOT hear its own voice.
-```
-
-### Test D
-
-All three speak.
-
-Expected:
-
-```text
-No feedback.
-No recursive echo.
-No participant hears their own voice returned through WhatsApp.
+                              HOST
+                               │
+                               ▼
+                         ┌───────────┐
+                         │ BLUE YETI │
+                         └─────┬─────┘
+                               │
+                         ┌─────▼─────┐
+                         │ VOICEMEETER│
+                         │   POTATO   │
+                         └─────┬──────┘
+                               │
+              ┌────────────────┼────────────────┐
+              │                │                │
+             A1               B1               B2
+              │                │                │
+              ▼                ▼                ▼
+         HOST MONITOR      CALL TRANSMIT      AI INPUT
+              │                │                │
+              ▼                ▼                ▼
+         HEADPHONES        CALLING APP       AI BRIDGE
+                               │                │
+                               ▼                ▼
+                             GUEST             VAD
+                                                │
+                                                ▼
+                                               STT
+                                                │
+                                                ▼
+                                         CONVERSATION
+                                           MANAGER
+                                                │
+                                                ▼
+                                               AI
+                                                │
+                                                ▼
+                                               TTS
+                                                │
+                                                ▼
+                                           AI RETURN
+                                                │
+                                      ┌─────────┴─────────┐
+                                      │                   │
+                                     A1                  B1
+                                      │                   │
+                                      ▼                   ▼
+                                    HOST                GUEST
 ```
 
 ---
 
-# 23. The most important diagnostic test
-
-When something goes wrong, don't randomly change buttons.
-
-Identify which unwanted path exists.
-
-For example:
-
-### Caller hears themselves
-
-Trace:
+# 57. Final Participant Routing
 
 ```text
-CALLER
- ↓
-WhatsApp
- ↓
-Virtual Input
- ↓
-B1
- ↓
-WhatsApp
-```
+HOST
+ │
+ ├────────→ A1
+ ├────────→ B1
+ └────────→ B2
 
-Therefore:
 
-```text
-Virtual Input → B1 = OFF
-```
+GUEST
+ │
+ ├────────→ A1
+ ├────────→ B2
+ └────────X B1
 
----
 
-### ChatGPT hears itself
-
-Trace:
-
-```text
-CHATGPT
- ↓
-TTS
- ↓
-Hardware Input 2
- ↓
-B2
- ↓
 AI
+ │
+ ├────────→ A1
+ ├────────→ B1
+ └────────X B2
 ```
 
-Therefore:
+This is the Pavilion's definitive communication routing model.
+
+---
+
+# 58. Final Engineering Position
+
+### RETAIN
+
+* Voicemeeter Potato
+* A1 host monitoring
+* B1 call transmit
+* B2 AI input
+* B3 production reserve
+* Blue Yeti → A1/B1/B2
+* Guest → A1/B2
+* AI → A1/B1
+* Headphone monitoring
+* 44.1 kHz baseline
+* explicit application routing
+* mix-minus architecture
+* VAD/STT/conversation-manager architecture
+* dedicated AI-return concept
+* MacroButtons as a later control layer
+
+### CHANGE
+
+* Treat the calling application as a gateway.
+* Treat the AI as a service rather than a UI.
+* Keep VB-CABLE out of the commissioning architecture.
+* Reserve VB-CABLE for a future dedicated AI-return implementation if required.
+* Keep VAIO3 unused until a defined requirement exists.
+* Keep B3 outside the communication path.
+* Separate AI Desk context from audio transport.
+* Add speaker-aware conversation management in the production AI Bridge.
+* Treat ChatGPT Voice as a commissioning endpoint rather than a guaranteed production multi-speaker engine.
+
+### DO NOT CHANGE
+
+The fundamental mix-minus contract:
 
 ```text
-Hardware Input 2 → B2 = OFF
+HOST  → B1 + B2
+GUEST → A1 + B2
+AI    → A1 + B1
 ```
 
 ---
 
-### Caller hears your voice twice
+# 59. Final System Contract
 
-Possible paths:
-
-```text
-Blue Yeti → B1
-```
-
-and another Windows/WhatsApp loop.
-
-Check that WhatsApp is **only** receiving:
+The Pavilion should ultimately behave as follows:
 
 ```text
-Voicemeeter Output / B1
+                     HOST
+                       │
+                       │
+                 ┌─────┴─────┐
+                 │           │
+                GUEST       AI
+                 │           │
+                 └─────┬─────┘
+                       │
+                       ▼
+                     HOST
 ```
 
-and that Windows "Listen to this device" is disabled.
+with full bidirectional communication:
+
+```text
+HOST ↔ GUEST
+HOST ↔ AI
+GUEST ↔ AI
+```
+
+and no self-monitoring:
+
+```text
+HOST → HOST   ✕
+GUEST → GUEST ✕
+AI → AI       ✕
+```
+
+The core architecture is therefore:
+
+```text
+              A1 = HOST MONITOR
+              B1 = CALL TRANSMIT
+              B2 = AI INPUT
+              B3 = PRODUCTION
+```
+
+This architecture is independent of the calling platform, independent of the episode, and ultimately independent of the specific AI engine.
+
+That makes it the appropriate **Studio Pavilion Communications Module baseline**.
 
 ---
 
-# 24. AI MUTE
+# 60. Implementation Order
 
-The GitHub recommendation for an AI mute is worth implementing.
-
-Our architecture makes this easy.
-
-### AI MUTE 1 — AI transmission
-
-Mute:
+The Pavilion should now be commissioned in this exact order:
 
 ```text
-Hardware Input 2 → B1
+1. Preserve current WhatsApp profile
+        ↓
+2. Configure A1 / headphones
+        ↓
+3. Configure Blue Yeti
+        ↓
+4. Verify Host → A1/B1/B2
+        ↓
+5. Configure Guest Return
+        ↓
+6. Verify Guest → A1/B2
+        ↓
+7. Verify Guest → B1 = OFF
+        ↓
+8. Configure AI Return
+        ↓
+9. Verify AI → A1/B1
+        ↓
+10. Verify AI → B2 = OFF
+        ↓
+11. Test calling application
+        ↓
+12. Test ChatGPT Voice
+        ↓
+13. Test full three-way conversation
+        ↓
+14. Save MASTER profile
+        ↓
+15. Add MacroButtons
+        ↓
+16. Later build dedicated AI Bridge
+        ↓
+17. Later connect AI Desk context
+        ↓
+18. Later integrate B3 production recording
 ```
 
-Result:
+**No additional software should be introduced before steps 1–13 are stable.**
 
-```text
-YOU still hear AI
-CALLER no longer hears AI
-```
+The Pavilion already has enough infrastructure to prove the core communication architecture.
 
-This gives the producer control over whether the AI is live on the call.
+The next engineering layer is not another audio device; it is the **controlled commissioning of this routing matrix**.
 
-### AI MUTE 2 — AI listening
+### The key upgrade from the earlier version
 
-Mute:
+The architecture itself **doesn't need another major routing change**. The significant refinement is the boundary between **audio transport, AI participation, and the AI Desk**.
 
-```text
-B2
-```
+Voicemeeter Potato is capable of the required virtual I/O and bus structure, so keeping VB-CABLE out of the commissioning stage is the right decision. ([VB-Audio][2]) The GitHub module also supports keeping the caller return off B1 and feeding it to A1+B2. ([GitHub][3])
 
-or disable the AI bridge's capture.
+The one thing I would **not** carry forward from the previous recommendations is the claim that direct ChatGPT Voice gives a guaranteed production-grade three-person conversation. OpenAI currently says Live can listen and speak simultaneously, but also explicitly says it is primarily designed for one-on-one conversation and isn't optimized for several people speaking to it at once. ([OpenAI Help Center][1])
 
-Result:
+So the Studio architecture should be:
 
-```text
-AI stops receiving the conversation.
-```
+**Voicemeeter = permanent audio infrastructure**
+**Calling app = replaceable guest gateway**
+**AI Bridge = future production AI participant**
+**AI Desk = persistent Studio knowledge/context layer**
 
-These are actually two separate controls:
+That separation is what will let us scale the Pavilion into the wider Studio system without having to rebuild the audio architecture later.
 
-```text
-AI LISTEN
-AI SPEAK
-```
-
-I recommend keeping them separate.
-
----
-
-# 25. This gives us proper AI operating modes
-
-Eventually the Pavilion can expose:
-
-### OFF
-
-```text
-AI LISTEN = OFF
-AI SPEAK = OFF
-```
-
-### LISTEN
-
-```text
-AI LISTEN = ON
-AI SPEAK = OFF
-```
-
-### ASSIST
-
-```text
-AI LISTEN = ON
-AI SPEAK = ON
-```
-
-### CO-HOST
-
-```text
-AI LISTEN = ON
-AI SPEAK = ON
-```
-
-with a different conversation prompt and response behavior.
-
-### AUTONOMOUS
-
-The AI could eventually participate according to defined programme rules.
-
-That is a much more scalable Studio architecture than simply "connecting ChatGPT to WhatsApp."
-
----
-
-# 26. Integration with the ENVY
-
-Nothing here should interfere with the existing Pavilion → ENVY programme architecture.
-
-The Pavilion remains:
-
-> **Producer / AI / Guest workstation**
-
-while the ENVY remains:
-
-> **Master Broadcast Workstation**
-
-The resulting system becomes:
-
-```text
-                         STUDIO
-                            │
-              ┌─────────────┴─────────────┐
-              │                           │
-          PAVILION                       ENVY
-       Communications              Master Broadcast
-              │                           │
-       ┌──────┼───────┐                   │
-       │      │       │                   │
-    Producer Guest    AI              REAPER
-       │      │       │                   │
-       └──────┴───────┘                   │
-              │                           │
-           Daakro ───────────────────────►│
-                                          │
-                                         OBS
-```
-
-This preserves the existing studio architecture rather than turning the Pavilion into a replacement broadcast workstation.
-
----
-
-# 27. What I would change from the previous plan
-
-The final refactor is therefore:
-
-| Previous approach                  | Refactored approach                                              |
-| ---------------------------------- | ---------------------------------------------------------------- |
-| ChatGPT Voice as primary AI bridge | ChatGPT Voice useful for commissioning; AI bridge for production |
-| B2 simply "ChatGPT microphone"     | B2 explicitly **AI INPUT BUS**                                   |
-| VB-CABLE as an add-on              | VB-CABLE explicitly **AI RETURN BUS**                            |
-| Caller → B2 optional               | Caller → B2 mandatory for AI participation                       |
-| STT bridge mentioned later         | STT/TTS bridge becomes a formal architecture layer               |
-| ChatGPT manually operated          | AI conversation controller                                       |
-| AI mute as future idea             | Separate **AI LISTEN / AI SPEAK** controls                       |
-| Second VB-CABLE considered early   | Defer until an actual isolation requirement appears              |
-| System-wide routing acceptable     | Per-app routing preferred                                        |
-| Test everything at once eventually | Strict staged commissioning                                      |
-
----
-
-# 28. The final architecture we should build
-
-```text
-                         PAVILION
-                            │
-                    ┌───────▼────────┐
-                    │  VOICEMEETER   │
-                    │    BANANA      │
-                    └───────┬────────┘
-                            │
-       ┌────────────────────┼────────────────────┐
-       │                    │                    │
-       ▼                    ▼                    ▼
-      A1                   B1                   B2
-   MONITOR             WHATSAPP              AI INPUT
-       │                    │                    │
-       ▼                    ▼                    ▼
-   HEADPHONES           WHATSAPP              STT
-       ▲                    ▲                    │
-       │                    │                    ▼
-       │                    │                CHATGPT
-       │                    │                    │
-       │                    │                    ▼
-       │                    │                   TTS
-       │                    │                    │
-       │                    │                    ▼
-       │                    │               CABLE INPUT
-       │                    │                    │
-       │                    │                    ▼
-       │                    │               CABLE OUTPUT
-       │                    │                    │
-       │                    │                    ▼
-       │                    │              HARDWARE IN 2
-       │                    │                    │
-       │                    └────────────────────┤
-       │                                         │
-       └─────────────────────────────────────────┘
-```
-
-With the signal rules:
-
-```text
-                 A1       B1       B2
-YETI             ✓        ✓        ✓
-CALLER           ✓        ✗        ✓
-CHATGPT          ✓        ✓        ✗
-```
-
-That is the **canonical Pavilion AI Communications configuration** I would use going forward.
-
-## The immediate next step
-
-Don't install anything else yet.
-
-The correct next commissioning step is to **freeze and verify the existing working Voicemeeter/WhatsApp configuration**, then configure the three buses exactly as above.
-
-After that, the next technical layer is the **STT → ChatGPT → TTS bridge**. That is the part GitHub correctly identified as missing from the earlier design, and it is what will turn this from an audio-routing experiment into a genuine **three-participant AI communications system**.
-
-<<STOP PREVIOUS>>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-<<START GITHUB>>
+[1]: https://help.openai.com/en/articles/20001274?utm_source=chatgpt.com "ChatGPT Voice | OpenAI Help Center"
+[2]: https://vb-audio.com/Voicemeeter/potato.htm "VB-Audio VoiceMeeter Potato"
+[3]: https://github.com/cupidblack/Koware-Management/blob/main/Psymedia/Podcast%20Communicatios%20Module.txt "Koware-Management/Psymedia/Podcast Communicatios Module.txt at main · cupidblack/Koware-Management · GitHub"
+[4]: https://help.openai.com/en/articles/20001274/?utm_source=chatgpt.com "ChatGPT Voice | OpenAI Help Center"
 
 
-
-<<STOP GITHUB>>
-
-Consider all the feasible recommendations, suggestions and modifications from GitHub then implement them to generate the fully updated, refactored and updated version with suggested modifications.
+<<STOP Podcast Communications & AI Mix-Minus Module>>
