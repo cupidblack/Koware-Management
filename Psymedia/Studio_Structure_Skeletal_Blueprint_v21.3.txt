@@ -241,6 +241,10 @@ https://github.com/cupidblack/Classies-Chronicles/blob/main/BlogCast%20attempt.t
 
 <<START STUDIO BLUEPRINT>>
 
+VERSION 21.0 CHANGE NOTE
+------------------------
+This version retains the existing Studio Blueprint architecture and integrates the persistent CC_AI_DESK / Episode Context model, retrieval architecture, persona governance, news-context separation, provider-neutral storage contract, commissioning gates, and lean implementation stack. Recommendations are incorporated only where they preserve the blueprint's lean-first principles and the user's requirement that episode data remain outside the persistent AI Desk.
+
 
 
 
@@ -249,13 +253,13 @@ https://github.com/cupidblack/Classies-Chronicles/blob/main/BlogCast%20attempt.t
 # CLASSIES CHRONICLES STUDIO BLUEPRINT
 ## Pilot Season — Episode 1: The Foundation Phase
 ### Refactored Studio, Production, AI, Content, Data & Monetization Architecture
-**Version 19.0 — Integrated & Commissioning-Ready**
+**Version 21.0 — Persistent AI Desk / Episode-Context Architecture — Integrated & Commissioning-Ready**
 
 ---
 
 # 1. Executive Summary
 
-The studio should now be treated as a **small AI-assisted educational media operating system**, rather than simply a podcast recording setup.
+The studio should now be treated as a **small AI-assisted educational media operating system**, with a persistent franchise-level AI control plane rather than a separate AI instance for each episode. The physical studio remains the production layer; the Chronicles archive remains the source of truth for episode material; and **CC_AI_DESK** acts as the persistent reasoning, persona, retrieval and control layer between them.
 
 The immediate objective is to produce:
 
@@ -355,7 +359,7 @@ This is now the canonical Pavilion-to-ENVY programme-feed path.
 
 # 3. Core Architectural Decisions
 
-The following decisions are now definitive for Version 19.0.
+The following decisions are now definitive for Version 21.0.
 
 ### Decision 1 — ENVY is the master broadcast workstation
 
@@ -1125,26 +1129,39 @@ This should significantly improve the ENVY operator's workspace.
 
 # 27. AI Production Architecture
 
-AI should be treated as several coordinated production roles.
+AI should be treated as several coordinated production roles, but they are now organized around one persistent **CC_AI_DESK**. The AI Desk is not recreated for each episode and does not become the storage location for episode-specific source material.
 
 ```text
-                         AI DESK
-                            │
-          ┌─────────────────┼──────────────────┐
-          │                 │                  │
-    CONVERSATION         RESEARCH            MEDIA
-          │                 │                  │
-      ChatGPT             Gemini           Image AI
-      Gemini            NotebookLM         Video AI
-      Claude                                Music AI
-          │                                    │
-          └─────────────────┬──────────────────┘
-                            │
-                           TTS
-                            │
-                        AI VOICE
-                            │
-                           OBS
+                         CLASSIES CHRONICLES
+                                  │
+             ┌────────────────────┴────────────────────┐
+             │                                         │
+       CC_AI_DESK                                EPISODE ARCHIVE
+       ONE PERSISTENT INSTANCE                    SOURCE OF TRUTH
+             │                                         │
+     Persona / Relationships                     S00 / S01 / S02...
+     Prompt Library                               Episode Context
+     AI Controls                                  Transcript / News
+     Retrieval Index                              Research / Assets
+     Automation                                   Consent / Licensing
+             │                                         │
+             └───────────────────┬─────────────────────┘
+                                 │
+                         CONTEXT RETRIEVAL
+                                 │
+                         AI REASONING / TOOLS
+                                 │
+                 ┌───────────────┼───────────────┐
+                 │               │               │
+             ChatGPT          Gemini        Other Providers
+                 │               │               │
+                 └───────────────┼───────────────┘
+                                 │
+                                TTS
+                                 │
+                            AI AUDIO PATH
+                                 │
+                            REAPER / OBS
 ```
 
 ---
@@ -1329,6 +1346,594 @@ The personality can evolve based on production experience.
 Do not allow the personality to evolve invisibly.
 
 Maintain versioned changes.
+
+---
+
+# 31A. Persistent CC_AI_DESK Architecture
+
+The **CC_AI_DESK** is a single persistent logical system for the entire Classies Chronicles franchise.
+
+It is **not** instantiated per episode.
+
+```text
+CLASSIES_CHRONICLES/
+│
+├── CC_AI_DESK/
+│
+├── CC_S00_FOUNDATION_PHASE/
+│   └── E01_Introduction/
+│       ├── 01_EPISODE_CONTEXT/
+│       ├── 02_RAW_VIDEO/
+│       ├── 03_RAW_AUDIO/
+│       ├── 04_PROJECT_FILES/
+│       ├── 05_MEDIA/
+│       ├── 06_EDITED_OUTPUT/
+│       └── 07_PUBLISHING/
+│
+├── CC_S01_PLATONIUM/
+│   └── E01_Nine_Months_Till_Valentine/
+│       ├── 01_EPISODE_CONTEXT/
+│       ├── 02_RAW_VIDEO/
+│       ├── 03_RAW_AUDIO/
+│       ├── 04_PROJECT_FILES/
+│       ├── 05_MEDIA/
+│       ├── 06_EDITED_OUTPUT/
+│       └── 07_PUBLISHING/
+│
+└── ...future seasons...
+```
+
+The folder number **01** is intentionally reserved for Episode Context because it is the structured information layer required by the AI Desk before the raw and production assets.
+
+The AI Desk may reference the archive through:
+
+- local filesystem paths
+- synchronized cloud folders
+- Google Drive synchronization
+- Git repositories
+- a future object-storage adapter
+
+The storage provider must not change the logical archive contract.
+
+### Core rule
+
+> **The Episode Archive owns episode data. CC_AI_DESK owns intelligence infrastructure.**
+
+The AI Desk may maintain:
+
+- persona definitions
+- relationship models
+- prompt templates
+- model/provider configuration
+- retrieval indexes
+- episode pointers and hashes
+- consent/licensing retrieval flags
+- operational logs
+- rebuildable caches
+- automation
+
+The AI Desk must not become the authoritative storage location for:
+
+- raw video
+- raw audio
+- full episode transcripts
+- episode-specific research files
+- episode-specific headlines
+- guest contact databases
+- member profile exports
+- final episode media
+
+Those remain in their appropriate archive or controlled system.
+
+---
+
+# 31B. CC_AI_DESK Directory Contract
+
+The commissioning structure should use a clear separation between persistent intelligence, runtime infrastructure and rebuildable retrieval infrastructure.
+
+```text
+CC_AI_DESK/
+│
+├── README.md
+├── 01_PERSONA/
+│   ├── CC_AI_PERSONA_BASE_v0.1.txt
+│   ├── CC_AI_PERSONA_INTELLECTUAL_STYLE.txt
+│   ├── CC_AI_PERSONA_VOICE.txt
+│   ├── CC_AI_PERSONA_BEHAVIOURS.txt
+│   ├── CC_AI_PERSONA_BOUNDARIES.txt
+│   ├── relationships/
+│   │   └── CC_AI_PERSONA_RELATIONSHIP_{{username}}.txt
+│   ├── proposals/
+│   └── CHANGELOG.md
+│
+├── 02_PROMPTS/
+│   ├── system_prompt.txt
+│   ├── news_curation_prompt.txt
+│   ├── headline_expansion_prompt.txt
+│   ├── retrieval_prompt.txt
+│   ├── persona_update_prompt.txt
+│   └── episode_context_prompt.txt
+│
+├── 03_CATALOG/
+│   ├── episodes.json
+│   ├── seasons.json
+│   └── sources.json
+│
+├── 04_INDEX/
+│   ├── lexical/
+│   ├── semantic/
+│   └── manifests/
+│
+├── 05_RUNTIME/
+│   ├── services/
+│   ├── providers/
+│   └── state/
+│
+├── 06_UI/
+│   ├── producer-dashboard/
+│   └── controls/
+│
+├── 07_AUTOMATION/
+│   ├── ingest/
+│   ├── indexing/
+│   ├── news/
+│   ├── persona/
+│   └── maintenance/
+│
+├── 08_CONFIG/
+│   ├── config.example.json
+│   └── .env.example
+│
+├── 09_LOGS/
+└── 10_BACKUPS/
+```
+
+### Important implementation rule
+
+Do **not** place API keys in `config/` files that are committed to Git. Use environment variables or an OS credential store. The repository should contain configuration templates only.
+
+---
+
+# 31C. Episode Context Contract
+
+Every episode receives its own **01_EPISODE_CONTEXT** folder.
+
+```text
+01_EPISODE_CONTEXT/
+│
+├── 01_METADATA.json
+├── 02_TRANSCRIPT.txt
+├── 03_SHOW_NOTES.md
+├── 04_HEADLINES.json
+├── 05_RESEARCH/
+├── 06_PARTICIPANTS.json
+├── 07_STORY_NOTES.md
+├── 08_CONSENT_MANIFEST.json
+├── 09_LICENSING_MANIFEST.json
+├── 10_AI_PROMPTS_USED.json
+├── 11_AI_CONTEXT_SNAPSHOT.md
+├── 12_RETRIEVAL_REFERENCES.json
+├── 13_POST_EPISODE_ANALYSIS.md
+└── 14_PERSONA_PROPOSAL.md
+```
+
+The exact files may grow, but this is the **minimum stable contract**.
+
+### Episode Context responsibilities
+
+**01_METADATA.json**
+
+Defines the episode identity, season, date, location, participants, tags and asset references.
+
+**02_TRANSCRIPT.txt**
+
+Contains the approved transcript or transcription source used for retrieval.
+
+**03_SHOW_NOTES.md**
+
+Contains the human-readable production summary and useful timestamps.
+
+**04_HEADLINES.json**
+
+Contains the location- and time-relevant news selected for the episode.
+
+**05_RESEARCH/**
+
+Contains episode-specific research references and source material.
+
+**06_PARTICIPANTS.json**
+
+Should contain only the participant identifiers and minimum operational information required by the production workflow. Sensitive contact details should remain in the appropriate secure system rather than being duplicated into the searchable archive.
+
+**08_CONSENT_MANIFEST.json / 09_LICENSING_MANIFEST.json**
+
+These determine what the AI Desk is permitted to retrieve and how the material may be used.
+
+**11_AI_CONTEXT_SNAPSHOT.md**
+
+Records the relevant AI Desk/persona/prompt versions used during the episode. It is a historical snapshot, not a second personality store.
+
+**12_RETRIEVAL_REFERENCES.json**
+
+Records which episode sources were retrieved or cited by the AI during production where practical.
+
+**14_PERSONA_PROPOSAL.md**
+
+Contains proposed changes generated from the episode. It does not directly mutate the persistent persona.
+
+---
+
+# 31D. AI Desk Retrieval Model
+
+The AI Desk must use **retrieval, not episode duplication**.
+
+```text
+USER / HOST QUERY
+       │
+       ▼
+AI DESK
+       │
+       ├── current episode
+       ├── current season
+       ├── approved archive
+       └── global Chronicles scope
+       │
+       ▼
+RETRIEVAL GATE
+       │
+       ├── consent
+       ├── licensing
+       ├── source status
+       ├── episode status
+       └── relevance
+       │
+       ▼
+SOURCE REFERENCES / CHUNKS
+       │
+       ▼
+AI REASONING
+       │
+       ▼
+RESPONSE
+```
+
+Supported query examples:
+
+> "What did we say about flooding in this episode?"
+
+> "Have we discussed flooding before?"
+
+> "Find previous Chronicles discussions involving Valentine's Day."
+
+> "What did this guest say about the course?"
+
+The retrieval engine must return the **source episode and location** with each material result whenever possible.
+
+### Search scopes
+
+```text
+CURRENT_EPISODE
+CURRENT_SEASON
+ALL_APPROVED_EPISODES
+GLOBAL_CHRONICLES
+```
+
+The selected scope is a control-plane setting, not a separate AI Desk.
+
+---
+
+# 31E. Retrieval Index Architecture
+
+The first retrieval implementation should be deliberately simple.
+
+### Stage 1 — lexical retrieval
+
+Use a local catalog plus SQLite/FTS-style full-text search or another lightweight indexed text store.
+
+This provides:
+
+- low memory usage
+- deterministic keyword retrieval
+- easy debugging
+- simple rebuilds
+- no vector database dependency
+
+### Stage 2 — semantic retrieval
+
+Add embeddings only when lexical retrieval demonstrates a real limitation.
+
+The semantic layer should be:
+
+- rebuildable
+- versioned by embedding model
+- separate from the source archive
+- referenced by episode ID and chunk ID
+
+Do **not** create one vector for an entire transcript. Split transcripts and research into meaningful chunks with stable IDs and source offsets.
+
+Example:
+
+```text
+episode_id: S01E01
+source: 02_TRANSCRIPT.txt
+chunk_id: S01E01-T-0042
+start_offset: ...
+end_offset: ...
+```
+
+The index stores the representation and pointer; the episode remains the source of truth.
+
+### Rebuild rule
+
+```text
+EPISODE ARCHIVE
+      ↓
+CATALOG VALIDATION
+      ↓
+CHUNK / INDEX BUILD
+      ↓
+INDEX VERSION
+      ↓
+AI DESK
+```
+
+If an index is lost, it must be possible to reconstruct it from the episode archive without recreating the AI Desk.
+
+---
+
+# 31F. AI Personality Architecture
+
+The AI personality lives **inside CC_AI_DESK** and evolves across the franchise.
+
+Recommended persistent components:
+
+```text
+01_PERSONA/
+├── CC_AI_PERSONA_BASE_v0.1.txt
+├── CC_AI_PERSONA_INTELLECTUAL_STYLE.txt
+├── CC_AI_PERSONA_VOICE.txt
+├── CC_AI_PERSONA_BEHAVIOURS.txt
+├── CC_AI_PERSONA_BOUNDARIES.txt
+└── relationships/
+    └── CC_AI_PERSONA_RELATIONSHIP_{{buzzjuice_username}}.txt
+```
+
+### Personality evolution pipeline
+
+```text
+EPISODE COMPLETES
+       ↓
+TRANSCRIPT / OBSERVATIONS
+       ↓
+POST-EPISODE ANALYSIS
+       ↓
+PERSONA PROPOSAL
+       ↓
+DIFF / PATCH
+       ↓
+PRODUCER REVIEW
+       ├── REJECT
+       └── APPROVE
+              ↓
+       NEW PERSONA VERSION
+              ↓
+          CHANGELOG
+```
+
+### Governance rules
+
+1. Never silently mutate the base persona.
+2. Changes must be small and reversible.
+3. Each approved change records its source episode.
+4. Relationship files describe interaction style, preferences and recurring conversational patterns only; they are not a dumping ground for private personal data.
+5. Episode-specific observations remain in Episode Context unless deliberately promoted into the persistent persona.
+6. A persona proposal must be reviewable as a diff.
+7. The producer can revert to the previous approved version.
+
+The earlier GitHub recommendation of limiting changes to approximately three small changes per episode is retained as a **recommended guardrail**, not a hard architectural limitation.
+
+---
+
+# 31G. Persistent News Intelligence vs Episode News
+
+The **method** for news curation belongs to the AI Desk.
+
+The **actual selected headlines** belong to the episode.
+
+```text
+CC_AI_DESK/02_PROMPTS/
+    news_curation_prompt.txt
+    headline_expansion_prompt.txt
+             │
+             ▼
+      NEWS CURATION PROCESS
+             │
+             ▼
+EPISODE/01_EPISODE_CONTEXT/04_HEADLINES.json
+```
+
+The curation process should accept:
+
+- location
+- time window
+- episode topic
+- audience relevance
+- required categories
+- desired number of headlines
+
+Each headline should include, where available:
+
+```text
+title
+summary
+category
+source
+source_url
+publish_date
+location
+relevance
+suggested_reference
+```
+
+### Headline expansion
+
+A selected headline may be expanded on demand rather than permanently bloating the episode context.
+
+```text
+PINNED HEADLINE
+      ↓
+EXPANSION PROMPT
+      ↓
+ADDITIONAL SOURCE RESEARCH
+      ↓
+EPISODE CONTEXT UPDATE
+```
+
+News used in a published episode should be preserved in the episode context so the production record remains auditable.
+
+---
+
+# 31H. Storage Provider Abstraction
+
+The AI Desk must not depend on one storage provider.
+
+The logical contract should resolve an episode to a stable identifier such as:
+
+```text
+episode://S01/E01
+```
+
+and then resolve the physical source through a provider adapter:
+
+```text
+local://...
+gdrive://...
+git://...
+cloud://...
+```
+
+The AI Desk should store the logical episode ID, source manifest and provider reference rather than hard-coding a particular provider throughout the runtime.
+
+### Recommended initial strategy
+
+Start with:
+
+> **local filesystem + Git-managed metadata**
+
+Then add synchronization to Google Drive or another cloud location when the archive actually requires it.
+
+This preserves the lean-first principle while preventing future provider lock-in.
+
+---
+
+# 31I. Implementation Stack — Lean First
+
+The AI Desk should not begin as a collection of unrelated Python scripts.
+
+Because the existing environment already uses Node.js for integration work, the preferred control-plane implementation is:
+
+```text
+Windows / Pavilion
+      │
+      ├── Node.js LTS runtime
+      ├── SQLite catalog / FTS
+      ├── provider adapters
+      ├── AI provider adapter
+      ├── local HTTP control API
+      └── producer UI
+```
+
+### Scripting policy
+
+**Preferred:** Node.js for persistent runtime, catalog, indexing orchestration and local API.
+
+**Preferred:** PowerShell for Windows bootstrap, service startup and simple machine administration.
+
+**Optional:** Python only where a specific AI/ML library materially outperforms the Node.js alternative and the added runtime is justified.
+
+This follows the rule:
+
+> **Use the better implementation tool for the job; do not introduce Python merely because an example script happens to be Python.**
+
+### First retrieval engine
+
+Start with lexical retrieval. Add embeddings after the catalog and retrieval contract are proven.
+
+This avoids making FAISS, sentence-transformers or another ML stack a commissioning dependency for an 8 GB Pavilion.
+
+---
+
+# 31J. AI Desk Runtime Modes
+
+The producer control layer should expose:
+
+```text
+ACTIVE SEASON
+ACTIVE EPISODE
+SEARCH SCOPE
+PERSONA VERSION
+AI MODE
+AI MUTE
+NEWS CONTEXT
+QUERY
+RETRIEVED SOURCES
+AI RESPONSE
+```
+
+AI modes remain:
+
+```text
+LISTEN
+ASSIST
+CO-HOST
+AUTONOMOUS
+```
+
+AI MUTE is independent of mode.
+
+### Emergency principle
+
+AI MUTE must remain usable even if the AI provider, retrieval engine or UI is malfunctioning.
+
+The audio path must therefore retain a separate mute mechanism at the audio/production layer. A software dashboard button alone is not sufficient for the final system.
+
+---
+
+# 31K. Episode Lifecycle With the Persistent AI Desk
+
+```text
+CREATE EPISODE
+      ↓
+CREATE 01_EPISODE_CONTEXT
+      ↓
+CURATE / SAVE HEADLINES
+      ↓
+PREPARE RESEARCH
+      ↓
+SELECT ACTIVE EPISODE IN AI DESK
+      ↓
+AI RETRIEVES CONTEXT
+      ↓
+RECORD
+      ↓
+TRANSCRIBE
+      ↓
+POST-EPISODE ANALYSIS
+      ↓
+PERSONA PROPOSAL
+      ↓
+PRODUCER APPROVAL
+      ↓
+UPDATE PERSISTENT PERSONA
+      ↓
+REBUILD / UPDATE INDEX
+      ↓
+PUBLISH
+```
+
+The key distinction is:
+
+> **The episode grows. The AI Desk learns. The AI Desk does not absorb the episode.**
 
 ---
 
@@ -1873,7 +2478,10 @@ BUZZJUICE
         NORMALIZATION
              │
              ▼
-        EPISODE DATA
+        EPISODE DATA / EPISODE CONTEXT
+             │
+             ▼
+        CC_AI_DESK RETRIEVAL
              │
              ▼
         AI STORY ENGINE
@@ -1958,7 +2566,7 @@ rather than repeatedly processing the complete database.
 
 # 54. Data Directory
 
-Recommended:
+Recommended logical structure:
 
 ```text
 /chronicles-data/
@@ -1969,6 +2577,8 @@ Recommended:
     /staging/
 
     /episodes/
+        /S00/
+        /S01/
 
     /processed/
 
@@ -1979,9 +2589,13 @@ Recommended:
     /logs/
 ```
 
+The production archive should ultimately resolve into the canonical `CLASSIES_CHRONICLES/` structure defined by the Studio Blueprint.
+
 Avoid one massive text file.
 
 Use manageable, episode-specific datasets.
+
+**Do not copy member data into CC_AI_DESK merely to make it searchable.** The AI Desk should retrieve authorized material from the controlled episode/member source and maintain only the necessary retrieval references and rebuildable index representations.
 
 ---
 
@@ -2792,6 +3406,8 @@ Then move into Season 1.
 
 # 88. Commissioning Programme
 
+The commissioning sequence is deliberately staged so the persistent AI Desk is proven before live AI audio is introduced.
+
 ## Phase 1 — Physical Hardware
 
 Confirm:
@@ -2828,7 +3444,7 @@ Confirm:
 
 - audio device
 - 44.1 kHz
-- 24-bit
+- 24-bit where supported
 - input mapping
 - recording directory
 - stem recording
@@ -2858,7 +3474,7 @@ ENVY → OBS
 Pavilion → REAPER
 ```
 
-Record simultaneously.
+Record simultaneously and verify that the recordings are recoverable independently.
 
 ---
 
@@ -2868,7 +3484,7 @@ Use:
 
 > spoken slate + clap
 
-Verify alignment.
+Verify alignment between ENVY and Pavilion recordings.
 
 ---
 
@@ -2885,7 +3501,141 @@ Test simultaneously:
 
 ---
 
-## Phase 8 — AI
+## Phase 8 — CC_AI_DESK Foundation
+
+Create:
+
+```text
+C:\CLASSIES_CHRONICLES\
+    CC_AI_DESK\
+    CC_S00_FOUNDATION_PHASE\
+    CC_S01_PLATONIUM\
+```
+
+Then create the persistent AI Desk directory contract, Git repository and configuration templates.
+
+Do not create an AI Desk for the episode.
+
+---
+
+## Phase 9 — Episode Context
+
+Create the first episode's:
+
+```text
+01_EPISODE_CONTEXT\
+```
+
+Validate:
+
+- metadata
+- transcript destination
+- headlines destination
+- research folder
+- consent manifest
+- licensing manifest
+- AI prompt record
+- context snapshot
+- retrieval references
+- post-episode analysis destination
+- persona proposal destination
+
+---
+
+## Phase 10 — Catalog
+
+Build the initial episode catalog from the archive.
+
+The catalog must identify:
+
+- episode ID
+- season
+- title
+- path/provider
+- context path
+- status
+- consent/licensing retrieval flags
+- last indexed revision
+
+---
+
+## Phase 11 — Retrieval
+
+Start with lexical retrieval.
+
+Test:
+
+```text
+CURRENT_EPISODE
+CURRENT_SEASON
+ALL_APPROVED_EPISODES
+```
+
+Only after deterministic retrieval works should semantic retrieval be added.
+
+---
+
+## Phase 12 — AI Desk UI
+
+Commission the producer control surface:
+
+- active season
+- active episode
+- search scope
+- query
+- retrieved sources
+- AI mode
+- AI mute status
+- persona version
+- pinned headlines
+
+---
+
+## Phase 13 — AI MUTE / Control Test
+
+Test the emergency path independently of the AI model.
+
+Confirm that the producer can silence AI output immediately.
+
+Do not proceed until this passes.
+
+---
+
+## Phase 14 — AI LISTEN
+
+Test:
+
+```text
+HOST
+ ↓
+TRANSCRIPTION
+ ↓
+AI DESK
+ ↓
+NO AI AUDIO
+```
+
+The AI must be able to observe without speaking.
+
+---
+
+## Phase 15 — AI ASSIST
+
+Test:
+
+```text
+HOST
+ ↓
+AI DESK
+ ↓
+PRODUCER SUGGESTION
+```
+
+Validate retrieval citations and episode context selection.
+
+---
+
+## Phase 16 — AI Audio
 
 Test:
 
@@ -2893,9 +3643,11 @@ Test:
 AI → TTS → Pavilion → ENVY
 ```
 
+Keep AI audio on a separate production path wherever technically possible.
+
 ---
 
-## Phase 9 — AI Conversation
+## Phase 17 — AI Conversation
 
 Test:
 
@@ -2903,9 +3655,29 @@ Test:
 HOST ↔ AI
 ```
 
+Start with CO-HOST mode.
+
 ---
 
-## Phase 10 — Guest
+## Phase 18 — AI Personality Evolution
+
+After a rehearsal, generate a persona proposal.
+
+Do not automatically merge it.
+
+Producer reviews:
+
+```text
+CURRENT PERSONA
+       ↓
+PROPOSED DIFF
+       ↓
+APPROVE / REJECT
+```
+
+---
+
+## Phase 19 — Guest
 
 Test:
 
@@ -2915,7 +3687,7 @@ HOST ↔ GUEST
 
 ---
 
-## Phase 11 — AI + Guest
+## Phase 20 — AI + Guest
 
 Test:
 
@@ -2923,15 +3695,25 @@ Test:
 HOST ↔ GUEST ↔ AI
 ```
 
+The guest should be able to hear the producer and AI co-host; the AI should hear the producer and guest; and the producer should hear the guest and AI.
+
 ---
 
-## Phase 12 — Full Rehearsal
+## Phase 21 — AUTONOMOUS
+
+Only after retrieval, personality stability, latency and AI MUTE have passed repeated rehearsals.
+
+AUTONOMOUS means conversational initiative inside the production environment; it does not remove producer authority or platform safety controls.
+
+---
+
+## Phase 22 — Full Rehearsal
 
 Run the entire episode without publishing.
 
 ---
 
-## Phase 13 — Pilot Recording
+## Phase 23 — Pilot Recording
 
 Record Episode 1.
 
@@ -3653,7 +4435,53 @@ SEASON 1
 
 ---
 
+# 109A. AI Desk Commissioning Gate
+
+Before treating CC_AI_DESK as operational, all of the following must pass:
+
+```text
+[ ] Persistent AI Desk exists independently of episodes
+[ ] Episode Context contract validated
+[ ] Episode catalog generated
+[ ] Current-episode retrieval works
+[ ] Cross-episode retrieval works
+[ ] Consent/licensing gates work
+[ ] Retrieval returns source references
+[ ] Persona changes are proposed, not silently applied
+[ ] AI MUTE works independently of model state
+[ ] AI LISTEN works without AI audio
+[ ] AI ASSIST works with producer review
+[ ] CO-HOST works with separate AI audio path
+[ ] Guest + AI routing works
+[ ] Index can be rebuilt from archive
+[ ] AI Desk can be restored without copying episode data into it
+```
+
+If any item fails, remain at the current commissioning phase rather than adding more automation.
+
+---
+
 # 110. Final Architecture
+
+The definitive architecture now consists of three controlled layers:
+
+```text
+LAYER 1 — STUDIO
+ENVY / Pavilion / S24 Ultra / REAPER / OBS / Cameras / Microphones / Audio Routing
+
+                 ↕
+
+LAYER 2 — CC_AI_DESK
+Persistent Persona / Relationships / Prompts / Retrieval / AI Providers / Controls / Automation
+
+                 ↕
+
+LAYER 3 — CLASSIES CHRONICLES ARCHIVE
+Seasons / Episodes / Episode Context / Transcripts / Research / News / Media / Consent / Licensing
+```
+
+The AI Desk is the **persistent control and intelligence plane** between the studio and the archive. It does not replace either layer.
+
 
 The definitive Foundation Phase system is:
 
@@ -3705,6 +4533,31 @@ The definitive Foundation Phase system is:
 ---
 
 # 111. Definitive Operating Principles
+
+### Persistent AI Desk Principle
+
+There is one CC_AI_DESK for the Classies Chronicles franchise. Episodes are context sources, not AI Desk instances.
+
+### Episode Source-of-Truth Principle
+
+Episode-specific information belongs in the episode archive and its `01_EPISODE_CONTEXT` folder. The AI Desk references it.
+
+### Rebuildability Principle
+
+Indexes, caches and derived retrieval structures are disposable infrastructure and must be rebuildable from the archive.
+
+### Persona Governance Principle
+
+The AI personality evolves through reviewed, versioned proposals rather than invisible drift.
+
+### Retrieval Gate Principle
+
+Consent, licensing and source status are retrieval controls, not merely post-production paperwork.
+
+### Tool Selection Principle
+
+Use Node.js/PowerShell for the primary control-plane implementation and introduce Python only when a concrete library requirement justifies it.
+
 
 ### 1.
 **ENVY is the master broadcast workstation.**
@@ -3844,9 +4697,11 @@ COMMERCIAL MEDIA OPERATION
 
 Once that passes, the next engineering task is:
 
-> **commission the ENVY → Pavilion return-audio path required for the Host ↔ Guest ↔ AI conversation architecture.**
+> **commission CC_AI_DESK and its Episode Context / retrieval architecture.**
 
-Only after that should we move into the actual **Classies Chronicles — Pilot Season — Episode 1 — Foundation Phase** content build.
+The return-audio path for Host ↔ Guest ↔ AI remains a later commissioning phase after the persistent AI Desk can reliably retrieve and cite episode context.
+
+Only after the AI Desk retrieval and control gates pass should we proceed to live AI audio, guest + AI routing, and the actual **Classies Chronicles — Pilot Season — Episode 1 — Foundation Phase** content build.
 :::
 
 <<START STUDIO BLUEPRINT>>

@@ -1,0 +1,98 @@
+My brother is a Ghanaian citizen living in Johannesburg. He just sent this request:
+
+<<START REQUEST>>
+Hi Elliot,
+
+I am applying for my Ghana Police Clearance Certificate from abroad to submit for my South African visa process. Because I am outside the country, I need you to act as my official representative in Accra to collect, authenticate, and mail the final document to me.
+
+Below is the step-by-step procedure of exactly what needs to be done.
+
+*Phase 1: Application (Done by Me)*
+
+1. I will complete the online application on the Ghana Police e-Services portal under Nominal Vetting (Non-Resident).
+2. I will list your full name and contact details as my authorized representative on the application form.
+3. I will pay the official processing fee online.
+4. The processing time takes about 10 working days. Once the system updates to show it is ready, I will send you the printable printout/confirmation slip.
+
+*Phase 2: Collection (Done by You)*
+
+1. Where to go: Visit the Criminal Investigation Department (CID) Headquarters in Accra (near Kwame Nkrumah Interchange/Circle).
+2. What to bring:
+   o	A printout of my application confirmation slip.
+   o	A printed photocopy of my passport biodata page (which I will email to you).
+   o	Your own valid national ID card. [1]
+3. Action: Present these documents to collect the original printed Police Clearance Certificate.
+
+*Phase 3: Document Authentication (Done by You)*
+
+South African immigration will reject a raw police report. You must physically take the original certificate through a two-step authentication chain in Accra:
+
+1. Step 1: Ministry of Foreign Affairs and Regional Integration (MFA)
+   o	Take the original certificate to the Legalisation/Attestation secretariat at the Ministry of Foreign Affairs in Accra.
+   o	Request an official state authentication stamp. They will verify and stamp the back of the document.
+2. Step 2: The South African High Commission
+   o	Once the MFA stamps it, take the document to the South African High Commission (located at Plot NR A69, Orphan Crescent, North Labone, Accra).
+   o	Submit it for embassy legalisation. They will inspect the Ghana MFA stamp and place their final embassy seal on it, making it legally valid for use in South Africa.
+
+*Phase 4: Shipping*
+Once the High Commission stamps the document, it is officially complete. Please put the original stamped document into a secure courier pack (such as DHL or FedEx) and ship it directly to my address.
+
+Let me know if you have any questions about this before I submit the online form! Thank you so much for helping me out with this.
+
+<<STOP REQUEST>>
+
+There may be other fees necessary including transport and liaison/mediation/agent/agency fees, as well as tipping officials at CID, MFA, SA High Commission and the DHL/FEDEX Fees.
+
+Here is a message already sent to him:
+
+<<START MESSAGE>>
+
+Hi bro, working with AI here,
+
+I’ve reviewed your request against the current Ghana Police and Ghana government guidance. The basic arrangement is legitimate — Ghana’s diplomatic missions confirm that a non-resident can appoint a relative/friend in Ghana to handle Police Clearance processing at CID.
+
+The current Ghana Police fee for **Nominal Vetting (Non-Resident) is GH¢2,000**, and the published fee for **Police Clearance authentication is GH¢50**.
+
+The one part I want to verify before we start is the **authentication/legalisation chain**. Your proposed process is Police → MFA → South African High Commission, but Ghana’s current guidance for Police Clearance documents intended for use abroad indicates that the Ghana-side process may be:
+
+**Ghana Police authentication → Notary Public → Judicial Service → Ghana MFA Legal & Consular Bureau.**
+
+I also don't want to assume that the South African High Commission automatically needs to add another seal. I'll verify that against the requirements for your specific South African visa before we incur those costs.
+
+### What I'll do
+
+1. Confirm the Police representative requirements with CID.
+2. Confirm the Ghana authentication/legalisation sequence.
+3. Confirm with the South African High Commission what they require for your specific visa.
+4. Handle the Accra processing stage-by-stage.
+5. Keep copies/photos of the certificate, stamps and receipts.
+6. Send you a digital copy for approval before the original is couriered.
+
+### Budget
+
+I'd suggest an initial **GH¢4,500 project float** for the Accra side, including the GH¢2,050 known Police fees, possible document processing, transport and contingency. I'll keep the expenses itemised and reconcile the balance.
+
+**International DHL/FedEx will be quoted separately at actual cost**, rather than guessing the shipping fee.
+
+I also won't budget for or make unofficial "tips" to officials. Government charges will be paid through the proper channels and receipts kept. If a professional service provider is needed, that will be separately identified and agreed.
+
+### Before you submit
+
+Please send me:
+
+* your South African visa category/checklist;
+* your passport biodata page;
+* your signed authorisation letter naming me as your representative;
+* the Police application/reference details and payment receipt once submitted;
+* your deadline;
+* your final delivery address, phone and email.
+
+I'll send you the authorisation template.
+
+Once the requirements are confirmed, I'll handle the rest from Accra and keep you updated at each stage.
+
+Thanks bro — happy to take care of it. I just want to make sure we follow the **correct** legalisation chain rather than paying for unnecessary steps.
+
+<<STOP MESSAGE>>
+
+Advise me on how to go about this then produce a budget and, if necessary, a follow-up message to update the response message sent.

@@ -1,0 +1,2895 @@
+CLASSIES CHRONICLES
+AI DESK & EPISODE ARCHITECTURE
+FULLY CONSOLIDATED / REFACTORED WORKING BLUEPRINT
+
+Version: 22.0
+Date: 2026-08-14
+Status: COMMISSIONING BASELINE
+Scope: CC_AI_DESK + Classies Chronicles episode architecture and operating process
+Primary implementation platform: HP Pavilion
+Primary production integration: ENVY / REAPER / OBS
+Primary automation stack: Node.js + PowerShell
+Initial retrieval: SQLite + FTS5
+Semantic retrieval: DEFERRED / OPTIONAL LATER
+
+======================================================================
+0. PURPOSE
+======================================================================
+
+This document establishes the working architecture for the Classies
+Chronicles AI Desk and the episode system that surrounds it.
+
+It incorporates the feasible recommendations from the earlier Studio
+Blueprint work, the v20.x/v21.x AI Desk proposals, the GitHub/Copilot
+commissioning proposal, and the latest operational requirements.
+
+This document intentionally does NOT refactor the wider Studio Structure
+Skeletal Blueprint. It defines the AI Desk and Chronicles episode system
+as a commissioning-ready subsystem that can later be incorporated into
+the wider Studio Blueprint.
+
+The architecture is based on one central distinction:
+
+    CC_AI_DESK = HOW THE AI THINKS, BEHAVES, SEARCHES AND ASSISTS.
+
+    EPISODE ARCHIVE = WHAT HAPPENED, WHAT WAS RESEARCHED,
+                      WHAT WAS PRODUCED AND WHAT WAS APPROVED.
+
+The AI Desk is therefore a persistent franchise-level intelligence layer,
+not an episode-specific assistant and not an episode database.
+
+======================================================================
+1. EXECUTIVE ARCHITECTURE
+======================================================================
+
+The canonical relationship is:
+
+                         CLASSIES CHRONICLES
+                                  |
+                 +----------------+----------------+
+                 |                                 |
+                 v                                 v
+             CC_AI_DESK                      EPISODE ARCHIVE
+           ONE PERSISTENT                  SEASONS / EPISODES
+                 |                                 |
+        +--------+--------+                 +------+------+
+        |        |        |                 |             |
+      Persona  Prompts  Runtime          Episode       Media
+        |        |        |              Context       Assets
+        |        |        |                 |
+        +--------+--------+                 |
+                 |                           |
+                 +------------+--------------+
+                              |
+                         RETRIEVAL LAYER
+                              |
+                       SCOPE + PERMISSION
+                              |
+                         AI CONTEXT
+                              |
+                       AI REASONING / TTS
+                              |
+                    REAPER / OBS / PRODUCER
+
+The AI Desk can reference any approved episode, but it does not absorb
+that episode's permanent source data.
+
+The archive remains the source of truth.
+
+======================================================================
+2. CORE ARCHITECTURAL PRINCIPLES
+======================================================================
+
+2.1 ONE AI DESK
+
+There is exactly one permanent:
+
+    CC_AI_DESK/
+
+for the Classies Chronicles franchise.
+
+Do NOT create:
+
+    E01/AI_DESK/
+    E02/AI_DESK/
+    E03/AI_DESK/
+
+The AI Desk persists across seasons and episodes.
+
+2.2 EPISODE OWNERSHIP
+
+Episode-specific information belongs to the episode.
+
+Examples:
+
+- current news headlines
+- current research
+- Bible reference used by that episode
+- Health & Safety reference used by that episode
+- continuity references
+- storyline notes
+- participants
+- consent state
+- licensing state
+- transcript
+- show notes
+- production requirements
+- AI context snapshot
+- post-episode analysis
+
+2.3 CONTROLLED RETRIEVAL
+
+The AI Desk does not automatically search everything.
+
+Every query has a retrieval scope.
+
+Initial scopes:
+
+    CURRENT_EPISODE
+    CURRENT_SEASON
+    ALL_APPROVED_EPISODES
+    GLOBAL_CHRONICLES
+
+A producer may explicitly broaden the scope.
+
+The AI must not silently broaden:
+
+    CURRENT_EPISODE -> ALL_EPISODES
+
+2.4 REBUILDABLE INDEX
+
+The catalog and search index are derived data.
+
+The authoritative source remains the filesystem/archive.
+
+If the database is deleted, it must be possible to rebuild it from the
+episode archive.
+
+2.5 CONSENT AND LICENSING ARE ACCESS CONTROLS
+
+A source being indexed does not automatically mean that the source can
+be used for every purpose.
+
+Retrieval permission and publication permission are separate concepts.
+
+2.6 GOVERNED PERSONA EVOLUTION
+
+The AI may identify possible improvements to its personality or
+relationships, but it does not silently rewrite itself.
+
+The lifecycle is:
+
+    OBSERVATION
+        ->
+    PROPOSAL
+        ->
+    PRODUCER REVIEW
+        ->
+    APPROVE / REJECT
+        ->
+    VERSIONED PERSONA CHANGE
+
+2.7 LEAN-FIRST IMPLEMENTATION
+
+Do not commission vector databases, FAISS, semantic embedding
+infrastructure, autonomous agents, complex cloud orchestration or
+virtual audio systems until an actual production requirement justifies
+them.
+
+2.8 AUTOMATE PREPARATION BEFORE EDITORIAL JUDGEMENT
+
+Future Tuesday/Friday automation should automate research, organization,
+validation and preparation before attempting autonomous editorial
+decisions.
+
+======================================================================
+3. PHYSICAL / SOFTWARE RESPONSIBILITY
+======================================================================
+
+The AI Desk is primarily hosted on the HP Pavilion.
+
+The Pavilion is responsible for:
+
+- AI Desk runtime
+- retrieval
+- producer control surface
+- AI provider connections
+- TTS when commissioned
+- episode preparation automation
+- archive scanning/indexing
+- persona governance tooling
+
+The ENVY remains the primary production/recording workstation.
+
+The existing physical audio architecture remains the canonical path
+until a demonstrated need requires another architecture.
+
+AI audio is treated as a separate controllable source.
+
+AI MUTE must be independent enough that a software failure cannot leave
+the producer without a practical way to silence AI audio.
+
+======================================================================
+4. CANONICAL ROOT STRUCTURE
+======================================================================
+
+The working root is:
+
+    C:\weblink\Classies_Chronicles\
+
+Canonical top-level structure:
+
+    C:\weblink\Classies_Chronicles\
+    |
+    +-- CC_AI_DESK\
+    |
+    +-- CC_S00_FOUNDATION_PHASE\
+    |   |
+    |   +-- E01_Introduction\
+    |       |
+    |       +-- 01_EPISODE_CONTEXT\
+    |       +-- 02_RAW_VIDEO\
+    |       +-- 03_RAW_AUDIO\
+    |       +-- 04_PROJECT_FILES\
+    |       +-- 05_STORY_AND_SCRIPT\
+    |       +-- 06_GRAPHICS\
+    |       +-- 07_GENERATED_MEDIA\
+    |       +-- 08_EDITED_MEDIA\
+    |       +-- 09_PUBLISHING\
+    |       +-- 10_ARCHIVE\
+    |
+    +-- CC_S01_PLATONIUM\
+        |
+        +-- E01_Nine_Months_Till_Valentine\
+            |
+            +-- 01_EPISODE_CONTEXT\
+            +-- 02_RAW_VIDEO\
+            +-- 03_RAW_AUDIO\
+            +-- 04_PROJECT_FILES\
+            +-- 05_STORY_AND_SCRIPT\
+            +-- 06_GRAPHICS\
+            +-- 07_GENERATED_MEDIA\
+            +-- 08_EDITED_MEDIA\
+            +-- 09_PUBLISHING\
+            +-- 10_ARCHIVE\
+
+The season/episode structure is deliberately provider-neutral.
+
+The archive may later be mirrored to:
+
+- local filesystem
+- Git repository
+- Google Drive
+- another cloud storage provider
+- approved hybrid storage
+
+The AI Desk should interact with logical episode IDs rather than making
+the storage provider part of its reasoning model.
+
+Example logical IDs:
+
+    episode://S00/E01
+    episode://S01/E01
+
+Example physical source:
+
+    local://C:/weblink/Classies_Chronicles/CC_S01_PLATONIUM/E01_...
+
+This abstraction allows storage to change without redesigning the AI.
+
+======================================================================
+5. CC_AI_DESK STRUCTURE
+======================================================================
+
+Recommended canonical structure:
+
+    CC_AI_DESK\
+    |
+    +-- 00_SYSTEM\
+    |   +-- VERSION.txt
+    |   +-- ARCHITECTURE.md
+    |   +-- OPERATING_RULES.md
+    |   +-- CHANGELOG.md
+    |
+    +-- 01_PERSONA\
+    |   +-- CC_AI_PERSONA_BASE_v0.1.txt
+    |   +-- CC_AI_PERSONA_INTELLECTUAL_STYLE.txt
+    |   +-- CC_AI_PERSONA_VOICE.txt
+    |   +-- CC_AI_PERSONA_BEHAVIOURS.txt
+    |   +-- CC_AI_PERSONA_BOUNDARIES.txt
+    |   +-- relationships\
+    |   +-- proposals\
+    |   +-- approved\
+    |   +-- CHANGELOG.md
+    |
+    +-- 02_PROMPTS\
+    |   +-- core\
+    |   +-- news\
+    |   +-- bible\
+    |   +-- health_safety\
+    |   +-- continuity\
+    |   +-- storyline\
+    |   +-- notebooklm\
+    |   +-- scripting\
+    |   +-- graphics\
+    |   +-- post_episode\
+    |   +-- persona\
+    |
+    +-- 03_SCHEMAS\
+    |   +-- episode_metadata.schema.json
+    |   +-- context_status.schema.json
+    |   +-- headlines.schema.json
+    |   +-- participants.schema.json
+    |   +-- consent.schema.json
+    |   +-- licensing.schema.json
+    |   +-- ai_prompts_used.schema.json
+    |   +-- retrieval_references.schema.json
+    |
+    +-- 04_CATALOG\
+    |   +-- chronicles.db
+    |   +-- README.md
+    |
+    +-- 05_INDICES\
+    |   +-- rebuildable\
+    |   +-- manifests\
+    |
+    +-- 06_CONFIG\
+    |   +-- config.example.json
+    |   +-- .env.example
+    |
+    +-- 07_SCRIPTS\
+    |   +-- Node.js runtime / ingestion / retrieval scripts
+    |   +-- PowerShell bootstrap / episode / validation scripts
+    |
+    +-- 08_UI\
+    |   +-- producer control surface
+    |
+    +-- 09_CONNECTORS\
+    |   +-- storage adapters
+    |   +-- provider adapters
+    |   +-- Buzzjuice API adapter
+    |
+    +-- 10_LOGS\
+    |
+    +-- 11_BACKUPS\
+    |
+    +-- README.md
+
+The numeric folders create a stable contract while allowing internal
+implementation to evolve.
+
+======================================================================
+6. WHAT BELONGS IN CC_AI_DESK
+======================================================================
+
+The AI Desk may permanently own:
+
+- persona
+- intellectual style
+- voice rules
+- behavioural rules
+- safety/boundary rules
+- relationship models
+- prompt methodology
+- prompt versions
+- provider configuration
+- runtime configuration
+- retrieval configuration
+- source catalog
+- rebuildable search index
+- source hashes
+- source status
+- permission state required for retrieval
+- automation definitions
+- producer controls
+- system logs
+- architecture documentation
+
+The AI Desk must NOT become the permanent home of:
+
+- raw video
+- raw audio
+- full episode media
+- episode news archives
+- guest contact databases
+- arbitrary member exports
+- episode-specific research as permanent global knowledge
+- unapproved private material
+- unpublished personal information
+
+The AI Desk stores references and derived intelligence infrastructure,
+not the entire archive.
+
+======================================================================
+7. PERSONA ARCHITECTURE
+======================================================================
+
+The AI personality is a persistent system.
+
+Minimum files:
+
+    01_PERSONA\
+    |
+    +-- CC_AI_PERSONA_BASE_v0.1.txt
+    +-- CC_AI_PERSONA_INTELLECTUAL_STYLE.txt
+    +-- CC_AI_PERSONA_VOICE.txt
+    +-- CC_AI_PERSONA_BEHAVIOURS.txt
+    +-- CC_AI_PERSONA_BOUNDARIES.txt
+    |
+    +-- relationships\
+    |   +-- CC_AI_PERSONA_RELATIONSHIP_{{username}}.txt
+    |
+    +-- proposals\
+    +-- approved\
+    +-- CHANGELOG.md
+
+7.1 BASE
+
+Defines the fundamental identity and role of the AI.
+
+7.2 INTELLECTUAL STYLE
+
+Defines how the AI reasons, explains, challenges assumptions and
+connects ideas.
+
+7.3 VOICE
+
+Defines conversational characteristics for spoken interaction.
+
+7.4 BEHAVIOURS
+
+Defines when the AI listens, assists, asks, suggests, waits or speaks.
+
+7.5 BOUNDARIES
+
+Defines safety, privacy, editorial and operational limits.
+
+7.6 RELATIONSHIPS
+
+A relationship file may be created for a recurring host or participant
+when there is a legitimate production reason.
+
+The filename may use the Buzzjuice username where appropriate.
+
+Relationship files should describe interaction characteristics, not
+become hidden psychological dossiers.
+
+7.7 PERSONA VERSIONING
+
+Every approved change gets a version.
+
+Example:
+
+    v0.1
+    v0.2
+    v0.3
+
+A proposal is not a live persona change.
+
+======================================================================
+8. PERSONA EVOLUTION
+======================================================================
+
+The AI Desk learns from episodes indirectly.
+
+The lifecycle is:
+
+    EPISODE
+       |
+       v
+    TRANSCRIPT
+       |
+       v
+    POST-EPISODE ANALYSIS
+       |
+       v
+    PERSONA OBSERVATION
+       |
+       v
+    PERSONA PROPOSAL
+       |
+       v
+    PRODUCER REVIEW
+       |
+       +---- REJECT
+       |
+       +---- APPROVE
+                |
+                v
+          PERSONA VERSION
+                |
+                v
+             CHANGELOG
+
+The AI must never infer:
+
+    "I observed it, therefore it is now part of my personality."
+
+Instead:
+
+    "I observed it; I propose it; the producer approves it."
+
+This is the principal control against personality drift.
+
+======================================================================
+9. EPISODE ARCHIVE STRUCTURE
+======================================================================
+
+Every episode uses the same structural contract.
+
+Example:
+
+    CC_S01_PLATONIUM\
+    |
+    +-- E01_Nine_Months_Till_Valentine\
+        |
+        +-- 01_EPISODE_CONTEXT\
+        +-- 02_RAW_VIDEO\
+        +-- 03_RAW_AUDIO\
+        +-- 04_PROJECT_FILES\
+        +-- 05_STORY_AND_SCRIPT\
+        +-- 06_GRAPHICS\
+        +-- 07_GENERATED_MEDIA\
+        +-- 08_EDITED_MEDIA\
+        +-- 09_PUBLISHING\
+        +-- 10_ARCHIVE\
+
+The episode context is a controlled knowledge package inside the episode.
+
+======================================================================
+10. EPISODE CONTEXT CONTRACT
+======================================================================
+
+Recommended:
+
+    01_EPISODE_CONTEXT\
+    |
+    +-- 00_CONTEXT_STATUS.json
+    +-- 01_METADATA.json
+    +-- 02_BIBLE_REFERENCE.md
+    +-- 03_HEALTH_SAFETY_REFERENCE.md
+    +-- 04_CONTINUITY_REFERENCE.md
+    +-- 05_HEADLINES.json
+    +-- 06_RESEARCH\
+    +-- 07_STORY_NOTES.md
+    +-- 08_PARTICIPANTS.json
+    +-- 09_CONSENT_MANIFEST.json
+    +-- 10_LICENSING_MANIFEST.json
+    +-- 11_PRODUCTION_REQUIREMENTS.md
+    +-- 12_AI_PROMPTS_USED.json
+    +-- 13_AI_CONTEXT_SNAPSHOT.md
+    +-- 14_RETRIEVAL_REFERENCES.json
+    +-- 15_TRANSCRIPT.txt
+    +-- 16_SHOW_NOTES.md
+    +-- 17_POST_EPISODE_ANALYSIS.md
+    +-- 18_PERSONA_PROPOSAL.md
+    +-- 19_EPISODE_CHANGELOG.md
+
+This ordering intentionally reflects the actual workflow more closely
+than the earlier generic contract.
+
+The context package is progressive. Files may begin empty or with a
+draft state and become authoritative as production progresses.
+
+======================================================================
+11. CONTEXT STATUS
+======================================================================
+
+00_CONTEXT_STATUS.json is the episode's readiness/control document.
+
+It should identify:
+
+- episode identity
+- context version
+- lifecycle status
+- completeness
+- validation status
+- consent state
+- licensing state
+- retrieval/index state
+- last update
+
+Example state values:
+
+    draft
+    pre_production
+    ready_for_production
+    recorded
+    post_production
+    ready_for_retrieval
+    archived
+    restricted
+    withdrawn
+
+The AI Desk should not treat an episode as a fully trusted retrieval
+source merely because its folder exists.
+
+Example readiness:
+
+    metadata: complete
+    bible: complete
+    health_safety: complete
+    continuity: complete
+    headlines: approved
+    research: complete
+    story_notes: complete
+    participants: complete
+    consent: verified
+    licensing: verified
+    transcript: complete
+    retrieval_index: current
+
+======================================================================
+12. METADATA
+======================================================================
+
+01_METADATA.json is the episode identity record.
+
+It should contain:
+
+- stable episode ID
+- season ID
+- episode number
+- title
+- scheduled date
+- actual production date
+- location
+- hosts
+- guest identifiers
+- tags
+- status
+- relative context path
+- asset references
+- retrieval eligibility
+- publication status
+
+Use stable IDs.
+
+Example:
+
+    S01E01
+
+The title may change during development; the stable ID should not.
+
+======================================================================
+13. BIBLE REFERENCE
+======================================================================
+
+02_BIBLE_REFERENCE.md records the Bible reference used for the episode.
+
+This supports the Eternal Dreamfall / Bible-study component of the
+episode workflow.
+
+The process is:
+
+    CURRENT STUDY / REFERENCE
+              |
+              v
+       SELECT PASSAGE
+              |
+              v
+       IDENTIFY KEY VERSE
+              |
+              v
+      RECORD REFERENCE
+              |
+              v
+        EPISODE STORY
+
+The file should contain:
+
+- book
+- chapter
+- verses
+- selected key verse
+- translation
+- why it is relevant
+- source/reference information
+- any editorial interpretation used
+
+The AI Desk should not silently invent the passage.
+
+The producer supplies or verifies the reference.
+
+======================================================================
+14. HEALTH & SAFETY REFERENCE
+======================================================================
+
+03_HEALTH_SAFETY_REFERENCE.md records the Health & Safety material used
+by the episode.
+
+The process is:
+
+    Episode topic
+        |
+        v
+    Health & Safety repository
+        |
+        v
+    Identify relevant course/topic
+        |
+        v
+    Retrieve source material
+        |
+        v
+    Producer review
+        |
+        v
+    Episode reference
+
+The source may be a Git repository or another controlled repository.
+
+The episode file should identify:
+
+- source repository
+- source path
+- lesson/course
+- relevant topic
+- key facts
+- selected references
+- date/version
+- producer notes
+
+The episode owns the reference actually used.
+
+The AI Desk stores the retrieval method and catalog reference, not a
+second permanent copy of the entire Health & Safety curriculum.
+
+======================================================================
+15. CONTINUITY REFERENCE
+======================================================================
+
+04_CONTINUITY_REFERENCE.md records previous Chronicles material used to
+connect the current episode to earlier episodes.
+
+The process is:
+
+    Current story question
+           |
+           v
+    Search previous episodes
+           |
+           v
+    Relevant episodes
+           |
+           v
+    Relevant transcript/show-note chunks
+           |
+           v
+    Producer selects continuity references
+           |
+           v
+    Episode continuity record
+
+Each selected reference should identify:
+
+- episode ID
+- source unit ID
+- approximate timestamp when available
+- reason for continuity
+- intended use
+
+This prevents the current episode from depending on an invisible
+"AI memory."
+
+======================================================================
+16. NEWS / CURRENT LOCATION CONTEXT
+======================================================================
+
+05_HEADLINES.json contains the actual current news context selected for
+the episode.
+
+The persistent AI Desk stores the METHOD.
+
+The episode stores the RESULT.
+
+Persistent:
+
+    02_PROMPTS/news/
+        news_curation_prompt
+        headline_expansion_prompt
+
+Episode:
+
+    05_HEADLINES.json
+
+The process is:
+
+    Location
+       |
+    Time window
+       |
+    Current news research
+       |
+    Candidate headlines
+       |
+    Producer review
+       |
+    Approved headlines
+       |
+    Episode Context
+
+Headline records should include:
+
+- stable headline ID
+- title
+- summary
+- category
+- source
+- source URL where available
+- publication time/date
+- retrieval time/date
+- suggested episode connection
+- status
+- expansion status
+
+Statuses:
+
+    candidate
+    approved
+    rejected
+    expanded
+
+This preserves historical truth about what was actually available at
+the time of production.
+
+======================================================================
+17. RESEARCH
+======================================================================
+
+06_RESEARCH contains episode-specific research.
+
+Examples:
+
+    06_RESEARCH\
+    |
+    +-- H001_EXPANDED.md
+    +-- H002_EXPANDED.md
+    +-- TOPIC_HEALTH_SAFETY.md
+    +-- CONTINUITY_RESEARCH.md
+    +-- OTHER_RESEARCH.md
+
+Research files should include provenance.
+
+A research file should not be treated as authoritative simply because
+it exists.
+
+======================================================================
+18. STORY NOTES
+======================================================================
+
+07_STORY_NOTES.md is the producer's working editorial context.
+
+It may contain:
+
+- central question
+- theme
+- storyline
+- discussion areas
+- desired emotional arc
+- host dynamics
+- guest role
+- key transitions
+- required references
+- exclusions
+- ending
+- production ideas
+
+The producer remains the editorial authority.
+
+======================================================================
+19. PARTICIPANTS
+======================================================================
+
+08_PARTICIPANTS.json contains minimum operational identifiers.
+
+It should not become a duplicate CRM.
+
+Possible information:
+
+- Buzzjuice username
+- participant role
+- episode role
+- AI interaction allowed
+- public-use state
+- consent reference
+
+Personal information not necessary for episode operations should remain
+outside this package.
+
+======================================================================
+20. CONSENT
+======================================================================
+
+09_CONSENT_MANIFEST.json is a control document.
+
+It determines whether participant-derived information can be used.
+
+Possible permissions:
+
+- AI analysis
+- AI retrieval
+- internal production
+- commercial production
+- public distribution
+- archival retention
+
+Consent must be evaluated at retrieval/publication time where relevant.
+
+If consent is withdrawn:
+
+    SOURCE
+       |
+       v
+    STATUS = RESTRICTED / WITHDRAWN
+       |
+       v
+    RETRIEVAL FILTER
+       |
+       v
+    INDEX REBUILD / INVALIDATION
+
+An old index entry must not defeat a current consent state.
+
+======================================================================
+21. LICENSING
+======================================================================
+
+10_LICENSING_MANIFEST.json records rights associated with material.
+
+This includes:
+
+- research assets
+- images
+- music
+- video
+- generated assets
+- member-derived material
+- external media
+
+The key rule is:
+
+    RETRIEVABLE != PUBLISHABLE
+
+A source can be:
+
+    searchable but non-commercial
+    searchable but private
+    searchable but reference-only
+    publishable
+    restricted
+    withdrawn
+
+Asset licensing may initially be updated manually per file.
+
+Automation can be introduced later.
+
+======================================================================
+22. PRODUCTION REQUIREMENTS
+======================================================================
+
+11_PRODUCTION_REQUIREMENTS.md contains requirements derived from the
+episode context.
+
+Examples:
+
+- required graphics
+- required clips
+- required music
+- required AI voice output
+- camera requirements
+- guest requirements
+- recording requirements
+- visual motifs
+- publication requirements
+
+This file bridges editorial preparation and production.
+
+======================================================================
+23. AI PROMPT AUDIT
+======================================================================
+
+12_AI_PROMPTS_USED.json records significant AI prompts used during the
+episode.
+
+It should include:
+
+- prompt ID
+- prompt version
+- purpose
+- platform/provider
+- date/time
+- input source
+- output reference
+- producer status
+- revision state
+
+This is especially important when NotebookLM, image generation systems,
+LLM systems or other AI tools contribute to an episode.
+
+The full prompt should be recorded where appropriate and legally safe;
+otherwise a secure/reference representation may be used.
+
+======================================================================
+24. AI CONTEXT SNAPSHOT
+======================================================================
+
+13_AI_CONTEXT_SNAPSHOT.md records the state of the AI Desk relevant to
+the episode.
+
+It may include:
+
+- AI Desk version
+- persona version
+- prompt set versions
+- retrieval index version
+- current episode ID
+- selected continuity sources
+- selected news set
+- consent/licensing state
+- provider/model
+- major configuration
+- timestamp
+
+This provides reproducibility.
+
+Example:
+
+    Episode: S01E01
+    AI Desk: 0.9
+    Persona: 0.4
+    Prompt Set: 0.8
+    Retrieval Index: 12
+    News Set: 2026-08-20T10:30
+    Status: production
+
+======================================================================
+25. RETRIEVAL REFERENCES
+======================================================================
+
+14_RETRIEVAL_REFERENCES.json provides traceability.
+
+When AI uses previous Chronicles information, the system should be able
+to record:
+
+    query
+    scope
+    source episode
+    source unit
+    relevance
+    permission state
+    timestamp
+
+Example logical source IDs:
+
+    S01E01:TRANSCRIPT:0042
+    S01E01:HEADLINE:H003
+    S00E01:RESEARCH:R007
+
+This prevents unsupported "I remember" behaviour.
+
+======================================================================
+26. TRANSCRIPT
+======================================================================
+
+15_TRANSCRIPT.txt is the canonical human-readable transcript.
+
+The actual audio/video remains in:
+
+    02_RAW_VIDEO
+    03_RAW_AUDIO
+
+The transcript is a derived knowledge asset.
+
+Future improvements may add:
+
+- speaker labels
+- timestamps
+- confidence
+- segment IDs
+
+The retrieval layer should eventually operate on stable transcript
+segments rather than treating the whole transcript as one document.
+
+======================================================================
+27. SHOW NOTES
+======================================================================
+
+16_SHOW_NOTES.md is a compact editorial summary.
+
+It should include:
+
+- episode summary
+- topics
+- key moments
+- important claims
+- important quotes/paraphrases
+- references
+- production notes
+- publishing notes
+
+Show notes are deliberately searchable because they often answer common
+queries more efficiently than a full transcript.
+
+======================================================================
+28. POST-EPISODE ANALYSIS
+======================================================================
+
+17_POST_EPISODE_ANALYSIS.md records what was learned from production.
+
+Suggested sections:
+
+- episode performance
+- strong AI interactions
+- weak AI interactions
+- retrieval successes
+- retrieval failures
+- persona observations
+- host interaction observations
+- recurring themes
+- technical failures
+- editorial improvements
+- automation opportunities
+
+This is the main bridge between the archive and AI Desk evolution.
+
+======================================================================
+29. PERSONA PROPOSAL
+======================================================================
+
+18_PERSONA_PROPOSAL.md contains proposed changes to the persistent AI
+personality.
+
+A proposal should contain:
+
+- proposed change
+- reason
+- evidence
+- source episode(s)
+- confidence
+- scope
+- affected persona file
+- status
+
+Status:
+
+    PROPOSED
+    APPROVED
+    REJECTED
+    DEFERRED
+
+No automatic live persona modification.
+
+======================================================================
+30. EPISODE CHANGELOG
+======================================================================
+
+19_EPISODE_CHANGELOG.md records important changes to the episode context.
+
+This is especially useful when the episode develops over several days.
+
+It should record:
+
+- timestamp
+- file/change
+- reason
+- producer
+- status
+
+======================================================================
+31. EPISODE CREATION PROCESS
+======================================================================
+
+The production workflow is now formally:
+
+    01 CREATE EPISODE SHELL
+              |
+              v
+    02 INITIALIZE CONTEXT
+              |
+              v
+    03 BIBLE REFERENCE
+              |
+              v
+    04 HEALTH & SAFETY REFERENCE
+              |
+              v
+    05 CONTINUITY SEARCH
+              |
+              v
+    06 CURRENT LOCATION NEWS
+              |
+              v
+    07 STORYLINE DEVELOPMENT
+              |
+              v
+    08 PARTICIPANTS + CONSENT
+              |
+              v
+    09 PRODUCTION REQUIREMENTS
+              |
+              v
+    10 NOTEBOOKLM STORY DEVELOPMENT
+              |
+              v
+    11 SCRIPT DEVELOPMENT
+              |
+              v
+    12 VISUAL / AUDIO PROMPTS
+              |
+              v
+    13 PRODUCTION
+              |
+              v
+    14 TRANSCRIPTION
+              |
+              v
+    15 SHOW NOTES
+              |
+              v
+    16 INDEX / RETRIEVAL UPDATE
+              |
+              v
+    17 POST-EPISODE ANALYSIS
+              |
+              v
+    18 PERSONA PROPOSAL
+              |
+              v
+    19 PRODUCER APPROVAL
+              |
+              v
+    20 ARCHIVE
+
+======================================================================
+32. DETAILED EPISODE WORKFLOW
+======================================================================
+
+32.1 CREATE THE EPISODE
+
+Create:
+
+    CC_Sxx_SEASON\
+        Exx_TITLE\
+
+Then create the standard folders.
+
+32.2 INITIALIZE CONTEXT
+
+Create:
+
+    00_CONTEXT_STATUS.json
+    01_METADATA.json
+
+The episode is now identifiable but not yet production-ready.
+
+32.3 BIBLE STUDY
+
+Select the reference relevant to the current Eternal Dreamfall /
+Bible-study context.
+
+Extract the key verse.
+
+Record it in:
+
+    02_BIBLE_REFERENCE.md
+
+32.4 HEALTH & SAFETY
+
+Search the controlled Health & Safety repository.
+
+Identify the relevant course/topic.
+
+Record the actual reference used in:
+
+    03_HEALTH_SAFETY_REFERENCE.md
+
+32.5 CONTINUITY
+
+Query the AI Desk across approved previous episodes.
+
+Select useful references.
+
+Record them in:
+
+    04_CONTINUITY_REFERENCE.md
+
+32.6 NEWS
+
+Run the current news curation method.
+
+Review candidate headlines.
+
+Approve the selected material.
+
+Save to:
+
+    05_HEADLINES.json
+
+Expand important headlines into:
+
+    06_RESEARCH\
+
+32.7 STORYLINE
+
+Manually enter the key details of the current storyline.
+
+Save to:
+
+    07_STORY_NOTES.md
+
+This is intentionally a manual producer-controlled stage.
+
+32.8 PARTICIPANTS / CONSENT
+
+Register only the participants needed for the episode.
+
+Verify permissions.
+
+32.9 PRODUCTION REQUIREMENTS
+
+Translate the story into production requirements.
+
+32.10 NOTEBOOKLM
+
+NotebookLM is used as a specialized narrative-generation stage.
+
+Inputs may include:
+
+- Bible reference
+- Health & Safety reference
+- continuity references
+- approved headlines
+- research
+- story notes
+
+NotebookLM produces a full narrative/story in novel-style form for
+development and review.
+
+The generated narrative remains an episode asset.
+
+It does not become permanent AI Desk memory.
+
+32.11 SCRIPT DEVELOPMENT
+
+Convert the narrative into a production-ready script.
+
+The system should prefer the most appropriate tool for the specific
+task.
+
+Python is not the default.
+
+Use Node.js/PowerShell for automation where practical.
+
+Use a specialized platform when that platform is materially better for
+the operation.
+
+32.12 MEDIA PROMPTS
+
+Generate prompts for:
+
+- image generation
+- graphics
+- video generation
+- audio
+- music
+- TTS
+
+Record important prompts in:
+
+    12_AI_PROMPTS_USED.json
+
+Production outputs remain in the media folders.
+
+32.13 RECORD / PRODUCE
+
+Record using the established Studio production system.
+
+The AI Desk is not the recording system.
+
+It is the intelligence/control layer.
+
+32.14 TRANSCRIBE
+
+Create:
+
+    15_TRANSCRIPT.txt
+
+32.15 SHOW NOTES
+
+Create:
+
+    16_SHOW_NOTES.md
+
+32.16 INDEX
+
+Run archive ingestion.
+
+The AI Desk reads the episode context and updates its rebuildable
+catalog/index.
+
+32.17 ANALYSE
+
+Create:
+
+    17_POST_EPISODE_ANALYSIS.md
+
+32.18 PERSONA
+
+Create:
+
+    18_PERSONA_PROPOSAL.md
+
+32.19 APPROVE
+
+Producer approves or rejects proposed changes.
+
+32.20 ARCHIVE
+
+Lock the episode's final state and preserve its manifests.
+
+======================================================================
+33. RETRIEVAL ARCHITECTURE
+======================================================================
+
+Initial retrieval:
+
+    EPISODE ARCHIVE
+          |
+          v
+    NODE INGESTION
+          |
+          v
+    SQLITE CATALOG
+          |
+          v
+    FTS5 SEARCH INDEX
+          |
+          v
+    PERMISSION FILTER
+          |
+          v
+    SCOPED CONTEXT
+          |
+          v
+    AI
+
+The catalog contains metadata and derived search units.
+
+The archive remains authoritative.
+
+======================================================================
+34. SQLITE CATALOG
+======================================================================
+
+The database should be:
+
+    CC_AI_DESK\04_CATALOG\chronicles.db
+
+It should contain at minimum:
+
+    episodes
+    context_units
+    sources
+    permissions
+    retrieval_events
+    persona_versions
+    prompt_versions
+
+Potential conceptual fields:
+
+EPISODES
+- episode_id
+- season_id
+- title
+- episode_number
+- status
+- location
+- date
+- context_path
+- context_version
+- index_version
+- consent_state
+- licensing_state
+- last_indexed
+
+CONTEXT_UNITS
+- unit_id
+- episode_id
+- unit_type
+- relative_path
+- section
+- content_hash
+- searchable
+- updated_at
+
+SOURCES
+- source_id
+- provider
+- logical_uri
+- physical_uri
+- content_hash
+- source_status
+- last_verified
+
+PERMISSIONS
+- source_id
+- ai_retrieval
+- internal_use
+- commercial_use
+- public_use
+- status
+- verified_at
+
+RETRIEVAL_EVENTS
+- event_id
+- timestamp
+- query
+- scope
+- source_unit
+- relevance
+- permission_state
+
+PERSONA_VERSIONS
+- version_id
+- file
+- version
+- episode_origin
+- approved_at
+
+PROMPT_VERSIONS
+- prompt_id
+- version
+- category
+- status
+
+======================================================================
+35. FTS5 RETRIEVAL
+======================================================================
+
+The initial full-text index should index meaningful units.
+
+Do NOT make:
+
+    one transcript = one record
+
+Instead:
+
+    transcript
+       |
+       +-- segment 001
+       +-- segment 002
+       +-- segment 003
+       ...
+
+Also index:
+
+- show notes
+- story notes where appropriate
+- headlines
+- research
+- continuity references
+- approved episode context
+
+Each unit gets a stable identifier.
+
+Example:
+
+    S01E01:TRANSCRIPT:0042
+    S01E01:HEADLINE:H003
+    S01E01:RESEARCH:R007
+
+The initial implementation may use lexical chunking. Later, timestamp-
+aware speaker segmentation can replace it without changing the logical
+ID model.
+
+======================================================================
+36. SEMANTIC RETRIEVAL
+======================================================================
+
+Semantic retrieval is intentionally deferred.
+
+Only add it when real episodes demonstrate that FTS5 fails materially
+on meaning-based queries.
+
+Then use:
+
+    SQLite FTS5
+          +
+    semantic retrieval
+          |
+          v
+    hybrid ranking
+
+Do not make FAISS or another vector layer a commissioning prerequisite.
+
+Do not create a large embedding infrastructure before the archive has
+enough real data to justify it.
+
+======================================================================
+37. QUERY SCOPING
+======================================================================
+
+Producer query:
+
+    "What did we establish earlier in this episode?"
+
+Scope:
+
+    CURRENT_EPISODE
+
+Producer query:
+
+    "What did we discuss earlier this season?"
+
+Scope:
+
+    CURRENT_SEASON
+
+Producer query:
+
+    "Have we discussed flooding before?"
+
+Scope:
+
+    ALL_APPROVED_EPISODES
+
+Producer query:
+
+    "Find every relevant discussion across Classies Chronicles."
+
+Scope:
+
+    GLOBAL_CHRONICLES
+
+The UI should make scope visible.
+
+Example:
+
+    SEARCH: flooding
+    SCOPE: ALL APPROVED EPISODES
+
+The AI should identify source episodes in its answer when practical.
+
+======================================================================
+38. SOURCE PROVENANCE
+======================================================================
+
+Every retrieval result should have provenance.
+
+Minimum:
+
+    episode_id
+    source_unit
+    source_path
+    timestamp/section where available
+    permission state
+
+The AI should not produce a factual statement from archive retrieval
+without retaining enough information to identify where the information
+came from.
+
+======================================================================
+39. STORAGE PROVIDER ABSTRACTION
+======================================================================
+
+The archive may exist in multiple places.
+
+Potential providers:
+
+    local filesystem
+    Git
+    Google Drive
+    cloud folder
+    future object storage
+
+The AI Desk should use logical references:
+
+    episode://S01/E01
+
+rather than hardcoding all reasoning around:
+
+    C:\...
+
+A provider adapter resolves the logical reference to the actual source.
+
+Initial implementation should remain local.
+
+Cloud/Git/Drive adapters are introduced only when required.
+
+======================================================================
+40. GIT REPOSITORY MODEL
+======================================================================
+
+Git is useful for:
+
+- AI Desk configuration
+- persona
+- prompts
+- schemas
+- scripts
+- episode context text/JSON
+- change history
+
+Large binary production media should not automatically be placed into
+ordinary Git history.
+
+Episode media should remain in suitable storage and be referenced from
+the archive.
+
+The repository should therefore distinguish:
+
+    VERSIONED TEXT / CONFIG / CONTEXT
+
+from:
+
+    LARGE MEDIA ASSETS
+
+======================================================================
+41. NODE.JS + POWERSHELL IMPLEMENTATION
+======================================================================
+
+Preferred automation:
+
+    Node.js
+    |
+    +-- ingestion
+    +-- catalog
+    +-- retrieval
+    +-- provider adapters
+    +-- API
+    +-- AI provider integration
+    +-- validation
+    +-- UI backend
+
+PowerShell:
+
+    +-- Windows bootstrap
+    +-- directory creation
+    +-- scheduled tasks
+    +-- backup orchestration
+    +-- local administration
+    +-- episode shell creation
+
+Python:
+
+    ONLY when a specific capability makes Python materially better.
+
+This is not a ban on Python; it is a preference against unnecessary
+Python infrastructure.
+
+======================================================================
+42. RECOMMENDED CORE SCRIPTS
+======================================================================
+
+Initial scripts:
+
+    01_BOOTSTRAP.ps1
+    02_NEW_EPISODE.ps1
+    03_VALIDATE_EPISODE.ps1
+    04_SCAN_ARCHIVE.js
+    05_INGEST_EPISODE.js
+    06_BUILD_INDEX.js
+    07_SEARCH_ARCHIVE.js
+    08_RETRIEVE_CONTEXT.js
+    09_CHECK_PERMISSIONS.js
+    10_SNAPSHOT_CONTEXT.js
+    11_PERSONA_PROPOSE.js
+    12_PERSONA_APPROVE.js
+    13_REBUILD_CATALOG.js
+
+The exact filenames may evolve.
+
+The functional responsibilities should remain stable.
+
+======================================================================
+43. VALIDATION
+======================================================================
+
+Before an episode becomes retrieval-eligible, validation should check:
+
+- stable episode ID
+- valid metadata
+- context status
+- required files
+- valid JSON
+- consent state
+- licensing state
+- source paths
+- no broken references
+- transcript availability where required
+- prompt audit where required
+- index freshness
+
+Validation status:
+
+    PASS
+    WARN
+    FAIL
+
+An episode with a FAIL state must not automatically become a trusted
+archive source.
+
+======================================================================
+44. PRODUCER UI
+======================================================================
+
+The first UI should be deliberately small.
+
+Core controls:
+
+    CURRENT EPISODE
+    SEARCH
+    SCOPE
+    AI MODE
+    AI MUTE
+    STATUS
+    RETRIEVAL RESULTS
+    SOURCE
+    PERSONA VERSION
+
+Modes:
+
+    LISTEN
+    ASSIST
+    CO-HOST
+    AUTONOMOUS
+
+The producer must always know:
+
+- what episode is active
+- what AI mode is active
+- whether AI is muted
+- what retrieval scope is active
+- what persona version is active
+
+The UI is a control surface, not a replacement for the archive.
+
+======================================================================
+45. AI MODES
+======================================================================
+
+LISTEN
+
+The AI receives permitted input but does not speak.
+
+This should be the initial commissioning mode.
+
+ASSIST
+
+The AI can provide producer-facing assistance but should not insert
+itself into the live programme without an explicit production path.
+
+CO-HOST
+
+The AI can speak as a controlled participant.
+
+AUTONOMOUS
+
+The AI may operate within explicitly defined boundaries.
+
+AUTONOMOUS is the final stage, not the starting point.
+
+======================================================================
+46. AI MUTE
+======================================================================
+
+AI MUTE is a production safety subsystem.
+
+There should be:
+
+    hardware / physical control
+    software control
+    UI indication
+
+The AI must be muteable even if:
+
+- the model hangs
+- the UI fails
+- retrieval fails
+- network latency increases
+- the provider becomes unavailable
+
+The exact physical implementation remains governed by the existing
+Studio audio architecture.
+
+AI audio should remain independently controllable.
+
+======================================================================
+47. AUDIO INTEGRATION
+======================================================================
+
+The AI Desk should not force a virtual audio architecture prematurely.
+
+Initial approach:
+
+    Pavilion AI/TTS
+          |
+    controlled audio output
+          |
+    existing physical audio path
+          |
+       Daakro
+          |
+        ENVY
+          |
+       REAPER/OBS
+
+AI should be represented as a distinct controllable production source
+where technically practical.
+
+The existing Pavilion -> Blue Yeti -> Daakro -> ENVY architecture
+remains the physical baseline already established for the Studio.
+
+======================================================================
+48. BUZZJUICE MUST-USE PLUGIN
+======================================================================
+
+A future Buzzjuice WordPress MU plugin becomes the permission/API
+boundary between the Chronicles AI Desk and Buzzjuice platform data.
+
+Conceptually:
+
+    CC_AI_DESK
+          |
+          v
+    BUZZJUICE API
+          |
+          v
+    MU PLUGIN
+          |
+          +-- user consent
+          +-- participant identity reference
+          +-- content eligibility
+          +-- licensing state
+          +-- publication permissions
+          +-- revocation status
+
+The AI Desk should not directly query arbitrary WordPress database
+tables.
+
+The MU plugin should expose only the controlled data required by the
+Chronicles system.
+
+This creates a future integration boundary without making Buzzjuice a
+dependency of the initial local AI Desk commissioning.
+
+======================================================================
+49. CONSENT REVOCATION
+======================================================================
+
+The permission model must support change over time.
+
+Example:
+
+    DAY 1
+    consent = approved
+
+    DAY 30
+    consent = withdrawn
+
+The AI Desk must be able to discover that the source is now restricted.
+
+Therefore permission status should be evaluated from authoritative
+permission data rather than trusting a stale search index.
+
+A future MU plugin can expose:
+
+    GET /consent/{participant}
+    GET /content/{id}/permissions
+    GET /content/{id}/status
+
+Exact API design is deferred until the Buzzjuice integration is
+commissioned.
+
+======================================================================
+50. ASSET LICENSING
+======================================================================
+
+Initial approach:
+
+    MANUAL PER-ASSET LICENSING
+
+Each relevant asset receives a licensing record.
+
+Future:
+
+    asset registry
+       |
+       v
+    license status
+       |
+       v
+    automatic publication gate
+
+Do not build the complete licensing automation system before the
+production process demonstrates its actual requirements.
+
+======================================================================
+51. NOTEBOOKLM ROLE
+======================================================================
+
+NotebookLM is a specialized narrative-development tool.
+
+It should not become the permanent AI Desk.
+
+Its role:
+
+    CURATED EPISODE SOURCES
+          |
+          v
+      NOTEBOOKLM
+          |
+          v
+    STORY / NOVEL-STYLE DRAFT
+          |
+          v
+      PRODUCER REVIEW
+          |
+          v
+       SCRIPTING
+
+The resulting story is episode-owned.
+
+The AI Desk records the use of NotebookLM and its relevant context,
+but does not ingest every generated sentence into its permanent
+persona.
+
+======================================================================
+52. EPISODE CONTENT PIPELINE
+======================================================================
+
+The canonical content pipeline is:
+
+    BIBLE
+      |
+      v
+    KEY VERSE
+      |
+      v
+    HEALTH & SAFETY
+      |
+      v
+    CONTINUITY
+      |
+      v
+    CURRENT NEWS
+      |
+      v
+    STORY NOTES
+      |
+      v
+    NOTEBOOKLM
+      |
+      v
+    NOVEL-STYLE STORY
+      |
+      v
+    SCRIPT
+      |
+      v
+    GRAPHIC / IMAGE / AUDIO PROMPTS
+      |
+      v
+    GENERATED MEDIA
+      |
+      v
+    RECORDING
+      |
+      v
+    EDITING
+      |
+      v
+    PUBLISHING
+      |
+      v
+    POST-EPISODE ANALYSIS
+      |
+      v
+    AI DESK PERSONA PROPOSAL
+
+======================================================================
+53. AUTOMATION ROADMAP
+======================================================================
+
+Automation is staged.
+
+LEVEL 0 — MANUAL
+
+Producer performs the workflow.
+
+LEVEL 1 — ASSISTED
+
+AI Desk prepares:
+
+- episode shell
+- context templates
+- research prompts
+- continuity candidates
+- news candidates
+
+Producer approves.
+
+LEVEL 2 — RESEARCH AUTOMATION
+
+Scheduled system gathers:
+
+- current headlines
+- repository changes
+- relevant previous episodes
+- Health & Safety candidates
+
+Producer reviews.
+
+LEVEL 3 — STORY PACKAGE AUTOMATION
+
+System assembles:
+
+- context package
+- research brief
+- NotebookLM source package
+- storyline preparation
+- visual prompt package
+
+Producer approves.
+
+LEVEL 4 — PRODUCTION AUTOMATION
+
+Automate:
+
+- media prompt dispatch
+- asset organization
+- transcription
+- indexing
+- show-note preparation
+
+Human editorial control remains.
+
+LEVEL 5 — TUESDAY / FRIDAY SCHEDULED PRODUCTION
+
+Future scheduled runs:
+
+    TUESDAY EVENING
+    FRIDAY MORNING
+
+Each run may:
+
+    CREATE EPISODE SHELL
+        |
+        v
+    GATHER NEWS
+        |
+        v
+    RETRIEVE CONTINUITY
+        |
+        v
+    IDENTIFY HEALTH & SAFETY MATERIAL
+        |
+        v
+    BUILD STORY BRIEF
+        |
+        v
+    PRODUCER APPROVAL
+        |
+        v
+    GENERATE STORY PACKAGE
+
+LEVEL 6 — AUTONOMOUS MEDIA PIPELINE
+
+Only after the lower levels are proven.
+
+======================================================================
+54. SCHEDULING DESIGN
+======================================================================
+
+The eventual scheduler should be a Windows Scheduled Task or equivalent
+service invoking Node.js/PowerShell.
+
+The schedule should trigger preparation, not uncontrolled publication.
+
+Example:
+
+    Tuesday evening:
+        research + context preparation
+
+    Friday morning:
+        research + context preparation
+
+The producer should receive a ready-to-review episode package.
+
+The system should not silently publish an episode because a scheduled
+task succeeded.
+
+======================================================================
+55. ARCHIVE SCANNING
+======================================================================
+
+The AI Desk must support scanning the entire Chronicles archive.
+
+Example:
+
+    C:\weblink\Classies_Chronicles\
+             |
+             +-- S00
+             +-- S01
+             +-- S02
+             +-- ...
+
+The scanner discovers:
+
+- season
+- episode
+- context package
+- metadata
+- status
+- permissions
+- files
+- hashes
+- modification time
+
+Then it updates the catalog.
+
+This scanner is the foundation for supporting a local folder, Git
+repository or synchronized cloud folder.
+
+======================================================================
+56. SOURCE HASHING
+======================================================================
+
+For rebuildability and change detection, context units should have a
+content hash.
+
+Example:
+
+    SHA-256
+
+When a file changes:
+
+    old hash != new hash
+
+The AI Desk knows that the source needs re-indexing.
+
+This is preferable to blindly rebuilding the entire archive every time.
+
+======================================================================
+57. INDEX VERSIONING
+======================================================================
+
+The system should track:
+
+    source version
+    parser version
+    index version
+
+Example:
+
+    source: 1.3
+    parser: 0.4
+    index: 12
+
+If the parser changes, the index can be rebuilt.
+
+======================================================================
+58. REBUILDABILITY
+======================================================================
+
+The following should be rebuildable:
+
+- catalog
+- FTS5 index
+- derived manifests
+- retrieval caches
+
+The following are authoritative:
+
+- episode context
+- consent manifests
+- licensing manifests
+- final episode assets
+- approved persona files
+- approved prompt versions
+
+This distinction is essential for long-term maintainability.
+
+======================================================================
+59. ERROR HANDLING
+======================================================================
+
+The AI Desk should fail safely.
+
+Examples:
+
+MISSING EPISODE CONTEXT
+
+    Do not index.
+
+INVALID CONSENT
+
+    Do not retrieve for restricted operation.
+
+STALE INDEX
+
+    Warn and rebuild.
+
+MISSING SOURCE
+
+    Return unavailable rather than inventing content.
+
+AMBIGUOUS RETRIEVAL
+
+    Ask producer or return uncertainty.
+
+AI PROVIDER FAILURE
+
+    AI MUTE / LISTEN state remains safe.
+
+NETWORK FAILURE
+
+    Local archive remains usable where possible.
+
+======================================================================
+60. SECURITY
+======================================================================
+
+Never store API keys in Git.
+
+Use:
+
+- environment variables
+- Windows credential storage
+- secret manager when justified
+
+Never put secrets in:
+
+    config.json
+    prompt files
+    episode context
+    Git history
+
+The configuration repository should contain:
+
+    config.example.json
+
+and environment examples.
+
+======================================================================
+61. PRIVACY
+======================================================================
+
+The AI Desk should use the minimum participant information necessary.
+
+Do not turn:
+
+    participants.json
+
+into:
+
+    guest CRM.
+
+The future Buzzjuice API should expose controlled identifiers and
+permissions rather than raw database access.
+
+======================================================================
+62. PRODUCER GOVERNANCE
+======================================================================
+
+The producer has final authority over:
+
+- persona changes
+- publication
+- commercial use
+- AI mode
+- AI mute
+- selected news
+- storyline
+- final script
+- guest use
+- licensing exceptions
+
+The AI Desk is an assistant/control system, not the editorial authority.
+
+======================================================================
+63. COMMISSIONING SEQUENCE
+======================================================================
+
+PHASE 1 — FOUNDATION
+
+    Verify Pavilion
+    Verify Node.js
+    Verify Git
+    Verify PowerShell
+    Verify existing Studio audio path
+
+PHASE 2 — AI DESK FILESYSTEM
+
+    Create root
+    Create CC_AI_DESK
+    Create folder contract
+    Initialize Git
+
+PHASE 3 — PERSONA
+
+    Create base persona
+    Create style
+    Create voice
+    Create behaviours
+    Create boundaries
+    Create relationship framework
+
+PHASE 4 — PROMPTS
+
+    Create core prompts
+    Create news prompts
+    Create Bible prompt
+    Create Health & Safety prompt
+    Create continuity prompt
+    Create story prompts
+    Create post-episode prompts
+
+PHASE 5 — SCHEMAS / VALIDATION
+
+    Create schemas
+    Create context status validation
+    Create episode validator
+
+PHASE 6 — FIRST EPISODE
+
+    Create S00/S01 episode shell
+    Create Episode Context
+    Populate metadata
+
+PHASE 7 — MANUAL CONTEXT
+
+    Bible
+    Health & Safety
+    Continuity
+    News
+    Storyline
+    Participants
+    Consent
+    Licensing
+
+PHASE 8 — CATALOG
+
+    Initialize SQLite
+    Scan archive
+    Ingest episode
+
+PHASE 9 — FTS5
+
+    Build searchable units
+    Test retrieval
+    Test source references
+
+PHASE 10 — PERMISSION GATE
+
+    Test consent
+    Test licensing
+    Test restricted source
+
+PHASE 11 — PRODUCER UI
+
+    Active episode
+    Scope
+    Search
+    AI mode
+    Mute
+    Status
+
+PHASE 12 — AI LISTEN
+
+    AI receives permitted input
+    AI remains silent
+
+PHASE 13 — AI ASSIST
+
+    Producer-facing assistance
+
+PHASE 14 — AI AUDIO
+
+    Controlled TTS path
+    Separate AI source
+    AI MUTE test
+
+PHASE 15 — CO-HOST
+
+    Controlled live interaction
+
+PHASE 16 — POST-EPISODE
+
+    Transcript
+    Show notes
+    Index
+    Analysis
+    Persona proposal
+
+PHASE 17 — GOVERNED EVOLUTION
+
+    Producer approval
+    Persona version
+    Changelog
+
+PHASE 18 — AUTOMATION
+
+    Only after pilot reliability
+
+======================================================================
+64. FIRST-PILOT OPERATING MODEL
+======================================================================
+
+The first pilot should deliberately avoid maximum automation.
+
+The objective is to prove:
+
+    ONE AI DESK
+    +
+    ONE EPISODE
+    +
+    CONTROLLED RETRIEVAL
+    +
+    CONTROLLED PERSONA
+    +
+    CONTROLLED AUDIO
+
+The pilot should answer:
+
+1. Can the AI Desk find the current episode context?
+2. Can it find previous episodes?
+3. Can it distinguish current episode from archive scope?
+4. Can it respect consent/licensing?
+5. Can the producer see the source of a result?
+6. Can AI remain silent in LISTEN?
+7. Can AI be muted immediately?
+8. Can the AI personality be versioned?
+9. Can the episode be re-indexed after edits?
+10. Can the entire catalog be rebuilt?
+
+If these work, the system is ready for expansion.
+
+======================================================================
+65. ACCEPTANCE TESTS
+======================================================================
+
+TEST A — CURRENT EPISODE
+
+Query:
+
+    "What is the key verse for this episode?"
+
+Expected:
+
+    Current episode Bible reference only.
+
+TEST B — ARCHIVE CONTINUITY
+
+Query:
+
+    "Have we discussed flooding before?"
+
+Expected:
+
+    Search approved episodes and return episode/source references.
+
+TEST C — SCOPE CONTROL
+
+Query:
+
+    "What did we establish earlier in this episode?"
+
+Expected:
+
+    Current episode only.
+
+TEST D — CONSENT
+
+Query restricted participant-derived material.
+
+Expected:
+
+    Retrieval denied or appropriately redacted.
+
+TEST E — LICENSING
+
+Attempt commercial/public use of restricted material.
+
+Expected:
+
+    Publication blocked.
+
+TEST F — STALE INDEX
+
+Edit a context file.
+
+Expected:
+
+    Hash mismatch detected.
+
+TEST G — REBUILD
+
+Delete derived catalog/index.
+
+Expected:
+
+    Rebuild from archive.
+
+TEST H — PERSONA
+
+Generate proposal.
+
+Expected:
+
+    Proposal only; live persona unchanged.
+
+TEST I — AI MUTE
+
+AI speaking.
+
+Activate mute.
+
+Expected:
+
+    AI audio stops immediately.
+
+TEST J — PROVIDER FAILURE
+
+Disable AI provider.
+
+Expected:
+
+    Studio remains safe and AI does not bypass mute/control.
+
+======================================================================
+66. WHAT WAS ACCEPTED FROM THE GITHUB / COPILOT RECOMMENDATIONS
+======================================================================
+
+Accepted:
+
+- persistent single CC_AI_DESK
+- episode-owned Episode Context
+- SQLite + FTS5 MVP
+- Node.js primary runtime
+- PowerShell Windows automation
+- rebuildable catalog/index
+- minimal producer UI
+- explicit AI modes
+- AI MUTE as a production subsystem
+- consent/licensing retrieval gates
+- versioned persona
+- proposal/approval workflow
+- staged automation
+- archive scanning
+- source references
+- context snapshots
+- scheduled future preparation
+- physical-first audio strategy
+
+======================================================================
+67. WHAT WAS MODIFIED
+======================================================================
+
+The GitHub/Copilot proposal is not adopted literally.
+
+Modifications:
+
+1. Episode Context was expanded to include explicit:
+   Bible, Health & Safety, Continuity, Production Requirements,
+   Transcript and Episode Changelog stages.
+
+2. The episode contract was reordered to reflect the actual production
+   lifecycle.
+
+3. The catalog is explicitly rebuildable and is not the source of truth.
+
+4. Permission state is separated from mere index presence.
+
+5. Storage is abstracted through logical episode IDs.
+
+6. NotebookLM is explicitly treated as an episode-stage narrative tool,
+   not as the AI Desk.
+
+7. The Buzzjuice MU plugin is treated as a future controlled API
+   boundary, not an initial commissioning dependency.
+
+8. The AI Desk is prevented from becoming a participant/CRM database.
+
+9. Automation is preparation-first and approval-gated.
+
+10. Semantic retrieval remains deferred.
+
+11. AI audio remains separate and muteable.
+
+12. Python is not prohibited, but is no longer the default automation
+    layer.
+
+======================================================================
+68. WHAT IS DELIBERATELY NOT COMMISSIONED YET
+======================================================================
+
+Do not make these prerequisites for the first working AI Desk:
+
+- FAISS
+- Pinecone
+- Weaviate
+- large embedding infrastructure
+- autonomous agent frameworks
+- complex cloud orchestration
+- virtual audio mixers
+- NDI
+- broad Buzzjuice database access
+- automatic commercial publication
+- automatic persona modification
+- fully autonomous episode generation
+
+These may become appropriate later.
+
+They are not needed to prove the architecture.
+
+======================================================================
+69. FUTURE EXPANSION
+======================================================================
+
+Once the pilot works, the system can expand to:
+
+    MULTI-PROVIDER STORAGE
+          |
+    HYBRID RETRIEVAL
+          |
+    SEMANTIC SEARCH
+          |
+    BUZZJUICE API
+          |
+    AUTOMATED CONSENT
+          |
+    ASSET LICENSING
+          |
+    SCHEDULED EPISODE PREPARATION
+          |
+    AUTOMATED MEDIA GENERATION
+          |
+    ADVANCED AI CO-HOSTING
+          |
+    CONTROLLED AUTONOMOUS PRODUCTION
+
+The important rule remains:
+
+    add complexity because production requires it,
+    not because the architecture can theoretically support it.
+
+======================================================================
+70. FINAL OPERATING MODEL
+======================================================================
+
+The final Classies Chronicles intelligence loop is:
+
+    EPISODE ARCHIVE
+          |
+          v
+    EPISODE CONTEXT
+          |
+          v
+    VALIDATION
+          |
+          v
+    CATALOG / FTS5
+          |
+          v
+    PERMISSION FILTER
+          |
+          v
+    RETRIEVAL
+          |
+          v
+    AI DESK
+          |
+          +--------------------+
+          |                    |
+          v                    v
+       RESPONSE            OBSERVATION
+                               |
+                               v
+                       POST-EPISODE ANALYSIS
+                               |
+                               v
+                        PERSONA PROPOSAL
+                               |
+                               v
+                       PRODUCER APPROVAL
+                               |
+                               v
+                        PERSONA VERSION
+                               |
+                               v
+                         AI DESK EVOLVES
+
+The archive remains the historical memory.
+
+The AI Desk remains the intelligence layer.
+
+The producer remains the authority.
+
+======================================================================
+71. COMMISSIONING COMMANDMENTS
+======================================================================
+
+1. ONE AI DESK.
+2. MANY EPISODES.
+3. EPISODE CONTEXT IS EPISODE-OWNED.
+4. THE ARCHIVE IS THE SOURCE OF TRUTH.
+5. THE INDEX IS REBUILDABLE.
+6. RETRIEVAL HAS A VISIBLE SCOPE.
+7. CONSENT IS ENFORCED.
+8. LICENSING IS ENFORCED.
+9. RETRIEVAL DOES NOT EQUAL PUBLICATION.
+10. PERSONA EVOLUTION REQUIRES APPROVAL.
+11. NEWS METHOD IS GLOBAL; NEWS RESULTS ARE EPISODE-SPECIFIC.
+12. NOTEBOOKLM IS A PRODUCTION STAGE, NOT THE AI DESK.
+13. NODE.JS / POWERSHELL ARE THE DEFAULT AUTOMATION STACK.
+14. PYTHON IS USED ONLY WHEN IT IS THE BETTER TOOL.
+15. AI MUTE MUST BE IMMEDIATE.
+16. AUTOMATE PREPARATION BEFORE EDITORIAL JUDGEMENT.
+17. REBUILDABLE SYSTEMS ARE PREFERRED OVER IRREPLACEABLE CACHES.
+18. DO NOT SCALE INFRASTRUCTURE BEFORE THE PRODUCTION NEED EXISTS.
+
+======================================================================
+72. CURRENT STATUS
+======================================================================
+
+Architecture status:
+
+    APPROVED FOR COMMISSIONING
+
+Wider Studio Blueprint:
+
+    NOT REFACTORED BY THIS DOCUMENT
+
+AI Desk:
+
+    ONE PERSISTENT INSTANCE
+
+Episode archive:
+
+    STANDARDIZED
+
+Episode Context:
+
+    STANDARDIZED
+
+Retrieval:
+
+    SQLite + FTS5 MVP
+
+Semantic retrieval:
+
+    DEFERRED
+
+Persona:
+
+    VERSIONED / GOVERNED
+
+Consent:
+
+    REQUIRED CONTROL
+
+Licensing:
+
+    REQUIRED CONTROL
+
+Automation:
+
+    STAGED
+
+Buzzjuice MU plugin:
+
+    FUTURE INTEGRATION BOUNDARY
+
+Next physical implementation:
+
+    C:\weblink\Classies_Chronicles\CC_AI_DESK
+
+Recommended next commissioning action:
+
+    CREATE THE AI DESK FILESYSTEM AND INITIALIZE THE REPOSITORY.
+
+======================================================================
+END OF CLASSIES CHRONICLES AI DESK & EPISODE ARCHITECTURE v22.0
+======================================================================
