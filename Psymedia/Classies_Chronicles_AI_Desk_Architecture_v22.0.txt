@@ -1,3 +1,5 @@
+<<START PROMPT>>
+
 Thoroughly review and analyze the 'Studio%20Structure%20Skeletal%20Blueprint.txt' file attached in the resources then take me step by step through the setup the AI Desk.
 
 Note the following:
@@ -65,6 +67,8 @@ Each file could be updated incrementally, differentially or however feasible as 
 <<RESOURCES>>
 https://chatgpt.com/share/6a7eb951-97d8-83ea-a525-e6e8eb0b5f36
 https://github.com/cupidblack/Koware_Management/blob/main/Psymedia/Studio%20Structure%20Skeletal%20Blueprint.txt
+
+<<STOP PROMPT>>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
