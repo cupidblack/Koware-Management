@@ -1,0 +1,364 @@
+CLASSIES CHRONICLES — STUDIO STRUCTURE SKELETAL BLUEPRINT
+Version 22.4 — System-level canonical skeletal blueprint
+Date: 2026-08-17
+Status: CANONICAL SKELETAL BLUEPRINT / COMMISSIONING BASELINE
+
+======================================================================
+DOCUMENT CONTROL
+======================================================================
+
+DOCUMENT:
+    Psymedia/Studio_Structure_Skeletal_Blueprint_v22.4.txt
+
+PURPOSE:
+    System-level skeletal architecture for the Classies Chronicles Studio,
+    production chain, persistent AI Desk integration, episode archive,
+    communications and commissioning gates. This file remains intentionally
+    skeletal; specialist implementation detail lives in separate module
+    documents.
+
+SPECIALIST DOCUMENTS (DO NOT DUPLICATE HERE):
+    - Podcast Communications Module.txt
+    - Classies_Chronicles_AI_Desk_Architecture_v22.0.txt
+
+RULE: This document defines system responsibilities, interfaces,
+boundaries and commissioning gates. Implementation and runbooks remain in
+specialist documents.
+
+GOVERNING PRINCIPLE:
+
+    ONE STUDIO  +  ONE PERSISTENT AI DESK  +  MANY EPISODES
+
+Episode-owned context; controlled retrieval; governed communications;
+human editorial authority; rebuildable archive; progressive commissioning.
+
+======================================================================
+1. EXECUTIVE SUMMARY
+======================================================================
+
+This skeletal blueprint describes the minimal, testable architecture that
+will support Classies Chronicles production (pilot commissioning and
+reusable operations). It preserves proven physical routing while
+formalising one persistent CC_AI_DESK as the franchise-level AI control
+plane and an episode-first archive model. Detailed live communications
+(routing, mix-minus, Voicemeeter) and the full AI Desk implementation
+are intentionally referenced rather than reproduced.
+
+Immediate commissioning goal: Classies Chronicles — Pilot Season —
+Episode 1 — The Foundation Phase. The next engineering milestone is the
+30-second dual-recording gate described below.
+
+======================================================================
+2. ARCHITECTURAL MODEL
+======================================================================
+
+Layers:
+
+    LAYER 1 — STUDIO / PRODUCTION
+      hardware, OBS (master programme), REAPER (pavilion recovery),
+      cameras, microphones, project/editing tools, communications desk.
+
+    LAYER 2 — CC_AI_DESK (ONE persistent Desk)
+      persona, prompts, retrieval policy, producer controls, index/catalog
+      references, governance, UI.
+
+    LAYER 3 — EPISODE ARCHIVE
+      season/episode context, transcripts, media, consent/licence records,
+      publishing manifests and post-episode analysis.
+
+Canonical relationship: ONE STUDIO + ONE PERSISTENT AI DESK + MANY
+EPISODES. Episode data remains episode-owned; the AI Desk retrieves
+approved episode information by explicit scope.
+
+======================================================================
+3. CORE PRINCIPLES (short)
+======================================================================
+
+- ONE STUDIO: reuse the physical installation across episodes.
+- ONE PERSISTENT AI DESK: franchise-level, versioned persona and controls.
+- EPISODE OWNERSHIP: episode folders are the source of truth.
+- RETRIEVAL NOT DUPLICATION: Desk references indexed sources, does not
+  copy them as canonical knowledge.
+- PERMISSION-AWARE RETRIEVAL: consent/licensing gate retrieval and
+  publication separately.
+- HUMAN EDITORIAL AUTHORITY: producer always has override and AI MUTE.
+- PHYSICAL-FIRST: prove physical programme/recovery path before virtual
+  routing substitution.
+- REBUILDABILITY: indexes/catalogs are derived and reconstructible from
+  the archive.
+- LEAN-FIRST: avoid vector/semantic infra or complex audio routing until
+  production need is demonstrated.
+
+======================================================================
+4. HARDWARE INVENTORY — ROLES (short)
+======================================================================
+
+ENVY (HP ENVY m7)
+  - Role: Master programme workstation / OBS / final capture.
+
+PAVILION (HP Pavilion x360)
+  - Role: Producer / Guest communications desk / CC_AI_DESK runtime /
+    REAPER stems.
+  - Recommended: Pavilion RAM → 16 GB when feasible.
+
+S24 ULTRA (Samsung Galaxy S24 Ultra)
+  - Role: Mobile field production.
+
+Audio & Peripherals:
+  - Blue Yeti (Pavilion primary mic + headphone monitor)
+  - Daakro USB hub (programme feed to ENVY)
+  - V8S Live Sound Card (stereo programme supplemental)
+  - ENVY built-in Conexant microphone (host)
+  - REAPER on Pavilion: authoritative Pavilion stems
+  - OBS on ENVY: master programme
+
+======================================================================
+5. CANONICAL PHYSICAL AUDIO PATH
+======================================================================
+
+Retain the tested path as canonical:
+
+    PAVILION
+      ↓
+    BLUE YETI HEADPHONE OUTPUT
+      ↓
+    DAAKRO MIC/LINE INPUT
+      ↓
+    USB
+      ↓
+    ENVY
+      ↓
+    OBS (master) / REAPER (as required)
+
+This remains primary until the physical system is proven stable.
+
+======================================================================
+6. RECORDING STANDARDS
+======================================================================
+
+Pilot baseline (stability-first):
+  - Audio: 44.1 kHz / 24-bit (WAV source/stem recording where supported)
+  - Video: 1280×720 @ 30 FPS
+  - Master format: OBS MKV archival master (remux to MP4 for delivery)
+
+Higher rates/resolutions introduced only after commissioning evidence.
+
+======================================================================
+7. DUAL-RECORDING & RECOVERY
+======================================================================
+
+Dual-recording requirement for acceptance: ENVY (OBS master) and
+PAVILION (REAPER stems/recovery) recording simultaneously to permit
+program master and recoverable Pavilion-originating stems.
+
+Start-of-take convention: spoken slate + clap for easy sync.
+
+======================================================================
+8. EPISODE ARCHIVE CONTRACT (short)
+======================================================================
+
+Root: C:\weblink\Classies_Chronicles\ (or chosen local canonical root)
+
+Per-season/episode structure (provider-neutral):
+
+    CC_Sxx_.../Eyy_Title/
+      01_EPISODE_CONTEXT/
+      02_RAW_VIDEO/
+      03_RAW_AUDIO/
+      04_PROJECT_FILES/
+      05_STORY_AND_SCRIPT/
+      06_GRAPHICS/
+      07_GENERATED_MEDIA/
+      08_EDITED_MEDIA/
+      09_PUBLISHING/
+      10_ARCHIVE/
+
+Episode Context (summary): metadata, transcript, headlines, research,
+participants, consent/licensing manifests, prompts used, retrieval
+references, show notes, post-episode analysis, persona proposals.
+
+======================================================================
+9. CC_AI_DESK (summary)
+======================================================================
+
+CC_AI_DESK is ONE persistent franchise-level AI control plane containing
+persona files, prompts, retrieval policy, catalogs/indices (rebuildable),
+config, automation scripts, and the producer UI/control surface.
+
+Key responsibilities (short):
+  - load and apply approved persona versions
+  - select active episode + retrieval scope (CURRENT_EPISODE,
+    CURRENT_SEASON, ALL_APPROVED_EPISODES, GLOBAL_CHRONICLES)
+  - perform permission-aware retrieval (catalog + FTS5-first)
+  - present ranked evidence to AI for reasoning
+  - provide AI operating modes (LISTEN / ASSIST / CO-HOST / AUTONOMOUS)
+  - maintain AI MUTE and producer override controls
+  - produce versioned persona proposals for human approval
+  - rebuild indexes from archive sources
+
+For full AI Desk implementation detail see the specialist blueprint:
+https://github.com/cupidblack/Koware-Management/blob/main/Psymedia/Classies_Chronicles_AI_Desk_Architecture_v22.0.txt
+
+======================================================================
+10. PODCAST COMMUNICATIONS MODULE (summary)
+======================================================================
+
+The Podcast Communications Module provides the controlled live
+communications/mix-minus architecture necessary for Host ↔ Guest ↔ AI
+communication. Pavilion acts as the Guest Communications Desk. Where
+needed, Voicemeeter Potato is the communications bus implementing
+semantic buses (A1 host monitor, B1 call transmit, B2 AI input, B3
+production reserve) and a strict mix-minus routing contract to prevent
+self-return and feedback while allowing independent AI audio control.
+
+Detailed commissioning procedures, device mappings, mix-minus matrices,
+troubleshooting and operating instructions are in the specialist module:
+https://github.com/cupidblack/Koware-Management/blob/main/Psymedia/Podcast%20Communications%20Module.txt
+
+======================================================================
+11. RETRIEVAL, INDEXING & SOURCE INTEGRITY
+======================================================================
+
+- First-pass retrieval: SQLite + FTS5 (local, rebuildable, auditable).
+- Index artifacts are derived; authoritative sources are episode files.
+- On index rebuild: compute SHA-256 for source files; track parser/index
+  versions and mark stale entries.
+- Retrieval steps: scope selection -> permission filter -> index search
+  -> rank -> traceable sources -> AI/producer.
+- Never fabricate when sources are missing; return unavailable / warn.
+
+======================================================================
+12. CONSENT, LICENSING & SAFE FAILURE
+======================================================================
+
+- Consent/licensing state lives in episode context and gates retrieval
+  and publication separately.
+- Revoked content must be excluded from future retrieval and indexes
+  rebuilt as required.
+- Safe-failure behaviour: missing sources => unavailable; stale index =>
+  warn + rebuild; AI/provider/network failure => fall back to listen/mute
+  local production state.
+
+======================================================================
+13. AI MODES (short)
+======================================================================
+
+- LISTEN: AI observes/transcribes only; no speech output.
+- ASSIST: producer-facing suggestions only.
+- CO-HOST: controlled AI conversational participation; producer retains
+  control and immediate AI MUTE.
+- AUTONOMOUS: deferred until repeated rehearsal success; governed and
+  permissioned.
+
+AI MUTE must be independent and effective under software failure.
+
+======================================================================
+14. COMMISSIONING GATES & TESTS (short)
+======================================================================
+
+Minimum commissioning sequence (short):
+
+  1. Hardware & Windows configuration
+  2. REAPER installation & Pavilion stem test
+  3. OBS installation & ENVY master test
+  4. 30-SECOND DUAL RECORDING (ENVY+PAVILION) — PASS required
+  5. Synchronization, MKV archival master validation
+  6. Podcast Communications validation (host/guest/AI mix-minus tests)
+  7. CC_AI_DESK foundation: selection, scope, FTS5 retrieval tests
+  8. AI LISTEN validation (no audio output)
+  9. AI ASSIST validation (producer-facing suggestions)
+ 10. CO-HOST rehearsals (controlled AI audio)
+ 11. Remote guest + AI integration tests
+ 12. Full rehearsal & Pilot recording
+
+Acceptance checks (examples):
+  - Host hears guest & AI without self-return
+  - Guest hears host & AI without guest hearing self
+  - AI receives host+guest only (no AI self-return)
+  - OBS and REAPER record expected masters/stems
+  - Retrieval scope visible and permission filtering enforced
+
+======================================================================
+15. PUBLISHING & VERSION CONTROL
+======================================================================
+
+- Keep blueprints, prompts, schemas, manifests, and automation in Git.
+- Do NOT store large binary media in Git; use local/cloud archive storage.
+- Maintain VERSION.txt and CHANGELOG.md inside CC_AI_DESK and for the
+  Studio blueprint.
+
+======================================================================
+16. AUTOMATION & TOOLING PRINCIPLES
+======================================================================
+
+Preferred order for automation:
+  - Native app features
+  - PowerShell + Windows Task Scheduler
+  - Node.js for ingestion/adapters where async and APIs needed
+  - SQLite/FTS5 for local cataloging/retrieval
+  - Git / CI for text/config automation
+  - Python only where absolutely justified
+
+Provide idempotent scripts: Initialize-CCStudio, Validate-Episode,
+Register-Episode, Build-Catalog, Refresh-Index, Backup-AIDesk.
+
+======================================================================
+17. SECURITY, SECRETS & PRIVACY
+======================================================================
+
+- Protect API keys and credentials using environment variables or a
+  platform secret manager. Do not commit secrets to Git or prompts.
+- Minimize participant PII in episode context; relationship files must
+  not become hidden dossiers.
+- External providers receive only the minimum data required for the
+  operation; licensing verification must occur before commercial
+  publication.
+
+======================================================================
+18. DESIGN BOUNDARIES (short)
+======================================================================
+
+Do NOT:
+  - create an AI Desk per episode
+  - duplicate episode media inside the Desk
+  - silently broaden retrieval scope
+  - mutate the persona without producer approval
+  - assume indexing implies publication permission
+  - design the Studio around a single AI provider
+  - store secrets in repo
+
+======================================================================
+19. VERSION 22.4 CHANGE LOG
+======================================================================
+
+Version 22.4 — 2026-08-17
+  - Consolidated and refactored v22.3 into a concise canonical
+    skeletal blueprint.
+  - Enforced the two user constraints: Podcast Communications Module
+    and AI Desk Architecture are represented only by short summary
+    sections with links to the detailed specialist files.
+  - Clarified commissioning gates (30-second dual-recording) and
+    acceptance criteria.
+  - Re-emphasised FTS5-first retrieval and rebuildability, plus
+    permission-aware retrieval.
+  - Preserved the proven Pavilion → Blue Yeti → Daakro → ENVY physical
+    path and OBS=master / REAPER=stems separation.
+  - Re-affirmed AI MUTE as independent emergency control.
+
+======================================================================
+20. NEXT STEPS (operational)
+======================================================================
+
+1. Run the 30-second dual-recording test and capture MKV (ENVY) and
+   REAPER stems (PAVILION). Record spoken slate + clap.
+2. Create an initial CC_AI_DESK folder structure at the archive root and
+   commit persona base and minimal prompts to Git (versioned).
+3. Run initial Build-Catalog against one episode (FTS5) and validate
+   retrieval scope controls.
+4. Commission Podcast Communications Module checklists on Pavilion
+   (follow the specialist module document) and verify mix-minus for a
+   simple host ↔ guest call with manual AI commissioning in LISTEN mode.
+
+======================================================================
+END OF DOCUMENT — Studio_Structure_Skeletal_Blueprint_v22.4
+======================================================================
