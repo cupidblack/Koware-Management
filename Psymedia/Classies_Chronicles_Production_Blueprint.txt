@@ -1,0 +1,125 @@
+Cables have been connected between the ENVY and Pavilion as advised in the Studio Structure Skeletal Blueprint. All software have also been installed as advised and the Podcast_Communications_Module.txt applied so that the 3 way communications system is working well with AI participation and no feedback.
+
+The 'Classies_Chronicles_AI_Desk_Architecture_v22.0.txt' has been looked at but nothing from it applied to the studio yet.
+
+The 'Classies Chronicles - Foundation Phase' (Season 00) would consist of several episodes preparing the way for the first official season and episode. The episodes would mainly cover introductions, bible stories, news headlines, registration and orientation, the blogcasts, crowdfunding concepts, the health and safety program and other 'FYI, need to knows' and anything else worth of note before the chronicles start running officially.
+
+Thoroughly review and analyze the Studio Structure Skeletal Blueprint and all the story content attached in the resources to take me step by step through the development of the Classies Chronicles Season 00 - The Foundation Phase - Episode 01.
+
+Note the following:
+<<START NOTES>>
+
+1. Suggest a feasible main key topic and story for the episode considering it is the first pilot episode.
+
+2. Be flexible with the storyline creativity and add some light humor and slap stick comedy.
+
+3. The stories must flow with the previous classies chronicles.
+
+4. Thoroughly review and analyze the following story notes then develop and update it to generate content to be placed in the appropriate files such as the 'CUPID_BLACK_CHARACTER_CANON.md, EDUBEAM_CANON.md, 07_STORY_NOTES.md, 04_CONTINUITY_REFERENCE.md' and other relevant files. Feel free to generate dummy content for some of the files to give an idea of the expected file content.  
+
+<<START STORY NOTES>>
+
+There is a subtly developing super hero story that is covered in the Chronicles of Cupid Black. The super powers develop after Enka has an unfortunate experience with the EduBeam technology. Be creative about what kind of powers are developed and how he tries to use them positively depending on the storyline. Sometimes things might go wrong but there should be an explanation of why. The explanation can usually be that the amount of power Cupid Black has at any one moment dissipates after he has been struck by the EduBeam. This usually happens to him twice in a year at mid year and in January, when the EduBeam is processing examination results or running routine or random processes, depending on the scientist's developments. The EduBeam satellite locates him then beams a ray directly to his location. An effect that could be experienced is the delusional, lucid feeling of being in two places at once, usually where the EduBeam expects him to be and where he actually is. Depending on how powerful the beam is, he could literally materialize in other locations, walk through walls and even move between dimensions and dream worlds. The twist is how this ability becomes a power and how he develops control over it. He finds out that when he induces a deep and steady alpha mind state he can harness a similar power to what is induced by EduBeam. He can see activities going on in places and potential future events. As time goes on he learns to enter this state of mind daily, especially when in prayer. However, when the beam strikes him the power surge is huge but less controllable. He uses the power to resolve relationship issues most of the time, sometimes in a seemingly unnecessary barbaric way; maybe out of the loving passion he has for innocence and justice and making sure the wicked get what they deserve. Because the audience may have missed how the powers came about as the story about the EduBeam is in the archives, they may notice a power was used but would be lost as to how the powers came about. As the episodes continue this would be explained and brought to light. When he is filled with power and fully materializes at another location he goes by the alias Cu (pronounced 'Q'), short for Cupid. Enka researches on other methods to increase the power and control by meditation and playing certain sound frequencies, exposing himself to static electrical shocks and other experiments that do not end well most of the time.
+
+Enka finds that the Alpha state can easily be induced by practicing the personal Awareness lesson in the Health and safety course. 
+
+Tries experiments to reproduce a similar beam to the edubeam. Eventually develops equipment that can reproduce a beam similar to the edubeam. The effect only lasts a few minutes whereas the effect from the real edubeam can last for days, sometimes a few weeks. Enka attaches the equipment to a drone that he controls from his watch. The drone flys at a very high altitude and beams him at his location to energize him. 
+
+Enka usually partially materializes in another location where he would look like a shadow or dust in the wind; causing people to question their eyes if they are seeing well or if they saw something. He learns to instantly fully materialize a few meters away at heightened awareness. Over time he learns to fully materialize at further distances. 
+
+The satellite locates him based on his activity on the network like his phone's location. When the beam cannot locate him on the network usually due to bad network, it uses his last known location where a digital transaction took place on his account then it beams the area he is expected to be in. This can also affect people in the area who encounter the Edubeam, having different effects on them; depending on who they are, where they are from, what's on their mind, where they have travelled to an a whole lot of factors. Missing person reports usually occur soon after such a broad edu beam over a wide area. Usually around Enka's location. 
+
+When the Edubeam locates him precisely, the beam can be very intense literally putting him into 'god mode'; an intense level of heightened awareness. Enka's one problem he keeps saying at the beginning of the ordeal is 'I don't even know what is real anymore!'. 
+
+Someti. Es the Edubeam runs random scans every 2 or 3 months but the beams are not extreme. Maybe between 10% and 30% of the actual beam, depending on what the scan being run requires. 
+
+Enka takes taichi and qigong lessons. 
+
+When he materialize he initially looks darker but normal color settles in as he becomes fully materialized, hence the name 'Black'. 
+
+One time he materializes in a house by mistake. A person in the kitchen turns their head quick as they believe they saw someone walk across the door. Curiously they call out to roommates or family members who might be in the house at the time. Either no one responds or someone responds but are in another room too far from where they are. They come to the conclusion that they might just be imaging things so they go back into the kitchen. A moment later the person sees a shadow run across the door again; that confirms there is someone there. They scream shouting someone is in the house. As the person is try to escape they look back and notice the shadow-like figure, the partially materialized for of Cupid Black that dematerialized quite fast into thin air. 
+
+The Edubeam knows Enka's general brainwave frequency that the Edubeam can use to pinpoint his exact location to read his mind or affect it.
+
+<<STOP STORY NOTES>>
+
+5. Suggest one place where notes about Cupid Black's characteristics and attributes can be written about and referenced for all episodes.
+
+6. In the Episode context:
+
+6.i. The bible passage would be posted in the 02_BIBLE_REFERENCE file.
+
+6.ii. No particular health and safety lesson yet, just the introduction to the Buzzjuice Network and the Buzzjuice Courses, a department and product of the Koware Group. The next episode would cover registration and orientation. The following episode would cover the health and safety program and so on, not necessarily in that order but prioritizing feasibly.
+
+6.iii. News headlines would be covered in the 05_HEADLINES file.
+
+6.iv. The story outline would be covered in the 07_STORY_NOTES file.
+
+7. The Episode Context builds the 'Chronicles of Cupid Black' storyline then the podcast is built around the 'Chronicles of Cupid Black'.
+
+7.i. Chronicles of Cupid Black is created first originating from a story created by mixing a Bible story, online course content (introduction to the Buzzjuice Courses), a major news headline and story notes to create a unique storyline.
+
+7.ii. After the 200 second chronicle episode is created, a 20 second trailer is generated from it. So the approximately 200 second Chronicles of Cupid Black episode would be completed before recording and editing the podcast. 
+
+7.iii. After recording the podcast, editing the data should produce the following proposed Classies Chronicles episode structure (can be updated):
+
+| Cold Open / Signal
+| Jingle + Welcome
+| Brief Bible verse reflection (5 to 20 seconds)
+| Episode/Topic Overview (E01-Koware Group/Buzzjuice Network, E02-Courses & Registration & Orientation, E03-Health & Safety course overview, E04-Specific Health & Safety Lesson Introduction)
+| Brief Chronicles of Cupid Black Trailer (Cuts from the full 200 seconds)
+| Main Podcast Discussion on main podcast episode topic
+| **Chronicles of Cupid Black**
+| Open Discussion on the podcast episode topic and on the Chronicle
+| Community / Crowdfunding / Participation
+| Next episode preview
+| Invitation to Crowdfunding to support the next season and episodes.
+| Closing mystery
+| Shorts clips from community members while credits roll.
+
+8. Update the git ignore appropriately.
+
+9. News headlines can be used as an advantage to tell the story of how Cupid Black might have been involved in the headline. Maybe Cupid Black was the one who intervened and helped to solve the problem being reported as resolved, or he could have been the cause of the problem making the headline. This feature help to keep the viewers in tune with community, national and global news.
+
+10. Members can contribute to the storyline depending on their participation in the Health & Safety course, subscription status or crowdfund tier.
+
+11. The Classies Chronicles 'Episode_Prompt_Template.txt' was initially proposed to prepare the episode storyline. Develop a step-by-step guide/template to be followed to produce each episode.
+
+<<STOP NOTES>>
+
+<<RESOURCES>>
+
+https://github.com/cupidblack/Koware_Management/blob/main/Psymedia/Studio_Structure_Skeletal_Blueprint_v23.0.txt
+
+https://github.com/cupidblack/Koware_Management/blob/main/Psymedia/Podcast_Communications_Module.txt
+
+https://github.com/cupidblack/Koware_Management/blob/main/Psymedia/Classies_Chronicles_AI_Desk_Architecture_v22.0.txt
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/Episode_Prompt_Template.txt
+
+<<COURSE DATA>>
+
+https://github.com/cupidblack/Buzzjuice_Courses/blob/main/Buzzjuice_Courses-Registration_Orientation.txt
+
+https://github.com/cupidblack/Buzzjuice_Courses/blob/main/Health%20%26%20Safety/HEALTH_%26_SAFETY-PROGRAM_OUTLINE_1.03.txt
+
+https://github.com/cupidblack/Buzzjuice_Courses/blob/main/BUS1300-Affiliate_Management.txt
+
+https://github.com/cupidblack/Buzzjuice_Courses/blob/main/Health%20%26%20Safety/HS1000-Fundamentals_of_Health_%26_Safety/HS1010-Introduction%20to%20Health%20%26%20Safety%20Regulations.txt
+
+<<CLASSIES CHRONICLES>>
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/Classies_Chronicles_Archives/Classies%20Chronicles%20-%20Pilot%20Chapter.txt
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/Classies_Chronicles_Archives/Classies%20Chronicles%20-%20Season%201%20(2000).txt
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/Classies_Chronicles_Archives/Classies%20Chronicles%20-%20Season%202%20(History).txt
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/Classies_Chronicles_Archives/Classies%20Chronicles%20-%20Season%2027%20(2025).txt
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/Classies_Chronicles_Archives/Classies%20Chronicles%20%E2%80%93%20Season%203%20(2001).txt
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/Classies_Chronicles_Archives/Classies%20Chronicles%20%E2%80%93%20Season%204%20(2002).txt
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/Classies_Chronicles_Archives/Classies%20Chronicles%20%E2%80%93%20Season%205%20(2003).txt
+
