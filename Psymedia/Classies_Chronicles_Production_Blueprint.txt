@@ -1,10 +1,8 @@
 Cables have been connected between the ENVY and Pavilion as advised in the Studio Structure Skeletal Blueprint. All software have also been installed as advised and the Podcast_Communications_Module.txt applied so that the 3 way communications system is working well with AI participation and no feedback.
 
-The 'Classies_Chronicles_AI_Desk_Architecture_v22.0.txt' has been looked at but nothing from it applied to the studio yet.
+The 'Classies_Chronicles_AI_Desk_Architecture_v22.0.txt' has been looked at but nothing from it has been applied to the studio yet.
 
 The 'Classies Chronicles - Foundation Phase' (Season 00) would consist of several episodes preparing the way for the first official season and episode. The episodes would mainly cover introductions, bible stories, news headlines, registration and orientation, the blogcasts, crowdfunding concepts, the health and safety program and other 'FYI, need to knows' and anything else worth of note before the chronicles start running officially.
-
-Thoroughly review and analyze the Studio Structure Skeletal Blueprint and all the story content attached in the resources to take me step by step through the development of the Classies Chronicles Season 00 - The Foundation Phase - Episode 01.
 
 Note the following:
 <<START NOTES>>
@@ -15,7 +13,7 @@ Note the following:
 
 3. The stories must flow with the previous classies chronicles.
 
-4. Thoroughly review and analyze the following story notes then develop and update it to generate content to be placed in the appropriate files such as the 'CUPID_BLACK_CHARACTER_CANON.md, EDUBEAM_CANON.md, 07_STORY_NOTES.md, 04_CONTINUITY_REFERENCE.md' and other relevant files. Feel free to generate dummy content for some of the files to give an idea of the expected file content.  
+4. Thoroughly review and analyze the following story notes then creatively develop and update the story to be more interesting, entertaining and  believable with slight humor and slap stick comedy. Update the relevant files appropriately, such as the 'CUPID_BLACK_CHARACTER_CANON.md, EDUBEAM_CANON.md, 07_STORY_NOTES.md, 04_CONTINUITY_REFERENCE.md' and other relevant files. Feel free to generate dummy content for some of the files to give an idea of the expected file content.  
 
 <<START STORY NOTES>>
 
@@ -25,15 +23,15 @@ Enka finds that the Alpha state can easily be induced by practicing the personal
 
 Tries experiments to reproduce a similar beam to the edubeam. Eventually develops equipment that can reproduce a beam similar to the edubeam. The effect only lasts a few minutes whereas the effect from the real edubeam can last for days, sometimes a few weeks. Enka attaches the equipment to a drone that he controls from his watch. The drone flys at a very high altitude and beams him at his location to energize him. 
 
-Enka usually partially materializes in another location where he would look like a shadow or dust in the wind; causing people to question their eyes if they are seeing well or if they saw something. He learns to instantly fully materialize a few meters away at heightened awareness. Over time he learns to fully materialize at further distances. 
+Enka usually partially materializes in another location where he would look like a shadow making a room a little darker like a cloud overpass covering sunlight or dust blowing lightly in the wind; causing people to question their eyes if they are seeing well or if they saw something. A bright room my become a little more dim when he has partially materialized. An area may become darker as he approaches full materialization. At full materialization he disappears from where he initially was, usually where he was meditating or struck by the edubeam. He learns to instantly fully materialize a few meters away at heightened awareness. Over time he learns to fully materialize at further distances. 
 
 The satellite locates him based on his activity on the network like his phone's location. When the beam cannot locate him on the network usually due to bad network, it uses his last known location where a digital transaction took place on his account then it beams the area he is expected to be in. This can also affect people in the area who encounter the Edubeam, having different effects on them; depending on who they are, where they are from, what's on their mind, where they have travelled to an a whole lot of factors. Missing person reports usually occur soon after such a broad edu beam over a wide area. Usually around Enka's location. 
 
 When the Edubeam locates him precisely, the beam can be very intense literally putting him into 'god mode'; an intense level of heightened awareness. Enka's one problem he keeps saying at the beginning of the ordeal is 'I don't even know what is real anymore!'. 
 
-Someti. Es the Edubeam runs random scans every 2 or 3 months but the beams are not extreme. Maybe between 10% and 30% of the actual beam, depending on what the scan being run requires. 
+Sometimes the Edubeam runs random scans every 2 or 3 months but the beams are not extreme. Maybe between 10% and 30% of the actual beam, depending on what the scan being run by the scientists requires. 
 
-Enka takes taichi and qigong lessons. 
+Enka takes Taiichi and Qigong lessons. 
 
 When he materialize he initially looks darker but normal color settles in as he becomes fully materialized, hence the name 'Black'. 
 
@@ -87,7 +85,9 @@ The Edubeam knows Enka's general brainwave frequency that the Edubeam can use to
 
 <<STOP NOTES>>
 
-<<RESOURCES>>
+Thoroughly review and analyze the files in the resources and all the notes then take me step by step through to develop the pilot Classies Chronicles Season 00 - The Foundation Phase - Episode 01 and update the appropriate files.
+
+<<STUDIO STRUCTURE RESOURCES>>
 
 https://github.com/cupidblack/Koware_Management/blob/main/Psymedia/Studio_Structure_Skeletal_Blueprint_v23.0.txt
 
@@ -95,31 +95,42 @@ https://github.com/cupidblack/Koware_Management/blob/main/Psymedia/Podcast_Commu
 
 https://github.com/cupidblack/Koware_Management/blob/main/Psymedia/Classies_Chronicles_AI_Desk_Architecture_v22.0.txt
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/Episode_Prompt_Template.txt
-
-<<COURSE DATA>>
+<<COURSE RESOURCES>>
 
 https://github.com/cupidblack/Buzzjuice_Courses/blob/main/Buzzjuice_Courses-Registration_Orientation.txt
 
-https://github.com/cupidblack/Buzzjuice_Courses/blob/main/Health%20%26%20Safety/HEALTH_%26_SAFETY-PROGRAM_OUTLINE_1.03.txt
+<<CLASSIES CHRONICLES RESOURCES>>
 
-https://github.com/cupidblack/Buzzjuice_Courses/blob/main/BUS1300-Affiliate_Management.txt
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/Episode_Prompt_Template.txt
 
-https://github.com/cupidblack/Buzzjuice_Courses/blob/main/Health%20%26%20Safety/HS1000-Fundamentals_of_Health_%26_Safety/HS1010-Introduction%20to%20Health%20%26%20Safety%20Regulations.txt
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/02_PROMPTS/Episode_Prompt_Template_v2.0.md
 
-<<CLASSIES CHRONICLES>>
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/CHARACTERS/CUPID_BLACK_CHARACTER_CANON.md
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/Classies_Chronicles_Archives/Classies%20Chronicles%20-%20Pilot%20Chapter.txt
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/04_CANON/TECHNOLOGY/EDUBEAM_CANON.md
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/Classies_Chronicles_Archives/Classies%20Chronicles%20-%20Season%201%20(2000).txt
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_AI_DESK/Episode_Prompt_Template.txt
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/Classies_Chronicles_Archives/Classies%20Chronicles%20-%20Season%202%20(History).txt
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/01_EPISODE_CONTEXT/00_CONTEXT_STATUS.json
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/Classies_Chronicles_Archives/Classies%20Chronicles%20-%20Season%2027%20(2025).txt
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/01_EPISODE_CONTEXT/01_METADATA.json
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/Classies_Chronicles_Archives/Classies%20Chronicles%20%E2%80%93%20Season%203%20(2001).txt
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/01_EPISODE_CONTEXT/02_BIBLE_REFERENCE.md
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/Classies_Chronicles_Archives/Classies%20Chronicles%20%E2%80%93%20Season%204%20(2002).txt
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/01_EPISODE_CONTEXT/03_COURSE_LESSON_REFERENCE.md {{Rename to 03_COURSE_LESSON_REFERENCE.md}}
 
-https://github.com/cupidblack/Classies_Chronicles/blob/main/Classies_Chronicles_Archives/Classies%20Chronicles%20%E2%80%93%20Season%205%20(2003).txt
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/01_EPISODE_CONTEXT/04_CONTINUITY_REFERENCE.md
 
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/01_EPISODE_CONTEXT/05_HEADLINES.json
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/01_EPISODE_CONTEXT/07_STORY_NOTES.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/05_STORY_AND_SCRIPT/CHRONICLE_BRIEF.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/05_STORY_AND_SCRIPT/CHRONICLE-200s-DRAFT.txt
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/05_STORY_AND_SCRIPT/TRAILER-20s-DRAFT.txt
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/CC_S00_FOUNDATION_PHASE/E01_Foundations_and_Frequencies/PRODUCTION_CHECKLIST.md
+
+https://github.com/cupidblack/Classies_Chronicles/blob/main/Classies_Chronicles_Archives

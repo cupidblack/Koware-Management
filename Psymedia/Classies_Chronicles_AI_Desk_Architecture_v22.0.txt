@@ -623,7 +623,7 @@ Recommended:
     +-- 00_CONTEXT_STATUS.json
     +-- 01_METADATA.json
     +-- 02_BIBLE_REFERENCE.md
-    +-- 03_HEALTH_SAFETY_REFERENCE.md
+    +-- 03_COURSE_LESSON_REFERENCE.md
     +-- 04_CONTINUITY_REFERENCE.md
     +-- 05_HEADLINES.json
     +-- 06_RESEARCH\
@@ -771,7 +771,7 @@ The producer supplies or verifies the reference.
 14. HEALTH & SAFETY REFERENCE
 ======================================================================
 
-03_HEALTH_SAFETY_REFERENCE.md records the Health & Safety material used
+03_COURSE_LESSON_REFERENCE.md records the Health & Safety material used
 by the episode.
 
 The process is:
@@ -1358,7 +1358,7 @@ Identify the relevant course/topic.
 
 Record the actual reference used in:
 
-    03_HEALTH_SAFETY_REFERENCE.md
+    03_COURSE_LESSON_REFERENCE.md
 
 32.5 CONTINUITY
 
